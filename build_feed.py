@@ -379,14 +379,9 @@ def write_rss(articles, out_file="feed.xml"):
     ET.register_namespace("media", media_ns)
     ET.register_namespace("content", content_ns)
 
-    rss = ET.Element(
-        "rss",
-        {
-            "version": "2.0",
-            "xmlns:media": media_ns,
-            "xmlns:content": content_ns,
-        },
-    )
+    # 注意：这里不要手动写 xmlns:media / xmlns:content
+    # ElementTree 会根据 register_namespace 自动添加，手动添加会导致重复定义
+    rss = ET.Element("rss", {"version": "2.0"})
 
     channel = ET.SubElement(rss, "channel")
 

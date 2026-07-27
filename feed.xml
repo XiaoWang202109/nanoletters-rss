@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 14:23:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:20:50 +0000</lastBuildDate>
     <item>
       <title>Defect-Engineered Hexagonal Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01634</link>
@@ -43,12 +43,12 @@
 </content:encoded>
     </item>
     <item>
-      <title>Ultrafast Nano-imaging and Optical Control of Hyperbolic Phonon Polaritons at hBN/WS &lt;sub&gt;2&lt;/sub&gt; Heterojunctions</title>
+      <title>Ultrafast Nano-imaging and Optical Control of Hyperbolic Phonon Polaritons at hBN/WS2 Heterojunctions</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02448</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02448</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02448</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Nano-imaging and Optical Control of Hyperbolic Phonon Polaritons at hBN/WS &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; Heterojunctions&lt;/b&gt;&lt;/p&gt;
+      <description>Abstract Manipulating nanoscale light–matter interactions on ultrafast time scales is indispensable for future polaritonic devices. Hyperbolic phonon polaritons (HPhPs) in van der Waals materials enable deep subwavelength confinement of electromagnetic fields in the infrared region and long-distance propagation of polaritonic waves. However, achieving ultrafast imaging and optical control of HPhPs remains a major challenge. Here, we demonstrate the direct observation of transient modulation of HPhPs induced by local photocarrier generation in WS2/hBN heterostructures using ultrafast infrared scanning near-field optical microscopy. We implement grating-based spectral filtering of broadband near-field scattering to simultaneously achieve nanoscale and femtosecond spatiotemporal resolution together with fine spectral selectivity. This ultrafast nano-imaging technique reveals that photocarriers in WS2 modulate the polaritonic field amplitudes and wavelengths of HPhPs in hBN. Theoretical simulations corroborate that these changes arise from photoinduced changes in WS2 dielectric properties. This approach offers a versatile platform for exploring ultrafast polaritonic dynamics at the nanoscale.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Nano-imaging and Optical Control of Hyperbolic Phonon Polaritons at hBN/WS2 Heterojunctions&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02448&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02448"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
@@ -355,12 +355,12 @@
 </content:encoded>
     </item>
     <item>
-      <title>Broadband Quantum Rectification and Mixing Via the Nonlinear Transport in PtTe &lt;sub&gt;2&lt;/sub&gt;</title>
+      <title>Broadband Quantum Rectification and Mixing Via the Nonlinear Transport in PtTe2</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01639</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01639</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01639</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Broadband Quantum Rectification and Mixing Via the Nonlinear Transport in PtTe &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;&lt;/b&gt;&lt;/p&gt;
+      <description>Abstract The rapid growth of Internet of Things, 6G communication, and millimeter wave systems demands broadband rectifiers and mixers. The nonlinear Hall effect (NLHE) provides a junction-free route for broadband signal processing, overcoming high-frequency limitations associated with threshold voltages and junction capacitance in conventional semiconductor technologies. However, few NLHE material platforms combine strong nonlinearity, high conductivity, and compatibility with wafer-scale processing. In this work, we demonstrate NLHE in PtTe2 thin films with a second-order conductivity of 0.005 Ω–1 V–1 and a DC conductivity of 9.5 × 105 S/m at room temperature. The films enable bias-free rectification from 0.62 to 2.88 THz and frequency mixing from 0.1 to 40 GHz, including wireless mixing in the GHz regime. The passive mixer exhibits a 1 dB compression point of 8 dBm. These results establish PtTe2 as a wafer-scale platform for high-frequency signal processing, highlighting the practical potential of NLHE for next-generation communication and electronic technologies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Broadband Quantum Rectification and Mixing Via the Nonlinear Transport in PtTe2&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01639&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01639"&gt;Open article page&lt;/a&gt;&lt;/p&gt;

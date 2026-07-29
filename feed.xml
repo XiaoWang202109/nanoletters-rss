@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:00:29 +0000</lastBuildDate>
     <item>
       <title>Defect-Engineered Hexagonal Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01634</link>
@@ -499,12 +499,12 @@
 </content:encoded>
     </item>
     <item>
-      <title>Manipulating Structural Asymmetry in FAPbBr &lt;sub&gt;3&lt;/sub&gt; Quantum Dots for High-Performance Pure-Green Spin-Polarized Light-Emitting Diodes</title>
+      <title>Manipulating Structural Asymmetry in FAPbBr3 Quantum Dots for High-Performance Pure-Green Spin-Polarized Light-Emitting Diodes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01923</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01923</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01923</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Manipulating Structural Asymmetry in FAPbBr &amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; Quantum Dots for High-Performance Pure-Green Spin-Polarized Light-Emitting Diodes&lt;/b&gt;&lt;/p&gt;
+      <description>Abstract Spin-polarized light-emitting diodes (spin-LEDs) hold promise for next-generation photonic technologies owing to their ability to directly emit circularly polarized electroluminescence. Here, we report a multifunctional chiral ligand engineering strategy to realize high-performance pure-green spin-LEDs based on FAPbBr3 quantum dots (QDs). By introducing (R/S)-methylbenzenesulfinamide, strong coordination with surface Pb2+ ions simultaneously passivates defects and induces pronounced centrosymmetry-breaking lattice distortion in FAPbBr3 QDs. This structural asymmetry enhances chiroptical activity and prolongs spin-coherence lifetimes, enabling efficient spin-polarized carrier recombination. As a result, chiral FAPbBr3 QDs exhibit a high photoluminescence quantum yield (98.28%) and large dissymmetry factor (8.87 × 10–2). The spin-LEDs fabricated from these QDs exhibit pure-green emission, with a maximum luminance of 17 979 cd m–2, a peak external quantum efficiency of 15.1%, and a maximum electroluminescence dissymmetry factor of 1.76 × 10–1 at room temperature. This work demonstrates that chiral MBS ligands can simultaneously improve optoelectronic quality and introduce structural asymmetry in perovskite quantum dots, representing a promising route toward practical high-performance spin-LEDs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Manipulating Structural Asymmetry in FAPbBr3 Quantum Dots for High-Performance Pure-Green Spin-Polarized Light-Emitting Diodes&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01923&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01923"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
@@ -527,7 +527,7 @@
       <link>https://doi.org/10.1021/acs.nanolett.6c02540</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02540</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02540</description>
+      <description>Abstract While white light-emitting diodes (LEDs) based on metal nanoclusters (NCs) are currently widely desired, due to limitations in the difficulty of controlling emission wavelengths and the susceptibility of luminescence performance to external influences, metal NC white light-emitting diodes (WLEDs) are still not sufficiently developed. In this regard, we employed the bimetallic alkynyl clusters [Au6Ag2(C2C13H11O)6(PPh2C4H8PPh2)3](ClO4)2 (i.e., Au6Ag2 NCs) incorporated with 4,4′,4″-tris(carbazol-9-yl)-triphenylamine (TCTA) as a multifunctional ligand that serves to construct new luminescent centers and reduce film defects to achieve single emissive layer (SEL) WLEDs. As a result, the optimal SEL WLEDs achieve a maximum external quantum efficiency of 7.3% and a peak luminance of 1038 cd/m2 with a color rendering index of 93, which represents the high performance of the SEL WLEDs in inorganic materials. This work exemplifies the success of the metal NCs involved in WLEDs and offers a simple yet effective strategy to demonstrate high-performance metal NC WLEDs.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Metal Nanocluster Single Emissive Layer White Light-Emitting Diodes with EQE of 7.3%&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02540&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
@@ -539,7 +539,7 @@
       <link>https://doi.org/10.1021/acs.nanolett.6c02238</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02238</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02238</description>
+      <description>Abstract Achromatic structured focusing in flat optics is important for compact depth-resolved imaging and three-dimensional localization, yet simultaneously achieving broadband operation and a depth-encoding focal field remains challenging. Here, we demonstrate an achromatic double-helix metalens operating across the visible range of 600–650 nm. The target phase profile combines an exact hyperbolic lens phase with a double-helix phase synthesized from Laguerre–Gaussian mode bases, whose coefficients are optimized by particle swarm optimization. Broadband implementation is achieved through a meta-atom library designed by jointly considering phase delay, group delay, and group delay dispersion. The fabricated device exhibits strong structural fidelity and experimentally reproduces the rotating two-lobe focal field at 625 nm as well as across the target wavelength range. This work extends achromatic metalenses beyond conventional focusing to broadband structured focusing and provides a compact platform for depth-resolved imaging.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Achromatic Double-Helix Metalens for Broadband Structured Focusing in the Visible Range&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02238&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
@@ -559,6 +559,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Peanut-Shaped and Rodlike Quantum-Dot Homodimers Epitaxially Attached along the Wurtzite ⟨10 &lt;ovl&gt;1&lt;/ovl&gt; 0⟩ Axis</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02418</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02418</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Monodisperse CdSe@CdS dot@platelet quantum dots (QDs), free of stacking faults, are synthesized for formation of the peanut-shaped homodimers connected by an epitaxial neck (p-dimers). Instead of attachment along the wurtzite ⟨1120⟩ axis of QDs with stacking faults, the stacking-fault-free QDs attach to each other along the wurtzite ⟨1010⟩ axis. Furthermore, the reaction system enables in situ epitaxial neck-filling to form rodlike homodimers (r-dimers). The resulting p-dimers and r-dimers are monodisperse in size, inter-QD connecting dimension (i.e., neck or filled neck), and QD-QD alignment, allowing resolution of energy gap between bonding and antibonding levels at an ensemble level. Formation of r-dimers not only enhances quantum coupling between two epitaxially attached QDs but also augments optical properties of artificial diatomic molecules. These advancements pave the way for the solution-phase synthesis of high-quality artificial molecules for fundamental research and technical applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Peanut-Shaped and Rodlike Quantum-Dot Homodimers Epitaxially Attached along the Wurtzite ⟨10 &amp;lt;ovl&amp;gt;1&amp;lt;/ovl&amp;gt; 0⟩ Axis&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02418&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02418"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Enhancing Carrier Mobility by Remote Phonons</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c00923</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c00923</guid>
@@ -575,7 +587,7 @@
       <link>https://doi.org/10.1021/acs.nanolett.6c02296</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02296</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02296</description>
+      <description>Abstract Molecular junctions are promising for (low power) thermoelectric applications, providing their transmission landscape can be made sufficiently nonlinear at the Fermi level to efficiently break their electron/hole transport symmetry in response to a temperature gradient. We present a method to induce such nonlinearity leading to thermopower values of |S| &amp;amp;gt; 0.5 mV/K. The method is applicable to metal–molecules–semimetal junctions in which a space charge region is formed within the semimetal with a characteristic length perpendicular to the interface that can be tuned to become comparable to the Fermi wavelength of the semimetal. Under such conditions, the interfacial density of states within this lead is quantized at energies that can be tuned to reside within ∼kBT from the Fermi level by varying the molecular length. The resulting conductance behavior within this energy range becomes sufficiently steep to substantially break electron/hole transport symmetry, with ensuing high thermopower values.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Tuning of Thermopower in Molecular Junctions by Molecularly Controlled Sculpting of the Density of States in Their Leads&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02296&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
@@ -587,23 +599,11 @@
       <link>https://doi.org/10.1021/acs.nanolett.6c02226</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02226</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02226</description>
+      <description>Abstract Two-dimensional (2D) organic–inorganic van der Waals heterojunctions (vdWHs) are promising for integrated optoelectronics, but scalable fabrication of highly crystalline heterostructures with clean interfaces remains challenging. Here, we report centimeter-scale organic–inorganic vdWHs assembled by combining wet transfer of monolayer graphene with air–liquid interfacial growth of single-crystal C6-DPA. The resulting C6-DPA/graphene phototransistor exhibits broadband photodetection from 365 to 808 nm at room temperature, delivering a responsivity of 1.06 × 106 A W–1, a detectivity of 8.42 × 1015 Jones, and rise/decay times of 7.81/52.3 ms under 450 nm illumination. Large-area phototransistor arrays fabricated from a single heterojunction show excellent uniformity, near-unity yield, and high-contrast imaging capability. This work establishes a scalable route to large-area, highly crystalline organic–inorganic vdWHs and highlights their potential for high-performance integrated optoelectronic systems.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Large-Scale Single-Crystal Organic Semiconductor/Graphene Heterojunctions for High-Performance Phototransistor Arrays&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02226&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02226"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Peanut-Shaped and Rodlike Quantum-Dot Homodimers Epitaxially Attached along the Wurtzite ⟨10 &lt;ovl&gt;1&lt;/ovl&gt; 0⟩ Axis</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02418</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02418</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02418</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Peanut-Shaped and Rodlike Quantum-Dot Homodimers Epitaxially Attached along the Wurtzite ⟨10 &amp;lt;ovl&amp;gt;1&amp;lt;/ovl&amp;gt; 0⟩ Axis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02418&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02418"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

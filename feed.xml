@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 19:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 02:06:20 +0000</lastBuildDate>
+    <item>
+      <title>Mechanical Profiling by AFM Enables Real-Time Readout of Endothelial Cell State</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02919</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02919</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Atomic force microscopy (AFM) provides quantitative capabilities for mapping the mechanical properties of living cells with nanometer resolution, yet its potential for monitoring a range of cell mechanical states remains largely underexplored. Here, we employed AFM to map the mechanical state progression of endothelial cells (ECs) across physiological and stress conditions. Distinct mechanical signatures emerged for each physiological state: cells stiffen during division, soften in response to cell stress such as inflammation, and exhibit mechanical collapse when cytoskeletal integrity is compromised. High-resolution AFM imaging of the cytoskeletal architecture revealed changes in its organization and coherency. By simultaneously tracking the mechanical and topographical changes, AFM enables the prediction of cellular viability and functional state in real-time. AFM measurements provide a real-time assessment of endothelial cell state in vitro, with broader implications for understanding endothelial dysfunction in vascular disease and enabling new tools in tissue engineering.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Mechanical Profiling by AFM Enables Real-Time Readout of Endothelial Cell State&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02919&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02919"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Stabilized Negative Capacitance in In2Se3-Based 2D Ferroelectric Transistors</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01781</link>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02238&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02238"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Avalanche-Enhanced Infrared Photodetection via Interlayer Absorption in a WSe &lt;sub&gt;2&lt;/sub&gt; /MoS &lt;sub&gt;2&lt;/sub&gt; Heterostructure</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01893</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01893</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01893</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Avalanche-Enhanced Infrared Photodetection via Interlayer Absorption in a WSe &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; /MoS &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; Heterostructure&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01893&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01893"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

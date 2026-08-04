@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:01:05 +0000</lastBuildDate>
+    <item>
+      <title>Alkali-Assisted Stitching Growth of Centimeter-Scale PtSe2 Films from Unidirectionally Aligned Millimeter-Scale Ribbons</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02618</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02618</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Seamless stitching of aligned two-dimensional (2D) domains offers a promising route toward scalable single-crystal 2D materials but remains challenging for platinum diselenide (PtSe2), whose strong interlayer interaction favors vertical stacking over lateral growth. Here, we report a chemical vapor deposition strategy combining substrate engineering with OH-assisted growth to achieve stitched PtSe2 films. Localized prestrain followed by strain-relief annealing converts polycrystalline Au foils into centimeter-scale high-index single-crystal substrates, enabling the growth of dense, unidirectionally aligned millimeter-scale PtSe2 ribbons. Introducing NaOH into the precursor promotes lateral epitaxy while suppressing vertical overgrowth, allowing adjacent ribbons to stitch into continuous, predominantly single-crystal PtSe2 films down to the monolayer limit. The resulting films exhibit thickness-dependent electrical properties, evolving from semiconducting to bipolar semiconducting and semimetallic behavior. This strategy provides a practical route for scalable PtSe2 synthesis and highlights alkali-assisted epitaxy as a general approach for growing two-dimensional transition metal dichalcogenides.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Alkali-Assisted Stitching Growth of Centimeter-Scale PtSe2 Films from Unidirectionally Aligned Millimeter-Scale Ribbons&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02618&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02618"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Mechanical Profiling by AFM Enables Real-Time Readout of Endothelial Cell State</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02919</link>
@@ -31,6 +43,162 @@
 </content:encoded>
     </item>
     <item>
+      <title>Enhanced Glioblastoma Targeting and Penetration: Extracellular Matrix Remodeling by Collagenase-Functionalized Ferumoxytol Nanoparticles</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01219</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01219</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Glioblastoma (GBM) contains a dense collagen-IV-rich extracellular matrix (ECM) that restricts intratumoral transport of therapeutic agents. To overcome this barrier, we engineered protease-responsive, collagenase-functionalized theranostic nanoparticles (TNP-collagenase) by conjugating collagenase-IV to the FDA-approved iron oxide nanoparticle ferumoxytol through a cathepsin B-cleavable linker, enabling tumor-specific enzyme activation. TNP-collagenase retained high MRI relaxivity and exhibited minimal cytotoxicity. In 3D tumor spheroids, TNP-collagenase significantly enhanced nanoparticle penetration compared with ferumoxytol alone. In an orthotopic U87MG mouse model, MRI demonstrated greater tumor accumulation of TNP-collagenase, reflected by significantly reduced tumor T2 relaxation times. TNP-collagenase combined with temozolomide (TMZ) induced significant tumor regression compared with PBS + TMZ and ferumoxytol + TMZ. Histological analyses confirmed degradation of perivascular collagen-IV and improved intratumoral distribution of therapeutics. These results establish enzyme-activated ECM remodeling as a nanomedicine strategy to enhance drug delivery and therapeutic efficacy in GBM while enabling noninvasive imaging of treatment response.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Enhanced Glioblastoma Targeting and Penetration: Extracellular Matrix Remodeling by Collagenase-Functionalized Ferumoxytol Nanoparticles&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01219&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01219"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Dynamic Liquid-like Membrane Gates Mass Transport in Inorganic Nanocells</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01788</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01788</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Interactive “visualization-manipulation” of membrane-regulated behavior with high spatiotemporal resolution remains challenging. Here, we in situ design and visualize inorganic nanocells from an exciting cinnabar semiconductor while simultaneously forming liquid-like membranes and Hg nanodroplets. A full picture of such membranes from birth to disappearance, including membrane-associated gating of mass transport either in a single nanocell or across multiple nanocells, is revealed at the atomic scale. Periodic reversible cross-feeding occurs among nanodroplets confined in a single nanocell, preventing the release of Hg-associated species to the surroundings. However, once the ionic balance of membranes is disturbed by nanobubbles or electrolytes, the nanodroplets collapse. The released species experience cell-to-cell transport over long distances through nanochannels and are crystallized into Hg(I/II) compounds. Ab initio molecular dynamics simulations suggest that the nanodroplet–membrane interface undergoes dynamic charge fluctuations, recognizing membrane-regulated mass transport in nanoconfined systems. The flexible membrane is stabilized through the balance between Hg atoms and ions, which can be destroyed by nanobubbles.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Dynamic Liquid-like Membrane Gates Mass Transport in Inorganic Nanocells&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01788&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01788"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Generating Long-Lived Highly Excited Carriers in Undoped Perovskite Nanostructures by Two-Photon Upconversion</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02392</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02392</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Delayed electron emissions from undoped metal halide perovskite (CsPbBr3) nanostructures upon laser irradiation were observed to persist for a few nanoseconds. This was attributed to an extended lifetime of upconverted highly excited carriers. Experimental evidence suggests that the excitation of such states is through one-photon absorption by carriers and excitons. Theoretical work reveals that surface defects play an important role in modifying the band edge energies of the nanoparticles and thus allow the presence of these highly excited carrier states.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Generating Long-Lived Highly Excited Carriers in Undoped Perovskite Nanostructures by Two-Photon Upconversion&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02392&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02392"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Tracking Thermal Transport in Colloidal Quantum Dot Films Using &lt;i&gt;in Situ&lt;/i&gt; Time-Resolved X-ray Diffraction</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02198</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02198</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Colloidal quantum dots (QDs) and their thin films are increasingly used in electronic and photonic devices replacing traditional bulk semiconductors. However, thermal properties of QDs remain underexplored relative to device development efforts. This study shows the use of time-resolved X-ray diffraction as a contact-free method to probe the thermal response of QDs in environments representative of the active layer in QD optoelectronic devices, providing in situ insights for future thermal management strategies. Through the extraction of Debye–Waller factors on a subnanosecond time scale, we directly capture the heating and cooling of core/shell CdSe/CdS QDs following pulsed optical excitation. In a QD thin film that actively provides optical gain, the thermal conductivity is found to be as low as 0.13 W m–1 K–1, because of the poor heat flow between close-packed QD solids. For QDs dispersed in liquids, interfacial thermal conductance dominates thermal relaxation, with a conductance of 15 MW m–2 K–1.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Tracking Thermal Transport in Colloidal Quantum Dot Films Using &amp;lt;i&amp;gt;in Situ&amp;lt;/i&amp;gt; Time-Resolved X-ray Diffraction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02198&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02198"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Phonon-Dominated In-Plane Thermal Conductivity of Single-Flake Metallic Ti3C2T &lt;i&gt;x&lt;/i&gt; MXene</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01850</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01850</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract MXenes are a promising class of 2D materials, with prospects in applications such as electromagnetic interference shielding, energy storage, catalysis, and thermal management. Despite the importance of understanding their thermal transport properties, it is not clear whether electrons or phonons dominate heat transport, and the experimentally obtained in-plane thermal conductivities vary substantially. Here, we address this by studying in-plane heat transport in single Ti3C2Tx MXene flakes using spatiotemporal microscopy, directly visualizing heat transport in space and time. We obtain a thermal diffusivity of 0.05 cm2 s–1, corresponding to an in-plane thermal conductivity of 13–16 W m–1 K–1. Using an upper limit for the electronic conductivity based on terahertz measurements, we find that electrons carry at most half of the heat. This shows that─despite their metallic nature─phonons play an important role in the heat transport of Ti3C2Tx MXene, providing an unconventional combination of heat and charge transport properties.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Phonon-Dominated In-Plane Thermal Conductivity of Single-Flake Metallic Ti3C2T &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; MXene&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01850&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01850"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>MnIn2Se4 Bilayer: A Sliding Ferroelectric Topological Ferrimagnetic Metal with Triply-Coupled Switching</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01193</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01193</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Sliding ferroelectric (FE) metals provide a practical route to combine switchable out-of-plane polarization with metallicity, yet realizing electrically reversible magnetization and Berry-curvature-driven anomalous transport and magneto-optical effects in a topological system remains challenging. Here, we establish a symmetry-based framework for sliding FE metals with ferrimagnetism. We show that interlayer sliding breaks the combined spin space symmetry, thereby inducing reversible out-of-plane polarization, nonrelativistic spin splitting, and finite net magnetization, namely, triply-coupled switching. Guided by this principle, we identify the MnIn2Se4 bilayer as a realistic sliding FE ferrimagnetic (FiM) metal hosting Weyl points, in which in-plane sliding enables robust triply-coupled switching, while spin-orbit coupling gaps the Weyl points and produces strong Berry curvature around the Fermi level, leading to large and electrically switchable anomalous transport and magneto-optical effects. Our results establish sliding FE FiM metals with topological states as a promising platform for electrically switchable, high-speed, and low-dissipation spintronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;MnIn2Se4 Bilayer: A Sliding Ferroelectric Topological Ferrimagnetic Metal with Triply-Coupled Switching&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01193&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01193"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>A Highly Conductive 3D Interconnected Framework with Stress Buffering for Enhanced Electrochemical and Mechanical Performance in Thick Cathodes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02364</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02364</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Developing a thick electrode offers a practical route to enhance the energy density of lithium batteries, but its application suffers from sluggish ion/electron transport kinetics and poor structure homogeneity. Herein, a high-crystallinity three-dimensional porous carbon (H-3DC) is designed for enhancing the capacity utilization and mechanical integrity of high-mass-loading cathodes. H-3DC establishes a continuous conductive network that synergistically promotes ion/electron transport kinetics, regulates the distribution of the conductive binder domain, and alleviates localized overpressure. Consequently, the LiNi0.8Co0.1Mn0.1O2 (NCM811) cathode with a high loading of 38 mg cm–2 incorporating H-3DC achieves a high discharge capacity of 173.6 mAh g–1 at 8 mA cm–2. When paired with a lithium metal anode, a remarkable energy density of 570.49 Wh kg–1 is achieved. This work underscores the significance of structural design in reconciling the charge transport efficiency and mechanical robustness for thick electrodes, offering a promising pathway for developing high-energy-density batteries.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A Highly Conductive 3D Interconnected Framework with Stress Buffering for Enhanced Electrochemical and Mechanical Performance in Thick Cathodes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02364&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02364"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>&lt;i&gt;In Situ&lt;/i&gt; Atomic-Scale Visualization of Interface Relaxation Pathways and Stacking-Registry Evolution in 2D MoS2</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02613</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02613</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Understanding transient kinetic pathways governing the bottom-up synthesis of 2D MoS2 is critical for deterministic growth. Here, utilizing an atomically resolved graphene-based microreactor for in situ heating transmission electron microscopy, we directly visualize the interface relaxation pathways and stacking-registry evolution during the growth of MoS2, advancing beyond the mere observation of its continuous growth dynamics. We reveal that lateral expansion is driven by dynamic edge reconstructions, as kinetically metastable states spontaneously relax into thermodynamically favored zigzag configurations. During subsequent domain coalescence, the dynamic interface relaxation is achieved across three distinct modes: defect-forming gap healing, strain-regulated seamless stitching, and rigid-body oriented attachment, which robustly accommodate lattice misorientations. Furthermore, intrinsic in-plane mirror twin boundaries induce localized structural distortions that mediate out-of-plane interlayer sliding, transiently stabilizing nonequilibrium bilayer stacking registries. By resolving these dynamic atomic fluctuations, our work establishes a fundamental mechanistic framework linking growth kinetics to the synthesis of 2D materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Atomic-Scale Visualization of Interface Relaxation Pathways and Stacking-Registry Evolution in 2D MoS2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02613&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02613"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Charge-Induced Dynamics in Hexagonal Boron Nitride Nanoelectromechanical Resonators</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01552</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01552</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We demonstrate electrostatic actuation of insulating nanodrums made of hexagonal boron nitride (hBN), a van der Waals large bandgap dielectric. Without the explicit conductive layer, we utilize a nonuniform electric field for the electrostatic actuation. The fundamental resonance mode, observed near 26 MHz, exhibits an unconventional linear resonance frequency dispersion with applied DC bias voltage. A bias-dependent frequency drift of the nanodrums over an extended period of time suggests slow charge dynamics in the hBN drum. Band-bending analysis and wavelength-dependent optical excitation reveal deep defect states in hBN that experience bias and photoassisted ionization, resulting in asymmetric charge buildup for opposing bias polarities. Our experimental findings and theoretical analysis demonstrate that electrostatically driven hBN drums serve as a sensitive platform for investigating charge dynamics and defect physics in insulating two-dimensional materials, thereby paving the way for novel nanoelectromechanical systems-based sensors and charge-controlled mechanical devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Charge-Induced Dynamics in Hexagonal Boron Nitride Nanoelectromechanical Resonators&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01552&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01552"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Synergistic Ionicity and Phase Regulation Enable Ultrahigh Potassium-Ion Conductivity in KxMg(1+x)/3Sb(2-x)/3O2</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02640</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02640</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Although layered tellurates show high sodium-ion conductivities, their potassium analogs exhibit a low conductivity of ∼0.0016 mS cm–1 at room temperature. Herein, by synergetic ionicity and phase regulation, we fabricated layered potassium antimonates (KxMg(1+x)/3Sb(2-x)/3O2) of ionic conductivity about 2 orders of magnitude higher than tellurates. Unlike Te–O bonds in K2Mg2TeO6, Sb–O bonds in the antimonate system are predominantly ionic, causing weak interactions with K+ ions and low activation energies for K-ion migration. P2 and P3 phases of KxMg(1+x)/3Sb(2-x)/3O2 exhibit distinct K-ion conductivities, governed by the K stoichiometry and sintering temperature. Consequently, the K0.59Mg0.53Sb0.47O2 sample prepared at 1025 °C delivers the highest K-ion conductivity of 0.101 mS cm–1 at room temperature, a value comparable to that of potassium-containing sulfides. This solid electrolyte demonstrates high reversibility and structural stability upon exposure to humid air, good electrochemical compatibility with K anodes, and holds promise for application in solid-state potassium batteries.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Synergistic Ionicity and Phase Regulation Enable Ultrahigh Potassium-Ion Conductivity in KxMg(1+x)/3Sb(2-x)/3O2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02640&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02640"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Biological Vision Inspired Adaptive Plasmonic Polarizer for Object-Level Infrared Meta-Imaging</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02769</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02769</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Polarization-resolved imaging systems detect structural contrast beyond intensity, yet conventional systems often suffer from fixed analyzers. To date, achieving spectral modulation via polarization scanning remains challenging in the longwave infrared region. Inspired by mantis shrimp vision, we present a plasmonic polarizer enabling continuous polarization-angle (0–180°) encoding for infrared meta-imaging. The meta-polarizer consists of patterned graphene with alternating ferroelectric domains, achieving transmission extinction modulations of 5.59 and 8.91 dB at 9.5 and 12.3 μm. Simulations attribute polarization selectivity to graphene plasmon resonances tunable by meta-polarizer geometry and the ferroelectric-domain-induced carrier concentration. We also develop an object-level fusion framework selecting optimal polarization states per target based on contrast, edge, entropy, and degree of polarization. On a 36-orientation data set of 42,660 images, the fused meta-polarizer image exceeds 97% detection precision, versus 83% for conventional thermal imaging. Our work highlights spectral-spatial encoding with physics-guided preprocessing, advancing thermal perception for autonomous sensing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Biological Vision Inspired Adaptive Plasmonic Polarizer for Object-Level Infrared Meta-Imaging&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02769&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02769"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Lotus-Root-Fibril-Inspired Strong, Tough, and Recyclable Poly(vinyl alcohol) Plastic Enabled by a Self-Assembled Microtubule</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02328</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02328</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract High-performance plastics combining high strength, superior toughness, and robust recyclability are highly desired but limited by intrinsic polymer constraints. Here, we report a high-performance poly(vinyl alcohol) (PVA) plastic enabled by a bio-inspired energy dissipation mechanism via an in situ self-assembly strategy. Integrating one-dimensional supramolecular microtubules with ordered multi-level pore channels into the PVA matrix creates a biomimetic “lotus-root-fibril” architecture that confines and pre-aligns polymer chains. Under load, energy hierarchically, initial dissociation of weak interlayer bonds within microtubules leads to controlled fragmentation, followed by extensive sliding and parallel alignment of confined PVA chains. This fibrous-bridge toughening yields a tensile strength of 94 MPa, strain of 760%, and an unprecedented toughness of 570.6 MJ m–3. The dynamic supramolecular microtubules grant the material excellent thermal/humidity resistance and closed-loop recyclability through reversible dissociation–reassociation. This simple, cost-effective method provides a scalable paradigm for designing sustainable ultratough plastics by incorporating supramolecular frameworks into existing commercial polymers.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Lotus-Root-Fibril-Inspired Strong, Tough, and Recyclable Poly(vinyl alcohol) Plastic Enabled by a Self-Assembled Microtubule&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02328&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02328"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Vitamin B2 Derivative-Enabled Sonochemical Thioketal Cleavage for Ultrasound-Activated &lt;i&gt;In Situ&lt;/i&gt; Tumor Vaccination</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02398</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02398</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Toll-like receptor (TLR) agonists are promising for in situ tumor vaccination but suffer from poor tumor selectivity and systemic toxicity. Here, we establish a sonochemical activation strategy using a vitamin B2-derived sonosensitizer for spatiotemporally controlled immunotherapy. Riboflavin tetrabutyrate (TBR) was identified as an efficient sonosensitizer for thioketal (TK) cleavage under low-intensity ultrasound (US) and coformulated with a TK-masked TLR7/8 agonist (R848) to construct sonosensitive nanoparticles (R848/TBR NPs). Upon US irradiation, TBR generated singlet oxygen to induce immunogenic cell death and trigger R848 release through an oxidation-hydrolysis pathway, resulting in a 6.0-fold increase in intratumoral active R848. The activated in situ vaccine elicited robust antitumor immunity with &amp;amp;gt;150-fold enhancement of tumor-specific T-cell responses, achieving tumor inhibition rates of 98.1% in CT26 and 95.7% in highly metastatic 4T1 models while markedly suppressing metastasis and recurrence. This work establishes a mechanistically defined and biocompatible sonochemical framework for controllable drug activation and cancer immunotherapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Vitamin B2 Derivative-Enabled Sonochemical Thioketal Cleavage for Ultrasound-Activated &amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Tumor Vaccination&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02398&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02398"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Issue Publication Information</title>
       <link>https://doi.org/10.1021/nlv026i029_2109383</link>
       <guid isPermaLink="false">10.1021/nlv026i029_2109383</guid>
@@ -40,6 +208,30 @@
 &lt;p&gt;DOI: 10.1021/nlv026i029_2109383&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i029_2109383"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Orbital-Driven Interfacial Coupling in 2D Ferroelectric van der Waals Metal–Semiconductor Junctions: A Route to Near-Quantum-Limit Contact Resistance</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02048</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02048</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract van der Waals (vdW) metal–semiconductor junctions (MSJs) are promising for two-dimensional (2D) field-effect transistors, but efficient carrier injection is hindered by tunneling barriers arising from weak interfacial coupling. Here, we propose a strategy to achieve near-quantum-limit contacts by introducing strong interlayer interactions in vdW MSJs, combining bilayer MTe2 (M = Ni, Pd, Pt) electrodes with ferroelectric semiconductors. Confirmed by crystal orbital bond index and crystal orbital Hamilton population analyses, the vertically extended Te-pz orbitals of MTe2 facilitate pz-pz mixing across the interface, forming significant interfacial coupling that enhances tunneling efficiency up to 36.1% while preserving weak Fermi-level pinning (FLP). Under the synergistic effect of ferroelectric-tunable Schottky barriers, ultralow contact resistance down to 51.3 Ω·μm is achieved, approaching the quantum limit. This work highlights the pivotal role of orbital-driven coupling in optimizing vdW contacts, providing a foundational route toward FLP-suppressed low-resistance MSJs for next-generation nanoelectronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Orbital-Driven Interfacial Coupling in 2D Ferroelectric van der Waals Metal–Semiconductor Junctions: A Route to Near-Quantum-Limit Contact Resistance&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02048&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02048"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Ultrastable 50 nm Top-Gate In2O3 Transistors with Δ &lt;i&gt;V&lt;/i&gt; TH &amp;amp;lt; 0.1 mV under 104 s Bias Stress Enabled by Annealing-Free Dielectric Engineering</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01966</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01966</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We demonstrate ultrastable 50 nm top-gate In2O3 thin-film transistors with an unprecedented near-zero threshold-voltage shift (ΔVTH &amp;amp;lt; 0.1 mV) under 104 s bias stress. The devices are fabricated using an annealing-free, low-temperature process compatible with back-end-of-line (BEOL) integration, delivering high electrical performance, including a maximum drain current of 700 μA/μm and a minimum subthreshold swing of 64.4 mV/dec for a channel length (LCH) of 50 nm. This outstanding stability is enabled by in situ Ar-assisted plasma during plasma-enhanced atomic layer deposition (PE-ALD) of HfO2, which effectively suppresses defect states and passivates the In2O3/HfO2 interface, resulting in a low-defect gate stack. Furthermore, positive/negative bias stress (PBS/NBS) on short-channel devices at 25 °C consistently exhibits negligible ΔVTH, highlighting robust bias-stress stability. This result demonstrates a breakthrough in achieving high reliability within a fully BEOL-compatible thermal budget.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrastable 50 nm Top-Gate In2O3 Transistors with Δ &amp;lt;i&amp;gt;V&amp;lt;/i&amp;gt; TH &amp;amp;amp;lt; 0.1 mV under 104 s Bias Stress Enabled by Annealing-Free Dielectric Engineering&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01966&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01966"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -55,11 +247,191 @@
 </content:encoded>
     </item>
     <item>
+      <title>Nanoimprinted Tilt-Free Astigmatic Metasurface for One-Shot Orbital Angular Momentum Beam-Array Readout</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02725</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02725</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Astigmatic conversion of Laguerre–Gaussian (LG) beams into Hermite–Gaussian (HG)-like patterns enables intuitive orbital angular momentum (OAM) readout, but conventional tilted-lens implementations require bulky optics and mechanical tilt alignment. Here, we demonstrate a nanoimprinted tilt-free astigmatic metasurface that performs LG-to-HG-like conversion at normal incidence. A generalized anisotropic quadratic phase is encoded into a cylindrical nanopillar array, with programmable astigmatic axes and a transverse mapping factor. Simulations and experiments show that the converted HG-like patterns reveal the OAM state through the dark-fringe number and orientation, which encode |l| and the sign of l, respectively. The same device further maps sparse LG beam arrays into spatially separated HG-like patterns, enabling one-shot position-mapped spatial-channel and OAM-state readout in a single camera frame. This planar, replication-compatible platform offers a compact route toward OAM mode analysis and structured-light beam-array decoding.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoimprinted Tilt-Free Astigmatic Metasurface for One-Shot Orbital Angular Momentum Beam-Array Readout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02725&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>β-Cyclodextrin-Functionalized &lt;i&gt;Mycobacterium smegmatis&lt;/i&gt; Porin A for Steroid Discrimination and Gut Metabolite Monitoring</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02204</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02204</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Steroid metabolites like estradiol (E2) and bile acids (BAs) play pivotal roles in human metabolism but are challenging to distinguish due to their high structural homology. Herein, we integrated β-cyclodextrin (βCD) into the MspA nanopore via a hetero-octameric assembly following Michael addition. This engineered sensor, termed MspA-βCD, affords precise control over βCD conformation within the pore lumen, positioning βCD proximal to the pore constriction zone to enhance sensing resolution. The platform achieves high-resolution discrimination of 11 structurally analogous steroid metabolites. Automated machine learning classification achieved 99.7% validation accuracy. Single-molecule evidence revealed three key structural factors that exert a pivotal influence on the dissociation rate constants of BA-βCD complexes: the chirality of the 7-hydroxyl group, steric hindrance of the 12-hydroxyl group, and side-chain conjugation pattern of BAs. The platform was successfully validated for bile acid profiling in real fecal samples, highlighting its potential for point-of-care diagnosis of metabolic disorders.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;β-Cyclodextrin-Functionalized &amp;lt;i&amp;gt;Mycobacterium smegmatis&amp;lt;/i&amp;gt; Porin A for Steroid Discrimination and Gut Metabolite Monitoring&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02204&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Two-Dimensional Spin-Antiferroelectric Altermagnets with Giant Spin Splitting: From Model to Material Realization</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02240</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02240</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The realization of multiferroic altermagnets featuring giant intrinsic spin splitting holds great promise for next-generation spintronics. In this work, based on the recently proposed concept of spin-antiferroelectricity (spin-AFE), we construct a class of two-dimensional (2D) multiferroic altermagnets, termed 2D spin-antiferroelectric altermagnets (2D spin-AFEAMs), enabling electrical control of spin polarization via a gate field. Furthermore, we propose a general design strategy for constructing 2D spin-AFEAMs with large intrinsic spin splitting. Guided by this strategy, we predict monolayer (CoCl)2Te and its family materials as potential candidates of 2D spin-AFEAM. We uncover a highly tunable transport regime in monolayer (CoCl)2Te, where the spin current can be switched via the in-plane electric field angle when hole-doped and via the gate field polarity when electron-doped. Our work enriches the family of 2D multiferroics and provides a blueprint for realizing high-performance, electrically switchable altermagnetic spintronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Two-Dimensional Spin-Antiferroelectric Altermagnets with Giant Spin Splitting: From Model to Material Realization&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02240&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02240"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Harnessing Chalcogen Chemistry for High-Efficiency Charge-to-Spin Conversion in PtX2 (X = Te, Se) Thin Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c00525</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c00525</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Efficient charge-to-spin conversion requires strong spin–orbit coupling and tunable electronic transport. Here we use chalcogen chemistry to regulate spin–orbit-torque generation in c-axis-oriented PtX2 (X = Te, Se) thin films. PtTe2/Py and PtSe2/Py heterostructures were fabricated using the same sputtering–chemical vapor deposition and lithographic framework for direct spin-transport comparison. Harmonic Hall measurements, current-partition correction, and thickness-dependent drift-diffusion analysis yield an effective spin Hall angle of θSH ≈ 0.23 for PtSe2/Py, more than twice that of PtTe2/Py (θSH ≈ 0.10). X-ray photoelectron spectroscopy, transport measurements, and bulk electronic-structure calculations link Te-to-Se substitution to changes in Pt–X bonding, near-Fermi-level states, and metallicity. Over the investigated thickness range, PtTe2/Py shows a predominantly bulk-SHE-like response, whereas the larger damping-like torque in PtSe2/Py is consistent with a proximity-modified interfacial contribution. Chalcogen chemistry controls the balance between bulk and interfacial charge-to-spin conversion in Pt-based dichalcogenide heterostructures.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Harnessing Chalcogen Chemistry for High-Efficiency Charge-to-Spin Conversion in PtX2 (X = Te, Se) Thin Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00525&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00525"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Reticular Chemistry for Next-Generation Micro-/Nanoswimmers: Modular Construction and Dynamic Functionality</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02120</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02120</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Reticular chemistry, with its intrinsic modularity and structural programmability, has emerged as a powerful platform for engineering next-generation micro- and nanoswimmers. Through the assembly of well-defined building blocks and the incorporation of guest species, reticular frameworks, including metal–organic frameworks (MOFs), covalent organic frameworks (COFs), and hydrogen-bonded organic frameworks (HOFs), enable control over motility while integrating multiple functionalities. Nevertheless, the development of reticular framework-based functional motors remains challenging, as effective operation requires the dynamic coordination of motile behavior, framework architecture, and functional integration under environment-dependent conditions. Drawing on cutting-edge examples, this Review therefore summarizes construction strategies for small-scale reticular swimmers based on a comprehensive understanding of module-integration processes and the resulting structure–performance relationships. These integration approaches are described from molecular to interfacial levels, whereby motility is encoded within MOF/COF/HOF structures or introduced through motor units positioned across framework-confined interiors, shell architectures, surface-functionalized regions, and motor–medium interfaces. Meanwhile, this Review highlights how fuel accessibility, product release, catalytic-site exposure, interfacial asymmetry, motion trajectory, and operational lifetime vary and can be regulated across these spatial integration systems, thus enabling controllable motion driven by local reactions or external stimuli. Representative examples further illustrate how engine–framework organization enhances biomedical delivery, environmental remediation, and sensing under application-relevant conditions. Finally, the remaining challenges and emerging opportunities are underscored, guiding the development of programmable, adaptive, and application-ready reticular microrobotic systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Reticular Chemistry for Next-Generation Micro-/Nanoswimmers: Modular Construction and Dynamic Functionality&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02120&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02120"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Li/Ti Doping Modulates Biphasic Compatibility: A Synergistic Strategy for High-Performance Composite-Phase Sodium-Ion Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01972</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01972</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Biphasic composite structures have been proven to be an effective design strategy for improving the performance of sodium-ion batteries (SIBs). However, current biphasic regulation strategies rarely consider the synergistic effect of multielement co-doping. This study employs Na0.75Ni0.3Fe0.15Mn0.55O2 as the matrix material and regulates its O3/P2 biphasic structure via synergistic doping based on the characteristics of lithium (Li) and titanium (Ti) elements. The results demonstrate that Li+ efficiently adjusts the O3/P2 phase ratio, while Ti4+ stabilizes the crystal lattice. The synergistic effect of Li and Ti co-doping endows the Na0.75Li0.05Ni0.3Fe0.15Mn0.4Ti0.1O2 cathode with a dual-phase structure with a high O3-phase proportion. The optimized material delivers a specific capacity of 135 mAh g–1 at 0.05 C with an initial Coulombic efficiency of 99% and retains 86.1% of its initial capacity after 200 cycles at 1 C. This work provides a feasible strategy for the design of high-performance layered oxide cathodes for SIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Li/Ti Doping Modulates Biphasic Compatibility: A Synergistic Strategy for High-Performance Composite-Phase Sodium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01972&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01972"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Overcoming the Limitations of &lt;i&gt;Operando&lt;/i&gt; Microscopy and Spectroscopy for Revealing Degradation Mechanisms of Electrocatalysts in Liquid Media: Correlative Approaches</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02434</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02434</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Operando microscopy methods applied in electrocatalysis come with critical limitations such as statistical relevance, interfering probe–sample interactions, and mass-transport-related phenomena on the one hand. On the other hand, those methods provide unique insights into dynamic processes that nanomaterials undergo during operation, insights that are inaccessible otherwise. Overcoming these challenges is, therefore, essential to disentangle, for instance, degradation mechanisms of electrocatalysts, knowledge that is urgently needed to drive forward our energy transition in a reasonable manner. This Mini-Review names the details of these challenges, provides recently published solutions, and depicts how operando microscopies can be embedded into correlative workflows to unfold their full potential. This way, insights gained from investigating model systems employing electrochemical liquid-phase electron microscopy, operando X-ray methods, and scanning electrochemical probe microscopies have the potential to lead to major breakthroughs in the development of next-generation energy materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Overcoming the Limitations of &amp;lt;i&amp;gt;Operando&amp;lt;/i&amp;gt; Microscopy and Spectroscopy for Revealing Degradation Mechanisms of Electrocatalysts in Liquid Media: Correlative Approaches&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02434&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02434"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>AI-Assisted Real-Time Tracking of Subnanometer Strain Relaxation during Heteroepitaxy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02162</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02162</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Understanding strain relaxation during the initial stages of heteroepitaxy is essential for controlling interfacial structure and film quality, yet direct real-time quantification remains difficult. Here, we report on the demonstration of AutoRHEED, an AI-assisted in situ framework for tracking subnanometer strain relaxation during epitaxial growth. The method integrates image quality filtering, autonomous streak identification, and physics-guided geometric calibration to directly extract quantitative in-plane interplanar spacing (d spacing) evolution from raw reflection high-energy electron diffraction (RHEED) videos. We applied the framework to highly lattice-mismatched AlSb/Si(001) growth and demonstrated that AutoRHEED could capture the transient evolution from the initially strained state to full relaxation with monolayer-level sensitivity. Moreover, the in situ-derived relaxation trajectory shows excellent agreement with ex situ HAADF-STEM, confirming its structural fidelity and temporal reliability.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;AI-Assisted Real-Time Tracking of Subnanometer Strain Relaxation during Heteroepitaxy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02162&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02162"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Optical Properties of Single CsPbBr3 Perovskite Quantum Dots Synthesized by a Modified Ligand-Assisted Reprecipitation Method</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02242</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02242</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Colloidal perovskite quantum dots (pQDs) are promising quantum light emitters, yet single-pQD studies have so far relied mostly on hot-injection synthesis, which requires precise temperature control and an inert atmosphere. Demonstrating high optical quality at the single-emitter level is the most stringent benchmark for milder synthesis routes, which often yield structural and surface defects. Here, we show that a modified ligand-assisted reprecipitation (LARP) approach produces ∼10 nm CsPbBr3 pQDs with state-of-the-art single-emitter optical properties. Combining amine-mediated postsynthetic size-trimming with didodecyldimethylammonium bromide (DDAB) ligands for enhanced passivation and colloidal stability, we obtain isolated pQDs with stable emission and minimal spectral diffusion at cryogenic temperatures. Microphotoluminescence resolves the bright-exciton fine structure, its optical phonon replicas, and the trion and biexciton states, while time-resolved and photon-correlation measurements reveal a short emission lifetime and high-purity single-photon emission. Modified LARP thus offers an accessible, room-temperature alternative to hot injection, with added flexibility for postsynthetic ligand engineering.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Optical Properties of Single CsPbBr3 Perovskite Quantum Dots Synthesized by a Modified Ligand-Assisted Reprecipitation Method&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02242&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02242"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Intrinsic Chirality of Dielectric Metasurfaces Unlocked by Resonant Chiral Modes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02271</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02271</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Controlling optical chirality at the subwavelength scale is essential for applications of nanophotonic structures in polarization optics, sensing, and nonlinear photonics. Achieving a strong chiroptical response in planar dielectric metasurfaces without intrinsically chiral meta-atoms remains challenging. A recent study proposed a novel mechanism of metasurface chirality and predicted that bilayer metasurfaces with rotated C4-symmetric apertures can exhibit a chiral response originating from resonant chiral photonic modes. Here, we experimentally confirm this concept by demonstrating resonantly enhanced circular dichroism in the near-infrared. We fabricated a free-standing silicon membrane metasurface that is nominally achiral. Breaking the out-of-plane symmetry with a thin PMMA layer unlocks and activates a strong chiral response. The observed circular dichroism is governed by chiral photonic modes, interlayer coupling, and symmetry breaking, in agreement with theoretical predictions. These results establish bilayer metasurfaces as a simple and versatile platform for engineering strong mode-induced chirality in compact planar photonic metadevices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Intrinsic Chirality of Dielectric Metasurfaces Unlocked by Resonant Chiral Modes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02271&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02271"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanopore Tweezer Design and Operating Principles for Resolving Native Protein Conformational Dynamics</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02270</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02270</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Single-molecule methods that track protein conformational dynamics in real time can reveal transient states hidden by ensemble averaging. Nanopore tweezers achieve this by confining natively folded proteins within engineered nanopore lumens and monitoring ionic current signatures that report discrete conformational states. However, nanopore architecture and recording conditions may affect both measurement quality and analyte behavior. Here, we systematically examine how luminal surface properties, pore size, and applied voltage influence capture, residence time, and conformational-state resolution for the West Nile virus NS2B/NS3 protease, a two-component flaviviral enzyme with functionally important open–closed transitions. We show that apparent protease dynamics are sensitive to single-residue changes within the lumen and to applied voltage, while signal resolution also depends on pore size. These results define an analyte-specific “Goldilocks” operating window that optimizes current separation and dwell times while minimizing perturbation of native dynamics, guiding rational nanopore design and recording-parameter selection.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanopore Tweezer Design and Operating Principles for Resolving Native Protein Conformational Dynamics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02270&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02270"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Excitonic Structure and Dynamics in Two-Dimensional Halide Perovskites</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02134</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02134</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Layered two-dimensional halide perovskites (2D HPs) have emerged as a versatile platform for studying strongly bound excitons in the presence of spin–orbit coupling, structural symmetry breaking, and pronounced coupling to lattice vibrations. In this Mini-Review, we focus on the monolayer limit of this class of materials and highlight recent progress in understanding excitonic fine structure and optical selection rules, chiral and spin-dependent optical response, exciton–phonon coupling and exciton relaxation pathways, and the breakdown of simple band-edge pictures in 2D HPs in which organic and inorganic electronic states hybridize or more complex band structures emerge as a consequence of metal-cation chemistry. Throughout, we emphasize the role of atomistic theoretical and computational frameworks in interpreting the rapidly growing experimental literature. Together, these developments highlight 2D HPs as an unusually rich class of low-dimensional materials for studying spin-optical and excitonic quantum phenomena.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Excitonic Structure and Dynamics in Two-Dimensional Halide Perovskites&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02134&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02134"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Enhanced Mid-Infrared Single-Photon Detection with Antenna-Coupled Superconducting Nanowires</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01917</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01917</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Scaling the photon-detection area of superconducting nanowire single-photon detectors (SNSPDs) has traditionally been achieved by nanowire meandering. However, material inhomogeneities and fabrication-induced defects, such as line-edge roughness, increase with nanowire length, leading to reduced internal photon-detection efficiency and elevated dark-count rates. This trade-off becomes increasingly pronounced as nanowires are scaled to sub-100 nm widths and sub-5 nm thicknesses required for mid- to far-infrared sensitivity. Here, we demonstrate an antenna-coupled SNSPD architecture that enhances the effective photon-detection area without increasing nanowire length. A crossed bowtie antenna integrated with an 80 nm-wide, 3 nm-thick WSi nanowire yields a 15.7× increase in effective detection area at 7.4 μm compared to a bare nanowire of identical geometric footprint, while maintaining the same internal detection efficiency and dark-count rate. Antenna coupling provides a scalable approach to increasing photon-detection area while reducing the noise-equivalent power, offering performance benefits for applications in astronomy, biological imaging, and molecular spectroscopy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Enhanced Mid-Infrared Single-Photon Detection with Antenna-Coupled Superconducting Nanowires&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01917&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01917"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Active Control of Anisotropic van der Waals Optics</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02223</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02223</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Atomically thin van der Waals materials with low in-plane symmetry offer a versatile platform where inherent anisotropy governs polarization-dependent optical properties. While early studies relied on passive observations, recent advancements have shifted toward strategies that enable active, reversible, and tunable modulation of this anisotropy. In this Mini-Review, we highlight representative demonstrations of dynamic modulation via electrical gating, magnetic fields, ultrafast optical excitation, strain engineering, and pressure tuning. We discuss how electrical methods exploit carrier injection and field-induced symmetry breaking to reconfigure excitons, plasmons, and nonlinear optical responses. Similarly, magnetic control in antiferromagnetic layered semiconductors manipulates excitonic resonances via spin reorientation, while ultrafast optical pulses provide transient polarization-selective modulation of carrier dynamics. Furthermore, strain and pressure serve as robust mechanical knobs to tune excitons, nonlinearities, and photocurrents in an orientation-dependent manner. Collectively, these strategies illustrate how dynamic modulation bridges fundamental crystalline anisotropy with advanced device-level functionality, paving the way for hybrid reconfigurable approaches in polarization-sensitive photonics and quantum technologies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Active Control of Anisotropic van der Waals Optics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02223&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02223"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Large Interband-Driven Anisotropic Gilbert Damping of a Few Atomic Layers of Fe in Contact with MgO</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02394</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02394</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Magnetization control in spintronic devices is governed by the Gilbert damping constant, which describes the energy dissipation in magnetization dynamics. Although Gilbert damping is often treated as an isotropic scalar, crystalline symmetry can induce orientational damping anisotropy. This anisotropy is commonly attributed to intraband scattering associated with changes in the electronic density of states, whereas interband scattering has generally been assumed to be isotropic. Here, we show that the anisotropic Gilbert damping of a few atomic layers of Fe in contact with MgO is governed by interband scattering. Time-resolved magneto-optical Kerr measurements reveal that intrinsic damping increases by nearly a factor of 3 when the magnetization tilts from in-plane to out-of-plane. Combined strain-dependent experiments and first-principles calculations identify interband scattering at the Fe/MgO interface as the origin of this effect, providing new insights into magnetization dynamics beyond the conventional intraband-dominated picture.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Large Interband-Driven Anisotropic Gilbert Damping of a Few Atomic Layers of Fe in Contact with MgO&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02394&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02394"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Defect-Engineered Hexagonal Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01634</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01634</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01634</description>
+      <description>Abstract The practical implementation of lithium metal anodes has been hindered by uncontrollable dendrite formation and interfacial instability. This study presents a defect engineering of multiplayer hexagonal boron nitride (h-BN) that enhances ionic conductivity through argon ion irradiation. A cell-level demonstration was performed using commercially available, large-area CVD-grown h-BN films subjected to industrial-scale argon ion implantation. Direct evidence was provided by integration of these exfoliated flakes into a hybrid microfluidic-microelectronic chip, confirming that controlled vacancy defects transform h-BN into an efficient lithium-ion conductor while preserving its intrinsic electrical insulation. The results confirmed improved lithium–metal anode stability, achieving dendrite-free cycling with Li plating/stripping Coulombic efficiencies exceeding 99.5% for about 1000 cycles. Further assembly of irradiated h-BN in lithium–sulfur batteries effectively mitigates the polysulfide shuttle effect, sustaining over 97% specific capacity around 300 cycles. These results establish a robust, scalable interface engineering route for next-generation lithium metal batteries that combine high ionic transport with excellent electrical insulation.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Defect-Engineered Hexagonal Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01634&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
@@ -67,12 +439,24 @@
 </content:encoded>
     </item>
     <item>
-      <title>Complete Thermally Driven 1T-to-2H Phase Transition in TaSe &lt;sub&gt;2&lt;/sub&gt;</title>
+      <title>Low-Temperature Reverse Water–Gas Shift Catalysis Enabled by Cooperative Pt Nanoclusters and Oxygen Vacancies on La-Doped Ceria</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02386</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02386</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Doping ceria (CeO2) with La3+ increases the concentration of oxygen vacancies (Ov) and reconstructs the surface structure, creating Ce–O–La interfacial motifs that robustly anchor Pt nanoclusters (Ptnc). Here, we present a nanocluster- and vacancy-engineered Ptnc/LaCeOx catalyst that exhibits outstanding performance in the reverse water–gas shift (rWGS) reaction via a direct CO2 dissociation mechanism. Combined experimental and density functional theory studies elucidate the cooperative roles of Pt species and Ov in promoting rWGS activity. LaCeOx activates CO2 through Ov-mediated adsorption, while Ptnc facilitates H2 dissociation and promotes CO* formation and desorption. This interfacial coupling accelerates rWGS kinetics while suppressing CO hydrogenation into CH4, thereby enabling high CO selectivity and enhanced durability at comparatively low temperatures relative to Pt nanoparticles supported on stoichiometric CeO2 (Ptnp/CeO2). These findings demonstrate the key role of catalyst dynamics and establish vacancy-modulated nanocluster–support interactions as a powerful design principle for the rWGS reaction.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Low-Temperature Reverse Water–Gas Shift Catalysis Enabled by Cooperative Pt Nanoclusters and Oxygen Vacancies on La-Doped Ceria&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02386&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02386"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Complete Thermally Driven 1T-to-2H Phase Transition in TaSe2</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01771</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01771</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01771</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Complete Thermally Driven 1T-to-2H Phase Transition in TaSe &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;&lt;/b&gt;&lt;/p&gt;
+      <description>Abstract Phase engineering in two-dimensional materials provides a powerful route to tuning electronic states and enabling functional devices. TaSe2 is a representative transition metal dichalcogenide with distinct correlated phases associated with its 1T and 2H polytypes. However, experimentally realizing and unambiguously verifying a complete 1T-to-2H transition in TaSe2 remains a major challenge. Here, we report a complete thermally driven 1T-to-2H transition in TaSe2. The two phases are distinguished by their electronic and vibrational fingerprints, as revealed by angle-resolved photoemission spectroscopy and Raman spectroscopy. The transition is tracked in situ through the evolution of Raman-active phonon modes, accompanied by pronounced changes in the electronic structure and Ta core-level spectral features. Photoluminescence and electrical transport measurements before and after annealing further confirm the completeness of the phase transition. Our findings deepen the understanding of structural phase transitions in TaSe2 and support phase engineering in other two-dimensional materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Complete Thermally Driven 1T-to-2H Phase Transition in TaSe2&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01771&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01771"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
@@ -119,7 +503,7 @@
       <link>https://doi.org/10.1021/acs.nanolett.6c02775</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02775</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02775</description>
+      <description>Abstract Proton exchange membrane water electrolyzers (PEMWEs) are key for renewable hydrogen production, featuring two critical charge transport interfaces: porous transport layer/catalyst layer (PTL/CL) and PTL/flow field (PTL/FF). To study interface charge transport, three Pt-loaded PTL anodes were combined with a normal or low-loading membrane electrode. Normal loading: optimized Pt boosts catalyst use; low loading: thinnest coating removes PTL/CL passivation. Notably, at low loading and low current density (&amp;amp;lt;0.3 A cm–2), when charge barriers exist at the PTL/CL interface, an uneven Pt coating fails to improve PTL/FF conductivity and instead introduces additional barriers─an effect that diminishes with optimized coating or increased current density. The charge barrier at the PTL/CL interface amplifies the negative effects at the PTL/FF interface; this effect can be mitigated by applying a uniform coating or increasing the current. These findings provide guidance for optimizing platinum-coated PTLs and for studying charge transport at the PTL/FF interface.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Conductive Mechanism of Low-Pt-Coated Porous Transport Layers at Key Interfaces in Proton Exchange Membrane Water Electrolyzers&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02775&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
@@ -127,11 +511,35 @@
 </content:encoded>
     </item>
     <item>
+      <title>Magnetization in Nonmagnetic Heterobilayers Induced by Linearly Polarized Light</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02112</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02112</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Light–spin interactions attract a great deal of interest both for their fundamental physics and for their potential applications. Despite substantial theoretical and experimental efforts, inducing magnetization in intrinsically nonmagnetic systems using linearly polarized light constitutes a critically underdeveloped research frontier. Here, we propose a novel mechanism for generating light-induced magnetization in nonmagnetic van der Waals heterobilayers under linearly polarized light. Our mechanism emerges from the synergistic interplay between light-driven nonequilibrium carrier dynamics and electronic instabilities associated with van Hove singularities. Specifically, ultrafast linearly polarized light creates nonequilibrium carriers near the van Hove singularities, promoting spin-flip processes mediated by spin–orbit coupling during carrier relaxation, which subsequently triggers remarkable spin polarization. Using a combination of first-principles calculations and real-time time-dependent density functional theory, we further confirm this paradigm in the InS/GaSe heterobilayer. Our findings open a new direction for research on light–spin interactions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Magnetization in Nonmagnetic Heterobilayers Induced by Linearly Polarized Light&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02112&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02112"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>In Vivo Tracking Deciphers the Traversal of Ebola Virus across the Blood–Testis Barrier</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01780</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01780</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ebola virus (EBOV) can persist in semen to mediate sexual transmission and drive epidemic resurgence. However, the mechanism by which EBOV breaches the blood–testis barrier (BTB) to invade the male reproductive system remains poorly understood. Here, we developed a quantum dot (QD)-based virus–barrier visualization system (QD-VBVS) integrating QD-encapsulated EBOV-like particles (EBO-VLP-QDs) with two-photon microscopy to enable real-time, high-resolution visualization of viral–BTB interactions in live mice. Single-particle tracking uncovered a four-stage BTB traversal mode, with ∼2.48% of EBO-VLPs entering seminiferous tubules from the interstitium. Mechanistically, EBO-VLPs disrupt BTB integrity through the selective downregulation of junctional protein connexin 43 and vimentin, while EBOV glycoprotein (GP) is crucial for BTB disruption and viral traversal. Our study unveils key insights into the dynamic mechanism of EBOV traversal across the BTB and establishes a versatile in vivo visualization platform for virus–barrier interactions, advancing our understanding of EBOV pathogenesis in the male reproductive system.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;In Vivo Tracking Deciphers the Traversal of Ebola Virus across the Blood–Testis Barrier&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01780&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01780"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Fuel-Driven Coacervates: Design Principles, Dissipative Dynamics, and Life-like Functions</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02653</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02653</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02653</description>
+      <description>Abstract Living systems operate far from equilibrium, continuously consuming energy to maintain transient functional compartments. Mimicking such dynamic organization through bottom-up self-assembly remains a central challenge in systems chemistry and synthetic biology. Synthetic life-like systems aim to recapitulate key features of living matter, including energy-driven (i.e., dissipative) processes, temporary structural organization, chemical communication, and adaptive functionality. Among these, membraneless organelles, particularly coacervates, have emerged as versatile models because of their ability to assemble, evolve, and disassemble in response to fuel-driven processes. Their energy-dependent structural dynamics provides a framework for understanding nonequilibrium cellular organization. In this Mini-Review, we present recent advances in fuel-regulated coacervate systems, highlighting how different classes of fuels directly or indirectly control their formation, evolution, and disassembly. We further discuss how the dissipative, transient nature of these compartments leads to emergent life-like functions and outline their applications in delivery, bio- and covalent catalysis, and signal amplification.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Fuel-Driven Coacervates: Design Principles, Dissipative Dynamics, and Life-like Functions&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02653&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
@@ -143,7 +551,7 @@
       <link>https://doi.org/10.1021/acs.nanolett.6c01400</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01400</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01400</description>
+      <description>Abstract Advances in chemical vapor deposition (CVD) growth have driven graphene crystal quality to unprecedented levels, yet it is still unknown whether this route can realize the fragile flat-band and correlated states of the magic-angle (MA) twisted bilayer graphene (TBG). Here, we report on the experimental observation by room-temperature nano-angle-resolved photoemission spectroscopy (nano-ARPES) of flat bands in a TBG sample close to the MA, assembled via a grow-and-stack protocol based on low-pressure CVD of graphene on copper. Our study indicates electronic bands fully comparable to those measured in exfoliation-based samples and determines the size of the largest near-MA domain to be compatible with electronic transport experiments, motivating further experiments on flat-band physics in CVD-graphene.</description>
       <content:encoded>&lt;p&gt;&lt;b&gt;Direct Observation of Flat Bands in Near-Magic-Angle Twisted Bilayer CVD Graphene&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01400&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
@@ -163,78 +571,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Switching Friction via Sliding Ferroelectricity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02183</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02183</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02183</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Switching Friction via Sliding Ferroelectricity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02183&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02183"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nanoscale Stray Fields from Micromagnets for Optimal Spin Qubit Architecture</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01469</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01469</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01469</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoscale Stray Fields from Micromagnets for Optimal Spin Qubit Architecture&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01469&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01469"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Reversing EFISH: Spin-Induced Static Electric Fields in Symmetry-Broken Plasmonic Nanostructures</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01545</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01545</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01545</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Reversing EFISH: Spin-Induced Static Electric Fields in Symmetry-Broken Plasmonic Nanostructures&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01545&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01545"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Atomic-Probe-Controlled Hydrogenation for Configurable Flat Optics</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01826</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01826</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01826</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic-Probe-Controlled Hydrogenation for Configurable Flat Optics&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01826&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01826"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Dynamic Anionic Surfactant Assembly Induces Interfacial K &lt;sup&gt;+&lt;/sup&gt; Enrichment to Steer *CO Adsorption Configurations for Enhanced C–C Coupling in CO &lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02578</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02578</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02578</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dynamic Anionic Surfactant Assembly Induces Interfacial K &amp;lt;sup&amp;gt;+&amp;lt;/sup&amp;gt; Enrichment to Steer *CO Adsorption Configurations for Enhanced C–C Coupling in CO &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; Electroreduction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02578&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02578"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Two-Photon Excited Luminescence in Mechanoluminescent ZnS Microparticles</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02898</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02898</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02898</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Two-Photon Excited Luminescence in Mechanoluminescent ZnS Microparticles&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02898&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02898"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Lanthanide Doping and Dual-Site Switching on Amorphous High-Entropy Metallene Oxides Boost Acidic Water Oxidation</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02503</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02503</guid>
@@ -244,30 +580,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02503&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02503"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Magnetoelastic Transport-Path Reconstruction and Giant Magnetotransport Responses in a Two-Dimensional Antiferromagnet</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02133</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02133</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02133</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Magnetoelastic Transport-Path Reconstruction and Giant Magnetotransport Responses in a Two-Dimensional Antiferromagnet&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02133&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02133"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Interlayer Electric Multipole Hall Effect in Twisted Multilayers</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01563</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01563</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01563</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Interlayer Electric Multipole Hall Effect in Twisted Multilayers&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01563&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01563"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -283,327 +595,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>Interfacial Water Structure Governs CO2 Electroreduction Selectivity on Copper via Surface Ligand Functionalization</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02432</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02432</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Controlling product selectivity in Cu-catalyzed electrochemical CO2 reduction remains challenging, as competing proton-coupled electron transfer pathways are governed by the balance between *CO coupling and protonation kinetics. Here, we demonstrate that this balance is precisely tuned by engineering interfacial water through surface ligand functionalization, without altering the Cu active site’s electronic properties. Alkanethiols with distinct terminal groups (−CH3, −COOH, −OH) were anchored on Cu (Cu-UDT, Cu-MUA, Cu-MUO), imparting varying surface hydrophobicity. In situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) reveals that Cu-MUA enforces a strongly hydrogen-bonded water network, whereas Cu-MUO promotes a predominantly free water environment, with minor perturbation of *CO in both cases. Time-resolved SEIRAS demonstrates that the divergent water structures dictate *CO decay kinetics in which Cu-MUA facilitates rapid *CO consumption via C–C coupling, yielding high ethylene selectivity, while Cu-MUO enables preferential *CO protonation to *CHO through enhanced proton supply, steering selectivity toward methane.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Water Structure Governs CO2 Electroreduction Selectivity on Copper via Surface Ligand Functionalization&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02432&lt;/p&gt;
+      <title>Switching Friction via Sliding Ferroelectricity</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02183</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02183</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Reversible modulation of friction in atomically thin two-dimensional materials remains challenging in micro- and nanotribology, primarily due to the difficulty in achieving control over interfacial interactions. Harnessing switchable internal degrees of freedom provides a viable strategy for controlling interfacial energy dissipation. Here, ferroelectric polarization reversal induced by interlayer sliding in bilayer 3R-MoS2 facilitates an electric-field controlled friction switch. Under a positive bias, polarization reversal (downward) reconstructs interfacial electronic states, weakening electrostatic interactions and phonon dissipation, switching the system into a low dissipation friction state with an ultralow coefficient of friction (0.0084). In contrast, under a negative bias, stabilized upward polarization enhances electrostatic interactions and establishing efficient phonon dissipation channel, switching into a high dissipation state. The friction state is electrically erasable and rewritable, with repeated writing cycles stabilizing the polarization configuration and enhancing switching robustness, thereby enabling reconfigurable friction control and interfacial energy management.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Switching Friction via Sliding Ferroelectricity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02183&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02432"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Wafer-Scale All-Silicon Self-Rectifying Memristor for Synaptic Response and Reservoir Computing</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c00994</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c00994</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c00994</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Wafer-Scale All-Silicon Self-Rectifying Memristor for Synaptic Response and Reservoir Computing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00994&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00994"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Stabilizing Metal Oxide Free n-i-p Perovskite Solar Cells by Electron-Transporting, Strong-Dipole Self-Assembled Molecule</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01978</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01978</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01978</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Stabilizing Metal Oxide Free n-i-p Perovskite Solar Cells by Electron-Transporting, Strong-Dipole Self-Assembled Molecule&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01978&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01978"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tuning Anisotropic Optical Properties of Inorganic and Hybrid Organic–Inorganic MXenes via Topochemical Surface Modification</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03430</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03430</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Surface groups are central to the properties of MXenes, yet their role in optical anisotropy remains largely unexplored. Here, we use a topochemical route to synthesize single crystals of stacked Ti3C2Cl2 and hybrid organic–inorganic MXenes (h-MXenes) with lateral sizes of 38–75 μm, rotational registry, and tunable interlayer spacing. Solid-state NMR spectroscopy shows that topochemical substitution generates mixed amido, imido, and hydride surface motifs, which modify the electronic structure of the Ti3C2 inorganic core. Imaging spectroscopic ellipsometry with micron-scale spatial resolution enables reconstruction of the complex dielectric tensor of individual multilayer crystals. Ti3C2Cl2 exhibits a type-II hyperbolicity above 930 nm, whereas h-MXenes do not display hyperbolicity within the measured 300–1700 nm window, instead showing reduced in-plane conductivity, suppressed out-of-plane light absorption, and a chain-length-dependent blue shift of a near-infrared absorption feature. These results demonstrate topochemical surface modification as a direct handle for engineering MXenes as surface-programmable optical media.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tuning Anisotropic Optical Properties of Inorganic and Hybrid Organic–Inorganic MXenes via Topochemical Surface Modification&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03430&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03430"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Persistence of Large and Gate-Tunable Anisotropic Magnetoresistance in an Atomically Thin Antiferromagnet</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01905</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01905</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01905</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Persistence of Large and Gate-Tunable Anisotropic Magnetoresistance in an Atomically Thin Antiferromagnet&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01905&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01905"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Kinetic Engineering of Enzyme@ZIF-L Nanocomposites Enables Water Decontamination with Ultralow Oxidant Consumption</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02317</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02317</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02317</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Kinetic Engineering of Enzyme@ZIF-L Nanocomposites Enables Water Decontamination with Ultralow Oxidant Consumption&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02317&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02317"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/nlv026i028_2105717</link>
-      <guid isPermaLink="false">10.1021/nlv026i028_2105717</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i028_2105717</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Editorial Masthead&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i028_2105717&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i028_2105717"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultranarrow Germanene Nanoribbons with Pentagonal Rings</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02715</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02715</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02715</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultranarrow Germanene Nanoribbons with Pentagonal Rings&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02715&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02715"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spontaneous Curvature Sculpts Filament–Vesicle Morphogenesis</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02160</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02160</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02160</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spontaneous Curvature Sculpts Filament–Vesicle Morphogenesis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02160&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02160"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/nlv026i028_2105716</link>
-      <guid isPermaLink="false">10.1021/nlv026i028_2105716</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i028_2105716</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Publication Information&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i028_2105716&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i028_2105716"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Noise-Resilient Plasmonic Physical Unclonable Functions via Deep Contrastive Learning</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02614</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02614</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02614</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Noise-Resilient Plasmonic Physical Unclonable Functions via Deep Contrastive Learning&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02614&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02614"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Chiral-Template-Free Color-Tunable Circularly Polarized Long Afterglow from Carbon Dots with Aggregation-Induced Emission and High Dissymmetry Factor</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02105</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02105</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02105</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Chiral-Template-Free Color-Tunable Circularly Polarized Long Afterglow from Carbon Dots with Aggregation-Induced Emission and High Dissymmetry Factor&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02105&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02105"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Broadband Quantum Rectification and Mixing Via the Nonlinear Transport in PtTe2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01639</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01639</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The rapid growth of Internet of Things, 6G communication, and millimeter wave systems demands broadband rectifiers and mixers. The nonlinear Hall effect (NLHE) provides a junction-free route for broadband signal processing, overcoming high-frequency limitations associated with threshold voltages and junction capacitance in conventional semiconductor technologies. However, few NLHE material platforms combine strong nonlinearity, high conductivity, and compatibility with wafer-scale processing. In this work, we demonstrate NLHE in PtTe2 thin films with a second-order conductivity of 0.005 Ω–1 V–1 and a DC conductivity of 9.5 × 105 S/m at room temperature. The films enable bias-free rectification from 0.62 to 2.88 THz and frequency mixing from 0.1 to 40 GHz, including wireless mixing in the GHz regime. The passive mixer exhibits a 1 dB compression point of 8 dBm. These results establish PtTe2 as a wafer-scale platform for high-frequency signal processing, highlighting the practical potential of NLHE for next-generation communication and electronic technologies.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Broadband Quantum Rectification and Mixing Via the Nonlinear Transport in PtTe2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01639&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01639"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Resonant Structure of Second Harmonic Generation in Multilayer Graphene Polytypes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01415</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01415</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01415</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Resonant Structure of Second Harmonic Generation in Multilayer Graphene Polytypes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01415&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01415"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>(Anti)ferroelectricity Induced Dual-Breathing Mode in Bulk Kagome Semiconductor Nb &lt;sub&gt;3&lt;/sub&gt; I &lt;sub&gt;8&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02635</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02635</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02635</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;(Anti)ferroelectricity Induced Dual-Breathing Mode in Bulk Kagome Semiconductor Nb &amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; I &amp;lt;sub&amp;gt;8&amp;lt;/sub&amp;gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02635&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02635"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Phenalenyl-Fused Nickel(II) Norcorroles with Precisely Oxygen-Edited Skeletons: Tuning Aromaticity and Site-Selective Reactivity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02692</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02692</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02692</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Phenalenyl-Fused Nickel(II) Norcorroles with Precisely Oxygen-Edited Skeletons: Tuning Aromaticity and Site-Selective Reactivity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02692&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02692"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Control of Far-Field Coupling in Bipartite Nanodisk Arrays</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01863</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01863</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01863</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Control of Far-Field Coupling in Bipartite Nanodisk Arrays&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01863&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01863"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tailoring Defect Chemistry via Lu Doping Enables Highly Active and Stable High-Temperature Electrochemical Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02740</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02740</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02740</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tailoring Defect Chemistry via Lu Doping Enables Highly Active and Stable High-Temperature Electrochemical Dehydrogenation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02740&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02740"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Vibronic and Excitonic Structure of a Template-Engineered Molecular-Graphene Heterostructure</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01284</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01284</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c01284</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Vibronic and Excitonic Structure of a Template-Engineered Molecular-Graphene Heterostructure&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01284&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01284"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Interfacial Voltage-Gated Electrokinetic Transport in Monolayer MoS &lt;sub&gt;2&lt;/sub&gt; Nanopores</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02736</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02736</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02736</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Voltage-Gated Electrokinetic Transport in Monolayer MoS &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; Nanopores&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02736&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02736"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Atomic-Level Shock-Absorbing Spring: Curvature-Driven Mechanical Homogenization of Hard Carbon for High-Stability Sodium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02544</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02544</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02544</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic-Level Shock-Absorbing Spring: Curvature-Driven Mechanical Homogenization of Hard Carbon for High-Stability Sodium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02544&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02544"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Lattice-Expanded Pt Overlayer with Surface Pb Modulation on a PtPb Alloy toward High-Efficiency Methanol Oxidation</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02470</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02470</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02470</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Lattice-Expanded Pt Overlayer with Surface Pb Modulation on a PtPb Alloy toward High-Efficiency Methanol Oxidation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02470&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02470"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Morphology Control of Hydrogen Evolution Reaction Catalyst Promoting H &lt;sub&gt;2&lt;/sub&gt; Mass Transfer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02436</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02436</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02436</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Morphology Control of Hydrogen Evolution Reaction Catalyst Promoting H &amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; Mass Transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02436&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02436"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Manipulating Structural Asymmetry in FAPbBr3 Quantum Dots for High-Performance Pure-Green Spin-Polarized Light-Emitting Diodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01923</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01923</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Spin-polarized light-emitting diodes (spin-LEDs) hold promise for next-generation photonic technologies owing to their ability to directly emit circularly polarized electroluminescence. Here, we report a multifunctional chiral ligand engineering strategy to realize high-performance pure-green spin-LEDs based on FAPbBr3 quantum dots (QDs). By introducing (R/S)-methylbenzenesulfinamide, strong coordination with surface Pb2+ ions simultaneously passivates defects and induces pronounced centrosymmetry-breaking lattice distortion in FAPbBr3 QDs. This structural asymmetry enhances chiroptical activity and prolongs spin-coherence lifetimes, enabling efficient spin-polarized carrier recombination. As a result, chiral FAPbBr3 QDs exhibit a high photoluminescence quantum yield (98.28%) and large dissymmetry factor (8.87 × 10–2). The spin-LEDs fabricated from these QDs exhibit pure-green emission, with a maximum luminance of 17 979 cd m–2, a peak external quantum efficiency of 15.1%, and a maximum electroluminescence dissymmetry factor of 1.76 × 10–1 at room temperature. This work demonstrates that chiral MBS ligands can simultaneously improve optoelectronic quality and introduce structural asymmetry in perovskite quantum dots, representing a promising route toward practical high-performance spin-LEDs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Manipulating Structural Asymmetry in FAPbBr3 Quantum Dots for High-Performance Pure-Green Spin-Polarized Light-Emitting Diodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01923&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01923"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Pulse-Duration-Sensitive High Harmonics and Attosecond Locally Chiral Near Fields from a Chiral Topological Weyl Semimetal</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c00913</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c00913</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c00913</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pulse-Duration-Sensitive High Harmonics and Attosecond Locally Chiral Near Fields from a Chiral Topological Weyl Semimetal&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00913&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00913"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Metal Nanocluster Single Emissive Layer White Light-Emitting Diodes with EQE of 7.3%</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02540</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02540</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract While white light-emitting diodes (LEDs) based on metal nanoclusters (NCs) are currently widely desired, due to limitations in the difficulty of controlling emission wavelengths and the susceptibility of luminescence performance to external influences, metal NC white light-emitting diodes (WLEDs) are still not sufficiently developed. In this regard, we employed the bimetallic alkynyl clusters [Au6Ag2(C2C13H11O)6(PPh2C4H8PPh2)3](ClO4)2 (i.e., Au6Ag2 NCs) incorporated with 4,4′,4″-tris(carbazol-9-yl)-triphenylamine (TCTA) as a multifunctional ligand that serves to construct new luminescent centers and reduce film defects to achieve single emissive layer (SEL) WLEDs. As a result, the optimal SEL WLEDs achieve a maximum external quantum efficiency of 7.3% and a peak luminance of 1038 cd/m2 with a color rendering index of 93, which represents the high performance of the SEL WLEDs in inorganic materials. This work exemplifies the success of the metal NCs involved in WLEDs and offers a simple yet effective strategy to demonstrate high-performance metal NC WLEDs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Metal Nanocluster Single Emissive Layer White Light-Emitting Diodes with EQE of 7.3%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02540&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02540"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Achromatic Double-Helix Metalens for Broadband Structured Focusing in the Visible Range</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02238</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02238</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Achromatic structured focusing in flat optics is important for compact depth-resolved imaging and three-dimensional localization, yet simultaneously achieving broadband operation and a depth-encoding focal field remains challenging. Here, we demonstrate an achromatic double-helix metalens operating across the visible range of 600–650 nm. The target phase profile combines an exact hyperbolic lens phase with a double-helix phase synthesized from Laguerre–Gaussian mode bases, whose coefficients are optimized by particle swarm optimization. Broadband implementation is achieved through a meta-atom library designed by jointly considering phase delay, group delay, and group delay dispersion. The fabricated device exhibits strong structural fidelity and experimentally reproduces the rotating two-lobe focal field at 625 nm as well as across the target wavelength range. This work extends achromatic metalenses beyond conventional focusing to broadband structured focusing and provides a compact platform for depth-resolved imaging.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Achromatic Double-Helix Metalens for Broadband Structured Focusing in the Visible Range&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02238&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02238"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02183"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

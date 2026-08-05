@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 02:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:29:05 +0000</lastBuildDate>
+    <item>
+      <title>Modulation of Charge Density Waves in a Twirling Moiré Superlattice</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02529</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02529</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Twisted moiré superlattices provide a powerful platform for engineering correlated electronic states, yet continuous nanoscale manipulation of collective orders remains largely unexplored. Here, we report the modulation of charge density wave (CDW) states in a twisted twirling moiré superlattice formed by monolayer VTe2 on superconducting NbSe2. Scanning tunneling microscopy/spectroscopy reveals that the intrinsic long-range CDW of monolayer VTe2 is reconstructed into inequivalent local phases with distinct stability and coherence within a single moiré unit cell, including suppressed CDW order and enhanced short-range CDW correlations persisting to room temperature. First-principles calculations attribute the reconstructed CDW landscape to strong local strain variation, with compressive strain significantly stabilizing the charge order. The reconstructed CDW further exhibits an anticorrelated modulation with proximity-induced superconductivity. Our results establish twirling moiré superlattices as a versatile platform for nanoscale manipulation of correlated electronic orders in low-dimensional quantum materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Modulation of Charge Density Waves in a Twirling Moiré Superlattice&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02529&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02529"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>MetaHeat: Programmable Photothermal Heating in Complex Media with Inverse-Designed Metasurfaces</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02380</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02380</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Precise spatial control of light-induced heating is critical across photothermal applications ranging from laser therapies to materials processing yet remains difficult in the presence of complex refractive interfaces. For example, laser warming of cryopreserved specimens requires uniform, rapid heating, but refractive distortions produce damaging thermal gradients that compromise viability. We present MetaHeat, a metasurface-based wavefront engineering framework for programmable photothermal heating in complex media. MetaHeat addresses the coupled challenge of light propagation and subsequent heat transport by combining angular-spectrum wave propagation with transient diffusion in a unified, differentiable framework. Applied to laser warming, MetaHeat navigates a high-dimensional metasurface design space─with thousands of meta-atoms─constructing wavefronts that suppress hot and cold spots, reducing spatial temperature variance by over an order of magnitude (≈31×) in a representative target. We observe similar improvements in additional geometries, suggesting the approach is general and provides a route to programmable photothermal heating in complex refractive media.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;MetaHeat: Programmable Photothermal Heating in Complex Media with Inverse-Designed Metasurfaces&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02380&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02380"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Alkali-Assisted Stitching Growth of Centimeter-Scale PtSe2 Films from Unidirectionally Aligned Millimeter-Scale Ribbons</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02618</link>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02048&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02048"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultrastable 50 nm Top-Gate In2O3 Transistors with Δ &lt;i&gt;V&lt;/i&gt; TH &amp;amp;lt; 0.1 mV under 104 s Bias Stress Enabled by Annealing-Free Dielectric Engineering</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01966</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01966</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We demonstrate ultrastable 50 nm top-gate In2O3 thin-film transistors with an unprecedented near-zero threshold-voltage shift (ΔVTH &amp;amp;lt; 0.1 mV) under 104 s bias stress. The devices are fabricated using an annealing-free, low-temperature process compatible with back-end-of-line (BEOL) integration, delivering high electrical performance, including a maximum drain current of 700 μA/μm and a minimum subthreshold swing of 64.4 mV/dec for a channel length (LCH) of 50 nm. This outstanding stability is enabled by in situ Ar-assisted plasma during plasma-enhanced atomic layer deposition (PE-ALD) of HfO2, which effectively suppresses defect states and passivates the In2O3/HfO2 interface, resulting in a low-defect gate stack. Furthermore, positive/negative bias stress (PBS/NBS) on short-channel devices at 25 °C consistently exhibits negligible ΔVTH, highlighting robust bias-stress stability. This result demonstrates a breakthrough in achieving high reliability within a fully BEOL-compatible thermal budget.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrastable 50 nm Top-Gate In2O3 Transistors with Δ &amp;lt;i&amp;gt;V&amp;lt;/i&amp;gt; TH &amp;amp;amp;lt; 0.1 mV under 104 s Bias Stress Enabled by Annealing-Free Dielectric Engineering&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01966&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01966"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/nlv026i029_2109384</link>
-      <guid isPermaLink="false">10.1021/nlv026i029_2109384</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i029_2109384</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Editorial Masthead&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i029_2109384&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i029_2109384"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

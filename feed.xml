@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 13:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:54:29 +0000</lastBuildDate>
     <item>
       <title>Optical Modulation Due to Energy Exchange between Photonic and Exciton Modes in the Intermediate Coupling Regime</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01872</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01872&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01872"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Microfibril Angle–Moisture Synergy Enables Fatigue Resistance in Wood Cell Walls</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02281</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02281</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Wood cell walls have long been recognized as natural fatigue-tolerant composites, yet the nanoscale mechanisms underlying their cyclic recovery remain difficult to resolve experimentally. Using large-scale molecular dynamics simulations, we reveal from an atomistic perspective how wood cell walls recover and resist fatigue, with the microfibril angle (MFA) and moisture synergistically regulating cyclic loading capacity. Higher MFAs can channel strain into interfacial slip and nanoscale delamination, dissipating energy before damage accumulates. Cyclic loading induces reversible reconfiguration of hydrogen bonds (HBs) in cellulose nanofibrils, redistributing stress and causing progressive hardening associated with an incomplete recovery of cellulose nanocrystalline packing. Moisture and higher MFAs act synergistically to balance energy dissipation and structural stability by promoting matrix plastic deformation, HB recovery, and multicycle ductility. Our work provides a mechanistic framework for understanding how wood cell walls can recover, harden, dissipate energy, and delay failure under cyclic deformation, offering bioinspired design principles for high-performance, sustainable materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Microfibril Angle–Moisture Synergy Enables Fatigue Resistance in Wood Cell Walls&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02281&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02281"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -40,6 +52,42 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02543&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02543"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Ultrastrong and Transparent Wood Film Enabled by Interfacial Interlocking</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02038</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02038</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Developing high-performance biomass materials with excellent mechanical strength and recyclability is essential for addressing resource crises and environmental pressures. Natural wood possesses a highly oriented cellular framework that provides high load-bearing potential. However, the weak interfacial connections lead to limited mechanical performance, severely restricting its engineering applications. Herein, we proposed an interfacial interlocking strategy that converts natural wood veneer into an interfacial interlocking wood film (IIWF). By the introduction of homologous cellulose, continuous cross-scale connections are established between cell wall microfibrils, transforming the discrete interface regions into a synergistic load-bearing network. The resulting IIWF achieves a tensile strength of 731.2 MPa, excellent flexibility, and optical properties (transmittance 79.6%, haze 71.0%). This reconstruction strategy does not rely on heterogeneous reinforcing phases, maintaining material homology and environmental compatibility throughout the process. This study provides a new path for the development of renewable, high-strength, transparent materials, with a wide range of applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrastrong and Transparent Wood Film Enabled by Interfacial Interlocking&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02038&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02038"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>A Highly Robust MoS2-xOδ Volatile Memtransistor Array for Reservoir Computing</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02779</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02779</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract As multiterminal electronic devices integrating the functionalities of MOSFETs and memristors, memtransistors are core hardware for constructing complex neuromorphic computing circuits in the post-Moore era. However, random and uncontrollable defects in 2D materials limit existing devices in terms of volatile memory characteristics, robustness and power consumption, hindering their practical application. Here a MoS2-xOδ memtransistor array with controllable vacancy defects achieved through oxygen doping is demonstrated. Under an electric field, the dynamic migration and distribution of vacancies enable precise modulation of the Schottky barrier height, resulting in stable volatile switching with a switching ratio exceeding 105, a device-level energy consumption of 0.55 fJ and switching speed of 4.9 μs. A physical reservoir computing system built on these devices achieves high-precision pattern recognition. The combination of device-level low energy consumption, high robustness and high-switching-ratio volatile memory behavior makes the MoS2-xOδ memtransistor a scalable solution for developing complex neuromorphic circuits.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A Highly Robust MoS2-xOδ Volatile Memtransistor Array for Reservoir Computing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02779&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02779"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Seeded Vapor Phase Growth of Fe-Intercalated Fe3GeTe2 Nanoplates with Large Coercive Field</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01803</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01803</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Two-dimensional (2D) magnets provide a versatile platform for exploring emergent quantum phases and developing next-generation spintronic devices. Despite this potential, high-throughput chemical vapor deposition (CVD) of ternary phase 2D magnets remains a significant challenge and is rarely explored. Here, we report a seeded-CVD method to synthesize nanoplates of a 2D magnetic material, Fe3GeTe2 (FGT), with lateral sizes of 10 μm and thicknesses of 20–80 nm. Synthesized nanoplates exhibit high Curie temperature (Tc ∼ 206 K) and large coercive field (∼1 T) based on reflective magnetic circular dichroism (RMCD) measurements. Cross-sectional scanning transmission electron microscopy and multislice electron ptychography directly reveal widespread and 3D-inhomogeneous Fe intercalation within the vdW gaps that is quantified to be Fe3+xGeTe2 with x ≈ 0.4, which resolves the atomic structural origins of the magnetic enhancement. These results enable a scalable route to synthesize 2D ternary magnet Fe3GeTe2 directly for property studies and device integration.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Seeded Vapor Phase Growth of Fe-Intercalated Fe3GeTe2 Nanoplates with Large Coercive Field&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01803&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01803"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -556,54 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01788&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01788"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Generating Long-Lived Highly Excited Carriers in Undoped Perovskite Nanostructures by Two-Photon Upconversion</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02392</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02392</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Delayed electron emissions from undoped metal halide perovskite (CsPbBr3) nanostructures upon laser irradiation were observed to persist for a few nanoseconds. This was attributed to an extended lifetime of upconverted highly excited carriers. Experimental evidence suggests that the excitation of such states is through one-photon absorption by carriers and excitons. Theoretical work reveals that surface defects play an important role in modifying the band edge energies of the nanoparticles and thus allow the presence of these highly excited carrier states.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Generating Long-Lived Highly Excited Carriers in Undoped Perovskite Nanostructures by Two-Photon Upconversion&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02392&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02392"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tracking Thermal Transport in Colloidal Quantum Dot Films Using &lt;i&gt;in Situ&lt;/i&gt; Time-Resolved X-ray Diffraction</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02198</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02198</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Colloidal quantum dots (QDs) and their thin films are increasingly used in electronic and photonic devices replacing traditional bulk semiconductors. However, thermal properties of QDs remain underexplored relative to device development efforts. This study shows the use of time-resolved X-ray diffraction as a contact-free method to probe the thermal response of QDs in environments representative of the active layer in QD optoelectronic devices, providing in situ insights for future thermal management strategies. Through the extraction of Debye–Waller factors on a subnanosecond time scale, we directly capture the heating and cooling of core/shell CdSe/CdS QDs following pulsed optical excitation. In a QD thin film that actively provides optical gain, the thermal conductivity is found to be as low as 0.13 W m–1 K–1, because of the poor heat flow between close-packed QD solids. For QDs dispersed in liquids, interfacial thermal conductance dominates thermal relaxation, with a conductance of 15 MW m–2 K–1.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tracking Thermal Transport in Colloidal Quantum Dot Films Using &amp;lt;i&amp;gt;in Situ&amp;lt;/i&amp;gt; Time-Resolved X-ray Diffraction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02198&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02198"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Phonon-Dominated In-Plane Thermal Conductivity of Single-Flake Metallic Ti3C2T &lt;i&gt;x&lt;/i&gt; MXene</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01850</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01850</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract MXenes are a promising class of 2D materials, with prospects in applications such as electromagnetic interference shielding, energy storage, catalysis, and thermal management. Despite the importance of understanding their thermal transport properties, it is not clear whether electrons or phonons dominate heat transport, and the experimentally obtained in-plane thermal conductivities vary substantially. Here, we address this by studying in-plane heat transport in single Ti3C2Tx MXene flakes using spatiotemporal microscopy, directly visualizing heat transport in space and time. We obtain a thermal diffusivity of 0.05 cm2 s–1, corresponding to an in-plane thermal conductivity of 13–16 W m–1 K–1. Using an upper limit for the electronic conductivity based on terahertz measurements, we find that electrons carry at most half of the heat. This shows that─despite their metallic nature─phonons play an important role in the heat transport of Ti3C2Tx MXene, providing an unconventional combination of heat and charge transport properties.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Phonon-Dominated In-Plane Thermal Conductivity of Single-Flake Metallic Ti3C2T &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; MXene&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01850&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01850"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>MnIn2Se4 Bilayer: A Sliding Ferroelectric Topological Ferrimagnetic Metal with Triply-Coupled Switching</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01193</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01193</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Sliding ferroelectric (FE) metals provide a practical route to combine switchable out-of-plane polarization with metallicity, yet realizing electrically reversible magnetization and Berry-curvature-driven anomalous transport and magneto-optical effects in a topological system remains challenging. Here, we establish a symmetry-based framework for sliding FE metals with ferrimagnetism. We show that interlayer sliding breaks the combined spin space symmetry, thereby inducing reversible out-of-plane polarization, nonrelativistic spin splitting, and finite net magnetization, namely, triply-coupled switching. Guided by this principle, we identify the MnIn2Se4 bilayer as a realistic sliding FE ferrimagnetic (FiM) metal hosting Weyl points, in which in-plane sliding enables robust triply-coupled switching, while spin-orbit coupling gaps the Weyl points and produces strong Berry curvature around the Fermi level, leading to large and electrically switchable anomalous transport and magneto-optical effects. Our results establish sliding FE FiM metals with topological states as a promising platform for electrically switchable, high-speed, and low-dissipation spintronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;MnIn2Se4 Bilayer: A Sliding Ferroelectric Topological Ferrimagnetic Metal with Triply-Coupled Switching&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01193&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01193"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

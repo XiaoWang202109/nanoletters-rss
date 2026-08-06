@@ -5,7 +5,55 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:56:15 +0000</lastBuildDate>
+    <item>
+      <title>Optical Modulation Due to Energy Exchange between Photonic and Exciton Modes in the Intermediate Coupling Regime</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01872</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01872</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Actively tunable photonic devices are vital for next-generation optoelectronics, requiring rapid switching and high bandwidth. Although organic optoelectronic devices have found wide applications, their use as optical modulators has been limited by low absorption in the critical near-infrared (NIR) region, a slow response time, and weak nonlinearities. To address these limitations, we developed a scheme based on intermediate exciton–photon coupling in an NIR-absorbing squaraine dye-based photonic structure. Using energy-momentum-resolved pump–probe spectroscopy, we show that the sign and magnitude of the optical response of our system depend strongly on the energy detuning between the excitonic and photonic modes. These data are analyzed using temporal coupled-mode theory to show that near resonance, a distinct energy exchange process emerges in the crossover regime between strong and weak light–matter coupling. This effect enables dynamic control over the photoinduced response, providing a pathway for broadband optical signal modulation extending into the NIR spectral region.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Optical Modulation Due to Energy Exchange between Photonic and Exciton Modes in the Intermediate Coupling Regime&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01872&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01872"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Correction to “Aggregable Nanoparticles-Enabled Chemotherapy and Autophagy Inhibition Combined with Anti-PD-L1 Antibody for Improved Glioma Treatment”</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03283</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03283</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>DOI: 10.1021/acs.nanolett.6c03283</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Correction to “Aggregable Nanoparticles-Enabled Chemotherapy and Autophagy Inhibition Combined with Anti-PD-L1 Antibody for Improved Glioma Treatment”&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03283&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03283"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>A Capacitorless Graphene Drain Impact Ionization Memory with Ultralow Write Pulses</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02543</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02543</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Reducing write voltage directly improves energy efficiency of memories. Here, we demonstrate a capacitorless graphene-drain impact-ionization memory with symmetric ±200 mV write pulses. The device integrates a graphene/silicon heterojunction drain into a silicon-on-insulator transistor, creating a strong drain-side electric field that triggers impact ionization and carrier multiplication to abruptly increase current at the threshold voltage. Thus, the device achieves subthreshold swings of 0.29 and 0.25 mV/dec for the forward and backward sweeps, respectively. Meanwhile, floating-body charge storage creates a stable ∼0.2 V hysteresis window, enabling state switching with a 200 mV (&amp;amp;gt;1/2 hysteresis window) gate-voltage excursion. These characteristics enable capacitorless memory operation with record-low write-pulse voltages. A 200 mV/10 ns pulse writes the ‘1’ state and produces a 3.2 decade current-state margin, whereas a −200 mV/10 ns pulse writes the ‘0’ state and produces a 3.9 decade current-state margin. Leveraging these attributes, a 1T low-swing pulse encryption scheme is further demonstrated for low-power encoding of pulse sequences.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A Capacitorless Graphene Drain Impact Ionization Memory with Ultralow Write Pulses&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02543&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02543"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Engineering Trimetallic Au–Ag–Pd Superstructures through Nanoalloying for SERS-Based Weakly Adsorbing Species Detection</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02878</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02878</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract In this study, we report a tricomponent Au–Ag–Pd nanocube superstructure (SS) fabricated through a heteronanocube coassembly strategy to serve as a nanoparticle-level nanoalloy platform. Unlike conventional binary nanoalloy systems, this architecture integrates three compositionally distinct yet geometrically compatible nanocube building blocks into a single ordered aggregate, enabling cooperative plasmonic, chemical, and interfacial functionality. In this architecture, the Au nanocubes function as structurally and chemically stable plasmonic scaffolds, while the Ag nanocubes serve as the primary plasmonically active component that provides strong near-field enhancement. Additionally, the Pd nanocubes introduce chemically interactive sites with a preferential affinity for hydroxyl-containing ligands. The assembled SSs are further converted into superpowders and directly applied to contaminated surfaces, demonstrating their utility as on-site sensing materials. These findings establish tricomponent heteronanocube nanoalloying as an effective strategy for constructing cooperative plasmonic SSs with compositionally programmable and chemically selective functionality, thereby extending nanoparticle-based alloying beyond binary systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Engineering Trimetallic Au–Ag–Pd Superstructures through Nanoalloying for SERS-Based Weakly Adsorbing Species Detection&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02878&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02878"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Ultraconfined Plasmons in Ultrathin Gold-Based Hybrid Plasmonic Structures</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02182</link>
@@ -103,18 +151,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>&lt;i&gt;i&lt;/i&gt; -Wave Symmetry Altermagnetism and Anomalous Hall Conductivity in Monolayer FeCl3</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03027</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03027</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract In this work, the FeCl3 monolayer is proposed to host a rare and exotic i-wave symmetry altermagnetism. Using first-principles calculations, we performed a detailed investigation of the structural stability and electronic, magnetic, and spintronic properties of monolayer FeCl3. Our results suggest the system is semiconducting in nature and exhibits i-wave symmetry nonrelativistic spin splitting (NRSS), originating from its hexagonal crystal structure with roto-inversion symmetries and anisotropic crystal field. The momentum-resolved spin-splitting further supports the presence of spin-dependent topological features. Further, the monolayer exhibits sizable conventional spin-Hall and anomalous Hall conductivities, highlighting its promise as a versatile platform for next-generation flexo-spintronic applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;i&amp;lt;/i&amp;gt; -Wave Symmetry Altermagnetism and Anomalous Hall Conductivity in Monolayer FeCl3&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03027&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03027"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>A Prussian Blue Analog-Derived NiS2/CoS2/CuS2 Ternary Composite as Secondary Battery Anode Displaying High Capacity and Excellent Full-Cell Performance</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02768</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02768</guid>
@@ -124,6 +160,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02768&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02768"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>&lt;i&gt;i&lt;/i&gt; -Wave Symmetry Altermagnetism and Anomalous Hall Conductivity in Monolayer FeCl3</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03027</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03027</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract In this work, the FeCl3 monolayer is proposed to host a rare and exotic i-wave symmetry altermagnetism. Using first-principles calculations, we performed a detailed investigation of the structural stability and electronic, magnetic, and spintronic properties of monolayer FeCl3. Our results suggest the system is semiconducting in nature and exhibits i-wave symmetry nonrelativistic spin splitting (NRSS), originating from its hexagonal crystal structure with roto-inversion symmetries and anisotropic crystal field. The momentum-resolved spin-splitting further supports the presence of spin-dependent topological features. Further, the monolayer exhibits sizable conventional spin-Hall and anomalous Hall conductivities, highlighting its promise as a versatile platform for next-generation flexo-spintronic applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;i&amp;lt;/i&amp;gt; -Wave Symmetry Altermagnetism and Anomalous Hall Conductivity in Monolayer FeCl3&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03027&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03027"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -556,54 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01193&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01193"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>A Highly Conductive 3D Interconnected Framework with Stress Buffering for Enhanced Electrochemical and Mechanical Performance in Thick Cathodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02364</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02364</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Developing a thick electrode offers a practical route to enhance the energy density of lithium batteries, but its application suffers from sluggish ion/electron transport kinetics and poor structure homogeneity. Herein, a high-crystallinity three-dimensional porous carbon (H-3DC) is designed for enhancing the capacity utilization and mechanical integrity of high-mass-loading cathodes. H-3DC establishes a continuous conductive network that synergistically promotes ion/electron transport kinetics, regulates the distribution of the conductive binder domain, and alleviates localized overpressure. Consequently, the LiNi0.8Co0.1Mn0.1O2 (NCM811) cathode with a high loading of 38 mg cm–2 incorporating H-3DC achieves a high discharge capacity of 173.6 mAh g–1 at 8 mA cm–2. When paired with a lithium metal anode, a remarkable energy density of 570.49 Wh kg–1 is achieved. This work underscores the significance of structural design in reconciling the charge transport efficiency and mechanical robustness for thick electrodes, offering a promising pathway for developing high-energy-density batteries.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;A Highly Conductive 3D Interconnected Framework with Stress Buffering for Enhanced Electrochemical and Mechanical Performance in Thick Cathodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02364&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02364"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>&lt;i&gt;In Situ&lt;/i&gt; Atomic-Scale Visualization of Interface Relaxation Pathways and Stacking-Registry Evolution in 2D MoS2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02613</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02613</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Understanding transient kinetic pathways governing the bottom-up synthesis of 2D MoS2 is critical for deterministic growth. Here, utilizing an atomically resolved graphene-based microreactor for in situ heating transmission electron microscopy, we directly visualize the interface relaxation pathways and stacking-registry evolution during the growth of MoS2, advancing beyond the mere observation of its continuous growth dynamics. We reveal that lateral expansion is driven by dynamic edge reconstructions, as kinetically metastable states spontaneously relax into thermodynamically favored zigzag configurations. During subsequent domain coalescence, the dynamic interface relaxation is achieved across three distinct modes: defect-forming gap healing, strain-regulated seamless stitching, and rigid-body oriented attachment, which robustly accommodate lattice misorientations. Furthermore, intrinsic in-plane mirror twin boundaries induce localized structural distortions that mediate out-of-plane interlayer sliding, transiently stabilizing nonequilibrium bilayer stacking registries. By resolving these dynamic atomic fluctuations, our work establishes a fundamental mechanistic framework linking growth kinetics to the synthesis of 2D materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Atomic-Scale Visualization of Interface Relaxation Pathways and Stacking-Registry Evolution in 2D MoS2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02613&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02613"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Charge-Induced Dynamics in Hexagonal Boron Nitride Nanoelectromechanical Resonators</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01552</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01552</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We demonstrate electrostatic actuation of insulating nanodrums made of hexagonal boron nitride (hBN), a van der Waals large bandgap dielectric. Without the explicit conductive layer, we utilize a nonuniform electric field for the electrostatic actuation. The fundamental resonance mode, observed near 26 MHz, exhibits an unconventional linear resonance frequency dispersion with applied DC bias voltage. A bias-dependent frequency drift of the nanodrums over an extended period of time suggests slow charge dynamics in the hBN drum. Band-bending analysis and wavelength-dependent optical excitation reveal deep defect states in hBN that experience bias and photoassisted ionization, resulting in asymmetric charge buildup for opposing bias polarities. Our experimental findings and theoretical analysis demonstrate that electrostatically driven hBN drums serve as a sensitive platform for investigating charge dynamics and defect physics in insulating two-dimensional materials, thereby paving the way for novel nanoelectromechanical systems-based sensors and charge-controlled mechanical devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Charge-Induced Dynamics in Hexagonal Boron Nitride Nanoelectromechanical Resonators&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01552&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01552"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Synergistic Ionicity and Phase Regulation Enable Ultrahigh Potassium-Ion Conductivity in KxMg(1+x)/3Sb(2-x)/3O2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02640</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02640</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Although layered tellurates show high sodium-ion conductivities, their potassium analogs exhibit a low conductivity of ∼0.0016 mS cm–1 at room temperature. Herein, by synergetic ionicity and phase regulation, we fabricated layered potassium antimonates (KxMg(1+x)/3Sb(2-x)/3O2) of ionic conductivity about 2 orders of magnitude higher than tellurates. Unlike Te–O bonds in K2Mg2TeO6, Sb–O bonds in the antimonate system are predominantly ionic, causing weak interactions with K+ ions and low activation energies for K-ion migration. P2 and P3 phases of KxMg(1+x)/3Sb(2-x)/3O2 exhibit distinct K-ion conductivities, governed by the K stoichiometry and sintering temperature. Consequently, the K0.59Mg0.53Sb0.47O2 sample prepared at 1025 °C delivers the highest K-ion conductivity of 0.101 mS cm–1 at room temperature, a value comparable to that of potassium-containing sulfides. This solid electrolyte demonstrates high reversibility and structural stability upon exposure to humid air, good electrochemical compatibility with K anodes, and holds promise for application in solid-state potassium batteries.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synergistic Ionicity and Phase Regulation Enable Ultrahigh Potassium-Ion Conductivity in KxMg(1+x)/3Sb(2-x)/3O2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02640&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02640"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 12:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:56:18 +0000</lastBuildDate>
+    <item>
+      <title>Localization of Apicomplexa Motor Myosin A with Axial Nanometric Precision Using Graphene Energy Transfer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01982</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01982</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Apicomplexan parasites exhibit gliding motility, a fast locomotion mode, yet the precise localization of the migration motor myosin A (MyoA) remains unresolved because of limitations in light microscopy axial resolution, leading to two competing models: one placing MyoA in the cytoplasm and the linear model positioning it between the plasma membrane and the inner membrane complex (IMC), a doubled membrane underneath. To distinguish between these models, we applied graphene energy transfer (GET), a fluorescence-based axial ruler with nanometer precision, and determined the vertical position of MyoA relative to IMC1, a structural IMC marker. GET measured IMC dimensions with accuracy comparable to electron microscopy while preserving molecular specificity. The results were independently validated using live stimulated emission depletion (STED) imaging of vertically oriented parasites in agarose cylinders and expansion microscopy STED. Our data localize a major fraction of MyoA within the membrane–IMC space, supporting a linear motor model and establishing GET for nanoscale protein mapping.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Localization of Apicomplexa Motor Myosin A with Axial Nanometric Precision Using Graphene Energy Transfer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01982&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01982"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Charge-Resonance Polymerization at Donor–Acceptor Interfaces Enables Large-Area Organic Magnetic Membranes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02236</link>
@@ -19,6 +31,42 @@
 </content:encoded>
     </item>
     <item>
+      <title>Multifunctional Single-Transistor Architecture Enabled by Nonvolatile Band Rearrangement in 2D Ferroelectric Tunneling Junction</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02966</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02966</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract A defining challenge for next-generation nanoelectronics is integrating diverse functionalities within a single device while strictly minimizing power consumption. Two-dimensional (2D) ferroelectrics, with their atomic-scale nonvolatility, offer a promising platform for such architectural innovation. Here, we theoretically propose a multifunctional single-transistor (1T) architecture embedding a 2D ferroelectric tunneling junction at the source–channel interface. Polarization reversal deterministically drives a nonvolatile band rearrangement, toggling the interface between a gapless type-III and a gapped type-I/II alignment. Demonstrated in an Al2S3/WTe2 device example, this mechanism seamlessly unifies dual electrical merits: the type-III alignment facilitates cold-source injection for an ultrasteep subthreshold swing of 28.3 mV/dec, while the polarization-induced barrier delivers a widely tunable, giant tunneling electroresistance ratio of up to 109. Exploiting these traits, we demonstrate 1T logic-in-memory operation potential, including a nonvolatile logic gate and a conditional readout secure memory. This paradigm provides a compelling theoretical foundation for highly integrated and low-power nanoelectronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Multifunctional Single-Transistor Architecture Enabled by Nonvolatile Band Rearrangement in 2D Ferroelectric Tunneling Junction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02966&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02966"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Rational Ligand Engineering Enables Emission-Tunable Copper Nanoclusters for High-Performance LEDs</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03025</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03025</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metal nanoclusters with atomic precision represent a highly attractive platform for designing optoelectronics, yet achieving controllable emission tuning and translating structural modulation into high-performance electroluminescent devices remains a major challenge. Here we realize precise emission wavelength tuning from yellow to red by rational ligand engineering toward a family of atomically precise Cu2(BINAP)2(SR)2 clusters. The modulation mechanism of the correlations between electron-withdrawing capability of substituents and tunable emission wavelengths was clearly elucidated by density functional theory calculations. Besides, the methyl-functionalized Cu2 clusters show remarkably enhanced photoluminescence intensity, and the cluster-based emitters in light-emitting diodes displays a high external quantum efficiency of 14.53%, together with favorable brightness and efficiency stability. This work not only validates the effectiveness of ligand substitution in tailoring the photophysical properties of copper clusters but also establishes a general design route toward high-performance, color-tunable cluster-based luminescent materials for advanced optoelectronic applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Ligand Engineering Enables Emission-Tunable Copper Nanoclusters for High-Performance LEDs&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03025&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03025"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Kinetic–Thermodynamic Coupling for Enhanced Water Isotopologue Separation Via Solar-Powered Diffusion–Evaporation</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03188</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03188</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Separating water isotopologues is highly energy-intensive because the nearly identical physicochemical properties of H2O and D2O impose intrinsically small thermodynamic differences, limiting the efficiency of conventional thermal separation processes. Here, we report a solar-powered diffusion-evaporation coupling (SDEC) strategy that integrates nonequilibrium transport with interfacial phase transition to enable efficient H2O/D2O separation. The proof-of-concept separator comprises a photothermal two-dimensional nanofluidic membrane constructed from cellulose-nanofibril-intercalated porous MXene nanosheets. In the SDEC separator, solar-powered transpiration drives directional flow through confined nanochannels, and the local temperature increase amplifies the kinetic diffusion differences between H2O and D2O, achieving high selectivity. Selectivity at the evaporation interface is further enhanced by nanoconfinement-induced modulation of isotopologue evaporation enthalpies. Under one-sun illumination, the SDEC separator achieves a separation factor of 1.84. A five-stage SDEC device further reduces the D2O concentration from 10 vol % to 0.45 vol %, sustaining a stable daily condensate yield of 4.3 kg·m–2.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Kinetic–Thermodynamic Coupling for Enhanced Water Isotopologue Separation Via Solar-Powered Diffusion–Evaporation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03188&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03188"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Three-Dimensional Visualization of Conductive Filaments in TiO2 via Conductive Atomic Force Microscopy Tomography</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02423</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02423</guid>
@@ -28,6 +76,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02423&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02423"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Lipid Nanoparticle Protein Coronas Arise through Lipoprotein Fusion Rather Than Shell-like Adsorption</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c00689</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c00689</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The protein corona influences the in vivo biodistribution of ionizable lipid nanoparticles (LNPs) in nucleic acid delivery, yet their structural architecture remains poorly defined. Using cryo-transmission electron microscopy, we visualized LNP–protein interactions in their native state. We show that, unlike the discrete “fuzzy” shells observed on hard nanoparticles, LNPs displayed no peripheral protein shell. Instead, controlled incubation and competitive “dual-particle” assays, supported by molecular dynamics simulations, indicate that LNP membranes undergo localized thickening and electron-dense remodeling consistent with lipoprotein integration rather than surface adsorption. Similar features were observed in extracellular vesicles, suggesting that this behavior is shared among lipid-based carriers, and proteomic analysis identified apolipoproteins as the dominant associated proteins. Together, these findings support a model in which the biological identity of LNPs arises through membrane remodeling rather than shell-like adsorption and provide a framework for the rational design of targeted nanomedicines.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Lipid Nanoparticle Protein Coronas Arise through Lipoprotein Fusion Rather Than Shell-like Adsorption&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00689&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00689"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -544,66 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01487&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01487"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Targeting PD-L1 Glycosylation with Site-Specific Aptamers for Enhanced Immune Checkpoint Blockade</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01322</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01322</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Programmed death-ligand 1 (PD-L1) critically relies on extensive N-glycosylation at four conserved sites to regulate its immune-checkpoint function. However, the distinct roles of individual glycans remain poorly understood because of a lack of site-specific tools, which also limits the efficacy of current PD-1/PD-L1 blockade therapies. Here, we developed a glycoprotein-targeted Systematic Evolution of Ligands by EXponential enrichment platform (Glyco-SELEX) using an indole-incorporated DNA library to screen aptamers against epitope-specific glycans. Using natively glycosylated PD-L1 isolated from cell membranes as the selection target, we identified a panel of aptamers that can discriminate glycosylation sites on PD-L1. Our results demonstrated that aptamers targeting glycans at the N35 or N192 site effectively disrupt the PD-1/PD-L1 interaction. Moreover, by engineering a bivalent aptamer directed against both sites, the antitumor activity of CAR-T cells was significantly enhanced. This work not only resolves the functional ambiguity of PD-L1 glycosylation but also establishes a versatile platform for developing therapeutics against epitope-specific glycans.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Targeting PD-L1 Glycosylation with Site-Specific Aptamers for Enhanced Immune Checkpoint Blockade&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01322&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01322"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>High-Entropy Sulfides in Electrochemical Energy Storage: Evolution, Advanced Applications, and Future Prospects</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02489</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02489</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract High-entropy sulfides (HESs) integrate the high ionic conductivity of sulfide materials with the structural tunability of high-entropy design, demonstrating immense potential in advanced energy storage. This review systematically traces the development trajectories of HESs across four key domains: solid-state electrolytes, lithium–sulfur batteries, lithium/sodium-ion batteries, and supercapacitors. By critically examining the evolving “composition–structure–performance” relationships, we highlight breakthroughs in key metrics, including ionic conductivity, cycle life, rate capability, and specific capacitance. Crucially, insights reveal that crystal structure primarily determines the attainable performance window, whereas configurational entropy mainly improves structural stability and transport homogeneity. Therefore, the most effective design strategy avoids simply maximizing entropy. Instead, it combines favorable structural frameworks with moderate high-entropy engineering, often reinforced by nanoscale architectures. Ultimately, this work provides a clear historical framework and forward-looking guidance, emphasizing the need for rigorous validation in practical full cells to verify the intrinsic contributions of high-entropy effects.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;High-Entropy Sulfides in Electrochemical Energy Storage: Evolution, Advanced Applications, and Future Prospects&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02489&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02489"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Two-Channel Anomalous Hall Effect in Epitaxial MnBi2Te4/Mn-Doped Bi2Te3 Heterostructure</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01588</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01588</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The coexistence of intrinsic magnetism and nontrivial band topology in MnBi2Te4 provides a fertile platform for exploring exotic quantum phenomena. Its tunable spin dynamics under external magnetic fields, combined with the van der Waals (vdW) layered nature, further enables the design of functional heterostructures with controllable magnetic and topological properties. Here, we report an observation of a two-channel anomalous Hall effect (AHE) in an epitaxial MnBi2Te4/Mn-doped Bi2Te3 vdW heterostructure. Notably, the Hall response exhibits unconventional nonsquare Hall hysteresis loops with pronounced hump-dip features, indicative of a two-channel AHE. Through temperature- and angle-dependent Hall measurements, we attribute this two-channel AHE to distinct magnetic critical behaviors of antiferromagnetic MnBi2Te4 and ferromagnetic Mn-doped Bi2Te3 layers and further reveal magnetic phase transitions under rotating magnetic fields. Our results establish a versatile platform for engineering multichannel AHE and provide new opportunities for exploring intertwined magnetic and topological phenomena in tailored vdW heterostructures.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Two-Channel Anomalous Hall Effect in Epitaxial MnBi2Te4/Mn-Doped Bi2Te3 Heterostructure&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01588&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01588"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Correction to “Cavitation-on-a-Chip Enabled Size-Specific Liposomal Drugs for Selective Pharmacokinetics and Pharmacodynamics”</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02533</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02533</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c02533</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Correction to “Cavitation-on-a-Chip Enabled Size-Specific Liposomal Drugs for Selective Pharmacokinetics and Pharmacodynamics”&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02533&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02533"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ag-Nanoseed-Mediated Deposition Kinetics and Crystallization Boosting toward Efficient Electrodeposited CZTSe Solar Cells on Transparent FTO Substrates</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02750</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02750</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electrodeposited Cu2ZnSn(S,Se)4 (CZTSSe) on fluorine-doped tin oxide (FTO) is promising for transparent photovoltaic devices yet constrained by inhomogeneous nucleation, inferior crystallization, and severe back-contact barriers, limiting its efficiency to ∼4.7%. Herein, a Ag nanoseed layer is developed to synergistically regulate the electrodeposition kinetics and postselenization crystallization. The Ag nanoseeds afford abundant highly active heterogeneous nucleation sites to reduce Cu2+ migration barriers and yield dense uniform metallic precursors. Upon selenization, the generated low-melting Ag–Sn–Se liquid phase accelerates grain growth and suppresses deep-level defects. Meanwhile, Ag incorporation tailors interfacial energy-level alignment and converts the unfavorable Schottky hole barrier into a hole-transport-favorable interface. Owing to these combined effects, the optimized device achieves an impressively enhanced efficiency from 3.22% to 6.30%, setting a new efficiency record for FTO-based electrodeposited CZTSe devices. This work offers a facile route toward efficient, low-cost chalcogenide photovoltaics for transparent optoelectronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ag-Nanoseed-Mediated Deposition Kinetics and Crystallization Boosting toward Efficient Electrodeposited CZTSe Solar Cells on Transparent FTO Substrates&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02750&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02750"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

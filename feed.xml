@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 18:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 01:28:40 +0000</lastBuildDate>
     <item>
       <title>Localization of Apicomplexa Motor Myosin A with Axial Nanometric Precision Using Graphene Energy Transfer</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01982</link>
@@ -64,6 +64,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03188&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03188"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Symmetry-Dictated Switching of Antiferromagnetic Magnon Transport in 2D Multiferroics</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02164</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02164</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract While antiferromagnetic magnons in two-dimensional (2D) materials hold immense promise for high-frequency spintronics, achieving their efficient active control remains a critical challenge. Here, we propose a universal mechanism for the nonvolatile ferroelectric (FE) switching of antiferromagnetic magnon transport in 2D multiferroic lattices. Our mechanism relies on coupling the magnon geometric phase to the FE-induced sublattice asymmetry in exchange and Dzyaloshinskii-Moriya interactions. This explicitly breaks the exact compensation of opposite-chirality magnons inherent to collinear antiferromagnets, lifting their spin degeneracy and inducing a highly tunable net Berry curvature. Crucially, reversing the FE polarization deterministically swaps these magnetic asymmetries, which completely inverts the net magnon Berry curvature and the resulting anomalous thermal Hall conductivity. Using first-principles and linear spin-wave theory, we rigorously validate this geometric-phase-driven mechanism in single-layer CuCr2Se4. Our findings establish a robust paradigm for coupling multiferroicity with the magnon geometric phase, paving the way for nonvolatile and electrically switchable antiferromagnetic magnonics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Symmetry-Dictated Switching of Antiferromagnetic Magnon Transport in 2D Multiferroics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02164&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02164"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02170&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02170"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Revisiting the Gold–Carbon Stretching Frequency: Spectroscopic and Computational Analysis of &lt;i&gt;N&lt;/i&gt; -Heterocyclic Carbene Monolayers on Nanostructured Gold Surfaces</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01487</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01487</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract N-Heterocyclic carbenes (NHCs) are notable ligands in surface and nanomaterial chemistry due to their improved stability compared with thiol self-assembled monolayers (SAMs). This stability originates from a strong carbon–gold bond; hence, insights into binding of NHCs on metal surfaces are valuable, with implications in many fields. In this work, 5-functionalized 1,3-diisopropyl benzimidazolium NHCs were deposited on nanostructured gold and analyzed using surface-enhanced Raman spectroscopy (SERS) to study the tuning of the carbon–gold stretching frequency (ca. 800 cm–1) based on 11 derivatives. Density functional theory (DFT) analysis demonstrated that the C–Au bond strength is not reflected in the SERS vibration, but the R-group does influence the ligand–Au interaction, with more electron-donating groups associated with increased bond strength (up to 4.63 kcal mol–1). Therefore, the C–Au stretching frequency from the SERS spectra is not a direct measure of the carbon–gold bond strength.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Revisiting the Gold–Carbon Stretching Frequency: Spectroscopic and Computational Analysis of &amp;lt;i&amp;gt;N&amp;lt;/i&amp;gt; -Heterocyclic Carbene Monolayers on Nanostructured Gold Surfaces&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01487&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01487"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

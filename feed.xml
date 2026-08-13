@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 01:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:20:05 +0000</lastBuildDate>
+    <item>
+      <title>Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02367</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02367</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ultrasmall PbSe magic-sized clusters (MSCs) are important for probing the nucleation of nanocrystals and their optical properties under strong quantum confinement. The smallest PbSe MSC observed so far in the growth sequence has an absorption maximum at 625 nm. Here, we identify two even smaller PbSe MSCs, with absorption maxima at 510 and 565 nm, respectively. Both reaction kinetics and solvent environments are crucial for observing these two ultrasmall MSCs. An unusual blue emission appears during the nucleation stage, which evolves into more intense orange and red emissions of MSCs. Structural characterization reveals that the PbSe-565 MSC is most likely to have an expanded octahedron structure (Oh-3.5) with a core formula of Pb60Se28, a “half-size” smaller than that of the PbSe-625 MSC (Oh-4). The ultrasmall MSCs mark the critical transition from molecular precursors to cluster nuclei, providing important insights into the “birth” of IV–VI nanocrystals.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02496</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02496</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We report acoustic control of spin resonance in nitrogen-vacancy (NV–) centers in diamond using low-frequency free-space sound waves. Acoustic excitation redistributes spin populations between the |+1⟩ and |−1⟩ states, producing an asymmetric, tunable double-dip ODMR spectrum without shifting resonance frequencies. This contrasts with conventional magnetic-field-induced splitting and reveals a previously unobserved mechanism for spin manipulation via strain-mediated acoustic coupling. Analytical modeling captures the essential features of the amplitude flipping and elucidates the underlying spin-strain interaction. Our findings establish a new degree of freedom for selective multimodal quantum sensing and open avenues for hybrid spin-mechanical quantum devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02496&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02496"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Correction to “Surgical Tumor-Derived Photothermal Nanovaccine for Personalized Cancer Therapy and Prevention”</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03634</link>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02380&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02380"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Modulation of Charge Density Waves in a Twirling Moiré Superlattice</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02529</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02529</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Twisted moiré superlattices provide a powerful platform for engineering correlated electronic states, yet continuous nanoscale manipulation of collective orders remains largely unexplored. Here, we report the modulation of charge density wave (CDW) states in a twisted twirling moiré superlattice formed by monolayer VTe2 on superconducting NbSe2. Scanning tunneling microscopy/spectroscopy reveals that the intrinsic long-range CDW of monolayer VTe2 is reconstructed into inequivalent local phases with distinct stability and coherence within a single moiré unit cell, including suppressed CDW order and enhanced short-range CDW correlations persisting to room temperature. First-principles calculations attribute the reconstructed CDW landscape to strong local strain variation, with compressive strain significantly stabilizing the charge order. The reconstructed CDW further exhibits an anticorrelated modulation with proximity-induced superconductivity. Our results establish twirling moiré superlattices as a versatile platform for nanoscale manipulation of correlated electronic orders in low-dimensional quantum materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Modulation of Charge Density Waves in a Twirling Moiré Superlattice&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02529&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02529"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Alkali-Assisted Stitching Growth of Centimeter-Scale PtSe2 Films from Unidirectionally Aligned Millimeter-Scale Ribbons</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02618</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02618</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Seamless stitching of aligned two-dimensional (2D) domains offers a promising route toward scalable single-crystal 2D materials but remains challenging for platinum diselenide (PtSe2), whose strong interlayer interaction favors vertical stacking over lateral growth. Here, we report a chemical vapor deposition strategy combining substrate engineering with OH-assisted growth to achieve stitched PtSe2 films. Localized prestrain followed by strain-relief annealing converts polycrystalline Au foils into centimeter-scale high-index single-crystal substrates, enabling the growth of dense, unidirectionally aligned millimeter-scale PtSe2 ribbons. Introducing NaOH into the precursor promotes lateral epitaxy while suppressing vertical overgrowth, allowing adjacent ribbons to stitch into continuous, predominantly single-crystal PtSe2 films down to the monolayer limit. The resulting films exhibit thickness-dependent electrical properties, evolving from semiconducting to bipolar semiconducting and semimetallic behavior. This strategy provides a practical route for scalable PtSe2 synthesis and highlights alkali-assisted epitaxy as a general approach for growing two-dimensional transition metal dichalcogenides.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Alkali-Assisted Stitching Growth of Centimeter-Scale PtSe2 Films from Unidirectionally Aligned Millimeter-Scale Ribbons&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02618&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02618"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

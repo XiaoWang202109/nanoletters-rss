@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 18:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 01:29:57 +0000</lastBuildDate>
     <item>
       <title>Nanoscale Penetration Depth of Emergent Magnetic Field at an Oxide Spin-Ice/Metal Interface</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01971</link>
@@ -28,6 +28,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Chemically Gated Reconfigurable Nanofluidic Synapse Enables Metaplasticity and Neuromorphic Sound Recognition</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c00926</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c00926</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metaplasticity, the adaptive regulation of synaptic plasticity, is fundamental to biological information processing but remains challenging to implement in artificial systems, especially in fluidic environments. Herein, we address this challenge by developing a graphene oxide-based nanofluidic synapse capable of reconfigurable plasticity, where synaptic plasticity can be reversibly regulated via extrinsic ionic cues. Specifically, modulating the electrolyte’s trivalent Y3+ ion concentration allows the device to be switched among diverse synaptic plasticity forms within one physical architecture. Combined experimental and theoretical analyses indicate that Y3+ migration on the nanochannel surface modulates the surface charge, thereby gating K+ and Cl– transport kinetics and enabling tunable synaptic dynamics. Consequently, Y3+ concentration acts as a prior contextual signal that preconditions the synaptic response to subsequent electrical stimuli and implementing chemically gated metaplasticity. Finally, using devices with complementary plasticity, we demonstrate a neuromorphic sound recognition system that achieves substantially higher accuracy than one using uniform synapses.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Chemically Gated Reconfigurable Nanofluidic Synapse Enables Metaplasticity and Neuromorphic Sound Recognition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00926&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00926"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -64,6 +76,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02254&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02254"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Geometric Engineering of Flat Bands in a Single-Layer Photonic Graphene</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02836</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02836</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Photonic flat-bands offer significant potential for light–matter interactions and nonlinear optics, thanks to their localization of light and high density of states. However, realizing flat-bands requires intricate fabrication, alignment, and/or specialized geometries. Here, we demonstrate a simple yet versatile strategy to engineer flat-bands above the light line, using only a single-layer honeycomb photonic crystal slab. By applying a density wave-like geometric perturbation, we couple intrinsic flat-band states from below the light cone into the radiative continuum that creates an anisotropic band structure exhibiting Dirac-like and flat dispersions along orthogonal directions. Furthermore, we can manipulate the mass term to realize band inversion and switch between two topologically distinct phases. We demonstrate a Jackiw–Rebbi state at the junction of two phases with opposite Dirac mass, exhibiting flat-band dispersion along the interface. Our approach provides a fabrication friendly platform for programming photonic band dispersions, opening avenues for topological photonics and practical flat-band optoelectronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Geometric Engineering of Flat Bands in a Single-Layer Photonic Graphene&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02836&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02836"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02878&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02878"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultraconfined Plasmons in Ultrathin Gold-Based Hybrid Plasmonic Structures</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02182</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02182</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Plasmons in few-nanometer-thick metals have attracted great research interest due to their strong optical confinement and electro-optic tunability. However, further optical confinement by reducing the metal thickness to subnanometer scale is difficult, and the dramatic momentum mismatch makes the excitation extremely challenging. Here, we overcome these challenges by integrating ultrathin gold with a silicon nanoribbon array (separated by a few-nanometer-thick silica) to form a hybrid plasmonic structure. The coupling between the ultrathin gold and high-refractive-index silicon not only increases the in-plane wavelength compression ratio up to ∼8 around 1410 nm wavelength but also squeezes the optical fields strongly into the silica spacer in the out-of-plane direction. Using a plasmon conversion approach, we efficiently excite ultraconfined plasmons in a 3.5 nm-thick gold-based hybrid structure with ∼45% absorption. By replacing the intrinsic silicon with highly doped silicon, we further create a compact plasmonic tunnel junction array, enabling direct electrical excitation of ultraconfined plasmons.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultraconfined Plasmons in Ultrathin Gold-Based Hybrid Plasmonic Structures&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02182&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02182"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Remodeling Interfacial Hydrogen-Bond Network Via Crystal Facet Control for Efficient Urea Electrosynthesis</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02552</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02552</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The electrochemical coreduction of CO2 and nitrate for urea synthesis is hindered by competing side reactions due to conflicting proton demands. Here, using facet-engineered Cu2O nanocrystals, we find that the (100) facet achieves a urea yield of 84.4 mmol h–1 gcat–1, 3.2- and 3.7-fold those of the (111) and (110) facets, and a Faradaic efficiency of 32%, which outperforms the 11% and 8% on the other two facets. By integrating in situ Raman spectroscopy with ab initio molecular dynamics simulations, we elucidate that the (100) facet preferentially accumulates hydrated K+ cations to reorient interfacial water into a constrained “one-H-down” conformation. This restructuring limits proton availability to suppress parasitic H2 and NH3 formation, while the K+-rich field stabilizes *CO and *NO intermediates via electrostatic effects. The combined action of proton restriction and intermediate stabilization lowers the kinetic barrier for C–N coupling and selectively promotes urea formation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Remodeling Interfacial Hydrogen-Bond Network Via Crystal Facet Control for Efficient Urea Electrosynthesis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02552&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02552"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

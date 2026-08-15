@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 12:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:21:36 +0000</lastBuildDate>
+    <item>
+      <title>Sensitive and Reproducible SERS Profiling of Tumor-Derived EVs via Uniform Microfluidic Nanobowl Arrays for Pancreatic Cancer Management</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02493</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02493</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Tumor-derived extracellular vesicles (EVs) are promising liquid biopsy biomarkers, yet their clinical translation is hindered by the trade-off between enhancement and reproducibility of SERS-based detection. Here, we present a microfluidic SERS platform integrating plasmonic nanobowl arrays that simultaneously achieve a high enhancement factor and signal reproducibility. Periodic nanobowl architectures generate consistent plasmonic hotspots, breaking the typical compromise between sensitivity and uniformity. The aptamer-modified chip enables quantification of EV markers and achieved a calculated analytical limit of detection of 2.5 × 103 particles mL–1 for purified cell line EVs and 1.2 × 104 particles mL–1 for ultrafiltration-pretreated plasma. In a pancreatic cancer mouse model, the platform tracked tumor progression longitudinally, with SERS signals correlating with bioluminescence imaging (r &amp;amp;gt; 0.83). In a pilot clinical study, multimarker analysis achieved 93.33% diagnostic accuracy and effectively monitored chemotherapy response (AUC = 0.80–0.96). This robust platform provides a promising tool for EV-based precision oncology.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Sensitive and Reproducible SERS Profiling of Tumor-Derived EVs via Uniform Microfluidic Nanobowl Arrays for Pancreatic Cancer Management&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02493&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02493"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Conjugated Coordination Polymer Aerogels with Unsaturated Single-Atom Metal Sites for Efficient Neutral Oxygen Evolution</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03220</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03220</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Designing high-performance single-atom catalysts with a precisely designed configuration is important in extensive energy-conversion technologies, which presents enormous potentials to be extensively applied. Defect-enriched conjugated coordination polymer aerogels (d-CCPAs) with abundant coordinatively unsaturated single-atom metal sites and the counterpart conjugated coordination polymer aerogel were developed, with Ni1–O2 and Ni1–O4 motifs employed as model systems for comparative investigation. Our findings reveal that the Ni1–O2 sites with elevated Ni d-band centers lower the thermodynamic barrier for the neutral OER, while the defective structure of d-CCPA accelerates reactant transport and improves active-site accessibility. Consequently, the d-CCPA delivers an ultralow overpotential of 213 mV at 10 mA/cm2 and maintains good durability over 400 h. Such d-CCPA catalysts feature exceptional tunability of active sites given the diversities of metal precursors and organic ligands, holding immense potential for application in widespread catalytic reactions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Conjugated Coordination Polymer Aerogels with Unsaturated Single-Atom Metal Sites for Efficient Neutral Oxygen Evolution&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03220&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03220"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Bicontinuous Rubbery Semiconductors Enable Intrinsically Stretchable Transistors for Ultrasensitive Tactile Electronic Skins</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02948</link>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03283&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03283"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>A Capacitorless Graphene Drain Impact Ionization Memory with Ultralow Write Pulses</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02543</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02543</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Reducing write voltage directly improves energy efficiency of memories. Here, we demonstrate a capacitorless graphene-drain impact-ionization memory with symmetric ±200 mV write pulses. The device integrates a graphene/silicon heterojunction drain into a silicon-on-insulator transistor, creating a strong drain-side electric field that triggers impact ionization and carrier multiplication to abruptly increase current at the threshold voltage. Thus, the device achieves subthreshold swings of 0.29 and 0.25 mV/dec for the forward and backward sweeps, respectively. Meanwhile, floating-body charge storage creates a stable ∼0.2 V hysteresis window, enabling state switching with a 200 mV (&amp;amp;gt;1/2 hysteresis window) gate-voltage excursion. These characteristics enable capacitorless memory operation with record-low write-pulse voltages. A 200 mV/10 ns pulse writes the ‘1’ state and produces a 3.2 decade current-state margin, whereas a −200 mV/10 ns pulse writes the ‘0’ state and produces a 3.9 decade current-state margin. Leveraging these attributes, a 1T low-swing pulse encryption scheme is further demonstrated for low-power encoding of pulse sequences.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;A Capacitorless Graphene Drain Impact Ionization Memory with Ultralow Write Pulses&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02543&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02543"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultrastrong and Transparent Wood Film Enabled by Interfacial Interlocking</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02038</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02038</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Developing high-performance biomass materials with excellent mechanical strength and recyclability is essential for addressing resource crises and environmental pressures. Natural wood possesses a highly oriented cellular framework that provides high load-bearing potential. However, the weak interfacial connections lead to limited mechanical performance, severely restricting its engineering applications. Herein, we proposed an interfacial interlocking strategy that converts natural wood veneer into an interfacial interlocking wood film (IIWF). By the introduction of homologous cellulose, continuous cross-scale connections are established between cell wall microfibrils, transforming the discrete interface regions into a synergistic load-bearing network. The resulting IIWF achieves a tensile strength of 731.2 MPa, excellent flexibility, and optical properties (transmittance 79.6%, haze 71.0%). This reconstruction strategy does not rely on heterogeneous reinforcing phases, maintaining material homology and environmental compatibility throughout the process. This study provides a new path for the development of renewable, high-strength, transparent materials, with a wide range of applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrastrong and Transparent Wood Film Enabled by Interfacial Interlocking&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02038&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02038"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

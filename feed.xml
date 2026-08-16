@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 12:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:21:29 +0000</lastBuildDate>
+    <item>
+      <title>Step-Induced Strain in Curved van der Waals Nanoribbons</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02781</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02781</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Surface atoms generally experience tensile stress owing to reduced coordination. For example, Pt(111) steps can induce up to 5.5% strain and nearly a 50-fold activity enhancement. This step picture, however, is fundamentally altered in van der Waals (vdW) layered materials, where weak interlayer coupling largely relaxes step-induced strain. Here, we revisit vdW structures and show that one-dimensional curved edges intrinsically sustain localized step-induced strain. Density functional theory calculations reveal that narrowing the terrace width enables localized compressive strain and favorable hydrogen adsorption. Using PtSe2 as a model system, we synthesize monolayer nanoribbons with high-curvature edges and link their average curvature to the effective terrace width through an equivalent terrace model. Further, microelectrochemical measurements verify the resulting enhancement in hydrogen evolution activity. Our work reveals that discrete in-plane atomic steps induce spatially heterogeneous strain and modulate catalytic performance in vdW materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Step-Induced Strain in Curved van der Waals Nanoribbons&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02781&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02781"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Symmetry-Tunable Skyrmions and Merons in Magnetic Nanodisks via Spatially Engineered Anisotropy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01154</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01154</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We demonstrate that spatially engineered magnetic anisotropy can stabilize skyrmion and meron spin textures in magnetic nanodisks even in the absence of Dzyaloshinskii–Moriya interaction (DMI). Using a constrained analytical model and micromagnetic simulations, we show that competing perpendicular and in-plane anisotropies can generate noncollinear topological textures in nonchiral magnetic systems. We further show that DMI and dipolar interactions lift the helicity degeneracy and select preferred chiral configurations; micromagnetic simulations were used to identify physically stable states. These results establish anisotropy-patterned nanodisks as a platform for studying DMI-free topological spin textures and their controllable magnetic response. We also show that arrays of anisotropy-engineered skyrmions can control spin-wave transmission by manipulating their vorticity arrangement, pointing to reconfigurable magnonic elements based on nonchiral topological textures.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Symmetry-Tunable Skyrmions and Merons in Magnetic Nanodisks via Spatially Engineered Anisotropy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01154&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01154"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Strain-Tunable Altermagnetism in Bilayer Perovskites Mediated by Jahn–Teller Distortions</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03044</link>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02554&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02554"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Optical Modulation Due to Energy Exchange between Photonic and Exciton Modes in the Intermediate Coupling Regime</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01872</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01872</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Actively tunable photonic devices are vital for next-generation optoelectronics, requiring rapid switching and high bandwidth. Although organic optoelectronic devices have found wide applications, their use as optical modulators has been limited by low absorption in the critical near-infrared (NIR) region, a slow response time, and weak nonlinearities. To address these limitations, we developed a scheme based on intermediate exciton–photon coupling in an NIR-absorbing squaraine dye-based photonic structure. Using energy-momentum-resolved pump–probe spectroscopy, we show that the sign and magnitude of the optical response of our system depend strongly on the energy detuning between the excitonic and photonic modes. These data are analyzed using temporal coupled-mode theory to show that near resonance, a distinct energy exchange process emerges in the crossover regime between strong and weak light–matter coupling. This effect enables dynamic control over the photoinduced response, providing a pathway for broadband optical signal modulation extending into the NIR spectral region.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Optical Modulation Due to Energy Exchange between Photonic and Exciton Modes in the Intermediate Coupling Regime&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01872&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01872"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Microfibril Angle–Moisture Synergy Enables Fatigue Resistance in Wood Cell Walls</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02281</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02281</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Wood cell walls have long been recognized as natural fatigue-tolerant composites, yet the nanoscale mechanisms underlying their cyclic recovery remain difficult to resolve experimentally. Using large-scale molecular dynamics simulations, we reveal from an atomistic perspective how wood cell walls recover and resist fatigue, with the microfibril angle (MFA) and moisture synergistically regulating cyclic loading capacity. Higher MFAs can channel strain into interfacial slip and nanoscale delamination, dissipating energy before damage accumulates. Cyclic loading induces reversible reconfiguration of hydrogen bonds (HBs) in cellulose nanofibrils, redistributing stress and causing progressive hardening associated with an incomplete recovery of cellulose nanocrystalline packing. Moisture and higher MFAs act synergistically to balance energy dissipation and structural stability by promoting matrix plastic deformation, HB recovery, and multicycle ductility. Our work provides a mechanistic framework for understanding how wood cell walls can recover, harden, dissipate energy, and delay failure under cyclic deformation, offering bioinspired design principles for high-performance, sustainable materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Microfibril Angle–Moisture Synergy Enables Fatigue Resistance in Wood Cell Walls&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02281&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02281"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

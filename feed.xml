@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 18:32:35 +0000</lastBuildDate>
+    <item>
+      <title>Femtosecond Laser Architecting FeCo Oxides Engineered Ni Foam for Magnetically Controllable Adsorption of Bubbles/Oil Droplets</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02929</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02929</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Industrial development has led to increased pollution from oils and greenhouse gas leakage in marine environments, driving research into stimulus-responsive manipulation platforms for oil and gas adsorption. This study presents an innovative method that combines femtosecond laser processing with vacuum annealing to fabricate a magnetic FeCo/Ni foam. The porous structure and superhydrophobic surface enable efficient adsorption of oil droplets and capture of underwater bubbles. Moreover, the foam can be precisely manipulated in three dimensions underwater using a permanent magnet. Leveraging this capability, we demonstrate applications including oil removal on and below the water surface, obstacle-avoiding droplet transport, and patterned droplet motion. Furthermore, the foam exhibits strong gas-adsorption capacity, facilitating bubble collection and transport through complex underwater environments, and enabling effective gas recovery from gas-rich aqueous media. The developed superwetting material and its straightforward fabrication strategies show broad application potential in water treatment and environmental monitoring.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Femtosecond Laser Architecting FeCo Oxides Engineered Ni Foam for Magnetically Controllable Adsorption of Bubbles/Oil Droplets&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02929&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02929"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Decoding Conductance Dispersion using Single-Molecule Raman Spectroscopy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02803</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02803</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Understanding the structural origins of conductance dispersion remains a central challenge in single-molecule electronics. Here, we correlate vibrational fingerprints with conductance fluctuations in 4,4′-biphenyldithiol (BPDT) junctions to decode the structural origins of the statistical dispersion found in one-dimensional (1D) conductance histograms. As the conductance decreases, the vibrational modes near 1600 cm–1 undergo a distinct sequence. First, a low-frequency peak appears in the high-conductance regime relating to configurations with an extended molecular backbone. Next, two clear Raman peaks can be observed in the vicinity of the conductance peak relating to the equilibrium configuration; and finally, only the high-frequency peak exists in the low-conductance regime relating to configurations with high torsional distortion. Density functional theory (DFT) calculations reproduce both the Raman shift changes and the transmission trends, confirming the assignments. Together, these results provide a statistical framework for decoding the molecular structural origins of conductance dispersion in single-molecule junctions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Decoding Conductance Dispersion using Single-Molecule Raman Spectroscopy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02803&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02803"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Step-Induced Strain in Curved van der Waals Nanoribbons</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02781</link>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01668&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01668"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Electro-Chemo-Mechanical Coupling in Electronically Programmable Surface Electrochemical Actuators</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02184</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02184</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electrochemical nanomembrane actuators offer a route to microscale robots capable of locomotion, interaction, and manipulation. We recently developed platinum (Pt) surface electrochemical actuators (SEAs) that produce large curvature changes through reversible surface oxidation and reduction. Oxide formation during oxidation directly drives the actuator, whereas reduction recovers the initial state. However, the mechanism underlying such self-limited oxidation remains unclear because oxide growth, stress buildup, and bending are intrinsically coupled. Here, we develop an electro-chemo-mechanical model that unifies oxide growth, stress evolution, and curvature generation in Pt SEAs. The model reproduces self-limiting oxidation and identifies two coupled limiting mechanisms: attenuation of the effective electric field as the oxide thickens and compressive stress buildup. We further show that actuation is governed by dynamic stress redistribution within an evolving laminate. With the mapping of the voltage, oxidation time, bilayer geometry, and prestress, the framework defines finite operating windows for efficient, reliable, and programmable microscale actuation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Electro-Chemo-Mechanical Coupling in Electronically Programmable Surface Electrochemical Actuators&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02184&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02184"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>An Injectable Hydrogel Foam Enables Mechanical Resilience and Zero-Order Release of Growth Factors for Intervertebral Disc Repair</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02554</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02554</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Intervertebral disc degeneration (IVDD) is a global challenge to cure effectively. Although current hydrogel-based therapies are promising, they often have difficulty of completely reversing IVDD progression. Herein, we report an injectable and growth factor-laden hydrogel foam (IHFs@GFs) for the treatment of IVDD. IHF is prepared from methylphenyltetrazine-modified hyaluronic acid (HA-MTZ), norbornene-modified gelatin (Gelatin-NB), and norbornene-modified cellulose nanofibers (CNF-NB). MTZ reacts with NB to release N2, spontaneously generating numerous closed and spherical N2 bubbles in hydrogels. These N2 bubbles endow IHF with good mechanical resilience and pressure buffering. Moreover, IHF shows zero-order release of transforming growth factor-β3 and insulin-like growth factor-1. Notably, after 8 weeks of treatment with IHFs@GFs, the disc height and hydration in degenerated IVD are significantly restored to over 90%, thereby enabling effective treatment of IVDD. The IHF integrates biomechanics and zero-order release of biologics within a single system, offering a promising platform for IVDD treatment.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;An Injectable Hydrogel Foam Enables Mechanical Resilience and Zero-Order Release of Growth Factors for Intervertebral Disc Repair&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02554&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02554"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:31:02 +0000</lastBuildDate>
+    <item>
+      <title>Magnetically Induced Oxygen Vacancies and Spin Canting in GdO &lt;i&gt;x&lt;/i&gt; Nanoprobes for Enhanced &lt;i&gt;T&lt;/i&gt; 1-Weighted MRI</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02465</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02465</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Engineering oxygen vacancies at the nanoscale is instrumental for controlling oxygen dynamics that underpin diverse functional behaviors in oxide materials. Here, we present a magnetic-field-assisted synthesis platform that leverages static magnetic fields (3 T) to actively engineer oxygen vacancies in gadolinium oxide (GdOx) nanoparticles. By exploiting Lorentz forces and Zeeman interactions during crystallization, this method induces facet reorientation and disrupts oxygen incorporation, yielding a 3.5-fold increase in surface oxygen vacancies compared with thermal synthesis. These vacancies act as spin-canting centers, amplifying paramagnetic interactions and enhancing magnetic relaxivity. The defect-engineered GdOx nanoprobes provide stronger and more persistent contrast enhancement in tumor-bearing mice than control nanoparticles and clinical Gd-DTPA with negligible gadolinium leakage and complete renal clearance. Beyond biomedical applications, this work establishes magnetic-field-assisted synthesis as a generalizable platform for defect engineering in nanomaterials, offering precise control over spin structures and defect–property relationships.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Magnetically Induced Oxygen Vacancies and Spin Canting in GdO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; Nanoprobes for Enhanced &amp;lt;i&amp;gt;T&amp;lt;/i&amp;gt; 1-Weighted MRI&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02465&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02465"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Gradient Alloy CdSe/CdZnS Nanorods as Polarized Room-Temperature Single-Photon Sources</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03256</link>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02747&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02747"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>High-Speed and High-Gain Graphene Photovoltaic Phototransistor Gated by a van der Waals Heterojunction</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01932</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01932</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Two-dimensional (2D) material-based phototransistors offer a unique combination of optical sensing, signal amplification, and logic operation within a single device, yet they fundamentally suffer from an inherent gain-speed trade-off. Here, we demonstrate a 2D photovoltaic phototransistor that overcomes this limitation by using a MoS2/PtSe2 heterojunction to gate a graphene channel. The ultrafast photovoltaic effect in the heterojunction enables charge separation, yielding an ultrahigh photoconductive gain (up to 108) in the graphene channel via interfacial gating. Besides, the response time (below the instrumental resolution of 550 ns) is governed by carrier transit in the graphene channel, enabling simultaneous high speed and high gain. Moreover, broadband photodetection from visible to near-infrared is enabled by the optical properties of the MoS2/PtSe2 heterojunction, with the detectivity exceeding 1011 Jones. These results establish a new paradigm for high-performance 2D phototransistors by harnessing photovoltaic and photogating effects to overcome the classical gain-speed trade-off.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;High-Speed and High-Gain Graphene Photovoltaic Phototransistor Gated by a van der Waals Heterojunction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01932&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01932"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

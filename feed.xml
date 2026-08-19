@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:59:23 +0000</lastBuildDate>
+    <item>
+      <title>Entangled Telecom Photons Generation Using Twisted van der Waals Crystals</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02461</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02461</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Nanoscale quantum light sources are essential building blocks for integrated quantum photonic systems. Here, we report a wavelength-scale entangled-photon source based on van der Waals-engineered NbOBr2 and benchmark its performance for telecom-wavelength quantum light generation. By exploiting the material’s second-order nonlinearity, we generate quantum-correlated photon pairs via spontaneous parametric down-conversion. We then use a 90° twisted stacking to induce quantum interference in photon-pair generation, yielding polarization-entangled photons. This approach enables tunability of the quantum optical state via control of the excitation laser polarization. We experimentally obtain entanglement fidelities exceeding 95% for Bell states, along with a high coincidence-to-accidental ratio of ∼335 and a brightness approximately 1 order of magnitude higher than recently reported telecom sources based on transition metal dichalcogenide two-dimensional materials. These results establish twisted van der Waals engineering as a powerful platform for highly tunable, high-brightness quantum light sources at telecom wavelengths.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Entangled Telecom Photons Generation Using Twisted van der Waals Crystals&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02461&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02461"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Magnetically Induced Oxygen Vacancies and Spin Canting in GdO &lt;i&gt;x&lt;/i&gt; Nanoprobes for Enhanced &lt;i&gt;T&lt;/i&gt; 1-Weighted MRI</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02465</link>
@@ -28,6 +40,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03256&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03256"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Highly Efficient Postprocessing Cleaning of van der Waals Devices</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02887</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02887</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Interfacial contaminants remain a major technical challenge for van der Waals (vdW) junctions, severely degrading device performance. Given the inherent difficulty of fabricating contaminant-free vdW interfaces, developing effective postfabrication cleaning technologies is crucial for restoring interfacial quality. Existing technologies include annealing, which results in incomplete removal, and AFM-tip squeezing, which is time-consuming and costly. Here, we invent a complete, rapid, and cost-effective electric-field-assisted cleaning method that simultaneously delivers high spatial and temporal efficiency. For a microscale graphite interface, this method removes over 95% of the contaminant coverage within just 20 ms, restoring the interfacial conductivity to its clean-state level without introducing defects. Compared with previous methods, our method achieves a comparable or higher level of contaminant removal while reducing the required time by at least 4 orders of magnitude. We further demonstrate its practical applicability using a microscale superlubric Schottky generator, which transitions from an insulative to a generating state after cleaning. Importantly, the interfacial cleanliness level achieved by our method satisfies U.S. cleanliness standards for aerospace, semiconductor manufacturing, and medical devices, suggesting its broad applicability across multiple industries.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Highly Efficient Postprocessing Cleaning of van der Waals Devices&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02887&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02887"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Fibrous Neuromorphic Electronics: From Single Device to All-Fiber System</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02650</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02650</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Fibrous neuromorphic electronics have emerged as fundamental platforms for somatosensory perception and brain-inspired computing, driven by their one-dimensional (1D) macroscopic flexibility and micro/nanoscale interfaces. This Mini-Review systematically discusses recent advancements in fibrous neuromorphic devices, focusing on underlying physical mechanisms, three-dimensional interface designs, and all-fiber system integration. We discuss the operating principles of two-terminal and three-terminal architectures, highlighting how working mechanisms such as conductive filament formation, phase transitions, and electrochemical redox reactions enable robust artificial synaptic behaviors and complex dendritic computations. Furthermore, we explore the transition of these devices from isolated functional units to closed-loop “sensing-computing-feedback” networks, demonstrating their capabilities in distributed bionic sensing and artificial reflex arcs. Finally, we identify current challenges in manufacturing consistency and kinetic limitations, proposing strategies to realize autonomous, all-fiber intelligent systems for future flexible electronics and embodied intelligent agents.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Fibrous Neuromorphic Electronics: From Single Device to All-Fiber System&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02650&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02650"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02168&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02168"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nitrile–Ether Intramolecular Hybridization Enables Fast-Charging and Wide-Temperature Lithium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02574</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02574</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Acetonitrile-based electrolytes offer excellent bulk transport for high-rate lithium-ion batteries but suffer from poor reductive stability and interfacial incompatibility. Here, we propose an intramolecular hybridization strategy using 3-ethoxypropionitrile (EPN) as an ideal solvent. Incorporation of an ether moiety into the nitrile backbone modulates charge distribution and enhances reductive stability, while steric hindrance promotes an anion-enriched weak-solvation structure. The integrated functional groups also impart amphiphilicity to the solvent, improving wettability toward both the separator and electrodes. This tailored molecular environment facilitates the formation of ultrathin, inorganic-rich interphases on both electrodes, enhancing interfacial stability and ion-transport kinetics. Consequently, EPN-based electrolytes enable 10 C fast-charging and stable operation from −20 to 55 °C. Notably, practical 1 Ah Graphite||LiFePO4 pouch cells retain 83.2% capacity after 1000 cycles at 1 C and 88.6% after 500 cycles at 3 C, demonstrating the promise of molecularly engineered nitrile electrolytes for fast-charging batteries.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nitrile–Ether Intramolecular Hybridization Enables Fast-Charging and Wide-Temperature Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02574&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02574"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spectroscopic DNA-PAINT for Simultaneous Multiplexed Super-Resolution Microscopy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01802</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01802</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Simultaneous multiplexed super-resolution imaging remains a central challenge in single-molecule localization microscopy (SMLM), due to the limited number of spectrally distinguishable fluorophores and the tradeoff between spatial localization and spectral uncertainties. Here, we introduce spectroscopic DNA-PAINT (sDNA-PAINT), a framework that integrates DNA-PAINT with spectroscopic SMLM (sSMLM) to enable simultaneous multiplexed imaging with high spatial and spectral fidelity. Using DNA origami nanorulers, in vitro and fixed-cell imaging, we show that sDNA-PAINT conditions significantly reduce spectral uncertainty and enhance photon budgets compared to conventional glass and antibody-conjugated conditions in sSMLM imaging. Across representative dyes from three fluorophore families (rhodamine, cyanine, and oxazine), narrow spectral centroid distributions are observed to enable reliable statistical discrimination at the single-molecule level, even for dyes with heavily overlapping ensemble spectra. In four-color subcellular imaging, sDNA-PAINT achieves accurate spatial reconstruction and high classification accuracy within a single acquisition. sDNA-PAINT provides a pathway toward high-fidelity simultaneous multiplexed super-resolution interaction imaging.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spectroscopic DNA-PAINT for Simultaneous Multiplexed Super-Resolution Microscopy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01802&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01802"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ferroelectric-Enhanced Ultrafast Nonvolatile Floating-Gate Memory</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02747</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02747</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Floating-gate memory, as one of the most widely used nonvolatile memories for practical deployments, plays a significant role in modern electronics. However, its inherent speed limitations make it challenging to keep pace with the explosive growth of data generation and the evolving demands of innovative hardware applications. Herein, we demonstrate an ultrafast floating-gate memory based on a two-dimensional (2D) MoS2/h-BN/graphene/CuInP2S6 heterostructured device. Comprehensive experimental investigations and technology computer-aided design (TCAD) simulations reveal that the matched ferroelectric polarization field of CuInP2S6 enhances the electric field across the tunneling layer, thereby effectively facilitating Fowler–Nordheim tunneling. This enables program/erase speeds as low as 13 ns, a performance competitive with that of dynamic random access memory (DRAM) that boasts high operational speeds but suffers from volatility. Our findings demonstrate the enormous potential of ferroelectric-enhanced floating-gate memory for next-generation high-speed nonvolatile memory and cutting-edge hardware applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ferroelectric-Enhanced Ultrafast Nonvolatile Floating-Gate Memory&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02747&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02747"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

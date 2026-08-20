@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:38:34 +0000</lastBuildDate>
+    <item>
+      <title>Single-Layer Oxyhalide-Nitride Solid-State Electrolyte Membrane for High-Energy-Density All-Solid-State Lithium Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03049</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03049</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Simultaneous compatibility of solid-state electrolytes (SSEs) with high-voltage cathodes and low-voltage anodes is crucial for high-energy-density all-solid-state lithium batteries (ASSLBs). However, deformable SSEs that integrate readily into ASSLBs rarely satisfy both requirements. Multilayer SSE membranes, such as halide SSEs paired with cathodes and sulfide SSEs with anodes, are therefore widely used but reduce energy density. Here, the low-cost, deformable oxyhalide-nitride SSEs, Li1.75+3xZrCl4.75O0.5Nx (0.1 ≤ x ≤ 0.3), are developed through dual-anion doping with O and N. The O and N incorporation preserves stability against the high-voltage LiCoO2 cathode while promoting a stable interface with the low-voltage Li13Si4 anode. A Li13Si4 | Li2.2ZrCl4.75O0.5N0.15 | Li13Si4 symmetric cell sustains stable plating/stripping for 2000 h with low overpotential. A Li13Si4 | Li2.2ZrCl4.75O0.5N0.15 | LiCoO2 cell using the oxyhalide-nitride SSE as a single membrane layer shows an initial specific discharge capacity of 134.72 mAh g–1 with 92.38% Coulombic efficiency and remains stable for 100 cycles.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Single-Layer Oxyhalide-Nitride Solid-State Electrolyte Membrane for High-Energy-Density All-Solid-State Lithium Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03049&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03049"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Full Band Spectral Regulation Electrochromic Electrode for Multi-Mode Smart Window</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03215</link>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03035&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03035"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultralow-Loading Multilayer Liquid Metal Conductors with Leakage Immunity and Uncompromised Electro-Mechanical Performance</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02336</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02336</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Liquid-metal (LM)-based stretchable conductors are promising for soft electronics, yet their practical use is limited by high material costs and susceptibility to leakage. Here, we report a multilayer architecture comprising a top Cu layer, a Cu–SEBS hybrid layer, a Cu–GaCu2–SEBS–LM composite layer, and a micron-scale SEBS layer, which decouples mechanical strain from electrical conduction. This design couples strain-induced microcracked Cu films with strain-isolated out-of-plane and in-plane conductive pathways, eliminating strain-dependent resistance variations. Remarkably, the conductor achieves strain-invariant high conductivity (on the order of 107 S m–1) over 0–920% strain with an ultralow LM loading of only 5 vol %. Critically, it exhibits exceptional leakage resistance across the entire stretching range, addressing a longstanding challenge in LM-based electronics. As a proof of concept, we demonstrate its applicability as stretchable electrodes for real-time physiological signal monitoring and machine-learning-assisted gesture recognition, highlighting its potential for next-generation wearable bioelectronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultralow-Loading Multilayer Liquid Metal Conductors with Leakage Immunity and Uncompromised Electro-Mechanical Performance&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02336&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02336"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

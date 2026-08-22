@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:59:07 +0000</lastBuildDate>
+    <item>
+      <title>Reversible High-Temperature Lithium–Chalcogenide Batteries Enabled by a Nonflammable Sulfonamide Deep Eutectic Electrolyte</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03111</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03111</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Significant efforts have recently been dedicated to enhancing reversibility and safety of high-temperature lithium–chalcogenide batteries (LCBs) to address performance-limiting issues. However, bottlenecks in electrolyte design that severely constrain the utilization of active material and reversibility of a lithium anode at elevated temperatures have received little attention. Herein, we report a nonflammable sulfonamide deep eutectic electrolyte (SDEE) composed of N,N-dimethylmethanesulfonamide and lithium bis(trifluoromethanesulfonyl)imide for high-temperature LCBs. The SDEE exhibits good thermal stability, high lithium-ion transference number, and a wide electrochemical window. Additionally, SDEE facilitates the formation of a compact and uniform lithium deposition, leading to a much mitigated shuttle effect and improved reversibility of the lithium anode compared to an ether-based electrolyte. LCBs with an SDEE exhibit a low overcharging degree at 60 °C (8.4%) and a high specific capacity (∼1107 mAh g–1) at 328.2 mA g–1. This work offers a viable electrolyte design concept for safe batteries targeting elevated temperatures using high-capacity electrodes.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Reversible High-Temperature Lithium–Chalcogenide Batteries Enabled by a Nonflammable Sulfonamide Deep Eutectic Electrolyte&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03111&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03111"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Biohybrid Fused-Cell Carrier for Programmable Therapeutic Modulation of Atherosclerosis</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01968</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01968</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Cardiovascular disease, driven primarily by atherosclerosis, remains a leading cause of global mortality. Lipid-lowering therapies reduce risk by less than one-third, leaving substantial residual inflammation compounded by rapid drug clearance and limited plaque targeting. Biomimetic systems such as cell-membrane coating enhance lesion targeting but lack intrinsic activity and are prone to biological barriers. Herein, we engineered living fused cell (FC) microrobots combining mesenchymal stem cells and M2 macrophages, capable of inheriting the therapeutic ability of both and modulating pathophysiological responses. Gold nanowaxberries (AuMWs) conjugated to antisense miRNA33 were loaded into the FCs. In vivo AuMW-anti-miR33@FCs modulated inflammation and immune microenvironment, augmented cholesterol efflux, and reduced plaque burden by 64.9% versus controls. Treatment was tracked by photoacoustic imaging via AuMWs. Overall, this synergistic strategy offers a promising platform for atherosclerosis cardiovascular disease diagnosis and therapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Biohybrid Fused-Cell Carrier for Programmable Therapeutic Modulation of Atherosclerosis&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01968&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01968"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Single-Layer Oxyhalide-Nitride Solid-State Electrolyte Membrane for High-Energy-Density All-Solid-State Lithium Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03049</link>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02423&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02423"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Lipid Nanoparticle Protein Coronas Arise through Lipoprotein Fusion Rather Than Shell-like Adsorption</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c00689</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c00689</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The protein corona influences the in vivo biodistribution of ionizable lipid nanoparticles (LNPs) in nucleic acid delivery, yet their structural architecture remains poorly defined. Using cryo-transmission electron microscopy, we visualized LNP–protein interactions in their native state. We show that, unlike the discrete “fuzzy” shells observed on hard nanoparticles, LNPs displayed no peripheral protein shell. Instead, controlled incubation and competitive “dual-particle” assays, supported by molecular dynamics simulations, indicate that LNP membranes undergo localized thickening and electron-dense remodeling consistent with lipoprotein integration rather than surface adsorption. Similar features were observed in extracellular vesicles, suggesting that this behavior is shared among lipid-based carriers, and proteomic analysis identified apolipoproteins as the dominant associated proteins. Together, these findings support a model in which the biological identity of LNPs arises through membrane remodeling rather than shell-like adsorption and provide a framework for the rational design of targeted nanomedicines.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Lipid Nanoparticle Protein Coronas Arise through Lipoprotein Fusion Rather Than Shell-like Adsorption&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00689&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00689"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Space-Confined Growth of 2D Ultrathin Ternary CdZnTe Flakes toward High-Performance Photodetectors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02865</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02865</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Two-dimensional (2D) CdZnTe has been highly anticipated in high-performance photodetectors because of its excellent optoelectronic properties and the quantum confinement effect in 2D scale. However, due to the intrinsically nonlayered structure, the current obtained 2D CdZnTe structures are only applicable to amorphous or polycrystalline films with degraded properties, seriously limiting the exploration of its inherent characteristics and further application in optoelectronics. Here, we report, for the first time, the controllable growth of ultrathin 2D CdZnTe flakes (down to 3.2 nm) via space-confined chemical vapor deposition and demonstrate that the CdZnTe flakes are highly crystalline and possess high stability. The single-crystalline 2D CdZnTe flakes-based photodetectors exhibit outstanding broadband response varying from visible to near-infrared region, high responsivity of 80.6 A W–1 and specific detectivity of 1.86 × 1010 Jones under 405 nm illumination. Our study will open new territory for 2D ternary nonlayered materials in optoelectronic applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Space-Confined Growth of 2D Ultrathin Ternary CdZnTe Flakes toward High-Performance Photodetectors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02865&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02865"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

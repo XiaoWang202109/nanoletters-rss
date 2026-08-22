@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:59:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:32:01 +0000</lastBuildDate>
+    <item>
+      <title>Strain Engineering of MoS2 for Overcoming Thermal Bottlenecks in Next-Generation Energy-Efficient Electronics</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c00716</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c00716</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The relentless demand for energy-efficient electronics creates a critical thermal bottleneck. A long-standing paradigm holds that compressive strain universally degrades thermal transport in two-dimensional (2D) materials by inducing phonon-scattering wrinkles. Here, we overturn this in MoS2 by demonstrating that substrate-confined, wrinkle-free compression drastically enhances its in-plane thermal conductivity. This feature is achieved through a substrate confinement strategy that enables uniform, wrinkle-free compression. We experimentally measured a remarkable 40% boost in thermal conductivity with merely 1% compressive strain, an effect that starkly contrasts with the suppression observed under tension. Molecular dynamics simulations reveal that the substrate suppresses out-of-plane instabilities via van der Waals coupling, facilitating an unprecedented strain transfer. First-principles calculations further reveal that the compressive strain reconfigures the crystal symmetry, concurrently increasing phonon group velocities and prolonging phonon lifetimes. This work resolves a critical bottleneck in 2D thermal management and unlocks a new pathway for the atomic-scale design of high-thermal conductivity materials for next-generation electronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Strain Engineering of MoS2 for Overcoming Thermal Bottlenecks in Next-Generation Energy-Efficient Electronics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00716&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00716"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Reversible High-Temperature Lithium–Chalcogenide Batteries Enabled by a Nonflammable Sulfonamide Deep Eutectic Electrolyte</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03111</link>
@@ -19,6 +31,30 @@
 </content:encoded>
     </item>
     <item>
+      <title>Free-Energy-Gradient-Driven Iodine Regeneration toward Ultrastable Zinc–Iodine Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03332</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03332</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Rechargeable aqueous Zn–I2 batteries are attractive for safe, low-cost energy storage but remain fundamentally limited by severe self-discharge and poor cycling stability because sluggish ZnI2 oxidation impedes efficient iodine regeneration during charging. Herein, we confine highly dispersed iodine quantum dots within a Fe(CN)64–-doped polypyrrole/polyaniline framework to establish a free-energy-gradient-driven regeneration pathway. During discharge, Fe-cyanide and N-rich sites immobilize polyiodide intermediates, suppressing shuttle and self-discharge. More importantly, during charging, the in situ generated ZnxFeIII(CN)6/Znx+1FeII(CN)6 redox couple establishes an intrinsic free-energy gradient that couples Zn2+ transfer with iodide oxidation, thereby directing iodine regeneration and limiting aggregation. The resulting cathode delivers 238.2 mAh g–1 at 0.5 A g–1, maintains approximately 217 mAh g–1 at 10 A g–1, retains 92.6% capacity after 50,000 cycles with nearly 100% Coulombic efficiency, and supports stable pouch-cell and flexible microbattery operation. These results establish free-energy-gradient engineering as a strategy for regulating reversible halogen conversion beyond static confinement.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Free-Energy-Gradient-Driven Iodine Regeneration toward Ultrastable Zinc–Iodine Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03332&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03332"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>All-Perovskite Low-Dimensional/Quantum Dot Heterojunctions for Long-Term Efficient Quantum Dot Solar Cells</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03508</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03508</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract In recent years, halide perovskite quantum dot (PQD) solar cells have garnered more research interest, yet poor operational and environmental stability limit their commercialization. Herein, a robust all-perovskite low-dimensional (LD)/PQD heterojunction is proposed to address these issues. In particular, rationally designed 2D perovskite single crystals dissolved in optimized solvents are directly coated on the PQD matrix to drive spontaneous conformal LD prototype growth. Notably, this strategy features a heating-free procedure with negligible erosion characteristics. Benefiting from the well-matched energy-level alignment at the intimate heterojunction, interfacial charge extraction is synergistically promoted, while a defect-free 2D single-crystal layer suppresses humidity-induced degradation via effective encapsulation. With this engineered LD/PQD heterojunction, the optimized FAxCs1–xPbI3 PQD device delivers a champion efficiency of 17.6% (certified value of 16.98%), with 9-fold enhanced humidity stability versus that of the pure PQD analogue. This work provides a novel heterostructure construction paradigm and mechanistic guidance for improving the efficiency and environmental stability of PQD-based optoelectronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;All-Perovskite Low-Dimensional/Quantum Dot Heterojunctions for Long-Term Efficient Quantum Dot Solar Cells&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03508&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03508"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Biohybrid Fused-Cell Carrier for Programmable Therapeutic Modulation of Atherosclerosis</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01968</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01968</guid>
@@ -28,6 +64,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01968&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01968"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Frictional Behavior of van der Waals Heterojunctions Driven by Elastic Pinning at Edges and Corners</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02208</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02208</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Due to the significant friction and wear in micro- and nano-electromechanical systems (M/NEMS), achieving reliable sliding in M/NEMS remains a critical challenge. Structural superlubricity with ultralow friction and wear in van der Waals (vdW) heterojunctions is a promising route to realize long-lifetime sliding in M/NEMS for practical applications. However, the fundamental origin of friction in vdW heterojunctions remains elusive. In this paper, through detailed experimental measurements by adopting various slider geometries and cracked substrates, we demonstrate that friction is dominated by edge and corner effects, driven by the pinning effects associated with moiré superlattices at these boundaries. Specifically, friction enhancement correlates inversely with the radius of curvature at the corners. Furthermore, edges oriented perpendicular to the sliding direction induce more pronounced frictional enhancement than those aligned parallel. These results elucidate a fundamental frictional mechanism in vdW heterojunctions, providing critical insights for the design of future M/NEMS.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Frictional Behavior of van der Waals Heterojunctions Driven by Elastic Pinning at Edges and Corners&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02208&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02208"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>A Cell-Wall-Mimetic Bifunctional Interface for Synchronizing CO2 and Nitrite Activation toward Urea Electrosynthesis</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02912</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02912</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Electrochemical urea synthesis from CO2 and nitrite (NO2–) offers a sustainable route for carbon and nitrogen cycling, yet it is hindered by the kinetic imbalance between the sluggish CO2 reduction reaction (CO2RR) and the more facile nitrite reduction reaction (NO2RR). Inspired by the rhizobial cell wall, a natural multifunctional interface that coordinates gas, ion, and molecular transport, we designed a cell-wall-mimetic electrocatalyst featuring a Cu2O/Cu core encapsulated within a pyrrolic-N-containing graphitized porous carbon shell (Cu2O/Cu@C). This bioinspired architecture functions as a nanoregulator to structure a high-density triple-phase interface (gas–liquid–solid interface), manage wettability for concurrent CO2 and electrolyte access, enrich key reactive intermediates, and stabilize the active core. The catalyst achieves a urea yield rate of 50.2 mmol/g/h with a Faradaic efficiency (FE) of 60.6% at −0.6 V, demonstrating that mimicking biological interface principles can effectively harmonize kinetic mismatches in complex cooperative electrocatalysis.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A Cell-Wall-Mimetic Bifunctional Interface for Synchronizing CO2 and Nitrite Activation toward Urea Electrosynthesis&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02912&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02912"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -544,66 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02236&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02236"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Multifunctional Single-Transistor Architecture Enabled by Nonvolatile Band Rearrangement in 2D Ferroelectric Tunneling Junction</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02966</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02966</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract A defining challenge for next-generation nanoelectronics is integrating diverse functionalities within a single device while strictly minimizing power consumption. Two-dimensional (2D) ferroelectrics, with their atomic-scale nonvolatility, offer a promising platform for such architectural innovation. Here, we theoretically propose a multifunctional single-transistor (1T) architecture embedding a 2D ferroelectric tunneling junction at the source–channel interface. Polarization reversal deterministically drives a nonvolatile band rearrangement, toggling the interface between a gapless type-III and a gapped type-I/II alignment. Demonstrated in an Al2S3/WTe2 device example, this mechanism seamlessly unifies dual electrical merits: the type-III alignment facilitates cold-source injection for an ultrasteep subthreshold swing of 28.3 mV/dec, while the polarization-induced barrier delivers a widely tunable, giant tunneling electroresistance ratio of up to 109. Exploiting these traits, we demonstrate 1T logic-in-memory operation potential, including a nonvolatile logic gate and a conditional readout secure memory. This paradigm provides a compelling theoretical foundation for highly integrated and low-power nanoelectronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Multifunctional Single-Transistor Architecture Enabled by Nonvolatile Band Rearrangement in 2D Ferroelectric Tunneling Junction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02966&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02966"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Rational Ligand Engineering Enables Emission-Tunable Copper Nanoclusters for High-Performance LEDs</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03025</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03025</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Metal nanoclusters with atomic precision represent a highly attractive platform for designing optoelectronics, yet achieving controllable emission tuning and translating structural modulation into high-performance electroluminescent devices remains a major challenge. Here we realize precise emission wavelength tuning from yellow to red by rational ligand engineering toward a family of atomically precise Cu2(BINAP)2(SR)2 clusters. The modulation mechanism of the correlations between electron-withdrawing capability of substituents and tunable emission wavelengths was clearly elucidated by density functional theory calculations. Besides, the methyl-functionalized Cu2 clusters show remarkably enhanced photoluminescence intensity, and the cluster-based emitters in light-emitting diodes displays a high external quantum efficiency of 14.53%, together with favorable brightness and efficiency stability. This work not only validates the effectiveness of ligand substitution in tailoring the photophysical properties of copper clusters but also establishes a general design route toward high-performance, color-tunable cluster-based luminescent materials for advanced optoelectronic applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Ligand Engineering Enables Emission-Tunable Copper Nanoclusters for High-Performance LEDs&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03025&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03025"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Kinetic–Thermodynamic Coupling for Enhanced Water Isotopologue Separation Via Solar-Powered Diffusion–Evaporation</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03188</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03188</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Separating water isotopologues is highly energy-intensive because the nearly identical physicochemical properties of H2O and D2O impose intrinsically small thermodynamic differences, limiting the efficiency of conventional thermal separation processes. Here, we report a solar-powered diffusion-evaporation coupling (SDEC) strategy that integrates nonequilibrium transport with interfacial phase transition to enable efficient H2O/D2O separation. The proof-of-concept separator comprises a photothermal two-dimensional nanofluidic membrane constructed from cellulose-nanofibril-intercalated porous MXene nanosheets. In the SDEC separator, solar-powered transpiration drives directional flow through confined nanochannels, and the local temperature increase amplifies the kinetic diffusion differences between H2O and D2O, achieving high selectivity. Selectivity at the evaporation interface is further enhanced by nanoconfinement-induced modulation of isotopologue evaporation enthalpies. Under one-sun illumination, the SDEC separator achieves a separation factor of 1.84. A five-stage SDEC device further reduces the D2O concentration from 10 vol % to 0.45 vol %, sustaining a stable daily condensate yield of 4.3 kg·m–2.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Kinetic–Thermodynamic Coupling for Enhanced Water Isotopologue Separation Via Solar-Powered Diffusion–Evaporation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03188&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03188"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Symmetry-Dictated Switching of Antiferromagnetic Magnon Transport in 2D Multiferroics</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02164</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02164</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract While antiferromagnetic magnons in two-dimensional (2D) materials hold immense promise for high-frequency spintronics, achieving their efficient active control remains a critical challenge. Here, we propose a universal mechanism for the nonvolatile ferroelectric (FE) switching of antiferromagnetic magnon transport in 2D multiferroic lattices. Our mechanism relies on coupling the magnon geometric phase to the FE-induced sublattice asymmetry in exchange and Dzyaloshinskii-Moriya interactions. This explicitly breaks the exact compensation of opposite-chirality magnons inherent to collinear antiferromagnets, lifting their spin degeneracy and inducing a highly tunable net Berry curvature. Crucially, reversing the FE polarization deterministically swaps these magnetic asymmetries, which completely inverts the net magnon Berry curvature and the resulting anomalous thermal Hall conductivity. Using first-principles and linear spin-wave theory, we rigorously validate this geometric-phase-driven mechanism in single-layer CuCr2Se4. Our findings establish a robust paradigm for coupling multiferroicity with the magnon geometric phase, paving the way for nonvolatile and electrically switchable antiferromagnetic magnonics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Symmetry-Dictated Switching of Antiferromagnetic Magnon Transport in 2D Multiferroics&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02164&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02164"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Three-Dimensional Visualization of Conductive Filaments in TiO2 via Conductive Atomic Force Microscopy Tomography</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02423</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02423</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Direct three-dimensional visualization of conductive filaments (CFs) in valence change memory is essential for resolving whether their spatial evolution is governed by stochastic defect generation or by electrode geometry. Here, we apply conductive atomic force microscopy tomography to a TiO2 (10 nm)/Pt structure, extending this technique to TiO2-based CFs previously inaccessible to tomographic characterization. The tomogram reveals a reverse-cone morphology whose terminus preferentially connects to a Pt bottom electrode (BE) protrusion, evidencing dual field enhancement at both interfaces. Current gradient analysis reveals a nonmonotonic conductivity profile, with values of 0.1355, 0.0682, and 0.1035 nA/nm at the top, middle, and bottom, consistent with lateral electrostatic confinement by the BE protrusion. Competing exponential field dependence of vacancy generation and linear field dependence of drift accounts for the near-tip constriction. These results establish the BE morphology as an active confinement mechanism and identify nanoscale BE roughness as a key parameter influencing switching variability in resistive random access memory.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Three-Dimensional Visualization of Conductive Filaments in TiO2 via Conductive Atomic Force Microscopy Tomography&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02423&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02423"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

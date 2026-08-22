@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:30:11 +0000</lastBuildDate>
     <item>
       <title>Strain Engineering of MoS2 for Overcoming Thermal Bottlenecks in Next-Generation Energy-Efficient Electronics</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c00716</link>
@@ -31,6 +31,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>A New Model Employing Fermi-Level Integration Limits to Correct Systematic Errors in the Extraction of Semimetal Carrier Densities and Mobilities</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02845</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02845</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We demonstrate that the accepted model for transport in semimetals gives incorrect results and introduce a corrected scheme that reproduces experimental data. Carrier densities in semimetals have been systematically overestimated by factors of 2–5 throughout the literature, leading to underestimated mobilities by the same factor. This resolves the long-standing puzzle of why nominally identical graphene samples show order-of-magnitude mobility variations. By integrating the density of states from the Fermi level rather than from band edges, we reproduce the full evolution of the Hall coefficient and longitudinal resistance across five independent graphene data sets with zero fitting parameters. A double-normalized polar representation reveals a decisive signature: a smooth arc that experimental data match, while no realistic density of states or mobility rescues the band-edge model. Our Fermi model provides a parameter-free, temperature-robust description with immediate implications for reevaluating mobility benchmarks across the 2D materials literature.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A New Model Employing Fermi-Level Integration Limits to Correct Systematic Errors in the Extraction of Semimetal Carrier Densities and Mobilities&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02845&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02845"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Free-Energy-Gradient-Driven Iodine Regeneration toward Ultrastable Zinc–Iodine Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03332</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03332</guid>
@@ -52,6 +64,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03508&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03508"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>CrSbSe3 Nanowire: A Platform for Near-Perfect Spin Selectivity</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02702</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02702</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Spin-selective carrier transport in low-dimensional magnetic semiconductors is central to the development of next-generation spintronics. However, achieving robust spin-filtering together with long spin-coherence under nonequilibrium conditions remains a major challenge. Recently isolated by top-down exfoliation, the CrSbSe3 nanowire has emerged as a ferromagnetic semiconductor exhibiting enhanced coercivity compared to its bulk counterpart. Here, using first-principles density functional theory combined with quantum transport calculations, we demonstrate that the CrSbSe3 nanowire is a ferromagnetic semiconductor with a band gap of 1.26 eV. We identify superexchange interactions mediated by Se(p-orbitals) as the primary mechanism stabilizing its ferromagnetic order. Noncollinear spin calculations including spin–orbit coupling reveal an unchanged band topology near the Fermi level, suggesting long spin-coherence. Quantum transport calculations reveal robust spin-selective conduction, with the spin-injection factor approaching 100% for biases up to 0.6 V, independent of channel length, establishing the CrSbSe3 nanowire as a promising spin-filtering platform for spintronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;CrSbSe3 Nanowire: A Platform for Near-Perfect Spin Selectivity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02702&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02702"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/nlv026i031_2114989&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i031_2114989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Localization of Apicomplexa Motor Myosin A with Axial Nanometric Precision Using Graphene Energy Transfer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01982</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01982</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Apicomplexan parasites exhibit gliding motility, a fast locomotion mode, yet the precise localization of the migration motor myosin A (MyoA) remains unresolved because of limitations in light microscopy axial resolution, leading to two competing models: one placing MyoA in the cytoplasm and the linear model positioning it between the plasma membrane and the inner membrane complex (IMC), a doubled membrane underneath. To distinguish between these models, we applied graphene energy transfer (GET), a fluorescence-based axial ruler with nanometer precision, and determined the vertical position of MyoA relative to IMC1, a structural IMC marker. GET measured IMC dimensions with accuracy comparable to electron microscopy while preserving molecular specificity. The results were independently validated using live stimulated emission depletion (STED) imaging of vertically oriented parasites in agarose cylinders and expansion microscopy STED. Our data localize a major fraction of MyoA within the membrane–IMC space, supporting a linear motor model and establishing GET for nanoscale protein mapping.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Localization of Apicomplexa Motor Myosin A with Axial Nanometric Precision Using Graphene Energy Transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01982&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01982"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Charge-Resonance Polymerization at Donor–Acceptor Interfaces Enables Large-Area Organic Magnetic Membranes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02236</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02236</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electron acceptors such as tetracyanoquinodimethane (TCNQ) and its fluorinated analogue F4TCNQ are foundational to charge-transfer and doping chemistry. At interfaces formed by deposition of these acceptors onto donor substrates, reduced anionic species can naturally coexist with unreacted neutral acceptors, creating mixed-valence environments beyond conventional one-way charge transfer. Here, we report charge-resonance polymerization of acceptors at donor–acceptor interfaces. Deposition of neutral acceptors onto electron-donor substrates partially reduces the acceptors to anion salts, establishing neutral/radical-anion contact. This mixed-valence interface enables cyclic neutral–anion charge-resonance interactions that initiate a self-propagating polymerization process. This dynamic process operates across diverse donor substrates and from room temperature to 250 °C, producing large-area membranes up to 30 × 30 cm with persistent radicals and room-temperature magnetic hysteresis. These findings establish intraspecies charge resonance as a design principle for self-activating polymerization and offer fresh insight into charge behavior at donor–acceptor interfaces.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Charge-Resonance Polymerization at Donor–Acceptor Interfaces Enables Large-Area Organic Magnetic Membranes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02236&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02236"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

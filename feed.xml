@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:00:43 +0000</lastBuildDate>
     <item>
       <title>Ultrafast Spatiotemporal Imaging of Disorder-Induced Strong Localization of Plasmon Resonances in Percolated Au Nanopillar Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02442</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02442&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02442"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Ligand Control of the Work Function of CdSe Semiconductor Nanosurfaces</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02896</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02896</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Surface passivation tunes the work function of semiconductor nanomaterials to optimize charge transport and optoelectronic performance. Using first-principles simulations, we investigate how ligand structure and surface coverage influence the work function of the wurtzite CdSe (100) surface. We consider ligands varying in chain length, electronegativity, conjugation, halogenation, binding site, and surface coverage. Work function shifts scale linearly with ligand coverage for a given ligand but exhibit complex correlations with the ligand’s electrostatic dipole moment. Calculations show that surface passivation enables programmable work function tuning through interfacial charge transfer and electronic delocalization by inducing an interfacial dipole and stabilizing or destabilizing the valence-band maximum, while intrinsic ligand polarity plays a secondary role. We further show that ligand binding energy cannot be used to predict either the interfacial dipole or the work function trends, indicating that the strength of passivation is not a reliable measure of ligand-induced redistribution of electron density.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ligand Control of the Work Function of CdSe Semiconductor Nanosurfaces&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02896&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02896"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02010&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02010"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nanomechanical Detection of Transition Onset</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03366</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03366</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Transitions often begin through weak precursor dynamics that reorganize a system before the dominant transformation becomes apparent, yet these early signatures can remain distributed and hidden within a single observable. Here, hollow microfluidic cantilevers resolve such onset behavior by tracking the resonance trajectory of picoliter-confined samples during controlled slow heating. Using DNA premelting as a model system, we identify a lower-temperature spectral departure that persists across three duplex sequence backgrounds before the main melting response. Projection of the same spectra into buffer-referenced response coordinates enhances the contrast of this onset-associated change without replacing the primary spectral evidence. The resulting operational marker identifies when weak local fluctuations first become mechanically consequential in the confined fluid system. More broadly, the approach detects the transition onset as a persistent reorganization of a measured trajectory rather than a large scalar signal.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanomechanical Detection of Transition Onset&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03366&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03366"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

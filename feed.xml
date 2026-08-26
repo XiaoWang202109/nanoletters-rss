@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:43:32 +0000</lastBuildDate>
     <item>
       <title>Ultrafast Spatiotemporal Imaging of Disorder-Induced Strong Localization of Plasmon Resonances in Percolated Au Nanopillar Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02442</link>
@@ -391,18 +391,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Step-Induced Strain in Curved van der Waals Nanoribbons</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02781</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02781</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Surface atoms generally experience tensile stress owing to reduced coordination. For example, Pt(111) steps can induce up to 5.5% strain and nearly a 50-fold activity enhancement. This step picture, however, is fundamentally altered in van der Waals (vdW) layered materials, where weak interlayer coupling largely relaxes step-induced strain. Here, we revisit vdW structures and show that one-dimensional curved edges intrinsically sustain localized step-induced strain. Density functional theory calculations reveal that narrowing the terrace width enables localized compressive strain and favorable hydrogen adsorption. Using PtSe2 as a model system, we synthesize monolayer nanoribbons with high-curvature edges and link their average curvature to the effective terrace width through an equivalent terrace model. Further, microelectrochemical measurements verify the resulting enhancement in hydrogen evolution activity. Our work reveals that discrete in-plane atomic steps induce spatially heterogeneous strain and modulate catalytic performance in vdW materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Step-Induced Strain in Curved van der Waals Nanoribbons&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02781&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02781"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Symmetry-Tunable Skyrmions and Merons in Magnetic Nanodisks via Spatially Engineered Anisotropy</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01154</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01154</guid>
@@ -412,6 +400,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01154&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01154"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Step-Induced Strain in Curved van der Waals Nanoribbons</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02781</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02781</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Surface atoms generally experience tensile stress owing to reduced coordination. For example, Pt(111) steps can induce up to 5.5% strain and nearly a 50-fold activity enhancement. This step picture, however, is fundamentally altered in van der Waals (vdW) layered materials, where weak interlayer coupling largely relaxes step-induced strain. Here, we revisit vdW structures and show that one-dimensional curved edges intrinsically sustain localized step-induced strain. Density functional theory calculations reveal that narrowing the terrace width enables localized compressive strain and favorable hydrogen adsorption. Using PtSe2 as a model system, we synthesize monolayer nanoribbons with high-curvature edges and link their average curvature to the effective terrace width through an equivalent terrace model. Further, microelectrochemical measurements verify the resulting enhancement in hydrogen evolution activity. Our work reveals that discrete in-plane atomic steps induce spatially heterogeneous strain and modulate catalytic performance in vdW materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Step-Induced Strain in Curved van der Waals Nanoribbons&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02781&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02781"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -511,18 +511,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02367</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02367</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ultrasmall PbSe magic-sized clusters (MSCs) are important for probing the nucleation of nanocrystals and their optical properties under strong quantum confinement. The smallest PbSe MSC observed so far in the growth sequence has an absorption maximum at 625 nm. Here, we identify two even smaller PbSe MSCs, with absorption maxima at 510 and 565 nm, respectively. Both reaction kinetics and solvent environments are crucial for observing these two ultrasmall MSCs. An unusual blue emission appears during the nucleation stage, which evolves into more intense orange and red emissions of MSCs. Structural characterization reveals that the PbSe-565 MSC is most likely to have an expanded octahedron structure (Oh-3.5) with a core formula of Pb60Se28, a “half-size” smaller than that of the PbSe-625 MSC (Oh-4). The ultrasmall MSCs mark the critical transition from molecular precursors to cluster nuclei, providing important insights into the “birth” of IV–VI nanocrystals.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02496</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02496</guid>
@@ -532,6 +520,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02496&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02496"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02367</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02367</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ultrasmall PbSe magic-sized clusters (MSCs) are important for probing the nucleation of nanocrystals and their optical properties under strong quantum confinement. The smallest PbSe MSC observed so far in the growth sequence has an absorption maximum at 625 nm. Here, we identify two even smaller PbSe MSCs, with absorption maxima at 510 and 565 nm, respectively. Both reaction kinetics and solvent environments are crucial for observing these two ultrasmall MSCs. An unusual blue emission appears during the nucleation stage, which evolves into more intense orange and red emissions of MSCs. Structural characterization reveals that the PbSe-565 MSC is most likely to have an expanded octahedron structure (Oh-3.5) with a core formula of Pb60Se28, a “half-size” smaller than that of the PbSe-625 MSC (Oh-4). The ultrasmall MSCs mark the critical transition from molecular precursors to cluster nuclei, providing important insights into the “birth” of IV–VI nanocrystals.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

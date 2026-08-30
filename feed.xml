@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:57:00 +0000</lastBuildDate>
+    <item>
+      <title>Real-Time 3D Imaging via Electrical-Response Polarization State Reconstruction</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02859</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02859</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract 3D imaging provides rich spatial information that is critical for enhancing target recognition and camouflage discrimination. Herein, we present a novel real-time 3D imaging method enabled by electrical-response polarization state reconstruction for surface normal vectors. For this purpose, we design a four-direction (0°, 45°, 90°, and 135°) polarization photodetector array that enables real-time polarization state identification, including the degree of polarization and polarization angle. The sensing unit exhibits an intrinsic polarization contrast of 0.36, achieved through nanoimprinting-induced anisotropy, with a nucleation-delayed strategy that enhances pattern uniformity and boosts the polarization selectivity of the MAPbI3 sensing film. By establishing the mathematical relationship between the polarization state of partially polarized light and the polarization electrical response of the sensing array, we extract the zenith and azimuth angles for normal vectors with a deviation of &amp;amp;lt;5.4°. This enables real-time reconstruction of 3D surface topography and offers a compact and scalable route toward polarization-based 3D imaging.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Real-Time 3D Imaging via Electrical-Response Polarization State Reconstruction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02859&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02859"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Controlled Synthesis of Ultrathin 2H-Phase RhPd Alloy Nanostructures for High-Performance Lithium–Oxygen Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02914</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02914</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Developing high-efficiency cathode catalysts to address the challenges posed by insulating discharge products represents a key strategy for enhancing the performance of rechargeable lithium–oxygen batteries (LOBs). Herein we report the controlled synthesis of RhPd alloy nanoflowers with an unconventional hexagonal close-packed (hcp, 2H type) phase for high-performance LOBs. As a cathode catalyst, 2H RhPd nanoflowers enable LOBs to achieve an electrochemical stability of 244 cycles and a specific capacity of 22252 mAh g–1, significantly surpassing the performance of common face-centered cubic (fcc) RhPd nanoflowers. Ex/in situ characterizations and theoretical calculations have revealed that unconventional 2H phase RhPd nanoflowers can finely tune the adsorption of discharge products and accelerate the reaction kinetics of Li+-mediated oxygen reduction and evolution, thereby reducing the overpotential and alleviating catalyst degradation. The successful demonstration of high-performance LOBs with unconventional phase alloy nanoflowers highlights the substantial application potential of phase engineering for advancing electrochemical energy storage systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Controlled Synthesis of Ultrathin 2H-Phase RhPd Alloy Nanostructures for High-Performance Lithium–Oxygen Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02914&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02914"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Ultrafast Spatiotemporal Imaging of Disorder-Induced Strong Localization of Plasmon Resonances in Percolated Au Nanopillar Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02442</link>
@@ -511,18 +535,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02496</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02496</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We report acoustic control of spin resonance in nitrogen-vacancy (NV–) centers in diamond using low-frequency free-space sound waves. Acoustic excitation redistributes spin populations between the |+1⟩ and |−1⟩ states, producing an asymmetric, tunable double-dip ODMR spectrum without shifting resonance frequencies. This contrasts with conventional magnetic-field-induced splitting and reveals a previously unobserved mechanism for spin manipulation via strain-mediated acoustic coupling. Analytical modeling captures the essential features of the amplitude flipping and elucidates the underlying spin-strain interaction. Our findings establish a new degree of freedom for selective multimodal quantum sensing and open avenues for hybrid spin-mechanical quantum devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02496&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02496"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02367</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02367</guid>
@@ -532,6 +544,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02496</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02496</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We report acoustic control of spin resonance in nitrogen-vacancy (NV–) centers in diamond using low-frequency free-space sound waves. Acoustic excitation redistributes spin populations between the |+1⟩ and |−1⟩ states, producing an asymmetric, tunable double-dip ODMR spectrum without shifting resonance frequencies. This contrasts with conventional magnetic-field-induced splitting and reveals a previously unobserved mechanism for spin manipulation via strain-mediated acoustic coupling. Analytical modeling captures the essential features of the amplitude flipping and elucidates the underlying spin-strain interaction. Our findings establish a new degree of freedom for selective multimodal quantum sensing and open avenues for hybrid spin-mechanical quantum devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02496&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02496"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02254&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02254"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Correction to “Surgical Tumor-Derived Photothermal Nanovaccine for Personalized Cancer Therapy and Prevention”</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03634</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03634</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c03634</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Correction to “Surgical Tumor-Derived Photothermal Nanovaccine for Personalized Cancer Therapy and Prevention”&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03634&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03634"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/nlv026i031_2114989</link>
-      <guid isPermaLink="false">10.1021/nlv026i031_2114989</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i031_2114989</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Editorial Masthead&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i031_2114989&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i031_2114989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

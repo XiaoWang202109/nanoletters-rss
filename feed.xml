@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:16:29 +0000</lastBuildDate>
     <item>
       <title>Real-Time 3D Imaging via Electrical-Response Polarization State Reconstruction</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02859</link>
@@ -19,6 +19,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Nanosized Li6PS5Cl Solid Electrolyte for All-Solid-State Lithium Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02780</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02780</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Low active material proportion in composite cathodes limits the energy density of all-solid-state lithium batteries. Solid-phase synthesized sulfide electrolytes with large particles usually cause poor interfacial contact and impair active material utilization at high cathode loadings. Here, a stepwise liquid-phase method is employed to synthesize the Li6PS5Cl solid electrolyte. The resulting particles are smaller than 100 nm with an ionic conductivity of 2.4 mS cm–1, which optimizes ionic transport pathways within composite cathodes. Consequently, LiCoO2-based all-solid-state batteries incorporating liquid-phase-synthesized Li6PS5Cl (LPSC-LP) in composite cathodes outperform those with ball-milled Li6PS5Cl (LPSC-BM). At 80 and 90 wt % active material loadings, the LPSC-LP-based LiCoO2//Li cells exhibit initial discharge capacities of 106 and 86 mAh g–1 at 0.5 C, surpassing 85.5 and 54 mAh g–1 for LPSC-BM counterparts. Even at 95% loading, the LPSC-LP-based cell achieves 60.3 mAh g–1 at 0.5 C, far exceeding 27.3 mAh g–1 of the LPSC-BM-based cell.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanosized Li6PS5Cl Solid Electrolyte for All-Solid-State Lithium Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02780&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02780"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Controlled Synthesis of Ultrathin 2H-Phase RhPd Alloy Nanostructures for High-Performance Lithium–Oxygen Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02914</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02914</guid>
@@ -28,6 +40,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02914&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02914"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Moiré Mott Correlated Mosaics in Twisted Bilayer 1T-TaS2</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01799</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01799</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The tunability and twist engineering of van der Waals materials enable the emergence of electronic states not present in individual monolayers. Among them, monolayer 1T-TaS2 is a well-known Mott insulating system, whose star-of-David charge density wave reconstruction realizes an emergent triangular lattice of local magnetic moments. Interestingly, in its bulk form, the insulating gap is not correlation-driven but stems from interlayer coupling. Here, we exploit the stacking-dependent nature of the insulating gap to show that, in twisted 1T-TaS2 bilayers, the spatially dependent competition between many-body and single-particle gaps creates Mott–trivial mosaic superlattices, featuring regions with local magnetic moments and nonmagnetic insulating regions. We further demonstrate the tunability of the mosaic correlated state with an interlayer bias, giving rise to controllable charge transfer and quenching of correlations. Our results establish twisted 1T-TaS2 as a flexible platform to engineer mixed spatially modulated correlated insulating phases, arising from the moiré profile.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Moiré Mott Correlated Mosaics in Twisted Bilayer 1T-TaS2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01799&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01799"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -535,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02367</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02367</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ultrasmall PbSe magic-sized clusters (MSCs) are important for probing the nucleation of nanocrystals and their optical properties under strong quantum confinement. The smallest PbSe MSC observed so far in the growth sequence has an absorption maximum at 625 nm. Here, we identify two even smaller PbSe MSCs, with absorption maxima at 510 and 565 nm, respectively. Both reaction kinetics and solvent environments are crucial for observing these two ultrasmall MSCs. An unusual blue emission appears during the nucleation stage, which evolves into more intense orange and red emissions of MSCs. Structural characterization reveals that the PbSe-565 MSC is most likely to have an expanded octahedron structure (Oh-3.5) with a core formula of Pb60Se28, a “half-size” smaller than that of the PbSe-625 MSC (Oh-4). The ultrasmall MSCs mark the critical transition from molecular precursors to cluster nuclei, providing important insights into the “birth” of IV–VI nanocrystals.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02496</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02496</guid>
@@ -556,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02496&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02496"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02367</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02367</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ultrasmall PbSe magic-sized clusters (MSCs) are important for probing the nucleation of nanocrystals and their optical properties under strong quantum confinement. The smallest PbSe MSC observed so far in the growth sequence has an absorption maximum at 625 nm. Here, we identify two even smaller PbSe MSCs, with absorption maxima at 510 and 565 nm, respectively. Both reaction kinetics and solvent environments are crucial for observing these two ultrasmall MSCs. An unusual blue emission appears during the nucleation stage, which evolves into more intense orange and red emissions of MSCs. Structural characterization reveals that the PbSe-565 MSC is most likely to have an expanded octahedron structure (Oh-3.5) with a core formula of Pb60Se28, a “half-size” smaller than that of the PbSe-625 MSC (Oh-4). The ultrasmall MSCs mark the critical transition from molecular precursors to cluster nuclei, providing important insights into the “birth” of IV–VI nanocrystals.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01971&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01971"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Chemically Gated Reconfigurable Nanofluidic Synapse Enables Metaplasticity and Neuromorphic Sound Recognition</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c00926</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c00926</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Metaplasticity, the adaptive regulation of synaptic plasticity, is fundamental to biological information processing but remains challenging to implement in artificial systems, especially in fluidic environments. Herein, we address this challenge by developing a graphene oxide-based nanofluidic synapse capable of reconfigurable plasticity, where synaptic plasticity can be reversibly regulated via extrinsic ionic cues. Specifically, modulating the electrolyte’s trivalent Y3+ ion concentration allows the device to be switched among diverse synaptic plasticity forms within one physical architecture. Combined experimental and theoretical analyses indicate that Y3+ migration on the nanochannel surface modulates the surface charge, thereby gating K+ and Cl– transport kinetics and enabling tunable synaptic dynamics. Consequently, Y3+ concentration acts as a prior contextual signal that preconditions the synaptic response to subsequent electrical stimuli and implementing chemically gated metaplasticity. Finally, using devices with complementary plasticity, we demonstrate a neuromorphic sound recognition system that achieves substantially higher accuracy than one using uniform synapses.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Chemically Gated Reconfigurable Nanofluidic Synapse Enables Metaplasticity and Neuromorphic Sound Recognition&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00926&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00926"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Exploring the Geometry and Interface Effects in Correlation between Steady-State and Ultrafast Responses of Chiral Plasmonic Nanoparticles</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02254</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02254</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Chiral plasmonic nanostructures have attracted tremendous attention, but their ultrafast carrier dynamics remain poorly explored compared to steady-state optical properties. Here, we synthesize three types of chiral Au nanoparticles with varying optical dissymmetry factor (g-factors) and different spectral detuning between chiral responses and plasmon resonances. Using chirality-resolved femtosecond transient absorption spectroscopy, we find that hot-carrier cooling dynamics exhibit no measurable dependence on the circular polarization state of pump or probe light within the experimental precision, indicating that macroscopic chiroptical activity does not necessarily translate into handedness-dependent ultrafast carrier dynamics. Furthermore, we show that in bimetallic Au–Ag chiral nanoparticles, the synergy between surface and interface plasmon resonances tunes circular dichroism intensities, while in Au–Ag2S hybrids, interfacial charge transfer largely modulates g-factors. These findings reveal the interplay among structural chirality, chemical interfaces, and hot-carrier relaxation, offering guidelines for designing chiral plasmonic systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Exploring the Geometry and Interface Effects in Correlation between Steady-State and Ultrafast Responses of Chiral Plasmonic Nanoparticles&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02254&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02254"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

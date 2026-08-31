@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 03:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:33:05 +0000</lastBuildDate>
     <item>
       <title>Real-Time 3D Imaging via Electrical-Response Polarization State Reconstruction</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02859</link>
@@ -31,6 +31,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Ultra-Scaled and Ultrafast Two-Dimensional Sliding Ferroelectric Memory: From High-Throughput Discovery to Atomic-Scale Kinetics</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02536</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02536</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract High-density and fast-speed memory are greatly demanded for information storage and processing in the artificial intelligence era. Two-dimensional (2D) sliding-ferroelectrics (FEs) offer a transformative path for these applications, yet research has remained limited to a few materials. In this work, we report an integrated materials-to-device discovery framework for ferroelectric-semiconductor field-effect transistors (FeS-FETs) using 2D sliding-FE channels, combining high-throughput ab initio screening, machine-learning molecular dynamics (MLMD), and quantum transport simulations. From over 16,000 candidates, we identify six high-performance 2D sliding-FEs, including PtS2 and CF2Y2, with superior bandgap, stability, and ferroelectricity. Quantum transport simulations demonstrate that the CF2Y2 FeS-FET’s current FE switching ratio reaches 4.5 × 105, surpassing the MoS2 benchmark by 104 times. Furthermore, MLMD reveals that bilayer PtS2 supports domain-wall velocities of 1.98 nm/ps (at 1 V/nm), which is among the highest switching speed recorded for FE memory. Our results provide a quantitative roadmap for designing next-generation, high-speed, and ultradense nonvolatile memories based on 2D sliding-ferroelectricity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultra-Scaled and Ultrafast Two-Dimensional Sliding Ferroelectric Memory: From High-Throughput Discovery to Atomic-Scale Kinetics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02536&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02536"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Controlled Synthesis of Ultrathin 2H-Phase RhPd Alloy Nanostructures for High-Performance Lithium–Oxygen Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02914</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02914</guid>
@@ -43,6 +55,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Individual Vanadium Dopants Form Deep In-Gap States in Monolayer WS2</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02833</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02833</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Point defects in atomically thin materials have a strong impact on physical properties, and those that induce in-gap states are advantageous for quantum information science and engineering (QISE). However, dopant engineering consisting of well-controlled synthesis and robust identification of in-gap states is challenging. In this work, we addressed this challenge by first using finely tuned chemical vapor deposition to incorporate vanadium dopants into monolayer WS2 (V-WS2). Next, we utilized a suite of scanning probe microscopy techniques to identify and characterize individual dopants. The latter included conductive atomic force microscopy (cAFM), low-temperature scanning tunneling microscopy and spectroscopy (STM/STS), and scanning transmission microscopy (STEM) and unambiguously revealed that vanadium dopants form deep in-gap states 0.35 eV above the valence band maximum (VBM) in V-WS2. Our experimental results are well supported by first-principles calculations and taken together demonstrate that V-WS2 is a promising platform for QISE applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Individual Vanadium Dopants Form Deep In-Gap States in Monolayer WS2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02833&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02833"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Moiré Mott Correlated Mosaics in Twisted Bilayer 1T-TaS2</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01799</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01799</guid>
@@ -52,6 +76,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01799&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01799"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Constructing a Na3Sb-Incorporated Solid Electrolyte Interphase by Rational Composite Electrode Design for Stable Sodium Metal Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01023</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01023</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The sluggish ionic conductivity and undesirable electronic migration within the native solid electrolyte interphase (SEI) of Na anodes are among the primary factors hindering the development of sodium–metal batteries. Herein, this study proposes a strategy for stabilizing the SEI through the fabrication of Na/Na3Sb (NNS) composite foil, which is achieved via spontaneous reaction between Sb powder and Na foil during mechanical rolling. The uniformly dispersed Na3Sb participates in the formation of SEI, improving the Na plating/stripping behaviors and suppressing the Na dendrite growth because of its high ionic conductivity, strong electronic blocking capability, and high Na affinity. As a result, the symmetrical NNS||NNS cell exhibits a stable cycling exceeding 1000 h at mA cm–2 and 1 mAh cm–2, while the Na||Na symmetric cell undergoes short-circuit failure after 34 h. The full cell incorporating the Na3V2(PO4)3 cathode demonstrates a low capacity fade of only 6.4% after 600 cycles at 5 C.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Constructing a Na3Sb-Incorporated Solid Electrolyte Interphase by Rational Composite Electrode Design for Stable Sodium Metal Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01023&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01023"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -559,18 +595,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02496</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02496</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We report acoustic control of spin resonance in nitrogen-vacancy (NV–) centers in diamond using low-frequency free-space sound waves. Acoustic excitation redistributes spin populations between the |+1⟩ and |−1⟩ states, producing an asymmetric, tunable double-dip ODMR spectrum without shifting resonance frequencies. This contrasts with conventional magnetic-field-induced splitting and reveals a previously unobserved mechanism for spin manipulation via strain-mediated acoustic coupling. Analytical modeling captures the essential features of the amplitude flipping and elucidates the underlying spin-strain interaction. Our findings establish a new degree of freedom for selective multimodal quantum sensing and open avenues for hybrid spin-mechanical quantum devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Acoustic Control of Spin States in Diamond Nitrogen-Vacancy Centres&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02496&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02496"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Pushing the Limits of Ultrasmall PbSe Magic-Sized Clusters</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02367</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02367</guid>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02367&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Enhancing Lipid Nanoparticle-Mediated Circular RNA and mRNA Expression in the Placenta through Inhibition of IFNAR-JAK-STAT Signaling</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01762</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01762</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The placenta has emerged as a promising target for RNA lipid nanoparticle (LNP)-based therapies to treat obstetric complications, yet efficient extrahepatic RNA transfection remains a challenge. Here, we identify innate immune signaling as a regulator of placental RNA translation and demonstrate that inhibition of IFN-α/β receptor (IFNAR) and JAK-STAT signaling enhances LNP-mediated transgene expression in the placenta for both messenger RNA (mRNA) and circular RNA (circRNA). While a placenta-tropic LNP enabled robust and durable circRNA expression in trophoblasts in vitro, circRNA translation was substantially decreased in vivo compared to mRNA in pregnant mice. Inhibition of IFNAR-JAK-STAT signaling enhanced circRNA translation up to 12-fold in maternal organs and increased circRNA and mRNA translation in the placenta up to 17.5- and 4-fold, respectively. JAK-STAT inhibition also enhanced translation of therapeutically relevant VEGF-encoding circRNA and mRNA in pregnant mice, suggesting innate immune modulation as a broadly applicable strategy to improve RNA therapeutics during pregnancy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Enhancing Lipid Nanoparticle-Mediated Circular RNA and mRNA Expression in the Placenta through Inhibition of IFNAR-JAK-STAT Signaling&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01762&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01762"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nanoscale Penetration Depth of Emergent Magnetic Field at an Oxide Spin-Ice/Metal Interface</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01971</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01971</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The geometrically frustrated spin-ice pyrochlore Dy2Ti2O7 (DTO) provides a platform for exploring topological physics arising from emergent magnetic fields (bem). While proximity-coupled interfaces have enabled the detection of bem in insulating magnets via the topological Hall effect (THE), harnessing these phenomena for practical applications requires quantification of their spatial extent. Here, we investigate bem propagation across (Pb0.9Sr0.1)2Ru2O6.5 (PSRO)/DTO heterostructures. By systematically varying the conducting PSRO layer thickness (t), we demonstrate that the THE amplitude deviates from the 1/t dependence characteristic of purely interfacial scattering. Instead, the signal exhibits an exponential decay with a penetration length of ∼2.3 nm, reflecting the characteristic length scale of the conduction electron wave function overlap with the frustrated spin texture. This finding provides evidence for the spatial penetration of Berry curvature into an adjacent metal, establishing a fundamental design parameter for integrating spin-ice physics into topological oxide electronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoscale Penetration Depth of Emergent Magnetic Field at an Oxide Spin-Ice/Metal Interface&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01971&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01971"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:59:14 +0000</lastBuildDate>
+    <item>
+      <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ferroelectric wake-up in hafnium oxide remains one of the key unresolved problems in oxide electronics. Here, we combine four-dimensional scanning transmission electron microscopy (4D-STEM), X-ray photoelectron spectroscopy (XPS), first-principles calculations, electrical characterization, and theoretical modeling to investigate wake-up in TaN/Hf0.5Zr0.5O2/TiN capacitors. Although the remanent polarization increases by approximately 2.6-fold after wake-up, the orthorhombic phase fraction changes only slightly from 20.3% to 21.4%, indicating that structural evolution alone cannot explain the electrical activation. XPS and first-principles calculations reveal that the ferroelectric response is highly sensitive to oxygen-vacancy configuration. Motivated by these observations, we develop a vacancy-assisted polarization-catastrophe framework in which vacancy ordering renormalizes the dipolar interaction and drives the transition from a nonpolar single-well to a ferroelectric double-well energy landscape. The model quantitatively explains the observed enhancement of polarization, switching current, capacitance, and hysteresis, establishing vacancy ordering as the governing mechanism of wake-up in hafnium oxide.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01204&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>A Visible-Frequency Excitonic Reststrahlen Band in (PEA)2PbI4 Slabs</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02639</link>
@@ -19,6 +31,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Self-Blinking Dye Restores Efficient Use of Nanobodies in Single-Molecule Localization Microscopy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02799</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02799</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Direct stochastic optical reconstruction microscopy (dSTORM) relies on controlled fluorophore blinking to achieve nanometer-scale resolution, yet the field’s benchmark dye, Alexa Fluor 647, underperforms when conjugated to nanobodies, limiting the practical use of minimal-linkage labeling strategies. Here, we show that the self-blinking dye JF635b overcomes this limitation by maintaining robust, photostable blinking upon conjugation to nanobodies under buffer-independent conditions. This enables reliable single-molecule localization microscopy (SMLM) without the need for complex switching buffers. Using JF635b-labeled nanobodies, we demonstrate consistent performance across multiple imaging modalities, including wide-field dSTORM, fluorescence-lifetime SMLM, and MINFLUX nanoscopy, achieving localization precisions from ∼15 nm down to the subnanometer regime. In addition, JF635b supports long-term sample preservation and efficient blinking even in pure water, enabling minimally perturbative imaging conditions. Together, these results establish self-blinking dSTORM as a robust and accessible platform for quantitative nanoscopy across experimental contexts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Self-Blinking Dye Restores Efficient Use of Nanobodies in Single-Molecule Localization Microscopy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02799&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02799"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Unconventional Floquet Quantum Spin Hall Effect in Two-Dimensional Altermagnets</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02856</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02856</guid>
@@ -28,6 +52,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02856&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02856"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Quantum-Material Josephson Junctions: Unconventional Barriers, Emerging Functionality</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01333</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01333</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Josephson junctions translate quantum phase coherence into an electrical response and underpin superconducting sensors and quantum circuits. In conventional junctions, the barrier acts primarily as a passive weak link; however, when the barrier is a quantum material with its own internal degrees of freedom like magnetism, strong correlations, or switchable polarization, the Josephson effect becomes a sensitive probe of symmetry and many-body physics in the interlayer. Here we review progress in “quantum-material Josephson junctions” (QMJJ), focusing on three rapidly advancing barrier families: (1) magnetic barriers, where exchange, noncollinearity, and spin-active scattering enable 0−π–φ ground states, singlet–triplet conversion, and nonreciprocal transport; (2) correlated barriers, where proximity effects acquire many-body character and recent van der Waals Kagome Mott interlayers exhibit field-free Josephson diode behavior; and (3) ferroelectric and multiferroic barriers, where nonvolatile polarization provides an internal control knob and can produce superconducting memory and memristive dynamics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Quantum-Material Josephson Junctions: Unconventional Barriers, Emerging Functionality&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01333&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01333"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -67,18 +103,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02509</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02509</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Controlling the nanostructure and electronic properties of polar semiconductors could enable new applications in nanoelectronics. Here, we report the synthesis of one-dimensional BiTeI nanowires confined within single- and multiwalled carbon nanotubes using a sublimation-driven transport reaction. Aberration-corrected scanning transmission electron microscopy reveals highly ordered BiTeI nanowires ranging from one to six atomic layers. Density gradient ultracentrifugation enables the separation of filled and empty nanotubes, while Raman spectroscopy evidences host–guest interactions. Furthermore, the encapsulation of BiTeI leads to an increase in the optical band gap and a stable enhancement in electrical conductivity in macroscopic films. First-principles calculations show that compressive strain significantly modifies the BiTeI electronic structure, including reduced Rashba splitting and strain-induced band reordering. Overall, nanoconfinement is shown to be a powerful route to probe and engineer strain-tunable electronic states in polar semiconductors at the one-dimensional scale.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02509&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02509"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02661</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02661</guid>
@@ -88,6 +112,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02661&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02661"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02509</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02509</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Controlling the nanostructure and electronic properties of polar semiconductors could enable new applications in nanoelectronics. Here, we report the synthesis of one-dimensional BiTeI nanowires confined within single- and multiwalled carbon nanotubes using a sublimation-driven transport reaction. Aberration-corrected scanning transmission electron microscopy reveals highly ordered BiTeI nanowires ranging from one to six atomic layers. Density gradient ultracentrifugation enables the separation of filled and empty nanotubes, while Raman spectroscopy evidences host–guest interactions. Furthermore, the encapsulation of BiTeI leads to an increase in the optical band gap and a stable enhancement in electrical conductivity in macroscopic films. First-principles calculations show that compressive strain significantly modifies the BiTeI electronic structure, including reduced Rashba splitting and strain-induced band reordering. Overall, nanoconfinement is shown to be a powerful route to probe and engineer strain-tunable electronic states in polar semiconductors at the one-dimensional scale.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02509&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02509"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02461&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02461"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Magnetically Induced Oxygen Vacancies and Spin Canting in GdO &lt;i&gt;x&lt;/i&gt; Nanoprobes for Enhanced &lt;i&gt;T&lt;/i&gt; 1-Weighted MRI</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02465</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02465</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Engineering oxygen vacancies at the nanoscale is instrumental for controlling oxygen dynamics that underpin diverse functional behaviors in oxide materials. Here, we present a magnetic-field-assisted synthesis platform that leverages static magnetic fields (3 T) to actively engineer oxygen vacancies in gadolinium oxide (GdOx) nanoparticles. By exploiting Lorentz forces and Zeeman interactions during crystallization, this method induces facet reorientation and disrupts oxygen incorporation, yielding a 3.5-fold increase in surface oxygen vacancies compared with thermal synthesis. These vacancies act as spin-canting centers, amplifying paramagnetic interactions and enhancing magnetic relaxivity. The defect-engineered GdOx nanoprobes provide stronger and more persistent contrast enhancement in tumor-bearing mice than control nanoparticles and clinical Gd-DTPA with negligible gadolinium leakage and complete renal clearance. Beyond biomedical applications, this work establishes magnetic-field-assisted synthesis as a generalizable platform for defect engineering in nanomaterials, offering precise control over spin structures and defect–property relationships.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Magnetically Induced Oxygen Vacancies and Spin Canting in GdO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; Nanoprobes for Enhanced &amp;lt;i&amp;gt;T&amp;lt;/i&amp;gt; 1-Weighted MRI&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02465&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02465"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Gradient Alloy CdSe/CdZnS Nanorods as Polarized Room-Temperature Single-Photon Sources</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03256</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03256</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Colloidal semiconductor nanorods (NRs) are promising room-temperature single-photon sources because of their solution processability, tunable optical properties, and intrinsically linearly polarized emission. However, simultaneously achieving high photoluminescence quantum yield (PLQY), strong polarization, and high-purity single-photon emission remains challenging in conventional binary-shell NRs due to the competing requirements of exciton confinement and core/shell lattice–strain management. Here, we report CdSe/CdZnS gradient alloy core/shell NRs with tunable aspect ratios to address these issues. The gradient alloy shell provides a smooth lattice transition, reducing interfacial strain while maintaining effective exciton confinement. At an aspect ratio of 3.8, the NRs achieve a near-unity PLQY, a high linear polarization (0.76), fully suppressed blinking, and excellent single-photon purity [g2(0) = 0.068]. Increasing the aspect ratio to 13 reduces the PLQY and enhances blinking, with power-law analysis revealing aspect-ratio-dependent on/off-state dynamics. These results demonstrate the potential of alloy-shell NRs as high-brightness, room-temperature single-photon emitters.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Gradient Alloy CdSe/CdZnS Nanorods as Polarized Room-Temperature Single-Photon Sources&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03256&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03256"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Highly Efficient Postprocessing Cleaning of van der Waals Devices</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02887</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02887</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Interfacial contaminants remain a major technical challenge for van der Waals (vdW) junctions, severely degrading device performance. Given the inherent difficulty of fabricating contaminant-free vdW interfaces, developing effective postfabrication cleaning technologies is crucial for restoring interfacial quality. Existing technologies include annealing, which results in incomplete removal, and AFM-tip squeezing, which is time-consuming and costly. Here, we invent a complete, rapid, and cost-effective electric-field-assisted cleaning method that simultaneously delivers high spatial and temporal efficiency. For a microscale graphite interface, this method removes over 95% of the contaminant coverage within just 20 ms, restoring the interfacial conductivity to its clean-state level without introducing defects. Compared with previous methods, our method achieves a comparable or higher level of contaminant removal while reducing the required time by at least 4 orders of magnitude. We further demonstrate its practical applicability using a microscale superlubric Schottky generator, which transitions from an insulative to a generating state after cleaning. Importantly, the interfacial cleanliness level achieved by our method satisfies U.S. cleanliness standards for aerospace, semiconductor manufacturing, and medical devices, suggesting its broad applicability across multiple industries.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Highly Efficient Postprocessing Cleaning of van der Waals Devices&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02887&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02887"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

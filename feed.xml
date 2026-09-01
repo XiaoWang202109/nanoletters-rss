@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:19:08 +0000</lastBuildDate>
+    <item>
+      <title>A Visible-Frequency Excitonic Reststrahlen Band in (PEA)2PbI4 Slabs</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02639</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02639</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Layered halide perovskites host exceptionally strong excitons, whose optical signatures are usually read as absorptive resonances on a smooth dielectric background. Strong excitons, however, can also reshape the dielectric response itself and drive the real permittivity negative, opening a reflective band─the visible, excitonic analogue of an infrared Reststrahlen band. Whether bare (PEA)2PbI4 slabs reach this regime has remained unclear. Here we show that low-temperature transmission of (PEA)2PbI4 slabs, driven by the intralayer-exciton manifold, evolves with increasing thickness from an excitonic dip into a broad near-zero-transmission interval with compressed Fabry–Pérot-like fringes. Transfer-matrix analysis with an effective Lorentz-oscillator dielectric response reproduces thickness-dependent evolution, reconstructs a finite negative-Re(ε) window, and implies near-ultrastrong exciton–photon coupling. Calculated field maps show suppressed in-plane field penetration within this interval and a driven longitudinal response near the high-energy (ε = 0) edge. These results identify (PEA)2PbI4 slabs as a cavity-free visible-frequency excitonic Reststrahlen material.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A Visible-Frequency Excitonic Reststrahlen Band in (PEA)2PbI4 Slabs&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02639&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02639"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Deposition-Free Anti-Reflective Nanomembrane Lamination for Ultrathin Photodetectors</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02513</link>
@@ -19,6 +31,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Revealing Concentration-Dependent Amplification and Inversion of Circularly Polarized Luminescence in Liquid Crystal Self-Assemblies</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03326</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03326</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Elucidating supramolecular chiral evolution remains challenging, owing to weak chiroptical signals and poorly characterized conformationally diverse chiral dimers. Here, we adopt liquid crystal matrices to amplify chiroptical signals for real-time monitoring of monomer-to-aggregate chiral evolution. In this pyrene-based supramolecular system, π–π stacking and C–H···π interactions drive the formation of discrete dimers within nematic liquid crystals. The significantly amplified CPL signals with glum values up to 10–1 enable direct visualization of chiral transformation. Structural analyses verify that offset face-to-face dimers possess reversed handedness relative to monomers, thus inducing chiroptical inversion. TCNB allosteric encapsulation induces spatial rearrangement of BP dimers within liquid crystal and modulates their helicity-dependent chiroptical activity. A maximum glum value of 0.97 is achieved at the bandgap edge. Such structure reshaping confirms that assembly concentration regulation and molecular intervention enable precise engineering of chiral aggregates, offering fundamental insights into chiral evolution in supramolecular assembly systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Revealing Concentration-Dependent Amplification and Inversion of Circularly Polarized Luminescence in Liquid Crystal Self-Assemblies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03326&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03326"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Preceramic Precursor Enabled Multifunctional High-Temperature Coatings</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03112</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03112</guid>
@@ -28,6 +52,42 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03112&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03112"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Membrane-Fusogenic Nanoparticles for Gene and Cell Therapy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02161</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02161</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Inspired by natural membrane-fusion processes, membrane-fusogenic nanoparticles have emerged as a versatile platform for precise and efficient therapeutic delivery. By fusing directly with target cells, these systems efficiently transfer encapsulated bioactive cargo into the cytoplasm while bypassing endosomal entrapment. Simultaneously, the fusion process enables direct membrane engineering by integrating functional agents into the cell surface through lipid mixing. Leveraging this dual capability, membrane-fusogenic nanoparticles are evolving from simple gene delivery vehicles to versatile tools for cell engineering. In this Mini-Review, we highlight recent advances that position these nanoparticles as a unified platform bridging gene therapy and cell therapy. We outline the design principles and fusion-inducing mechanisms of current membrane-fusogenic nanoparticles and then discuss recent developments in programmable functionalization for gene and cell therapies. Finally, we address current challenges and future perspectives, offering insights into guiding the further optimization and clinical translation of these systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Membrane-Fusogenic Nanoparticles for Gene and Cell Therapy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02161&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02161"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Bacteria-Based Ammunition for Cascade-Amplified Chemoimmunotherapy of Ovarian Cancer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02787</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02787</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ovarian cancer is the deadliest gynecological malignancy due to poor drug targeting, severe toxicity, and an immunosuppressive tumor microenvironment (TME). To address this, a pH/GSH dual-responsive bacterial–nanoparticle system (VNP@BD-Poly) based on attenuated Salmonella VNP20009 (VNP) was developed. A bovine serum albumin (BSA)–doxorubicin (DOX) (BD) complex was functionalized via atom transfer radical polymerization (ATRP) to form BD-Poly, conjugated onto VNP. The system integrates hypoxia tropism, TME-responsive drug release, dual targeting, and antigen capture. In ovarian cancer, it accumulates in hypoxic tumors, releases DOX to induce immunogenic cell death, and activates immunity via a “bacterial sensitization–DOX antigen release–immune cascade” loop. This enhances antitumor immunity, reverses immunosuppression, and suppresses tumor progression with minimal toxicity. This study provides a promising chemoimmunotherapy strategy for ovarian cancer and a versatile platform for solid tumor translational research.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Bacteria-Based Ammunition for Cascade-Amplified Chemoimmunotherapy of Ovarian Cancer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02787&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02787"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Emergent Superconductivity and Nonreciprocal Transport in a van der Waals Dirac Semimetal/Antiferromagnet Heterostructure</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01763</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01763</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We investigate emergent superconductivity and nonreciprocal transport (magnetochiral anisotropy and superconducting diode effect) at the heterointerface of two nonsuperconducting van der Waals (vdW) materials, Dirac semimetal ZrTe2 and antiferromagnetic iron chalcogenide FeTe, grown using molecular beam epitaxy. We show from electrical transport measurements that two-dimensional (2D) superconductivity arises at the heterointerface below a critical temperature (Tc) of ∼10 K. In the superconducting transition region, nonreciprocal transport, characterized by magneto-chiral anisotropy, exhibits a magnitude comparable to that observed in topological insulators and is enhanced by a factor of 3 when the heterostructure is capped with a 2D vdW ferromagnet (CrTe2). Below Tc, the superconducting diode effect exhibits an efficiency of 29%. With strong spin–orbit coupling in ZrTe2, these epitaxial heterostructures provide an attractive epitaxial vdW platform for exploring unconventional superconductivity in Dirac semimetals and for developing nonreciprocal devices for superconducting electronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Emergent Superconductivity and Nonreciprocal Transport in a van der Waals Dirac Semimetal/Antiferromagnet Heterostructure&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01763&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01763"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -544,66 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01154&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01154"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Strain-Tunable Altermagnetism in Bilayer Perovskites Mediated by Jahn–Teller Distortions</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03044</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03044</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnetism, a novel collinear magnetic order distinct from conventional ferromagnetism and antiferromagnetism, has attracted great interest for its unique functional properties and potential applications in ultrafast spintronics. However, achieving effective control of this magnetic order in real materials remains a major challenge. Here, we report that biaxial strain can effectively modulate the altermagnetic order in XCuF3 (X = K and Rb) bilayer perovskites. The modulation is mediated by Jahn–Teller distortion, which introduces the symmetry breaking essential for the altermagnetic state. First-principles calculations reveal that biaxial strain switches the magnetic ground state between the A-type antiferromagnetic and the G-type antiferromagnetic configurations. This magnetic phase transition transforms the band structure from spin degeneracy to spin splitting, thereby activating the altermagnetic response. With the coupling of lattice distortion to altermagnetism, this work provides a paradigm for exploring this phenomenon in perovskites and opens new possibilities for discovering and controlling topological magnetic states in correlated electronic materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Strain-Tunable Altermagnetism in Bilayer Perovskites Mediated by Jahn–Teller Distortions&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03044&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03044"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Sensitive and Reproducible SERS Profiling of Tumor-Derived EVs via Uniform Microfluidic Nanobowl Arrays for Pancreatic Cancer Management</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02493</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02493</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Tumor-derived extracellular vesicles (EVs) are promising liquid biopsy biomarkers, yet their clinical translation is hindered by the trade-off between enhancement and reproducibility of SERS-based detection. Here, we present a microfluidic SERS platform integrating plasmonic nanobowl arrays that simultaneously achieve a high enhancement factor and signal reproducibility. Periodic nanobowl architectures generate consistent plasmonic hotspots, breaking the typical compromise between sensitivity and uniformity. The aptamer-modified chip enables quantification of EV markers and achieved a calculated analytical limit of detection of 2.5 × 103 particles mL–1 for purified cell line EVs and 1.2 × 104 particles mL–1 for ultrafiltration-pretreated plasma. In a pancreatic cancer mouse model, the platform tracked tumor progression longitudinally, with SERS signals correlating with bioluminescence imaging (r &amp;amp;gt; 0.83). In a pilot clinical study, multimarker analysis achieved 93.33% diagnostic accuracy and effectively monitored chemotherapy response (AUC = 0.80–0.96). This robust platform provides a promising tool for EV-based precision oncology.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Sensitive and Reproducible SERS Profiling of Tumor-Derived EVs via Uniform Microfluidic Nanobowl Arrays for Pancreatic Cancer Management&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02493&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02493"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Conjugated Coordination Polymer Aerogels with Unsaturated Single-Atom Metal Sites for Efficient Neutral Oxygen Evolution</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03220</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03220</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Designing high-performance single-atom catalysts with a precisely designed configuration is important in extensive energy-conversion technologies, which presents enormous potentials to be extensively applied. Defect-enriched conjugated coordination polymer aerogels (d-CCPAs) with abundant coordinatively unsaturated single-atom metal sites and the counterpart conjugated coordination polymer aerogel were developed, with Ni1–O2 and Ni1–O4 motifs employed as model systems for comparative investigation. Our findings reveal that the Ni1–O2 sites with elevated Ni d-band centers lower the thermodynamic barrier for the neutral OER, while the defective structure of d-CCPA accelerates reactant transport and improves active-site accessibility. Consequently, the d-CCPA delivers an ultralow overpotential of 213 mV at 10 mA/cm2 and maintains good durability over 400 h. Such d-CCPA catalysts feature exceptional tunability of active sites given the diversities of metal precursors and organic ligands, holding immense potential for application in widespread catalytic reactions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Conjugated Coordination Polymer Aerogels with Unsaturated Single-Atom Metal Sites for Efficient Neutral Oxygen Evolution&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03220&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03220"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Bicontinuous Rubbery Semiconductors Enable Intrinsically Stretchable Transistors for Ultrasensitive Tactile Electronic Skins</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02948</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02948</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Developing high-performance elastic tactile sensing systems is crucial for prosthetic skins, soft robotics, and human–machine interfaces, yet integrating ultrahigh sensitivity, fast response, and robust mechanical compliance remains a fundamental challenge. Herein, we report an intrinsically stretchable elastic electronic skin enabled by rubbery transistors based on a self-assembled bicontinuous rubbery semiconductor. The bicontinuous morphology provides continuous semiconducting pathways for charge transport while accommodating mechanical deformation, allowing the transistors to retain high mobility even under 50% tensile strain. By coupling tactile-modulated iontronic effects with air-gap capacitance modulation, the elastic tactile sensors achieve an ultrahigh sensitivity of 4358 kPa–1, rapid response, and reliable detection of subtle tactile signals. Integrating a 5 × 5 tactile sensor array with a convolutional neural network enables accurate tactile recognition and correction of tactile inputs even under mechanical deformation. These results establish bicontinuous rubbery semiconductors as a materials-driven platform for intrinsically stretchable, ultrahigh-sensitivity tactile electronic skins.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Bicontinuous Rubbery Semiconductors Enable Intrinsically Stretchable Transistors for Ultrasensitive Tactile Electronic Skins&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02948&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02948"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Experimental Observation of Protein Interactions with Atomic-Scale Perturbations on an Open Plasmonic Metasurface</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01577</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01577</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Atomic-scale perturbations on plasmonic surfaces can give rise to enhanced optical fields on the picoscale due to adatom formation or metallic crystal rearrangements, called picocavity and flare, respectively. To date, these atomic-scale effects have been observed exclusively in closed nanogaps upon interaction with small organic molecules. Here, we generate these atomic-scale effects on an open plasmonic metasurface, which is a monolayer of Au nanoparticles on a Au film. We observe picocavity and flare spectral signatures for proteins spanning 2 orders of magnitude in mass, from lysozyme (14 kDa) to encapsulin (1932 kDa). The atomic-scale interactions reveal 1 order of magnitude picocavity-enhanced Raman intensity, a single-exponential spectral wandering distribution, and a biexponential picocavity lifetime. Our results demonstrate the plasmonic metasurface as a platform to access picoscale-enhanced optical fields that can be harnessed to study light–matter interactions and applications for sensing of large molecules and particles.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Experimental Observation of Protein Interactions with Atomic-Scale Perturbations on an Open Plasmonic Metasurface&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01577&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01577"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

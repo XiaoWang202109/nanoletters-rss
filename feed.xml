@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 02:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Fabrication-Aware Training for Two-Photon Polymerized Diffractive Deep Neural Networks</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01607</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01607</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Diffractive deep neural networks (D2NNs) provide a promising pathway toward high-speed, energy-efficient optical computing. However, a substantial discrepancy between simulation and experiment remains when devices are fabricated by two-photon polymerization (TPP) for visible/near-infrared operation. This discrepancy is primarily due to fabrication constraints. In particular, the finite voxel size of the writing focus and the layer-by-layer slicing quantization attenuate high-spatial-frequency phase features and distort the designed wavefront. Here, a fabrication-aware training (FAT) strategy is introduced to incorporate these dominant constraints into the optimization loop through a differentiable model, thereby improving the experimental performance of two-photon polymerized D2NNs. In a handwritten digit recognition task, FAT increases the average experimental energy concentration ratio (ECR) from 6.15% to 11.50%. This reduces the simulation-to-experiment discrepancy by 79.03% while preserving the classification accuracy. These results demonstrate that fabrication-aware optimization substantially improves the functional fidelity of micro/nanoscale diffractive optical computing devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Fabrication-Aware Training for Two-Photon Polymerized Diffractive Deep Neural Networks&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01607&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01607"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Nanobowtie-Integrated Dielectric Mode Moiré Photonic Crystal Nanolasers</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02029</link>
@@ -16,6 +28,66 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02029&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02029"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Sulfur-Enabled Structural Amorphization and &lt;i&gt;Operando&lt;/i&gt; Interfacial Densification in Halide-Based Solid Electrolytes for Long-Lasting All-Solid-State Sodium Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02765</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02765</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract All-solid-state sodium batteries (ASSBs) offer advantages of high safety and low cost, making them promising for next-generation energy storage. However, their development is primarily limited by the low ionic conductivity of solid electrolytes owing to the sluggish kinetics of Na+ ions. Here, we report an amorphous solid electrolyte, 0.75Na2S–TaCl5, via incorporating S2– into the chloride sublattice. The mixed-anion sublattice promotes amorphization, eliminating grain boundaries and creating an isotropic ion transport network, which delivers a room-temperature ionic conductivity of 1.38 mS cm–1. More importantly, the soft amorphous electrolyte enables an unprecedented electrochemically driven densification process that progressively heals voids and microcracks during cycling, which actively improves the electrode–electrolyte contact. This self-healing behavior allows ASSBs to achieve stable cycling over 1400 cycles at 0.3C and over 3500 cycles at 1C under ambient conditions. This work demonstrates that the disordered atomic arrangement in an amorphous electrolyte can simultaneously improve ion transport and enhance interfacial properties.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Sulfur-Enabled Structural Amorphization and &amp;lt;i&amp;gt;Operando&amp;lt;/i&amp;gt; Interfacial Densification in Halide-Based Solid Electrolytes for Long-Lasting All-Solid-State Sodium Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02765&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02765"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Robust Realization of Polariton Lasing from a Higher Order Mode of Bound States in the Continuum</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02518</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02518</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Bound states in the continuum (BICs) in microcavity polaritons offer a compelling platform for the interplay of photonic topology and excitonic nonlinear features, yet existing studies are mostly restricted to fundamental resonance modes that restrict access to rich multimode interactions. Here, we demonstrate the realization of a robust higher order mode of BIC in FAPbBr3 perovskite photonic crystals, with a meticulous design of energy detuning for photon and exciton resonance. We show numerically that the higher order mode of BIC exhibits excellent resilience against index asymmetry and fabrication perturbations, robustly sustaining high quality factors. On the basis of this platform, we achieve strong coupling between a second order mode of BIC and perovskite excitons and realize polariton lasing operated at room temperature. The polariton lasing exhibits a coherent far-field polarization vortex carrying a topological charge of −1. This work establishes a promising platform for exploring nonlinear polaritonic phenomena and topological light emission.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Robust Realization of Polariton Lasing from a Higher Order Mode of Bound States in the Continuum&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02518&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02518"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Operando Imaging of Whisker Growth in NASICON Solid-State Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03503</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03503</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract A central obstacle to elucidating all-solid-state sodium battery (ASSSB) failure is operando, nanoscale visualization of sodium whisker growth within solid electrolytes under realistic operating conditions. To this end, we establish an integrated framework coupling operando electrochemical electron microscopy (EM) with nanofabrication, enabling in situ tracking of structural evolution and cryogenic EM interrogation of failure hotspots. With this framework, we monitor structural dynamics and elucidate the whisker growth mechanism in a symmetric sodium cell containing a NASICON Mg-doped Na3Zr2–xMgxSi2PO12 electrolyte. During extended plating–stripping cycling, voids that develop in the vicinity of weak crystalline NaMgPO4 secondary phases of the electrolyte act as nucleation sites for whisker growth, which grow into pillar-like morphologies with cubic/hexagonal features. The explicit identification of these void–secondary phase composite nucleation sites establishes a direct mechanistic link between the chemo-physical properties of the electrolyte and whisker growth, offering fundamental design principles for dendrite-free ASSSBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Operando Imaging of Whisker Growth in NASICON Solid-State Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03503&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03503"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03098</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03098</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Near-infrared (NIR, 750–2500 nm) imaging is crucial for disease diagnosis, yet conventional wide-field bioimaging yields only two-dimensional (2D) information without depth. Here, we report a ratiometric fluorescence strategy for tissue depth determination using α-NaTmF4@NaErF4@NaYF4 nanoprobes. Under 808 nm excitation, interfacial cascade energy transfer between Tm3+ and Er3+ ions enhances NIR-II emissions at 1532 and 1626 nm by 3.3- and 6.7-fold, respectively, compared with that of a codoped counterpart. Leveraging distinct water absorption at these wavelengths, the logarithm of the attenuated intensity ratio (ITm/IEr) varies linearly with tissue depth (0–4 mm). With this NIR ratiometric wide-field depth-mapping method, quantitative depth information about in vivo vasculature was assigned to each image pixel and rendered into 2.5D visualization by stacking 2D planes over a 40 mm × 40 mm × 4 mm volume. Dynamic tracking of nanoprobe redistribution from vessels along the projection direction was also demonstrated. This work establishes a universal depth-analysis tool and significantly advances medical optical imaging.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03098&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03098"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Interface Engineering Strategy of Polydopamine-Decorated rGO/Carbon Fiber Electrodes toward Robust Sweat-Activated Yarn Supercapacitors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03064</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03064</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract With its superior mechanical flexibility and unique one-dimensional structure, fiber-shaped supercapacitors are regarded as a promising microenergy storage unit for wearable electronics. However, the potential toxicity of its electrolyte significantly restricts its application. Herein, based on the interface engineering regulation strategy, this study designed and prepared polydopamine-modified reduced graphene oxide (rGO/PDA) composite materials, and successfully constructed a high-performance sweat-activated yarn supercapacitor (SYSC). Benefiting from the excellent interfacial wettability and abundant electrochemically active sites of rGO/PDA composites, SYSC exhibits outstanding electrochemical performance in an artificial sweat environment, effectively eliminating the potential safety hazard caused by electrolyte leakage. At a power density of 120–3000 μW cm–2, SYSC exhibits a high energy density of 0.57–12.1 μWh cm–2 and remains highly stable after large deformation. This work provides an effective way to fabricate biofriendly, safe, and controllable flexible supercapacitors.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Interface Engineering Strategy of Polydopamine-Decorated rGO/Carbon Fiber Electrodes toward Robust Sweat-Activated Yarn Supercapacitors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03064&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -43,6 +115,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03428</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03428</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Gallium oxide (Ga2O3) is an emerging ultrawide bandgap semiconductor for high-power electronics and solar-blind optoelectronics. Here we demonstrate an atomic-scale strain relaxation method to achieve a complete α-to-β Ga2O3 phase transition within the initial nucleation stage, enabling a heteroepitaxial growth regime of single-crystalline β-Ga2O3 (010) films. An Ar+ bombardment strategy is used to create periodic strain relaxation sites that relieve the compressive strain in the metastable α-Ga2O3 interlayer and facilitate the phase transition, as revealed by a combination of X-ray diffraction, atomic-force microscopy, atomic-resolution scanning transmission electron microscopy, and geometric phase analysis. The heteroepitaxial Sn-doped β-Ga2O3 (010) films with distinct donor activation behavior are established on m-plane sapphire, and a lateral Schottky barrier diode with a high reverse breakdown voltage of 1590 V is achieved. This study provides critical insights into atom-scale strain engineering and confined epitaxial growth for developing high-quality β-Ga2O3 films on cost-effective substrates for advanced electronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03428&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03428"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Deformation Pathway and Electronic Transition of Individual Single-Walled Carbon Nanotubes under Pressure</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01441</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01441</guid>
@@ -64,18 +148,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02321&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02321"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03428</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03428</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Gallium oxide (Ga2O3) is an emerging ultrawide bandgap semiconductor for high-power electronics and solar-blind optoelectronics. Here we demonstrate an atomic-scale strain relaxation method to achieve a complete α-to-β Ga2O3 phase transition within the initial nucleation stage, enabling a heteroepitaxial growth regime of single-crystalline β-Ga2O3 (010) films. An Ar+ bombardment strategy is used to create periodic strain relaxation sites that relieve the compressive strain in the metastable α-Ga2O3 interlayer and facilitate the phase transition, as revealed by a combination of X-ray diffraction, atomic-force microscopy, atomic-resolution scanning transmission electron microscopy, and geometric phase analysis. The heteroepitaxial Sn-doped β-Ga2O3 (010) films with distinct donor activation behavior are established on m-plane sapphire, and a lateral Schottky barrier diode with a high reverse breakdown voltage of 1590 V is achieved. This study provides critical insights into atom-scale strain engineering and confined epitaxial growth for developing high-quality β-Ga2O3 films on cost-effective substrates for advanced electronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03428&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03428"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -139,18 +211,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ferroelectric wake-up in hafnium oxide remains one of the key unresolved problems in oxide electronics. Here, we combine four-dimensional scanning transmission electron microscopy (4D-STEM), X-ray photoelectron spectroscopy (XPS), first-principles calculations, electrical characterization, and theoretical modeling to investigate wake-up in TaN/Hf0.5Zr0.5O2/TiN capacitors. Although the remanent polarization increases by approximately 2.6-fold after wake-up, the orthorhombic phase fraction changes only slightly from 20.3% to 21.4%, indicating that structural evolution alone cannot explain the electrical activation. XPS and first-principles calculations reveal that the ferroelectric response is highly sensitive to oxygen-vacancy configuration. Motivated by these observations, we develop a vacancy-assisted polarization-catastrophe framework in which vacancy ordering renormalizes the dipolar interaction and drives the transition from a nonpolar single-well to a ferroelectric double-well energy landscape. The model quantitatively explains the observed enhancement of polarization, switching current, capacitance, and hysteresis, establishing vacancy ordering as the governing mechanism of wake-up in hafnium oxide.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01204&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02728</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02728</guid>
@@ -160,6 +220,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02728&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ferroelectric wake-up in hafnium oxide remains one of the key unresolved problems in oxide electronics. Here, we combine four-dimensional scanning transmission electron microscopy (4D-STEM), X-ray photoelectron spectroscopy (XPS), first-principles calculations, electrical characterization, and theoretical modeling to investigate wake-up in TaN/Hf0.5Zr0.5O2/TiN capacitors. Although the remanent polarization increases by approximately 2.6-fold after wake-up, the orthorhombic phase fraction changes only slightly from 20.3% to 21.4%, indicating that structural evolution alone cannot explain the electrical activation. XPS and first-principles calculations reveal that the ferroelectric response is highly sensitive to oxygen-vacancy configuration. Motivated by these observations, we develop a vacancy-assisted polarization-catastrophe framework in which vacancy ordering renormalizes the dipolar interaction and drives the transition from a nonpolar single-well to a ferroelectric double-well energy landscape. The model quantitatively explains the observed enhancement of polarization, switching current, capacitance, and hysteresis, establishing vacancy ordering as the governing mechanism of wake-up in hafnium oxide.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01204&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -259,18 +331,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02661</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02661</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Reconfigurable infrared plasmons are central to emerging nanophotonic technologies, yet their practical impact remains constrained by limited tuning bandwidth, poor reversibility, and material-specific spectral windows. Here we demonstrate ultrabroadband and fully reversible tuning of infrared plasmons in metallic van der Waals NbSe2 films enabled by gate-controlled lithium-ion intercalation. Ion intercalation provides a unique pathway to simultaneously modulate free-carrier density and screening from high-energy interband transitions, jointly reshaping both plasmon frequency and oscillator strength. As a result, plasmon resonances can be continuously swept over an unprecedented spectral span exceeding 5500 cm–1 within a single material platform, covering the telecom, mid-infrared and thermal far-infrared region. Leveraging this broad and reversible tunability, we realize electrically tunable wavelength-selective thermal emitters and thermal display patterns through plasmon-mediated emissivity modulation. Our results establish ion-intercalated van der Waals metals as a versatile and programmable platform for ultrabroadband tunable infrared nanophotonics and reversible thermal-radiation control.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02661&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02661"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02509</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02509</guid>
@@ -280,6 +340,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02509&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02509"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02661</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02661</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Reconfigurable infrared plasmons are central to emerging nanophotonic technologies, yet their practical impact remains constrained by limited tuning bandwidth, poor reversibility, and material-specific spectral windows. Here we demonstrate ultrabroadband and fully reversible tuning of infrared plasmons in metallic van der Waals NbSe2 films enabled by gate-controlled lithium-ion intercalation. Ion intercalation provides a unique pathway to simultaneously modulate free-carrier density and screening from high-energy interband transitions, jointly reshaping both plasmon frequency and oscillator strength. As a result, plasmon resonances can be continuously swept over an unprecedented spectral span exceeding 5500 cm–1 within a single material platform, covering the telecom, mid-infrared and thermal far-infrared region. Leveraging this broad and reversible tunability, we realize electrically tunable wavelength-selective thermal emitters and thermal display patterns through plasmon-mediated emissivity modulation. Our results establish ion-intercalated van der Waals metals as a versatile and programmable platform for ultrabroadband tunable infrared nanophotonics and reversible thermal-radiation control.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02661&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02661"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -331,18 +403,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Bacteria-Based Ammunition for Cascade-Amplified Chemoimmunotherapy of Ovarian Cancer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02787</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02787</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ovarian cancer is the deadliest gynecological malignancy due to poor drug targeting, severe toxicity, and an immunosuppressive tumor microenvironment (TME). To address this, a pH/GSH dual-responsive bacterial–nanoparticle system (VNP@BD-Poly) based on attenuated Salmonella VNP20009 (VNP) was developed. A bovine serum albumin (BSA)–doxorubicin (DOX) (BD) complex was functionalized via atom transfer radical polymerization (ATRP) to form BD-Poly, conjugated onto VNP. The system integrates hypoxia tropism, TME-responsive drug release, dual targeting, and antigen capture. In ovarian cancer, it accumulates in hypoxic tumors, releases DOX to induce immunogenic cell death, and activates immunity via a “bacterial sensitization–DOX antigen release–immune cascade” loop. This enhances antitumor immunity, reverses immunosuppression, and suppresses tumor progression with minimal toxicity. This study provides a promising chemoimmunotherapy strategy for ovarian cancer and a versatile platform for solid tumor translational research.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Bacteria-Based Ammunition for Cascade-Amplified Chemoimmunotherapy of Ovarian Cancer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02787&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02787"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Emergent Superconductivity and Nonreciprocal Transport in a van der Waals Dirac Semimetal/Antiferromagnet Heterostructure</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01763</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01763</guid>
@@ -352,6 +412,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01763&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01763"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Bacteria-Based Ammunition for Cascade-Amplified Chemoimmunotherapy of Ovarian Cancer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02787</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02787</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ovarian cancer is the deadliest gynecological malignancy due to poor drug targeting, severe toxicity, and an immunosuppressive tumor microenvironment (TME). To address this, a pH/GSH dual-responsive bacterial–nanoparticle system (VNP@BD-Poly) based on attenuated Salmonella VNP20009 (VNP) was developed. A bovine serum albumin (BSA)–doxorubicin (DOX) (BD) complex was functionalized via atom transfer radical polymerization (ATRP) to form BD-Poly, conjugated onto VNP. The system integrates hypoxia tropism, TME-responsive drug release, dual targeting, and antigen capture. In ovarian cancer, it accumulates in hypoxic tumors, releases DOX to induce immunogenic cell death, and activates immunity via a “bacterial sensitization–DOX antigen release–immune cascade” loop. This enhances antitumor immunity, reverses immunosuppression, and suppresses tumor progression with minimal toxicity. This study provides a promising chemoimmunotherapy strategy for ovarian cancer and a versatile platform for solid tumor translational research.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Bacteria-Based Ammunition for Cascade-Amplified Chemoimmunotherapy of Ovarian Cancer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02787&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02787"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -367,18 +439,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanosized Li6PS5Cl Solid Electrolyte for All-Solid-State Lithium Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02780</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02780</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Low active material proportion in composite cathodes limits the energy density of all-solid-state lithium batteries. Solid-phase synthesized sulfide electrolytes with large particles usually cause poor interfacial contact and impair active material utilization at high cathode loadings. Here, a stepwise liquid-phase method is employed to synthesize the Li6PS5Cl solid electrolyte. The resulting particles are smaller than 100 nm with an ionic conductivity of 2.4 mS cm–1, which optimizes ionic transport pathways within composite cathodes. Consequently, LiCoO2-based all-solid-state batteries incorporating liquid-phase-synthesized Li6PS5Cl (LPSC-LP) in composite cathodes outperform those with ball-milled Li6PS5Cl (LPSC-BM). At 80 and 90 wt % active material loadings, the LPSC-LP-based LiCoO2//Li cells exhibit initial discharge capacities of 106 and 86 mAh g–1 at 0.5 C, surpassing 85.5 and 54 mAh g–1 for LPSC-BM counterparts. Even at 95% loading, the LPSC-LP-based cell achieves 60.3 mAh g–1 at 0.5 C, far exceeding 27.3 mAh g–1 of the LPSC-BM-based cell.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanosized Li6PS5Cl Solid Electrolyte for All-Solid-State Lithium Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02780&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02780"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Shape Memory Polymer-Based Switchable Bioinspired Microstructured Dry Adhesives</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02126</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02126</guid>
@@ -388,6 +448,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02126&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02126"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanosized Li6PS5Cl Solid Electrolyte for All-Solid-State Lithium Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02780</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02780</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Low active material proportion in composite cathodes limits the energy density of all-solid-state lithium batteries. Solid-phase synthesized sulfide electrolytes with large particles usually cause poor interfacial contact and impair active material utilization at high cathode loadings. Here, a stepwise liquid-phase method is employed to synthesize the Li6PS5Cl solid electrolyte. The resulting particles are smaller than 100 nm with an ionic conductivity of 2.4 mS cm–1, which optimizes ionic transport pathways within composite cathodes. Consequently, LiCoO2-based all-solid-state batteries incorporating liquid-phase-synthesized Li6PS5Cl (LPSC-LP) in composite cathodes outperform those with ball-milled Li6PS5Cl (LPSC-BM). At 80 and 90 wt % active material loadings, the LPSC-LP-based LiCoO2//Li cells exhibit initial discharge capacities of 106 and 86 mAh g–1 at 0.5 C, surpassing 85.5 and 54 mAh g–1 for LPSC-BM counterparts. Even at 95% loading, the LPSC-LP-based cell achieves 60.3 mAh g–1 at 0.5 C, far exceeding 27.3 mAh g–1 of the LPSC-BM-based cell.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanosized Li6PS5Cl Solid Electrolyte for All-Solid-State Lithium Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02780&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02780"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -532,78 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03332&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03332"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Strain Engineering of MoS2 for Overcoming Thermal Bottlenecks in Next-Generation Energy-Efficient Electronics</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c00716</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c00716</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The relentless demand for energy-efficient electronics creates a critical thermal bottleneck. A long-standing paradigm holds that compressive strain universally degrades thermal transport in two-dimensional (2D) materials by inducing phonon-scattering wrinkles. Here, we overturn this in MoS2 by demonstrating that substrate-confined, wrinkle-free compression drastically enhances its in-plane thermal conductivity. This feature is achieved through a substrate confinement strategy that enables uniform, wrinkle-free compression. We experimentally measured a remarkable 40% boost in thermal conductivity with merely 1% compressive strain, an effect that starkly contrasts with the suppression observed under tension. Molecular dynamics simulations reveal that the substrate suppresses out-of-plane instabilities via van der Waals coupling, facilitating an unprecedented strain transfer. First-principles calculations further reveal that the compressive strain reconfigures the crystal symmetry, concurrently increasing phonon group velocities and prolonging phonon lifetimes. This work resolves a critical bottleneck in 2D thermal management and unlocks a new pathway for the atomic-scale design of high-thermal conductivity materials for next-generation electronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Strain Engineering of MoS2 for Overcoming Thermal Bottlenecks in Next-Generation Energy-Efficient Electronics&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c00716&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c00716"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>CrSbSe3 Nanowire: A Platform for Near-Perfect Spin Selectivity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02702</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02702</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Spin-selective carrier transport in low-dimensional magnetic semiconductors is central to the development of next-generation spintronics. However, achieving robust spin-filtering together with long spin-coherence under nonequilibrium conditions remains a major challenge. Recently isolated by top-down exfoliation, the CrSbSe3 nanowire has emerged as a ferromagnetic semiconductor exhibiting enhanced coercivity compared to its bulk counterpart. Here, using first-principles density functional theory combined with quantum transport calculations, we demonstrate that the CrSbSe3 nanowire is a ferromagnetic semiconductor with a band gap of 1.26 eV. We identify superexchange interactions mediated by Se(p-orbitals) as the primary mechanism stabilizing its ferromagnetic order. Noncollinear spin calculations including spin–orbit coupling reveal an unchanged band topology near the Fermi level, suggesting long spin-coherence. Quantum transport calculations reveal robust spin-selective conduction, with the spin-injection factor approaching 100% for biases up to 0.6 V, independent of channel length, establishing the CrSbSe3 nanowire as a promising spin-filtering platform for spintronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;CrSbSe3 Nanowire: A Platform for Near-Perfect Spin Selectivity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02702&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02702"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Biohybrid Fused-Cell Carrier for Programmable Therapeutic Modulation of Atherosclerosis</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01968</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01968</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Cardiovascular disease, driven primarily by atherosclerosis, remains a leading cause of global mortality. Lipid-lowering therapies reduce risk by less than one-third, leaving substantial residual inflammation compounded by rapid drug clearance and limited plaque targeting. Biomimetic systems such as cell-membrane coating enhance lesion targeting but lack intrinsic activity and are prone to biological barriers. Herein, we engineered living fused cell (FC) microrobots combining mesenchymal stem cells and M2 macrophages, capable of inheriting the therapeutic ability of both and modulating pathophysiological responses. Gold nanowaxberries (AuMWs) conjugated to antisense miRNA33 were loaded into the FCs. In vivo AuMW-anti-miR33@FCs modulated inflammation and immune microenvironment, augmented cholesterol efflux, and reduced plaque burden by 64.9% versus controls. Treatment was tracked by photoacoustic imaging via AuMWs. Overall, this synergistic strategy offers a promising platform for atherosclerosis cardiovascular disease diagnosis and therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Biohybrid Fused-Cell Carrier for Programmable Therapeutic Modulation of Atherosclerosis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01968&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01968"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>All-Perovskite Low-Dimensional/Quantum Dot Heterojunctions for Long-Term Efficient Quantum Dot Solar Cells</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03508</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03508</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract In recent years, halide perovskite quantum dot (PQD) solar cells have garnered more research interest, yet poor operational and environmental stability limit their commercialization. Herein, a robust all-perovskite low-dimensional (LD)/PQD heterojunction is proposed to address these issues. In particular, rationally designed 2D perovskite single crystals dissolved in optimized solvents are directly coated on the PQD matrix to drive spontaneous conformal LD prototype growth. Notably, this strategy features a heating-free procedure with negligible erosion characteristics. Benefiting from the well-matched energy-level alignment at the intimate heterojunction, interfacial charge extraction is synergistically promoted, while a defect-free 2D single-crystal layer suppresses humidity-induced degradation via effective encapsulation. With this engineered LD/PQD heterojunction, the optimized FAxCs1–xPbI3 PQD device delivers a champion efficiency of 17.6% (certified value of 16.98%), with 9-fold enhanced humidity stability versus that of the pure PQD analogue. This work provides a novel heterostructure construction paradigm and mechanistic guidance for improving the efficiency and environmental stability of PQD-based optoelectronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;All-Perovskite Low-Dimensional/Quantum Dot Heterojunctions for Long-Term Efficient Quantum Dot Solar Cells&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03508&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03508"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>A Cell-Wall-Mimetic Bifunctional Interface for Synchronizing CO2 and Nitrite Activation toward Urea Electrosynthesis</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02912</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02912</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electrochemical urea synthesis from CO2 and nitrite (NO2–) offers a sustainable route for carbon and nitrogen cycling, yet it is hindered by the kinetic imbalance between the sluggish CO2 reduction reaction (CO2RR) and the more facile nitrite reduction reaction (NO2RR). Inspired by the rhizobial cell wall, a natural multifunctional interface that coordinates gas, ion, and molecular transport, we designed a cell-wall-mimetic electrocatalyst featuring a Cu2O/Cu core encapsulated within a pyrrolic-N-containing graphitized porous carbon shell (Cu2O/Cu@C). This bioinspired architecture functions as a nanoregulator to structure a high-density triple-phase interface (gas–liquid–solid interface), manage wettability for concurrent CO2 and electrolyte access, enrich key reactive intermediates, and stabilize the active core. The catalyst achieves a urea yield rate of 50.2 mmol/g/h with a Faradaic efficiency (FE) of 60.6% at −0.6 V, demonstrating that mimicking biological interface principles can effectively harmonize kinetic mismatches in complex cooperative electrocatalysis.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;A Cell-Wall-Mimetic Bifunctional Interface for Synchronizing CO2 and Nitrite Activation toward Urea Electrosynthesis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02912&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02912"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Reversible High-Temperature Lithium–Chalcogenide Batteries Enabled by a Nonflammable Sulfonamide Deep Eutectic Electrolyte</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03111</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03111</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Significant efforts have recently been dedicated to enhancing reversibility and safety of high-temperature lithium–chalcogenide batteries (LCBs) to address performance-limiting issues. However, bottlenecks in electrolyte design that severely constrain the utilization of active material and reversibility of a lithium anode at elevated temperatures have received little attention. Herein, we report a nonflammable sulfonamide deep eutectic electrolyte (SDEE) composed of N,N-dimethylmethanesulfonamide and lithium bis(trifluoromethanesulfonyl)imide for high-temperature LCBs. The SDEE exhibits good thermal stability, high lithium-ion transference number, and a wide electrochemical window. Additionally, SDEE facilitates the formation of a compact and uniform lithium deposition, leading to a much mitigated shuttle effect and improved reversibility of the lithium anode compared to an ether-based electrolyte. LCBs with an SDEE exhibit a low overcharging degree at 60 °C (8.4%) and a high specific capacity (∼1107 mAh g–1) at 328.2 mA g–1. This work offers a viable electrolyte design concept for safe batteries targeting elevated temperatures using high-capacity electrodes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Reversible High-Temperature Lithium–Chalcogenide Batteries Enabled by a Nonflammable Sulfonamide Deep Eutectic Electrolyte&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03111&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03111"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

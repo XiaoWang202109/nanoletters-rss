@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:27:00 +0000</lastBuildDate>
+    <item>
+      <title>Single-Molecule Monitoring of Formaldehyde–Lysine Residue Chemistry using an Engineered MspA Nanopore</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02512</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02512</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Formaldehyde (HCHO) is a reactive electrophile that covalently modifies diverse amino acid residues in proteins. Although ensemble studies have characterized reactions between HCHO and amino acids, the reaction dynamics at individual residue sites have yet to be resolved at the single-molecule level. Here, we engineer a Mycobacterium smegmatis porin A (MspA) nanopore by positioning a single lysine residue at its constriction, enabling real-time single-molecule monitoring of HCHO–lysine chemistry. Distinct current blockade states and reversible transitions between them are observed, consistent with multistep HCHO–lysine reactions involving monoadducts, bisadducts, and Schiff bases under nanoconfinement. The reactions exhibited concentration- and pH-dependent kinetics and generated characteristic electrical signatures that differentiate HCHO from potential interferents, supporting label-free detection of airborne HCHO via aqueous trapping, as well as identification of HCHO in food matrices. This work establishes a residue-confined nanopore platform for real-time probing of HCHO–amino acid chemistry and selective detection of HCHO.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Single-Molecule Monitoring of Formaldehyde–Lysine Residue Chemistry using an Engineered MspA Nanopore&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02512&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02512"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Lewis Acid-Driven Perovskite Quantum Dot Surface Reconstruction for Deep-Blue LEDs Approaching the Rec. 2020 Standard</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03331</link>
@@ -103,18 +115,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03098</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03098</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Near-infrared (NIR, 750–2500 nm) imaging is crucial for disease diagnosis, yet conventional wide-field bioimaging yields only two-dimensional (2D) information without depth. Here, we report a ratiometric fluorescence strategy for tissue depth determination using α-NaTmF4@NaErF4@NaYF4 nanoprobes. Under 808 nm excitation, interfacial cascade energy transfer between Tm3+ and Er3+ ions enhances NIR-II emissions at 1532 and 1626 nm by 3.3- and 6.7-fold, respectively, compared with that of a codoped counterpart. Leveraging distinct water absorption at these wavelengths, the logarithm of the attenuated intensity ratio (ITm/IEr) varies linearly with tissue depth (0–4 mm). With this NIR ratiometric wide-field depth-mapping method, quantitative depth information about in vivo vasculature was assigned to each image pixel and rendered into 2.5D visualization by stacking 2D planes over a 40 mm × 40 mm × 4 mm volume. Dynamic tracking of nanoprobe redistribution from vessels along the projection direction was also demonstrated. This work establishes a universal depth-analysis tool and significantly advances medical optical imaging.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03098&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03098"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Operando Imaging of Whisker Growth in NASICON Solid-State Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03503</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03503</guid>
@@ -124,6 +124,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03503&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03503"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03098</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03098</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Near-infrared (NIR, 750–2500 nm) imaging is crucial for disease diagnosis, yet conventional wide-field bioimaging yields only two-dimensional (2D) information without depth. Here, we report a ratiometric fluorescence strategy for tissue depth determination using α-NaTmF4@NaErF4@NaYF4 nanoprobes. Under 808 nm excitation, interfacial cascade energy transfer between Tm3+ and Er3+ ions enhances NIR-II emissions at 1532 and 1626 nm by 3.3- and 6.7-fold, respectively, compared with that of a codoped counterpart. Leveraging distinct water absorption at these wavelengths, the logarithm of the attenuated intensity ratio (ITm/IEr) varies linearly with tissue depth (0–4 mm). With this NIR ratiometric wide-field depth-mapping method, quantitative depth information about in vivo vasculature was assigned to each image pixel and rendered into 2.5D visualization by stacking 2D planes over a 40 mm × 40 mm × 4 mm volume. Dynamic tracking of nanoprobe redistribution from vessels along the projection direction was also demonstrated. This work establishes a universal depth-analysis tool and significantly advances medical optical imaging.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03098&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03098"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -163,18 +175,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03428</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03428</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Gallium oxide (Ga2O3) is an emerging ultrawide bandgap semiconductor for high-power electronics and solar-blind optoelectronics. Here we demonstrate an atomic-scale strain relaxation method to achieve a complete α-to-β Ga2O3 phase transition within the initial nucleation stage, enabling a heteroepitaxial growth regime of single-crystalline β-Ga2O3 (010) films. An Ar+ bombardment strategy is used to create periodic strain relaxation sites that relieve the compressive strain in the metastable α-Ga2O3 interlayer and facilitate the phase transition, as revealed by a combination of X-ray diffraction, atomic-force microscopy, atomic-resolution scanning transmission electron microscopy, and geometric phase analysis. The heteroepitaxial Sn-doped β-Ga2O3 (010) films with distinct donor activation behavior are established on m-plane sapphire, and a lateral Schottky barrier diode with a high reverse breakdown voltage of 1590 V is achieved. This study provides critical insights into atom-scale strain engineering and confined epitaxial growth for developing high-quality β-Ga2O3 films on cost-effective substrates for advanced electronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03428&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03428"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Magnetic Particle Imaging Reveals Heterogeneous Retention, Leakage, and Redistribution of Nanoparticles Following Intratumoral Injection</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02321</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02321</guid>
@@ -196,6 +196,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01441&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01441"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03428</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03428</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Gallium oxide (Ga2O3) is an emerging ultrawide bandgap semiconductor for high-power electronics and solar-blind optoelectronics. Here we demonstrate an atomic-scale strain relaxation method to achieve a complete α-to-β Ga2O3 phase transition within the initial nucleation stage, enabling a heteroepitaxial growth regime of single-crystalline β-Ga2O3 (010) films. An Ar+ bombardment strategy is used to create periodic strain relaxation sites that relieve the compressive strain in the metastable α-Ga2O3 interlayer and facilitate the phase transition, as revealed by a combination of X-ray diffraction, atomic-force microscopy, atomic-resolution scanning transmission electron microscopy, and geometric phase analysis. The heteroepitaxial Sn-doped β-Ga2O3 (010) films with distinct donor activation behavior are established on m-plane sapphire, and a lateral Schottky barrier diode with a high reverse breakdown voltage of 1590 V is achieved. This study provides critical insights into atom-scale strain engineering and confined epitaxial growth for developing high-quality β-Ga2O3 films on cost-effective substrates for advanced electronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03428&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03428"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -259,18 +271,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ferroelectric wake-up in hafnium oxide remains one of the key unresolved problems in oxide electronics. Here, we combine four-dimensional scanning transmission electron microscopy (4D-STEM), X-ray photoelectron spectroscopy (XPS), first-principles calculations, electrical characterization, and theoretical modeling to investigate wake-up in TaN/Hf0.5Zr0.5O2/TiN capacitors. Although the remanent polarization increases by approximately 2.6-fold after wake-up, the orthorhombic phase fraction changes only slightly from 20.3% to 21.4%, indicating that structural evolution alone cannot explain the electrical activation. XPS and first-principles calculations reveal that the ferroelectric response is highly sensitive to oxygen-vacancy configuration. Motivated by these observations, we develop a vacancy-assisted polarization-catastrophe framework in which vacancy ordering renormalizes the dipolar interaction and drives the transition from a nonpolar single-well to a ferroelectric double-well energy landscape. The model quantitatively explains the observed enhancement of polarization, switching current, capacitance, and hysteresis, establishing vacancy ordering as the governing mechanism of wake-up in hafnium oxide.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01204&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02728</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02728</guid>
@@ -280,6 +280,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02728&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ferroelectric wake-up in hafnium oxide remains one of the key unresolved problems in oxide electronics. Here, we combine four-dimensional scanning transmission electron microscopy (4D-STEM), X-ray photoelectron spectroscopy (XPS), first-principles calculations, electrical characterization, and theoretical modeling to investigate wake-up in TaN/Hf0.5Zr0.5O2/TiN capacitors. Although the remanent polarization increases by approximately 2.6-fold after wake-up, the orthorhombic phase fraction changes only slightly from 20.3% to 21.4%, indicating that structural evolution alone cannot explain the electrical activation. XPS and first-principles calculations reveal that the ferroelectric response is highly sensitive to oxygen-vacancy configuration. Motivated by these observations, we develop a vacancy-assisted polarization-catastrophe framework in which vacancy ordering renormalizes the dipolar interaction and drives the transition from a nonpolar single-well to a ferroelectric double-well energy landscape. The model quantitatively explains the observed enhancement of polarization, switching current, capacitance, and hysteresis, establishing vacancy ordering as the governing mechanism of wake-up in hafnium oxide.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01204&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02442&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02442"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>From Battery Waste to Electrocatalyst: Topological Disorder-Driven Upcycling of Spent LiCoO2 for Selective H2O2 Electrosynthesis</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02669</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02669</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The large-scale deployment of lithium-ion batteries has led to a rapid increase in spent cathode materials, creating unprecedented challenges for their sustainable management. Herein, we report a direct structural upgrading strategy that converts spent lithium cobalt oxide (LiCoO2) into an efficient electrocatalyst for the two-electron oxygen reduction reaction (2e– ORR). The optimized catalyst exhibits markedly enhanced activity (210 mA cm–2) and selectivity (∼96%) toward hydrogen peroxide (H2O2) generation under alkaline conditions. We reveal that disorder-induced distortions of CoO6 octahedra reconstruct the local crystal field, stabilize high-spin Co centers, and strengthen d−π* spin coupling and Co–O covalency. This cooperative orbital–spin modulation optimizes *OOH adsorption while energetically suppressing *OH–-mediated four-electron ORR pathways. This work demonstrates the feasibility of directly upgrading spent LiCoO2 cathodes into high-performance electrocatalysts, offering insights for the rational reutilization of structurally robust battery materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;From Battery Waste to Electrocatalyst: Topological Disorder-Driven Upcycling of Spent LiCoO2 for Selective H2O2 Electrosynthesis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02669&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02669"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

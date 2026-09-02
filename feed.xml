@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:37:42 +0000</lastBuildDate>
+    <item>
+      <title>Nanobowtie-Integrated Dielectric Mode Moiré Photonic Crystal Nanolasers</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02029</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02029</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Enhancing light–matter interactions at the nanoscale is vital for photonic devices, driving new strategies for subwavelength optical confinement. Moiré superlattices offer an attractive platform for light trapping and manipulation. However, previously demonstrated moiré-lattice lasers have predominantly relied on air modes with low modal gain. A high-quality flatband dielectric mode for single-mode and low-threshold nanolasers has rarely been explored. Here, to enhance gain utilization, we propose a one-dimensional nanobowtie-integrated moiré flatband photonic crystal nanocavity, enabling a tightly localized dielectric mode with an ultrasmall mode volume (0.1(λ/n)3) and a high quality factor (4.7 × 104). Low-threshold, single-mode emission is achieved in a device with a 30 nm bowtie gap. This work presents a practical route toward high-performance on-chip light sources for high-density photonic integrated circuits and provides a promising approach to study nanoscale light–matter interactions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanobowtie-Integrated Dielectric Mode Moiré Photonic Crystal Nanolasers&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02029&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02029"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Aqueous-Phase Confined Assembly of Single-Atom Chains inside Carbon Nanotubes Enabling Ultrafast Iodine Removal and Enhanced Catalysis</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02594</link>
@@ -16,6 +28,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02594&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02594"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Energy Migration-Directed Orthogonal Emissive Nanocrystals for NIR-IIb Imaging Navigation toward Precise UV Photoactivation</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01843</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01843</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Upconversion-based photoactivation offers a transformative approach to precision medicine by leveraging near-infrared light to trigger specific chemical and biological activities. However, the lack of favorable photoswitchable agents combining deep-tissue high-resolution imaging with orthogonal photoactivation hinders precise and site-specific interventions. This work reports the precise modulation of energy transfer within Yb/Tm/Er codoped nanocrystals via an energy migration strategy, achieving orthogonal emissions from Er3+ (NIR-IIb) and Tm3+ (UV) by adjusting the excitation between 808 and 980 nm. These rationally designed core–shell–shell optical conversion-switching nanocrystals (OCSNs) do not require a complicated multilayer doping design, as both activators reside within the same luminescent core. Furthermore, Ce3+ is incorporated to enhance Er3+-mediated 1550 nm emission. As proof of concept, the OCSNs are functionalized with mesoporous silica and UV-responsive azobenzene, enabling real-time navigation and controlled release of drug guests under orthogonal optical control. This OCSN offers immense potential for spatiotemporally precise photoactivation in various biomedical applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Energy Migration-Directed Orthogonal Emissive Nanocrystals for NIR-IIb Imaging Navigation toward Precise UV Photoactivation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01843&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01843"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -40,6 +64,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02321&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02321"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03428</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03428</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Gallium oxide (Ga2O3) is an emerging ultrawide bandgap semiconductor for high-power electronics and solar-blind optoelectronics. Here we demonstrate an atomic-scale strain relaxation method to achieve a complete α-to-β Ga2O3 phase transition within the initial nucleation stage, enabling a heteroepitaxial growth regime of single-crystalline β-Ga2O3 (010) films. An Ar+ bombardment strategy is used to create periodic strain relaxation sites that relieve the compressive strain in the metastable α-Ga2O3 interlayer and facilitate the phase transition, as revealed by a combination of X-ray diffraction, atomic-force microscopy, atomic-resolution scanning transmission electron microscopy, and geometric phase analysis. The heteroepitaxial Sn-doped β-Ga2O3 (010) films with distinct donor activation behavior are established on m-plane sapphire, and a lateral Schottky barrier diode with a high reverse breakdown voltage of 1590 V is achieved. This study provides critical insights into atom-scale strain engineering and confined epitaxial growth for developing high-quality β-Ga2O3 films on cost-effective substrates for advanced electronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic-Scale Strain Relaxation via Ar-Bombarded Surface Modification for Enabling Single-Crystalline β-Ga2O3 (010) Heteroepitaxy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03428&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03428"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -79,6 +115,30 @@
 </content:encoded>
     </item>
     <item>
+      <title>Biomimetic Virus-Like Mesoporous Silica Nanoparticles Activate NK Cells Indirectly via Monocyte Crosstalk</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01832</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01832</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Cancer immunotherapies show clinical promise but often rely on T-cell priming and are limited by tumor heterogeneity and the immunosuppressive tumor microenvironment (TME). Innate immune activation offers a complementary approach, with specific aim in natural killer (NK) cell activation for antigen-independent response. Biomimetic nanoparticles combining virus-like morphology with cell membrane (CM) coating offer a strategy to engage this innate immune axis. This study investigates virus-like mesoporous silica nanoparticles (VLPSi) with tunable spikes, surface functionalization, and CM coating as innate immunity modulators. Optimization revealed that longer spikes, amine functionalization, and CM coating synergistically enhance NK cell activation within human PBMCs, as indicated by CD69/CD25 upregulation and IFN-γ secretion. CD14+ monocyte depletion attenuated activation, identifying monocyte-dependent crosstalk as a key mechanism. In purified NK cells, engineered CM-coated VLPSi induced early activation and supported feeder-free expansion. These results define topology, surface chemistry, and CM coating as parameters for innate immune modulation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Biomimetic Virus-Like Mesoporous Silica Nanoparticles Activate NK Cells Indirectly via Monocyte Crosstalk&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01832&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01832"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Space-Charge Modulation of Antiferromagnetic–Ferromagnetic Core–Shell Magnetism in Ruthenium Nanoparticles</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02872</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02872</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Here we report antiferromagnetic–ferromagnetic core–shell magnetism in electrochemically synthesized elemental ruthenium nanoparticles. The core exhibits strong antiferromagnetic interactions, while uncompensated surface spins drive emergent ferromagnetism. This is evidenced by a large negative Weiss constant (−72.5 K), nonsaturating magnetization at high fields, and temperature-dependent coercivity reaching 430 Oe at 2 K, a value 3 times larger than that reported for ferromagnetic ruthenium films. By employing space-charge engineering to modulate the surface electron density, we achieve reversible magnetization changes up to 46% at room temperature. Furthermore, significant voltage-dependent coercivity changes at low temperatures provide strong support for the direct modulation of surface ferromagnetism and hint at a tight coupling to the antiferromagnetic core. These results uncover distinctive magnetism in ruthenium nanoparticles and establish space-charge engineering as a general route to voltage-controlled magnetism in metallic nanomaterials, advancing antiferromagnetic spintronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Space-Charge Modulation of Antiferromagnetic–Ferromagnetic Core–Shell Magnetism in Ruthenium Nanoparticles&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02872&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02872"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
@@ -100,6 +160,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02728&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanoparticle Crystallization Driven by Competitive Toehold-Mediated DNA Strand Exchange Reactions</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02967</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02967</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract DNA-mediated colloidal crystal engineering offers a powerful route for constructing three-dimensional nanoparticle superlattices with programmable structures and properties. However, achieving room-temperature fabrication of DNA-bonded colloidal crystals with long-range order remains challenging because nanoparticle assemblies are often kinetically trapped in metastable states. Here, we present a simplified enthalpy-regulation strategy based on a toehold-exchange mechanism to control interactions between DNA-functionalized gold nanoparticles. By tuning the relative lengths of the forward and reverse toeholds and the concentration of a DNA trigger, nanoparticle aggregation kinetics are precisely regulated, enabling a symmetric binary system to circumvent kinetic trapping and assemble into high-quality BCC superlattices. We further extend this approach to an asymmetric binary system, where selective control of linker valence directs the formation of distinct CsCl and AlB2 superlattices. Owing to its simplicity and adaptability, this strategy provides a versatile platform for integrating diverse DNA circuits with colloidal crystal assembly and engineering programmable phase behaviors.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoparticle Crystallization Driven by Competitive Toehold-Mediated DNA Strand Exchange Reactions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02967&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02967"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -187,18 +259,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02509</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02509</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Controlling the nanostructure and electronic properties of polar semiconductors could enable new applications in nanoelectronics. Here, we report the synthesis of one-dimensional BiTeI nanowires confined within single- and multiwalled carbon nanotubes using a sublimation-driven transport reaction. Aberration-corrected scanning transmission electron microscopy reveals highly ordered BiTeI nanowires ranging from one to six atomic layers. Density gradient ultracentrifugation enables the separation of filled and empty nanotubes, while Raman spectroscopy evidences host–guest interactions. Furthermore, the encapsulation of BiTeI leads to an increase in the optical band gap and a stable enhancement in electrical conductivity in macroscopic films. First-principles calculations show that compressive strain significantly modifies the BiTeI electronic structure, including reduced Rashba splitting and strain-induced band reordering. Overall, nanoconfinement is shown to be a powerful route to probe and engineer strain-tunable electronic states in polar semiconductors at the one-dimensional scale.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02509&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02509"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02661</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02661</guid>
@@ -208,6 +268,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02661&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02661"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02509</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02509</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Controlling the nanostructure and electronic properties of polar semiconductors could enable new applications in nanoelectronics. Here, we report the synthesis of one-dimensional BiTeI nanowires confined within single- and multiwalled carbon nanotubes using a sublimation-driven transport reaction. Aberration-corrected scanning transmission electron microscopy reveals highly ordered BiTeI nanowires ranging from one to six atomic layers. Density gradient ultracentrifugation enables the separation of filled and empty nanotubes, while Raman spectroscopy evidences host–guest interactions. Furthermore, the encapsulation of BiTeI leads to an increase in the optical band gap and a stable enhancement in electrical conductivity in macroscopic films. First-principles calculations show that compressive strain significantly modifies the BiTeI electronic structure, including reduced Rashba splitting and strain-induced band reordering. Overall, nanoconfinement is shown to be a powerful route to probe and engineer strain-tunable electronic states in polar semiconductors at the one-dimensional scale.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02509&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02509"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -532,78 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03111&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03111"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Self-Evolving PET-Induced Carbon Nanotube Modulated Ni Nanocomposites for Efficient PET-to-H2 Production</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02821</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02821</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Upcycling polyethylene terephthalate (PET) into H2-rich syngas offers a route for plastic pollution mitigation and green energy production yet remains constrained by low efficiency and catalyst deactivation. Here we report a carbon nanotube (CNT)-modulated catalytic strategy integrating PET decomposition with steam reforming. PET was first upcycled into CNT-modulated Ni nanocomposites, where PET-derived CNTs acted as structural and electronic bridges linking Ni nanoparticles (NPs) with the oxide support. Among catalysts evaluated in decomposition-catalytic steam reforming (DCSR), CNT-modulated Ni NPs anchored on γ-Al2O3 nanosheets (Ni NPs@PET-CNTs/γ-Al2O3) achieved a H2-rich syngas yield of 141.74 mmol/gPET (3175 mL/gPET), with excellent stability and self-regeneration under continuous operation. Mechanistic analysis revealed that the synergy of Ni0, PET-derived CNTs, and γ-Al2O3 underpinned enhanced activity and durability. This work establishes a paradigm where plastic waste acts as a carbon feedstock and catalyst modulator, enabling scalable PET upcycling toward sustainable H2-rich syngas production and circular carbon utilization.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Self-Evolving PET-Induced Carbon Nanotube Modulated Ni Nanocomposites for Efficient PET-to-H2 Production&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02821&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02821"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Dielectric-Induced Charge Doping in Monolayer MoS2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03443</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03443</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Unintentional doping from dielectrics can impact the electronic properties of two-dimensional transition metal dichalcogenide (2D TMD) semiconductors. Our recent work shows that high-dielectric-constant (k) ZrO2 is an electrostatically inert dielectric for 2D MoS2, supported by X-ray spectroscopy (XPS) and electrical measurements. Here, we expand this work through gate-controlled photoluminescence (PL) of monolayer MoS2 placed on different substrates. MoS2 on ZrO2 exhibits a low carrier concentration, indicated by a small trion-to-exciton ratio (X–/X0) of 0.5, similar to those on high-quality hBN. At a high electrostatic doping of ∼1013 cm–2, MoS2 on high-k ZrO2 reveals a slight exponential dependence of X–/X0 versus carrier concentration, while MoS2 on SiO2 shows strong exponential characteristics even at low gating (1012 cm–2) due to substantial electron doping from substrate-induced disorder tail states. Our findings provide insights into the doping mechanisms in industry-compatible amorphous dielectrics and evaluate their potential for scalable optoelectronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dielectric-Induced Charge Doping in Monolayer MoS2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03443&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03443"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Single-Layer Oxyhalide-Nitride Solid-State Electrolyte Membrane for High-Energy-Density All-Solid-State Lithium Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03049</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03049</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Simultaneous compatibility of solid-state electrolytes (SSEs) with high-voltage cathodes and low-voltage anodes is crucial for high-energy-density all-solid-state lithium batteries (ASSLBs). However, deformable SSEs that integrate readily into ASSLBs rarely satisfy both requirements. Multilayer SSE membranes, such as halide SSEs paired with cathodes and sulfide SSEs with anodes, are therefore widely used but reduce energy density. Here, the low-cost, deformable oxyhalide-nitride SSEs, Li1.75+3xZrCl4.75O0.5Nx (0.1 ≤ x ≤ 0.3), are developed through dual-anion doping with O and N. The O and N incorporation preserves stability against the high-voltage LiCoO2 cathode while promoting a stable interface with the low-voltage Li13Si4 anode. A Li13Si4 | Li2.2ZrCl4.75O0.5N0.15 | Li13Si4 symmetric cell sustains stable plating/stripping for 2000 h with low overpotential. A Li13Si4 | Li2.2ZrCl4.75O0.5N0.15 | LiCoO2 cell using the oxyhalide-nitride SSE as a single membrane layer shows an initial specific discharge capacity of 134.72 mAh g–1 with 92.38% Coulombic efficiency and remains stable for 100 cycles.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Single-Layer Oxyhalide-Nitride Solid-State Electrolyte Membrane for High-Energy-Density All-Solid-State Lithium Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03049&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03049"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Wafer-Scale Deposition of 2D SnSe with Monolayer-Thickness Precision</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01711</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01711</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract 2D SnSe presents considerable opportunities for transistors, optoelectronics, and photonics if wafer-scale deposition with monolayer thickness control can be achieved. This work answers this critical need by developing a mirror rastering pulsed laser deposition (PLD) approach that enables wafer scale coverage of SnSe with monolayer thickness precision and atomic scale surface roughness (0.29 nm). SnSe thin films are deposited onto 7.5 × 5 cm flexible mica substrate in monolayer increments from 3.5 to 6.1 nm by mirror rastered PLD. All films exhibit stoichiometric (200) oriented Pnma SnSe with consistent phase and thickness across the length of the wafer. Furthermore, sheet resistance is constant with an average of 0.52 GΩ/sq across a 6 cm span and remains stable upon mechanical flexing. This work demonstrates the wafer-scale SnSe deposition with precise thickness control needed to enable next-generation 2D electronics and optoelectronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Wafer-Scale Deposition of 2D SnSe with Monolayer-Thickness Precision&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01711&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01711"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/nlv026i032_2117903</link>
-      <guid isPermaLink="false">10.1021/nlv026i032_2117903</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i032_2117903</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Publication Information&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i032_2117903&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i032_2117903"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/nlv026i032_2117904</link>
-      <guid isPermaLink="false">10.1021/nlv026i032_2117904</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i032_2117904</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Editorial Masthead&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i032_2117904&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i032_2117904"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

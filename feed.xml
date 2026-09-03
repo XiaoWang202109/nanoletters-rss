@@ -5,7 +5,103 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:42:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:25:38 +0000</lastBuildDate>
+    <item>
+      <title>Geometrically Defined Nanochannels Resolve the Interplay of Mass Transport and Product Deposition in Lithium–Oxygen Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03128</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03128</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The discharge process at the positive electrode in lithium–oxygen batteries (LOBs) involves coupled O2 transport, electrochemical generation of LiO2 intermediates, and subsequent Li2O2 deposition that progressively restricts O2 transport. In practical porous electrodes, geometric complexity obscures this interplay and hinders mechanistic understanding. Here, these processes were spatially separated and analyzed by employing an anodic aluminum oxide (AAO) positive electrode with one-dimensional nanochannels as a model reaction field. The results reveal that the deposition location of Li2O2 reflects the travel distance of dissolved LiO2 intermediates from the electrode. Furthermore, even partial accumulation of discharge products on the order of tens of nanometers can significantly restrict O2 transport and lead to early attainment of the discharge cutoff. This study provides a framework to reinterpret complex electrode reactions using a simplified AAO reaction field and offers guidelines for achieving high capacity in LOBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Geometrically Defined Nanochannels Resolve the Interplay of Mass Transport and Product Deposition in Lithium–Oxygen Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03128&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03128"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Full-Color Wide-Field Imaging Enabled by a Monolithic SiC Metalens and a Physics-Guided Restoration Network</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03096</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03096</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metalenses composed of subwavelength meta-atoms enable compact wavefront control for miniaturized imaging systems. However, extending a single metalens to full-color wide-field imaging remains difficult because chromatic aberration and off-axis degradation coexist. Here, we present a full-color wide-field imaging framework that combines a single-wavelength-designed quadratic-phase metalens with a physics-guided restoration network. The monolithic silicon carbide metalens has a 2 mm aperture and an NA of 0.6 and uses cylindrical meta-atoms designed at 532 nm, avoiding complex meta-atom libraries and facilitating fabrication. To restore blurred RGB images captured by the monolithic metalens over an approximately 50° field of view into clear full-color outputs, we develop Phy-FFTformer, a physics-guided frequency-domain transformer with optical frequency-response priors. The method achieves a PSNR of 26.39 dB and an SSIM of 0.7209, offering a route to compact imaging systems for machine vision, robotic and drone vision, portable inspection, and biomedical imaging.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Full-Color Wide-Field Imaging Enabled by a Monolithic SiC Metalens and a Physics-Guided Restoration Network&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03096&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03096"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Coherent Dynamics of Neutral and Charged Biexcitons in Monolayer WSe2</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02450</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02450</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Monolayer transition-metal dichalcogenides provide an ideal platform for investigating many-body excitonic complexes due to their strong Coulomb interactions and unique valley-contrasting optical selection rules. Here, we employ helicity-resolved transient absorption spectroscopy in an opposite-circular-polarization configuration to systematically study the coherent dynamics of both neutral and charged intervalley biexcitons in monolayer WSe2. Our measurements reveal a linear dependence of the biexciton signal strength on the pump fluence, indicative of an intrinsic coherent process. In contrast to the exciton, the biexciton resonances display steeper red shifts as the temperature increases, leading to increased binding energies correspondingly. This behavior is attributed to the extended wave function and heavier effective mass of biexcitons, which enhance sensitivity to both thermal lattice vibration and low-energy phonon scattering. Our work advances the fundamental understanding of coherent biexciton dynamics and many-body physics in 2D semiconductors, paving the way for future quantum optoelectronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Coherent Dynamics of Neutral and Charged Biexcitons in Monolayer WSe2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02450&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02450"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/nlv026i034_2123961</link>
+      <guid isPermaLink="false">10.1021/nlv026i034_2123961</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>DOI: 10.1021/nlv026i034_2123961</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Editorial Masthead&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/nlv026i034_2123961&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i034_2123961"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/nlv026i034_2123960</link>
+      <guid isPermaLink="false">10.1021/nlv026i034_2123960</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>DOI: 10.1021/nlv026i034_2123960</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Publication Information&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/nlv026i034_2123960&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i034_2123960"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03195</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03195</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Lattice geometry plays a fundamental role in the behavior of Bloch electrons in a crystal. The diatomic Kagome lattice, an extension of the honeycomb and Kagome lattices, is predicted to give rise to emergent and topological phenomena, but its experimental investigation has been limited thus far. Here, we fabricate a diatomic Kagome lattice through self-assembly of a triptycene derivative with phenazine moieties (Trip-Phz)─a C3-symmetric, nonplanar π-conjugated molecule. Our scanning tunneling microscopy (STM) observations show that Trip-Phz forms a highly ordered diatomic Kagome lattice terminated by zigzag-type edges on the Pb(111) surface. Combined STM measurements and tight-binding calculations provide direct evidence for the existence of the edge states that correspond to those of graphene. These states are topological edge states dictated by the quantization of the Zak phase and the bulk-edge correspondence. This work reveals an ideal platform for exploring quantum materials with unique lattice geometries using supramolecular technology.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03195&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03195"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nematic Superconductivity in Nodal Line Semimetal SnTaS2</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02214</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02214</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Nematic superconductivity spontaneously breaks the rotational symmetry and can host unconventional superconducting phases. Here, we report evidence of intrinsic nematic superconductivity in the nodal-line semimetal SnTaS2, a centrosymmetric layered material with hexagonal symmetry. Transport measurements on exfoliated nanoflakes reveal pronounced twofold in-plane anisotropy in the upper critical field, resistance, and critical current, in contrast to the sixfold lattice symmetry. The anisotropy strength increases with decreasing sample thickness, pointing to a surface-dominated origin, while the variation of the nematic orientation among different devices suggests that the nematic director is weakly pinned. Tunneling spectroscopy on SnTaS2–AlOx–Au junctions further shows a twofold angular modulation of the superconducting gap under in-plane magnetic fields. These results support an unconventional nematic superconducting state associated with the topological surface states and distinct from bulk pairing, establishing SnTaS2 as a promising platform for studying the interplay between the band topology and symmetry-broken superconductivity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nematic Superconductivity in Nodal Line Semimetal SnTaS2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02214&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02214"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Inosine Incorporation in DNA Nanostructures and 3D DNA Crystals</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02772</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02772</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract DNA nanotechnology is based on programmable base pairing, resulting in the precise construction of nanoscale structures. Sequence variability in DNA self-assembly is achieved by the use of xenonucleic acids, chemically modified bases, and base analogues. The naturally occurring base inosine, while well-studied in RNA editing, has not been used in the context of DNA nanotechnology. Here, I demonstrate the use of inosine in DNA nanostructures, specifically by incorporating inosine within the duplex regions or junctions of a double-crossover DNA motif. In strand displacement and competition assays, canonical complements do not displace inosine-containing strands postassembly but dominate in product formation when competing with inosine-containing strands during assembly. Finally, sticky ends with inosine base pairs enable the formation of rationally designed 3D DNA crystals based on the tensegrity triangle motif. Overall, this work shows that inosine is a useful addition to the library of sequence variations in DNA nanotechnology.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Inosine Incorporation in DNA Nanostructures and 3D DNA Crystals&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02772&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02772"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Robust Room-Temperature Ferroelectricity in &lt;i&gt;β&lt;/i&gt; -Bi2SeO5 Thin Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03261</link>
@@ -508,102 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02856&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02856"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Quantum-Material Josephson Junctions: Unconventional Barriers, Emerging Functionality</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01333</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01333</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Josephson junctions translate quantum phase coherence into an electrical response and underpin superconducting sensors and quantum circuits. In conventional junctions, the barrier acts primarily as a passive weak link; however, when the barrier is a quantum material with its own internal degrees of freedom like magnetism, strong correlations, or switchable polarization, the Josephson effect becomes a sensitive probe of symmetry and many-body physics in the interlayer. Here we review progress in “quantum-material Josephson junctions” (QMJJ), focusing on three rapidly advancing barrier families: (1) magnetic barriers, where exchange, noncollinearity, and spin-active scattering enable 0−π–φ ground states, singlet–triplet conversion, and nonreciprocal transport; (2) correlated barriers, where proximity effects acquire many-body character and recent van der Waals Kagome Mott interlayers exhibit field-free Josephson diode behavior; and (3) ferroelectric and multiferroic barriers, where nonvolatile polarization provides an internal control knob and can produce superconducting memory and memristive dynamics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Quantum-Material Josephson Junctions: Unconventional Barriers, Emerging Functionality&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01333&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01333"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/nlv026i033_2121627</link>
-      <guid isPermaLink="false">10.1021/nlv026i033_2121627</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i033_2121627</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Editorial Masthead&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i033_2121627&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i033_2121627"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spatiotemporal Sequential Fluorescence and Electrochemistry Bimodal Quantitation of Enzyme Activity in a Living Cell</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02449</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02449</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Accurate spatiotemporal single-cell quantification of intracellular enzyme activity is critical for understanding cellular heterogeneity and disease screening. However, current methods relying on single-signal modalities lack precision, and spatiotemporal multimodal strategies remain unexplored. Here, we develop a spatiotemporal sequential fluorescence–electrochemistry bimodal platform for both spatial mapping and precise quantitation of asparaginyl endopeptidase (AEP) activity in living single cells. A dual-aggregation-induced emission (AIE) probe, pyTPE-CBT, is delivered into single cells via a θ-nanopipette, yielding an 11.18-fold fluorescence enhancement to visualize AEP spatial distribution. Guided by fluorescence imaging, the nanopipette’s detection channel is positioned at target subcellular regions. AEP-mediated cleavage of probe molecules alters charge density and effective channel size, modulating the ionic current for quantitative detection with a limit of detection (LOD) of 3.83 ng/mL. It overcomes the drawbacks of traditional single-mode methods and offers a powerful tool for studying enzyme heterogeneity, subcellular localization, and dynamic enzymatic activity in single cells.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spatiotemporal Sequential Fluorescence and Electrochemistry Bimodal Quantitation of Enzyme Activity in a Living Cell&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02449&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02449"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/nlv026i033_2121626</link>
-      <guid isPermaLink="false">10.1021/nlv026i033_2121626</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i033_2121626</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Publication Information&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i033_2121626&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i033_2121626"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02661</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02661</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Reconfigurable infrared plasmons are central to emerging nanophotonic technologies, yet their practical impact remains constrained by limited tuning bandwidth, poor reversibility, and material-specific spectral windows. Here we demonstrate ultrabroadband and fully reversible tuning of infrared plasmons in metallic van der Waals NbSe2 films enabled by gate-controlled lithium-ion intercalation. Ion intercalation provides a unique pathway to simultaneously modulate free-carrier density and screening from high-energy interband transitions, jointly reshaping both plasmon frequency and oscillator strength. As a result, plasmon resonances can be continuously swept over an unprecedented spectral span exceeding 5500 cm–1 within a single material platform, covering the telecom, mid-infrared and thermal far-infrared region. Leveraging this broad and reversible tunability, we realize electrically tunable wavelength-selective thermal emitters and thermal display patterns through plasmon-mediated emissivity modulation. Our results establish ion-intercalated van der Waals metals as a versatile and programmable platform for ultrabroadband tunable infrared nanophotonics and reversible thermal-radiation control.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrabroadband and Reversible Tuning of Infrared Plasmons in van der Waals Metal Films&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02661&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02661"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02509</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02509</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Controlling the nanostructure and electronic properties of polar semiconductors could enable new applications in nanoelectronics. Here, we report the synthesis of one-dimensional BiTeI nanowires confined within single- and multiwalled carbon nanotubes using a sublimation-driven transport reaction. Aberration-corrected scanning transmission electron microscopy reveals highly ordered BiTeI nanowires ranging from one to six atomic layers. Density gradient ultracentrifugation enables the separation of filled and empty nanotubes, while Raman spectroscopy evidences host–guest interactions. Furthermore, the encapsulation of BiTeI leads to an increase in the optical band gap and a stable enhancement in electrical conductivity in macroscopic films. First-principles calculations show that compressive strain significantly modifies the BiTeI electronic structure, including reduced Rashba splitting and strain-induced band reordering. Overall, nanoconfinement is shown to be a powerful route to probe and engineer strain-tunable electronic states in polar semiconductors at the one-dimensional scale.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Strain-Engineered One-Dimensional van der Waals Heterostructures: BiTeI Confined in Carbon Nanotubes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02509&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02509"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Deposition-Free Anti-Reflective Nanomembrane Lamination for Ultrathin Photodetectors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02513</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02513</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The transition toward function-centric three-dimensional heterogeneous integration (3DHI) requires ultrathin photodetectors with strong photoresponse and compatibility with vertical stacking. Monolayer transition metal dichalcogenides (TMDCs) are promising active layers for such systems but suffer from intrinsically limited light absorption. Moreover, strategies for enhancing light absorption in monolayer TMDCs without compromising their electronic quality remain limited, as direct deposition can introduce defects and interfacial disorder. Here, we report deposition-free vdW lamination of an anti-reflective MgF2 nanomembrane onto monolayer MoS2. Uniform MgF2 nanomembranes are formed on an amorphous carbon monolayer (ACM) template and cleanly released at the MgF2/ACM interface, enabling integration without compromising the integrity of monolayer MoS2 while enhancing its photoresponse. Applied to mixed-dimensional 3D/2D/3D stacked MgF2/MoS2/Si photodetectors, this approach enables broadband visible-to-near-infrared detection with a maximum responsivity of 51.36 A/W and a measured-noise-based detectivity of 2.27 × 1012 Jones, demonstrating compatibility with vertically stacked 3DHI platforms and effective photoresponse enhancement.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Deposition-Free Anti-Reflective Nanomembrane Lamination for Ultrathin Photodetectors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02513&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02513"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Revealing Concentration-Dependent Amplification and Inversion of Circularly Polarized Luminescence in Liquid Crystal Self-Assemblies</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03326</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03326</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Elucidating supramolecular chiral evolution remains challenging, owing to weak chiroptical signals and poorly characterized conformationally diverse chiral dimers. Here, we adopt liquid crystal matrices to amplify chiroptical signals for real-time monitoring of monomer-to-aggregate chiral evolution. In this pyrene-based supramolecular system, π–π stacking and C–H···π interactions drive the formation of discrete dimers within nematic liquid crystals. The significantly amplified CPL signals with glum values up to 10–1 enable direct visualization of chiral transformation. Structural analyses verify that offset face-to-face dimers possess reversed handedness relative to monomers, thus inducing chiroptical inversion. TCNB allosteric encapsulation induces spatial rearrangement of BP dimers within liquid crystal and modulates their helicity-dependent chiroptical activity. A maximum glum value of 0.97 is achieved at the bandgap edge. Such structure reshaping confirms that assembly concentration regulation and molecular intervention enable precise engineering of chiral aggregates, offering fundamental insights into chiral evolution in supramolecular assembly systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Revealing Concentration-Dependent Amplification and Inversion of Circularly Polarized Luminescence in Liquid Crystal Self-Assemblies&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03326&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03326"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

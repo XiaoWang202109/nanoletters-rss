@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:40:44 +0000</lastBuildDate>
     <item>
       <title>Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02786</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02786&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02786"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Lineage-Specific Mechanical Trajectories of Lipid Droplets during Late-Stage Adipocyte Differentiation</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01501</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01501</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Lipid droplets (LDs) are dynamic intracellular organelles that undergo extensive remodeling during adipocyte differentiation, yet how their mechanical properties evolve during late-stage maturation remains unexplored. Here, we apply Brillouin microscopy to map the viscoelastic properties of LDs in differentiating white (WAT) and brown (BAT) adipocytes over 34 days. LDs exhibit lineage-associated mechanical maturation characterized by distinct terminal states, elastic–dissipative relationships, and geometry–mechanics coupling. WAT droplets reach a higher mechanical end point, whereas BAT droplets remain in a lower viscoelastic regime and exhibit distinct temporal evolution of dissipative behavior. Notably, WAT transitions to a size-independent mechanical state, indicating decoupling of stiffness from geometric growth and a shift toward internal organization-dominated mechanics, while BAT maintains geometry–mechanics coupling. Across both lineages, Brillouin shift and line width remain strongly correlated. These findings establish LDs as dynamically evolving mechanical entities and uncover organelle-scale mechanics as a previously unrecognized dimension of adipocyte late-stage differentiation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Lineage-Specific Mechanical Trajectories of Lipid Droplets during Late-Stage Adipocyte Differentiation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01501&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01501"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -52,6 +64,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01832&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01832"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Space-Charge Modulation of Antiferromagnetic–Ferromagnetic Core–Shell Magnetism in Ruthenium Nanoparticles</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02872</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02872</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Here we report antiferromagnetic–ferromagnetic core–shell magnetism in electrochemically synthesized elemental ruthenium nanoparticles. The core exhibits strong antiferromagnetic interactions, while uncompensated surface spins drive emergent ferromagnetism. This is evidenced by a large negative Weiss constant (−72.5 K), nonsaturating magnetization at high fields, and temperature-dependent coercivity reaching 430 Oe at 2 K, a value 3 times larger than that reported for ferromagnetic ruthenium films. By employing space-charge engineering to modulate the surface electron density, we achieve reversible magnetization changes up to 46% at room temperature. Furthermore, significant voltage-dependent coercivity changes at low temperatures provide strong support for the direct modulation of surface ferromagnetism and hint at a tight coupling to the antiferromagnetic core. These results uncover distinctive magnetism in ruthenium nanoparticles and establish space-charge engineering as a general route to voltage-controlled magnetism in metallic nanomaterials, advancing antiferromagnetic spintronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Space-Charge Modulation of Antiferromagnetic–Ferromagnetic Core–Shell Magnetism in Ruthenium Nanoparticles&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02872&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02872"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02728</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02728</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract To overcome the difficulty of single nanostructures in approaching the theoretical limit of chiroptical performance, we design a single plasmonic twisted dimer cavity whose magnetic gap plasmon mode enables magnetic polarization near-field engineering for high chirality. The structure exhibits strong extinction under circularly polarized excitation with one handedness, while its response to the orthogonally circularly polarized light is almost perfectly suppressed, yielding a chiral g-factor as high as 1.94. Meanwhile, the structure demonstrates strong chiral-selective spin–orbit angular momentum conversion with ∼95% efficiency under one handedness and only ∼1% under the other. By tuning geometric parameters, the g-factor can be continuously adjusted from 0 to 1.94. Without relying on periodic coupling or collective effects, this work achieves near-perfect chirality and highly efficient angular momentum manipulation solely through intrinsic near-field matching, providing a new design strategy for highly selective, ultracompact integrated chiral photonic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02728&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

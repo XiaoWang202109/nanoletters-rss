@@ -5,7 +5,43 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 02:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:28:48 +0000</lastBuildDate>
+    <item>
+      <title>Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02786</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02786</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We demonstrate negative differential conductance (NDC), consistent with extreme band filling, in titanium trisulfide (TiS3) nanowire field-effect transistors (FETs) subject to ionic gating. Electronic-structure calculations connect the NDC to the narrow and nonparabolic nature of the conduction band states in TiS3. These exhibit inflection points at relatively low energies, which become accessible when ionic gating induces extreme carrier concentration (∼1020 cm–3). In contrast with the Gunn effect, which requires electron–phonon scattering to transfer electrons between conduction-band valleys to initiate NDC, the mechanism here derives solely from single-carrier, intraband dynamics. As such, the potential should exist to exploit its associated NDC in ultrafast (i.e., terahertz) electronic devices. Since the NDC ultimately results from the heavily d-orbital character of the conduction-band states of TiS3, this phenomenon need not be unique to this material. This should motivate future studies of other materials with similarly strong nonparabolicity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02786&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02786"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Toward a Universal Meta-Optics Solver via Large Language Models</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03323</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03323</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metasurface design increasingly requires fast models that can operate across structurally distinct device families rather than retraining a separate surrogate for every geometry class. Conventional neural network surrogates often depend on fixed-dimensional descriptors, family-specific output formats, and repeated architecture tuning, which limit their scalability across heterogeneous meta-atoms. Here, we present a unified large language model (LLM) workflow for multifamily metasurface modeling and inverse design. Geometries, design parameters, and optical response channels were converted into a shared instruction-following text format and used to fine-tune Gemma-2-9B across 8 metasurface families. Compared with single-family baselines, the joint model simultaneously predicted the optical responses of all metasurface families while reducing the MSE for each family by an average of 56.5%. The same representation was also used for the inverse design. These results show that a shared sequence-based LLM interface can provide a practical route to cross-family metasurface design while reducing the need for task-specific surrogate architectures.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Toward a Universal Meta-Optics Solver via Large Language Models&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03323&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03323"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Revealing the In-Plane Dielectric Tensor of Triclinic ReSe2 via Nano-imaging of Anisotropic Waveguide Modes and Tailored Surface Polaritons</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02287</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02287</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract In-plane anisotropic light propagation at the nanoscale enables directional, subwavelength control, yet its behavior in low-symmetry triclinic crystals remains underexplored because accessing the full dielectric tensor is challenging. Here, we use scattering-type scanning near-field optical microscopy to image mid-infrared waveguide modes in triclinic ReSe2 and directly reconstruct the in-plane dielectric tensor. We reveal principal axes rotated by ∼15° relative to the crystallographic axes and ultralow-loss guided modes propagating beyond 50 μm. Our approach is broadly applicable to other spectral ranges and low-symmetry van der Waals crystals. Integrating ReSe2 thin film with a SiC substrate, we engineer anisotropic, dielectric-tailored surface phonon polaritons exhibiting highly confined, directional fields. Nano-imaging provides a stringent validation of the reconstructed tensor. These findings establish a versatile platform for characterizing low-symmetry crystals and position ReSe2 as a promising component for anisotropic nanophotonic devices based on van der Waals materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Revealing the In-Plane Dielectric Tensor of Triclinic ReSe2 via Nano-imaging of Anisotropic Waveguide Modes and Tailored Surface Polaritons&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02287&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02287"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
@@ -559,18 +595,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ferroelectric wake-up in hafnium oxide remains one of the key unresolved problems in oxide electronics. Here, we combine four-dimensional scanning transmission electron microscopy (4D-STEM), X-ray photoelectron spectroscopy (XPS), first-principles calculations, electrical characterization, and theoretical modeling to investigate wake-up in TaN/Hf0.5Zr0.5O2/TiN capacitors. Although the remanent polarization increases by approximately 2.6-fold after wake-up, the orthorhombic phase fraction changes only slightly from 20.3% to 21.4%, indicating that structural evolution alone cannot explain the electrical activation. XPS and first-principles calculations reveal that the ferroelectric response is highly sensitive to oxygen-vacancy configuration. Motivated by these observations, we develop a vacancy-assisted polarization-catastrophe framework in which vacancy ordering renormalizes the dipolar interaction and drives the transition from a nonpolar single-well to a ferroelectric double-well energy landscape. The model quantitatively explains the observed enhancement of polarization, switching current, capacitance, and hysteresis, establishing vacancy ordering as the governing mechanism of wake-up in hafnium oxide.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01204&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02728</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02728</guid>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02728&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nanoparticle Crystallization Driven by Competitive Toehold-Mediated DNA Strand Exchange Reactions</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02967</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02967</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract DNA-mediated colloidal crystal engineering offers a powerful route for constructing three-dimensional nanoparticle superlattices with programmable structures and properties. However, achieving room-temperature fabrication of DNA-bonded colloidal crystals with long-range order remains challenging because nanoparticle assemblies are often kinetically trapped in metastable states. Here, we present a simplified enthalpy-regulation strategy based on a toehold-exchange mechanism to control interactions between DNA-functionalized gold nanoparticles. By tuning the relative lengths of the forward and reverse toeholds and the concentration of a DNA trigger, nanoparticle aggregation kinetics are precisely regulated, enabling a symmetric binary system to circumvent kinetic trapping and assemble into high-quality BCC superlattices. We further extend this approach to an asymmetric binary system, where selective control of linker valence directs the formation of distinct CsCl and AlB2 superlattices. Owing to its simplicity and adaptability, this strategy provides a versatile platform for integrating diverse DNA circuits with colloidal crystal assembly and engineering programmable phase behaviors.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoparticle Crystallization Driven by Competitive Toehold-Mediated DNA Strand Exchange Reactions&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02967&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02967"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>A Visible-Frequency Excitonic Reststrahlen Band in (PEA)2PbI4 Slabs</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02639</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02639</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Layered halide perovskites host exceptionally strong excitons, whose optical signatures are usually read as absorptive resonances on a smooth dielectric background. Strong excitons, however, can also reshape the dielectric response itself and drive the real permittivity negative, opening a reflective band─the visible, excitonic analogue of an infrared Reststrahlen band. Whether bare (PEA)2PbI4 slabs reach this regime has remained unclear. Here we show that low-temperature transmission of (PEA)2PbI4 slabs, driven by the intralayer-exciton manifold, evolves with increasing thickness from an excitonic dip into a broad near-zero-transmission interval with compressed Fabry–Pérot-like fringes. Transfer-matrix analysis with an effective Lorentz-oscillator dielectric response reproduces thickness-dependent evolution, reconstructs a finite negative-Re(ε) window, and implies near-ultrastrong exciton–photon coupling. Calculated field maps show suppressed in-plane field penetration within this interval and a driven longitudinal response near the high-energy (ε = 0) edge. These results identify (PEA)2PbI4 slabs as a cavity-free visible-frequency excitonic Reststrahlen material.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;A Visible-Frequency Excitonic Reststrahlen Band in (PEA)2PbI4 Slabs&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02639&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02639"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

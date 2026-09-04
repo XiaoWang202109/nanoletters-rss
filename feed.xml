@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:40:50 +0000</lastBuildDate>
+    <item>
+      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Geometrically Defined Nanochannels Resolve the Interplay of Mass Transport and Product Deposition in Lithium–Oxygen Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03128</link>
@@ -28,6 +40,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03096&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03096"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03335</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03335</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Altermagnetism is a newly identified magnetic phase, constituting a third class of magnets with momentum-dependent spin splitting but vanishing net magnetic moment. Here, unlike the widely considered circularly polarized light that yields a normal insulating phase, we put forward that Floquet engineering under elliptically polarized light induces Floquet quantum anomalous Hall (QAH) effect in two-dimensional (2D) altermagnets with out-of-plane magnetization. Notably, Floquet–Bloch band engineering enables switchable chirality via manipulating the intensity and/or polar angle. Furthermore, we identify the Fe2Te2O monolayer as a realistic candidate hosting nontrivial phenomena, where topological phase transitions from a topological crystalline insulator (TCI) to a QAH insulator and between QAH insulators with opposite chirality emerge, as confirmed by first-principles calculations. These findings establish the feasibility of realizing the QAH effect in 2D altermagnets and provide an experimentally accessible avenue toward next-generation high-speed, optically controlled topological electronic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03335&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03335"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -535,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02728</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02728</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract To overcome the difficulty of single nanostructures in approaching the theoretical limit of chiroptical performance, we design a single plasmonic twisted dimer cavity whose magnetic gap plasmon mode enables magnetic polarization near-field engineering for high chirality. The structure exhibits strong extinction under circularly polarized excitation with one handedness, while its response to the orthogonally circularly polarized light is almost perfectly suppressed, yielding a chiral g-factor as high as 1.94. Meanwhile, the structure demonstrates strong chiral-selective spin–orbit angular momentum conversion with ∼95% efficiency under one handedness and only ∼1% under the other. By tuning geometric parameters, the g-factor can be continuously adjusted from 0 to 1.94. Without relying on periodic coupling or collective effects, this work achieves near-perfect chirality and highly efficient angular momentum manipulation solely through intrinsic near-field matching, providing a new design strategy for highly selective, ultracompact integrated chiral photonic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02728&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01204</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01204</guid>
@@ -556,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01204&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01204"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02728</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02728</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract To overcome the difficulty of single nanostructures in approaching the theoretical limit of chiroptical performance, we design a single plasmonic twisted dimer cavity whose magnetic gap plasmon mode enables magnetic polarization near-field engineering for high chirality. The structure exhibits strong extinction under circularly polarized excitation with one handedness, while its response to the orthogonally circularly polarized light is almost perfectly suppressed, yielding a chiral g-factor as high as 1.94. Meanwhile, the structure demonstrates strong chiral-selective spin–orbit angular momentum conversion with ∼95% efficiency under one handedness and only ∼1% under the other. By tuning geometric parameters, the g-factor can be continuously adjusted from 0 to 1.94. Without relying on periodic coupling or collective effects, this work achieves near-perfect chirality and highly efficient angular momentum manipulation solely through intrinsic near-field matching, providing a new design strategy for highly selective, ultracompact integrated chiral photonic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Perfect Chirality and Giant Spin–Orbit Conversion in a Single Plasmonic Cavity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02728&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02639&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02639"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Self-Blinking Dye Restores Efficient Use of Nanobodies in Single-Molecule Localization Microscopy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02799</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02799</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Direct stochastic optical reconstruction microscopy (dSTORM) relies on controlled fluorophore blinking to achieve nanometer-scale resolution, yet the field’s benchmark dye, Alexa Fluor 647, underperforms when conjugated to nanobodies, limiting the practical use of minimal-linkage labeling strategies. Here, we show that the self-blinking dye JF635b overcomes this limitation by maintaining robust, photostable blinking upon conjugation to nanobodies under buffer-independent conditions. This enables reliable single-molecule localization microscopy (SMLM) without the need for complex switching buffers. Using JF635b-labeled nanobodies, we demonstrate consistent performance across multiple imaging modalities, including wide-field dSTORM, fluorescence-lifetime SMLM, and MINFLUX nanoscopy, achieving localization precisions from ∼15 nm down to the subnanometer regime. In addition, JF635b supports long-term sample preservation and efficient blinking even in pure water, enabling minimally perturbative imaging conditions. Together, these results establish self-blinking dSTORM as a robust and accessible platform for quantitative nanoscopy across experimental contexts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Self-Blinking Dye Restores Efficient Use of Nanobodies in Single-Molecule Localization Microscopy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02799&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02799"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Unconventional Floquet Quantum Spin Hall Effect in Two-Dimensional Altermagnets</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02856</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02856</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnetism has recently emerged as a promising platform for achieving exotic quantum states and dissipationless spin transport. Here, we uncover a previously unexplored Floquet realization of the quantum spin Hall effect in 2D altermagnets under elliptically polarized light, a phenomenon that has remained unattainable in previously studied ferromagnetic and antiferromagnetic systems. Remarkably, accompanying the periodic driving, the system undergoes successive topological phase transitions from a second-order topological insulator to a quantum anomalous Hall insulator, and ultimately to a quantum spin Hall insulator. Moreover, the proposed mechanism is confirmed in the altermagnetic V2SSeO monolayer through analyses of corner states, edge states, and quantized anomalous and spin Hall responses, establishing it as a realistic material platform. Our findings establish a link between altermagnetism, Floquet engineering, and topological phases, opening new possibilities for next-generation optically controlled topological spintronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Unconventional Floquet Quantum Spin Hall Effect in Two-Dimensional Altermagnets&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02856&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02856"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

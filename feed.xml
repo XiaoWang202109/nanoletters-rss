@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:28:46 +0000</lastBuildDate>
     <item>
       <title>Layer-Controlled Intermolecular Coupling and Many-Body Effects in C60 Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02272</link>
@@ -583,18 +583,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03098</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03098</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Near-infrared (NIR, 750–2500 nm) imaging is crucial for disease diagnosis, yet conventional wide-field bioimaging yields only two-dimensional (2D) information without depth. Here, we report a ratiometric fluorescence strategy for tissue depth determination using α-NaTmF4@NaErF4@NaYF4 nanoprobes. Under 808 nm excitation, interfacial cascade energy transfer between Tm3+ and Er3+ ions enhances NIR-II emissions at 1532 and 1626 nm by 3.3- and 6.7-fold, respectively, compared with that of a codoped counterpart. Leveraging distinct water absorption at these wavelengths, the logarithm of the attenuated intensity ratio (ITm/IEr) varies linearly with tissue depth (0–4 mm). With this NIR ratiometric wide-field depth-mapping method, quantitative depth information about in vivo vasculature was assigned to each image pixel and rendered into 2.5D visualization by stacking 2D planes over a 40 mm × 40 mm × 4 mm volume. Dynamic tracking of nanoprobe redistribution from vessels along the projection direction was also demonstrated. This work establishes a universal depth-analysis tool and significantly advances medical optical imaging.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03098&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03098"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Operando Imaging of Whisker Growth in NASICON Solid-State Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03503</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03503</guid>
@@ -604,6 +592,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03503&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03503"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03098</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03098</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Near-infrared (NIR, 750–2500 nm) imaging is crucial for disease diagnosis, yet conventional wide-field bioimaging yields only two-dimensional (2D) information without depth. Here, we report a ratiometric fluorescence strategy for tissue depth determination using α-NaTmF4@NaErF4@NaYF4 nanoprobes. Under 808 nm excitation, interfacial cascade energy transfer between Tm3+ and Er3+ ions enhances NIR-II emissions at 1532 and 1626 nm by 3.3- and 6.7-fold, respectively, compared with that of a codoped counterpart. Leveraging distinct water absorption at these wavelengths, the logarithm of the attenuated intensity ratio (ITm/IEr) varies linearly with tissue depth (0–4 mm). With this NIR ratiometric wide-field depth-mapping method, quantitative depth information about in vivo vasculature was assigned to each image pixel and rendered into 2.5D visualization by stacking 2D planes over a 40 mm × 40 mm × 4 mm volume. Dynamic tracking of nanoprobe redistribution from vessels along the projection direction was also demonstrated. This work establishes a universal depth-analysis tool and significantly advances medical optical imaging.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03098&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03098"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

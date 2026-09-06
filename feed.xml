@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 02:39:44 +0000</lastBuildDate>
     <item>
       <title>Layer-Controlled Intermolecular Coupling and Many-Body Effects in C60 Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02272</link>
@@ -175,18 +175,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
@@ -196,6 +184,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -583,18 +583,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Operando Imaging of Whisker Growth in NASICON Solid-State Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03503</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03503</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract A central obstacle to elucidating all-solid-state sodium battery (ASSSB) failure is operando, nanoscale visualization of sodium whisker growth within solid electrolytes under realistic operating conditions. To this end, we establish an integrated framework coupling operando electrochemical electron microscopy (EM) with nanofabrication, enabling in situ tracking of structural evolution and cryogenic EM interrogation of failure hotspots. With this framework, we monitor structural dynamics and elucidate the whisker growth mechanism in a symmetric sodium cell containing a NASICON Mg-doped Na3Zr2–xMgxSi2PO12 electrolyte. During extended plating–stripping cycling, voids that develop in the vicinity of weak crystalline NaMgPO4 secondary phases of the electrolyte act as nucleation sites for whisker growth, which grow into pillar-like morphologies with cubic/hexagonal features. The explicit identification of these void–secondary phase composite nucleation sites establishes a direct mechanistic link between the chemo-physical properties of the electrolyte and whisker growth, offering fundamental design principles for dendrite-free ASSSBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Operando Imaging of Whisker Growth in NASICON Solid-State Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03503&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03503"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03098</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03098</guid>
@@ -604,6 +592,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03098&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03098"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Operando Imaging of Whisker Growth in NASICON Solid-State Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03503</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03503</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Abstract A central obstacle to elucidating all-solid-state sodium battery (ASSSB) failure is operando, nanoscale visualization of sodium whisker growth within solid electrolytes under realistic operating conditions. To this end, we establish an integrated framework coupling operando electrochemical electron microscopy (EM) with nanofabrication, enabling in situ tracking of structural evolution and cryogenic EM interrogation of failure hotspots. With this framework, we monitor structural dynamics and elucidate the whisker growth mechanism in a symmetric sodium cell containing a NASICON Mg-doped Na3Zr2–xMgxSi2PO12 electrolyte. During extended plating–stripping cycling, voids that develop in the vicinity of weak crystalline NaMgPO4 secondary phases of the electrolyte act as nucleation sites for whisker growth, which grow into pillar-like morphologies with cubic/hexagonal features. The explicit identification of these void–secondary phase composite nucleation sites establishes a direct mechanistic link between the chemo-physical properties of the electrolyte and whisker growth, offering fundamental design principles for dendrite-free ASSSBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Operando Imaging of Whisker Growth in NASICON Solid-State Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03503&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03503"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

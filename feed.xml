@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Chiral by Nature: Chiroptical Activity in Fe3O4 Magnetic Nanoparticles from Bacterial Biomineralization</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02286</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02286</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The coexistence of chirality and magnetism in nanomaterials has been observed with metallic complexes but remains rarely achieved in magnetic oxides. Here, we identify biologically induced chiroptical activity in the magnetotactic bacterium Magnetospirillum gryphiswaldense strain MSR-1, which biomineralizes Fe3O4 crystals within a prokaryotic organelle known as a magnetosome. Natural and magnetic circular dichroism spectra were recorded for wild-type MSR-1, a magnetosome-deficient mutant (ΔmamAB), and the magnetosomes extracted from the bacterial cells. While chiroptical signals appeared when the particles remained within the bacterial matrix, the isolated nanoparticles did not demonstrate detectable natural optical activity. Subsequent surface modification of the extracted optically inactive nanoparticles with enantiopure aspartic acid produced chiroptical responses. These observations suggest that the biological environment of magnetosomes imposes chiral asymmetry on magnetic nanoparticles and that surface functionalization revealed optical activity. The results collectively describe a biologically mediated induction of chiroptical signals in Fe3O4 nanoparticles.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Chiral by Nature: Chiroptical Activity in Fe3O4 Magnetic Nanoparticles from Bacterial Biomineralization&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02286&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02286"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Capacitance Boosting via Equalization of Space and Ionic Charge Asymmetries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03253</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03253</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Carbon-based supercapacitors often suffer from limited capacitance, typically below 120 F g–1, even with structural modifications. This study achieves a significant capacitance boost, exceeding 200 F g–1, by ingeniously mitigating carrier asymmetry within both electrodes and electrolytes. Nitrogen- and boron-doped carbon, used as positive and negative electrodes, enhance the density of states and charge carrier mobility while compensating for quantum capacitance asymmetry. Concurrently, introducing isopropylammonium cations into the mixed electrolyte compresses the electric double layer, equalizing anionic and cationic charge disparities at the solid–liquid interface. This &amp;amp;gt; 200 F g–1 value represents the highest gravimetric capacitance reported for carbon-based supercapacitors using organic electrolytes. Impressively, at a high current density of 100 A g–1, the device maintains 128 F g–1, outperforming commercial YP-50F at 1 A g–1. These results offer pivotal insights into overcoming supercapacitor capacitance limitations and understanding the fundamental enhancement mechanisms.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Capacitance Boosting via Equalization of Space and Ionic Charge Asymmetries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03253&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Layer-Controlled Intermolecular Coupling and Many-Body Effects in C60 Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02272</link>
@@ -175,18 +199,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
@@ -196,6 +208,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02518&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02518"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Operando Imaging of Whisker Growth in NASICON Solid-State Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03503</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03503</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract A central obstacle to elucidating all-solid-state sodium battery (ASSSB) failure is operando, nanoscale visualization of sodium whisker growth within solid electrolytes under realistic operating conditions. To this end, we establish an integrated framework coupling operando electrochemical electron microscopy (EM) with nanofabrication, enabling in situ tracking of structural evolution and cryogenic EM interrogation of failure hotspots. With this framework, we monitor structural dynamics and elucidate the whisker growth mechanism in a symmetric sodium cell containing a NASICON Mg-doped Na3Zr2–xMgxSi2PO12 electrolyte. During extended plating–stripping cycling, voids that develop in the vicinity of weak crystalline NaMgPO4 secondary phases of the electrolyte act as nucleation sites for whisker growth, which grow into pillar-like morphologies with cubic/hexagonal features. The explicit identification of these void–secondary phase composite nucleation sites establishes a direct mechanistic link between the chemo-physical properties of the electrolyte and whisker growth, offering fundamental design principles for dendrite-free ASSSBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Operando Imaging of Whisker Growth in NASICON Solid-State Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03503&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03503"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03098</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03098</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Near-infrared (NIR, 750–2500 nm) imaging is crucial for disease diagnosis, yet conventional wide-field bioimaging yields only two-dimensional (2D) information without depth. Here, we report a ratiometric fluorescence strategy for tissue depth determination using α-NaTmF4@NaErF4@NaYF4 nanoprobes. Under 808 nm excitation, interfacial cascade energy transfer between Tm3+ and Er3+ ions enhances NIR-II emissions at 1532 and 1626 nm by 3.3- and 6.7-fold, respectively, compared with that of a codoped counterpart. Leveraging distinct water absorption at these wavelengths, the logarithm of the attenuated intensity ratio (ITm/IEr) varies linearly with tissue depth (0–4 mm). With this NIR ratiometric wide-field depth-mapping method, quantitative depth information about in vivo vasculature was assigned to each image pixel and rendered into 2.5D visualization by stacking 2D planes over a 40 mm × 40 mm × 4 mm volume. Dynamic tracking of nanoprobe redistribution from vessels along the projection direction was also demonstrated. This work establishes a universal depth-analysis tool and significantly advances medical optical imaging.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Cascade Energy Transfer Enhances Lanthanide Luminescence for NIR-II Ratiometric Deep-Tissue Localization&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03098&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03098"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

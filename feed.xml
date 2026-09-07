@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:26:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:08:11 +0000</lastBuildDate>
+    <item>
+      <title>Microdroplet Phase Change Leads to Substantial Variation in Exhaled Breath Condensate Sampling</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02981</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02981</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Exhaled breath condensate (EBC) has been proposed as a promising non-invasive diagnostic biofluid for 50 years, yet no EBC-based test has reached clinical deployment. A major barrier to clinical translation is its measurement variability, which can span orders of magnitude, far exceeding the 10% clinical tolerance. Whether this variability originates from human biology or physical measurement error remains unknown. To separate these contributions, we examined how EBC biomarkers are transported during the condensation and evaporation of EBC droplets, a physical process common to all EBC samplers. Contrary to the previous assumption that biomarkers accumulate steadily, we found that microscale droplets can lose significant volatile content within each breath cycle and generate substantial cumulative measurement errors. We further developed physical models to quantify EBC biomarker transport. Together, these findings establish a basis for characterizing EBC physical measurement variability and provide an actionable path toward EBC's clinical deployment.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Microdroplet Phase Change Leads to Substantial Variation in Exhaled Breath Condensate Sampling&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02981&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02981"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>3D Direct-Ink-Writing Eutectogel with Programmable Architecture for Multimodal Wearable Interfaces in Personalized Rehabilitation</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03545</link>
@@ -64,6 +76,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02696&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02696"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -139,18 +163,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02786</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02786</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We demonstrate negative differential conductance (NDC), consistent with extreme band filling, in titanium trisulfide (TiS3) nanowire field-effect transistors (FETs) subject to ionic gating. Electronic-structure calculations connect the NDC to the narrow and nonparabolic nature of the conduction band states in TiS3. These exhibit inflection points at relatively low energies, which become accessible when ionic gating induces extreme carrier concentration (∼1020 cm–3). In contrast with the Gunn effect, which requires electron–phonon scattering to transfer electrons between conduction-band valleys to initiate NDC, the mechanism here derives solely from single-carrier, intraband dynamics. As such, the potential should exist to exploit its associated NDC in ultrafast (i.e., terahertz) electronic devices. Since the NDC ultimately results from the heavily d-orbital character of the conduction-band states of TiS3, this phenomenon need not be unique to this material. This should motivate future studies of other materials with similarly strong nonparabolicity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02786&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02786"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Synergistic Disorder-Driven and Framework-Locking Mechanism Enabling High-Voltage Stability of Sodium-Ion Layered Oxide Cathodes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03314</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03314</guid>
@@ -160,6 +172,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03314&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03314"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02786</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02786</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We demonstrate negative differential conductance (NDC), consistent with extreme band filling, in titanium trisulfide (TiS3) nanowire field-effect transistors (FETs) subject to ionic gating. Electronic-structure calculations connect the NDC to the narrow and nonparabolic nature of the conduction band states in TiS3. These exhibit inflection points at relatively low energies, which become accessible when ionic gating induces extreme carrier concentration (∼1020 cm–3). In contrast with the Gunn effect, which requires electron–phonon scattering to transfer electrons between conduction-band valleys to initiate NDC, the mechanism here derives solely from single-carrier, intraband dynamics. As such, the potential should exist to exploit its associated NDC in ultrafast (i.e., terahertz) electronic devices. Since the NDC ultimately results from the heavily d-orbital character of the conduction-band states of TiS3, this phenomenon need not be unique to this material. This should motivate future studies of other materials with similarly strong nonparabolicity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02786&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02786"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -283,18 +307,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
@@ -304,6 +316,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02643&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02643"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Single-Molecule Monitoring of Formaldehyde–Lysine Residue Chemistry using an Engineered MspA Nanopore</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02512</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02512</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Formaldehyde (HCHO) is a reactive electrophile that covalently modifies diverse amino acid residues in proteins. Although ensemble studies have characterized reactions between HCHO and amino acids, the reaction dynamics at individual residue sites have yet to be resolved at the single-molecule level. Here, we engineer a Mycobacterium smegmatis porin A (MspA) nanopore by positioning a single lysine residue at its constriction, enabling real-time single-molecule monitoring of HCHO–lysine chemistry. Distinct current blockade states and reversible transitions between them are observed, consistent with multistep HCHO–lysine reactions involving monoadducts, bisadducts, and Schiff bases under nanoconfinement. The reactions exhibited concentration- and pH-dependent kinetics and generated characteristic electrical signatures that differentiate HCHO from potential interferents, supporting label-free detection of airborne HCHO via aqueous trapping, as well as identification of HCHO in food matrices. This work establishes a residue-confined nanopore platform for real-time probing of HCHO–amino acid chemistry and selective detection of HCHO.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Single-Molecule Monitoring of Formaldehyde–Lysine Residue Chemistry using an Engineered MspA Nanopore&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02512&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02512"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Lewis Acid-Driven Perovskite Quantum Dot Surface Reconstruction for Deep-Blue LEDs Approaching the Rec. 2020 Standard</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03331</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03331</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Perovskite quantum dot light-emitting diodes (PQD LEDs) are promising candidates for high-color-gamut displays, yet deep-blue devices meeting the Rec. 2020 standard with high efficiency and stability remain a tremendous challenge. Here we present a Lewis acid-driven surface reconstruction strategy to enable high-performance deep-blue CsPbBr3 PQD LEDs. Strong ionic interactions between Sr2+ and octanoic acid promote octylamine protonation, triggering simultaneous PQD size reduction, defect suppression, and photoluminescence quantum yield (PLQY) enhancement. The reconstructed PQDs exhibit deep-blue emission at 461 nm with a narrow 18 nm full width at half-maximum and a PLQY of 80%. The resulting LEDs deliver 98.1% color purity, color coordinates of (0.146, 0.059), and full compliance with Rec. 2020 blue specifications. A peak external quantum efficiency of 8.5% and an operational half-lifetime of 41 min are achieved, among the highest reported for pure-bromide deep-blue PQD LEDs. This work provides a facile surface-engineering strategy for efficient deep-blue optoelectronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Lewis Acid-Driven Perovskite Quantum Dot Surface Reconstruction for Deep-Blue LEDs Approaching the Rec. 2020 Standard&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03331&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03331"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

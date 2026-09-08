@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 02:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:30:08 +0000</lastBuildDate>
+    <item>
+      <title>Ferroelectric Generation and Switching of the Hidden Altermagnetism in Parity-Time-Structured Multiferroic CuCrP2S6</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03819</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03819</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The electrical control of altermagnetic spin splitting represents a critical ability to engineer band landscapes for generating emergent magnetoelectric physics and spintronic applications. Previous efforts have mainly resorted to hypothetical ferroelectric–altermagnetic materials to integrate ferroelectricity and altermagnetism into one system. However, even with such integration, the even-parity nature of altermagnetic band structures usually impedes the realization of ferroelectric-switchable altermagnetism, as polarization switching is widely assumed to be a spatial parity transformation. Here, we report the ferroelectric-switchable altermagnetism in an experimentally accessible van der Waals crystal CuCrP2S6, whose ground state has long been deemed to be an antiferroelectric–antiferromagnet. Driven by parity-time (PT) symmetry breaking through metastable ferroelectricity, bulk CuCrP2S6 instead transitions to a d-wave altermagnet. Despite its breaking, the PT symmetry remains operative as a transformation associated with polarization switching, underpinning the ferroelectric-switchable altermagnetism in bulk CuCrP2S6. Our theoretical findings elucidate a general symmetry-engineering strategy for ferroelectric-switchable altermagnetism.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ferroelectric Generation and Switching of the Hidden Altermagnetism in Parity-Time-Structured Multiferroic CuCrP2S6&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03819&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03819"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Optical Phonon Hardening and Anisotropy at a Strained and Chemically Diffuse AlN/GaN Interface</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02982</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02982</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract A comprehensive understanding of the phonon properties at semiconductor heterointerfaces is crucial for tailoring heat control in electronic devices. We study the phonon behavior of an ultrathin AlxGa1-xN layer (∼ 4 nm in width) with variable stoichiometry and strain gradient formed at an epitaxial AlN/GaN interface. Using momentum-resolved vibrational electron energy loss spectroscopy, we measured the phonon dispersion of the AlxGa1-xN layer with nanoscale sensitivity. We find an anisotropic phonon response within the layer, with modes distinct from the surrounding materials. Insights into the partial phonon density of states of the AlxGa1-xN layer are provided. We discover that the ultrathin layer behaves as an Al0.5Ga0.5N alloy in the low energy range (&amp;amp;lt;65 meV), while it exhibits significant phonon hardening in the high energy range. The roles of stoichiometry, strain, and interfacial effect are assessed in the phonon hardening. They represent key tuning parameters of phonon behavior at interfaces, with implications for electronic device performance.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Optical Phonon Hardening and Anisotropy at a Strained and Chemically Diffuse AlN/GaN Interface&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02982&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02982"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Microdroplet Phase Change Leads to Substantial Variation in Exhaled Breath Condensate Sampling</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02981</link>
@@ -79,18 +103,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
@@ -100,6 +112,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -223,18 +247,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Scorpion’s Slit Sensillum-Inspired Flexible Pressure-Position Sensor with Low Channel Consumption and High Localization Accuracy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02941</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02941</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Flexible pressure sensors have been widely adopted in fields including e-skin and wearable devices. Compared with single-mode pressure sensing, pressure-position sensing can further provide positional information, endowing the system with multidimensional sensing capabilities. This is usually achieved using multiple sensing units. However, numerous sensing units often cause excessive wiring, large data volumes, and high energy consumption. Here, inspired by the slit unit collaborative mechanism of scorpions, designed a flexible pressure-position sensor (FPPS). It consists of a pressure-sensing layer, which is a single conductive layer, and a pressure-positioning layer, which contains three conductive layers. With only four signal channels, the FPPS can identify nine positional regions, thereby significantly reducing data complexity. Based on outstanding perception capabilities, such as low zero-drift (0.2%), fast response time (124 ms), and excellent stability (&amp;amp;gt;14000), the FPPS is employed in digital input and control applications, demonstrating its potential in large-scale detection fields such as intelligent human–computer interaction.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Scorpion’s Slit Sensillum-Inspired Flexible Pressure-Position Sensor with Low Channel Consumption and High Localization Accuracy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02941&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02941"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Observation of Highly Efficient Electric-Quadrupole Second Harmonic Generation in a Dirac Semimetal</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02439</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02439</guid>
@@ -244,6 +256,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02439&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02439"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Scorpion’s Slit Sensillum-Inspired Flexible Pressure-Position Sensor with Low Channel Consumption and High Localization Accuracy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02941</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02941</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Flexible pressure sensors have been widely adopted in fields including e-skin and wearable devices. Compared with single-mode pressure sensing, pressure-position sensing can further provide positional information, endowing the system with multidimensional sensing capabilities. This is usually achieved using multiple sensing units. However, numerous sensing units often cause excessive wiring, large data volumes, and high energy consumption. Here, inspired by the slit unit collaborative mechanism of scorpions, designed a flexible pressure-position sensor (FPPS). It consists of a pressure-sensing layer, which is a single conductive layer, and a pressure-positioning layer, which contains three conductive layers. With only four signal channels, the FPPS can identify nine positional regions, thereby significantly reducing data complexity. Based on outstanding perception capabilities, such as low zero-drift (0.2%), fast response time (124 ms), and excellent stability (&amp;amp;gt;14000), the FPPS is employed in digital input and control applications, demonstrating its potential in large-scale detection fields such as intelligent human–computer interaction.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Scorpion’s Slit Sensillum-Inspired Flexible Pressure-Position Sensor with Low Channel Consumption and High Localization Accuracy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02941&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02941"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -283,18 +307,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon oxide (SiOx) is a promising anode for lithium-ion batteries, yet its practical application is hindered by multistep synthesis, hazardous silane-based routes, poor scalability, and sluggish electrochemical conversion. Herein, we report a low-cost and scalable strategy for constructing graphitic carbon-confined SiOx (SiOx@GC) anodes via all-process catalysis using waste-derived superabsorbent polymers and industrial by-product SiCl4 as carbon and silicon precursors, respectively. Ni species participate throughout by catalyzing carbon graphitization, mediating confined SiOx formation, and dynamically facilitating electrochemical conversion during cycling. This integrated Ni-enabled process promotes efficient SiOx formation and its deeper, more reversible conversion into electrochemically active silicon. Consequently, the SiOx@GC anode delivers 1147 mAh g–1 after 100 cycles at 0.1 A g–1, stable cycling over 1000 cycles at 5 A g–1, and a full-cell energy density of 353 Wh kg–1 after 250 cycles. This work establishes an all-process catalytic framework for coupling scalable SiOx synthesis with reversible electrochemical conversion.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; /Carbon Anodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03055&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03055"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02811</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02811</guid>
@@ -304,6 +316,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02811&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon oxide (SiOx) is a promising anode for lithium-ion batteries, yet its practical application is hindered by multistep synthesis, hazardous silane-based routes, poor scalability, and sluggish electrochemical conversion. Herein, we report a low-cost and scalable strategy for constructing graphitic carbon-confined SiOx (SiOx@GC) anodes via all-process catalysis using waste-derived superabsorbent polymers and industrial by-product SiCl4 as carbon and silicon precursors, respectively. Ni species participate throughout by catalyzing carbon graphitization, mediating confined SiOx formation, and dynamically facilitating electrochemical conversion during cycling. This integrated Ni-enabled process promotes efficient SiOx formation and its deeper, more reversible conversion into electrochemically active silicon. Consequently, the SiOx@GC anode delivers 1147 mAh g–1 after 100 cycles at 0.1 A g–1, stable cycling over 1000 cycles at 5 A g–1, and a full-cell energy density of 353 Wh kg–1 after 250 cycles. This work establishes an all-process catalytic framework for coupling scalable SiOx synthesis with reversible electrochemical conversion.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; /Carbon Anodes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03055&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03055"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -319,18 +343,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
@@ -340,6 +352,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03187&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03187"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Synergistic Antibacterial Behavior of Carbon Dots via Both Contact-Dependent and -Independent Mechanisms</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03646</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03646</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Antibiotic-resistant infections remain a major barrier to wound care, motivating antimicrobial biomaterials that are effective and locally activatable. Here, we report infection-responsive iron-doped carbon dots (FeCDs) synthesized via a one-pot hydrothermal route using biocompatible iron(II) gluconate. FeCDs eradicate bacteria through synergistic dual pathways: (i) a contact-independent mechanism in which iron doping confers peroxidase-like activity to catalyze reactive oxygen species (ROS) generation in H2O2-rich infection microenvironments, amplifying localized oxidative stress; and (ii) a contact-dependent mechanism where FeCDs electrostatically bind to bacteria and drive material-bacteria interfacial electron transfer, disrupting respiratory chains and energy production. Combined experiments and molecular dynamics simulations substantiate this synergistic coupling between catalytic and bioelectronic kinetics. Consequently, FeCDs exhibit broad-spectrum antibacterial ability with a high bactericidal rate (98.91%), and significantly accelerate infected wound healing with excellent biosafety. This work advances scalable carbon-based nanozymes, and highlights respiratory electron disruption as a powerful and complementary modality for anti-infective therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synergistic Antibacterial Behavior of Carbon Dots via Both Contact-Dependent and -Independent Mechanisms&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03646&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03646"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Telecom Quantum Memory over 1 μs in Nanophotonic Lithium Niobate</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02567</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02567</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Nanophotonic quantum memory is a vital component for scalable quantum information processing for quantum computing, networking, and sensing applications. We store single-photon-level telecom-band optical pulses for more than 1 μs using an atomic frequency comb in erbium-doped thin-film lithium niobate (TFLN), well beyond what is practically feasible via propagation in even the best nanophotonic devices due to propagation losses. We verify the quantum nature of this storage by demonstrating the phase coherence and subsingle-photon noise upon retrieval. We also show the flexibility of our platform by storing up to 20 temporal modes and demonstrating an acceptance bandwidth of up to 2.2 GHz. These results establish erbium-doped TFLN as a practical platform for on-chip quantum memory at telecom wavelengths, a key missing element for photonic quantum computing and quantum networking.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Telecom Quantum Memory over 1 μs in Nanophotonic Lithium Niobate&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02567&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02567"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

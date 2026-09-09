@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 02:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:41:00 +0000</lastBuildDate>
+    <item>
+      <title>Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02841</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Solid-state Na–S batteries offer high energy density, yet their practicality deteriorates at low N/P ratios because limited Na inventory cannot compensate for irreversible loss. Under lean-Na conditions, the key issue is whether the restricted Na reservoir remains reversibly accessible during deep cycling. Here, we introduce a utilization-corrected N/P descriptor, φ = n/α, where n is the N/P ratio and α is the initial deep-stripping utilization. This descriptor corrects the apparent N/P advantage by accounting for incomplete Na utilization; as α decreases, φ exceeds n, while φ approaching 1 represents the ideal lean-anode limit. A self-generated 3D Na–Na3P/Cu foam anode is constructed via molten-Na conversion. The in-situ-formed Na3P enhances sodiophilicity, Na+ transport, and interfacial stability during deep stripping. The anode achieves 94% stripping utilization with φ = 1.28, sustains over 50 cycles at 90% depth of discharge, and delivers 976 mAh g–1 at 60 °C and N/P = 1.2.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Chiral Water Structures on the Dolomite(104)-S Surface Enantiomer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03227</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03227</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The particular distribution of dolomite over geological time scales and the challenges of growing dolomite under geological conditions in a laboratory setting are still some of the most intriguing scientific puzzles. So-called organogenic models that suggest the role of molecules, especially of extracellular polymeric substances in the liquid phase, in dolomite formation currently challenge the attempts to understand dolomite formation in the context of kinetic constraints. Here, we confirm the presence of chirality on dolomite(104) surfaces by atomic-scale imaging with noncontact atomic force microscopy. Two enantiomers are mapped at the two opposing crystal surfaces. Chiral signatures are further identified in the adsorption of single water molecules, and chirality transfer to a full water monolayer is imaged. Links between chiral specificity of dolomite growth and chiral selectivity of biomolecules on earth, mediated by the liquid phase, appear to be a so far overlooked jigsaw piece in understanding the formation processes of dolomite.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Chiral Water Structures on the Dolomite(104)-S Surface Enantiomer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03227&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03227"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Triple-Helical Assembly of Atomically Precise Silver Nanocluster-Assembled Material: A p-Type Semiconductor</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03006</link>
@@ -175,18 +199,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
@@ -196,6 +208,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -415,18 +439,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
@@ -436,6 +448,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02491&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02491"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Revealing the Roles of In-Plane and Out-of-Plane van der Waals Interactions in Modulating the Dimension-Dependent Ground- and Excited-State Properties of Quasi-1D Zigzag COFs</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03524</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03524</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract van der Waals (vdW) interactions dictate the properties of low-dimensional materials, yet the role of in-plane interactions, and especially the synergy between in-plane and out-of-plane vdW forces, remains largely unexplored. Using first-principles and nonadiabatic molecular dynamics calculations on quasi-one-dimensional porphyrin COFs with a zigzag boundary, we show how these dual vdW interactions modulate structural, electronic, and excited-state properties. In-plane vdW interactions minimally impact ground-state structures but suppress low-frequency vibrations and decrease nonadiabatic coupling due to the unique zigzag interface, extending the excited-state lifetime from 2.1 ns (1D) to 21.3 ns (2D). This behavior persists in other quasi-1D systems with identical interfaces but vanishes in configurations featuring non-zigzag interfaces. In the 3D architecture, distinct stacking modes lead to marked variations in interlayer coupling strength, tuning the lifetime from 2.7 to 29.6 ns. This work unravels the complex correlation between in-plane/out-of-plane vdW interactions, establishing critical design principles for tailored low-dimensional vdW materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Revealing the Roles of In-Plane and Out-of-Plane van der Waals Interactions in Modulating the Dimension-Dependent Ground- and Excited-State Properties of Quasi-1D Zigzag COFs&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03524&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03524"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Bioinspired Flexible Tactile Sensor with Hierarchical Microhair Array for Multiscenario Perception</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02453</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02453</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract High-precision sensing of interfacial motion has attracted great attention due to its vital role in intelligent microrobotics. However, it is still challenging to develop flexible sensors capable of both multiscenario detection and motion mode identification. Here, we report a flexible magnetic tactile sensor (FMTS) that mimics the hierarchical microsetae of Porthesia similis larvae in nature. When the hierarchical hair array is bent under force, the Hall component detects the tiny changes in the magnetic field due to the rearrangement of internal NdFeB microparticles. The FMTS reaches a maximum sensitivity of 22.02 μT/mN, a high resolution of 0.1 mN, and a linear working range of 0 to 46.26 mN. Diverse multiscenario perceptions are demonstrated, including solid morphology recognition, liquid flow velocity measurement, biological signal monitoring, identification of relative motion mode (e.g., rotation or slippage), and real-time motion monitoring of the grasped objects. This framework advances multiscenario perception in robotic interactions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Bioinspired Flexible Tactile Sensor with Hierarchical Microhair Array for Multiscenario Perception&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02453&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02453"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

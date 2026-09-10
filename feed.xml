@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:44:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:22:00 +0000</lastBuildDate>
     <item>
       <title>Synergistic Electronic and Bifunctional Effects in Amorphous BiS &lt;i&gt;x&lt;/i&gt; -Decorated Porous Pt Nanorods for CO-Tolerant Methanol Oxidation</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03420</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03420&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03420"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>&lt;i&gt;In Situ&lt;/i&gt; TEM Study of the Size-Dependent Solubility of Metals in Liquid Metal Nanodroplets</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04107</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04107</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Characterizing metal solubilities in post-transition-based liquid metals remains challenging due to their inherent opacity to conventional light-based analytical techniques. In this work, we present an in situ heating methodology within a transmission electron microscope that enables direct probing of the behavior of solid metal solutes within the local boundaries of liquid metal nanodroplets. Specifically, we show that the solubility of transition and precious metals in liquid state metallic solvents is dependent on the droplet size that contains them due to the internal Laplace pressure. We also show that the dissolution behaviors of solute metals in gallium–indium and gallium–indium–tin eutectic nanodroplets deviate from that of pure gallium, with solvent composition influencing solubility. Moreover, entropy-driven solubility effects are studied in multicomponent alloys that contain several solutes. The outcomes of this work are crucial for advancing liquid metal-based functionalities of soft systems, particularly for catalysis.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; TEM Study of the Size-Dependent Solubility of Metals in Liquid Metal Nanodroplets&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04107&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04107"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -271,18 +283,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
@@ -292,6 +292,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -511,18 +523,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
@@ -532,6 +532,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/nlv026i034_2123961&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i034_2123961"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/nlv026i034_2123960</link>
-      <guid isPermaLink="false">10.1021/nlv026i034_2123960</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i034_2123960</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Publication Information&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i034_2123960&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i034_2123960"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

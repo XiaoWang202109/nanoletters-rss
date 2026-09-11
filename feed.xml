@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:31:10 +0000</lastBuildDate>
+    <item>
+      <title>Emergent Circularly Polarized Luminescence from Self-Assembled Chiral-Ligand-Functionalized CsPbBr3 Nanocrystals</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02634</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02634</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Chiral surface ligands can impart optical activity to all-inorganic perovskite nanocrystals, but how this affects chiroptical properties of their assemblies remains unclear. Here we show that self-assembly of CsPbBr3 nanocubes synthesized with a small amount of added chiral ligand N-benzylcinchonidinium bromide (BCD-Br) results in measurable circularly polarized luminescence (CPL). BCD-Br-treated nanocrystals show weak circular dichroism but no detectable CPL in colloidal dispersion. Upon assembly into CsPbBr3 and mixed halide superlattices, they exhibit CPL with a luminescence dissymmetry factor, glum, of (5 ± 2) × 10–3, whereas untreated controls remain near the noise level. Polarization-resolved transient absorption (TA) reveals an extended spin lifetime of hundreds of picoseconds in BCD-Br-treated nanocrystals, while linear-response time-dependent density functional theory (LR-TDDFT) calculations suggest that inter-nanocrystal coupling can enhance the chiroptical response. These results support the idea that ordered nanocrystal assembly can convert weak ligand-induced chirality into an emergent chiroptical response in perovskite nanocrystal solids.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Emergent Circularly Polarized Luminescence from Self-Assembled Chiral-Ligand-Functionalized CsPbBr3 Nanocrystals&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02634&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02634"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Unveiling Dynamic Structural Evolution Mechanism of Titanium Oxide Anode for High-Performance Sodium-Ion Capacitors</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03649</link>
@@ -16,6 +28,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03649&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03649"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Structure-Dependent Chemical Order Modification in Strained Alloy Nanoparticles</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03772</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03772</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Alloy nanoparticles (nanoalloys) exhibit tunable physicochemical properties that depend sensitively on atomic arrangement. While most theoretical studies consider nanoalloys in a vacuum, practical systems are typically supported, where strong cluster–substrate interactions can introduce significant lattice strain. Here, we investigate strain as a control parameter for chemical ordering in bimetallic nanoalloys using atomistic simulations. Imposing controlled strain through an implicit anchored interface, we probe the response of NiPt nanoparticles with distinct structural motifs. For truncated-octahedral particles, chemical ordering remains remarkably robust even under large strains, indicating that intrinsic thermodynamic preferences dominate. Conversely, icosahedral nanoparticles exhibit pronounced strain-induced chemical redistribution with a significant increase in surface Ni concentration under tensile strain, attributed to the combined effects of intrinsic geometric frustration and a high fraction of undercoordinated sites. Our results demonstrate that strain can selectively modulate chemical ordering in a structure-dependent manner, establishing a general framework for understanding strain-induced chemical ordering in nanoalloys.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Structure-Dependent Chemical Order Modification in Strained Alloy Nanoparticles&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03772&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03772"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -499,18 +523,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon oxide (SiOx) is a promising anode for lithium-ion batteries, yet its practical application is hindered by multistep synthesis, hazardous silane-based routes, poor scalability, and sluggish electrochemical conversion. Herein, we report a low-cost and scalable strategy for constructing graphitic carbon-confined SiOx (SiOx@GC) anodes via all-process catalysis using waste-derived superabsorbent polymers and industrial by-product SiCl4 as carbon and silicon precursors, respectively. Ni species participate throughout by catalyzing carbon graphitization, mediating confined SiOx formation, and dynamically facilitating electrochemical conversion during cycling. This integrated Ni-enabled process promotes efficient SiOx formation and its deeper, more reversible conversion into electrochemically active silicon. Consequently, the SiOx@GC anode delivers 1147 mAh g–1 after 100 cycles at 0.1 A g–1, stable cycling over 1000 cycles at 5 A g–1, and a full-cell energy density of 353 Wh kg–1 after 250 cycles. This work establishes an all-process catalytic framework for coupling scalable SiOx synthesis with reversible electrochemical conversion.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; /Carbon Anodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03055&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03055"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02811</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02811</guid>
@@ -520,6 +532,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02811&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon oxide (SiOx) is a promising anode for lithium-ion batteries, yet its practical application is hindered by multistep synthesis, hazardous silane-based routes, poor scalability, and sluggish electrochemical conversion. Herein, we report a low-cost and scalable strategy for constructing graphitic carbon-confined SiOx (SiOx@GC) anodes via all-process catalysis using waste-derived superabsorbent polymers and industrial by-product SiCl4 as carbon and silicon precursors, respectively. Ni species participate throughout by catalyzing carbon graphitization, mediating confined SiOx formation, and dynamically facilitating electrochemical conversion during cycling. This integrated Ni-enabled process promotes efficient SiOx formation and its deeper, more reversible conversion into electrochemically active silicon. Consequently, the SiOx@GC anode delivers 1147 mAh g–1 after 100 cycles at 0.1 A g–1, stable cycling over 1000 cycles at 5 A g–1, and a full-cell energy density of 353 Wh kg–1 after 250 cycles. This work establishes an all-process catalytic framework for coupling scalable SiOx synthesis with reversible electrochemical conversion.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; /Carbon Anodes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03055&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03055"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -535,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
@@ -556,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03096&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03096"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03335</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03335</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnetism is a newly identified magnetic phase, constituting a third class of magnets with momentum-dependent spin splitting but vanishing net magnetic moment. Here, unlike the widely considered circularly polarized light that yields a normal insulating phase, we put forward that Floquet engineering under elliptically polarized light induces Floquet quantum anomalous Hall (QAH) effect in two-dimensional (2D) altermagnets with out-of-plane magnetization. Notably, Floquet–Bloch band engineering enables switchable chirality via manipulating the intensity and/or polar angle. Furthermore, we identify the Fe2Te2O monolayer as a realistic candidate hosting nontrivial phenomena, where topological phase transitions from a topological crystalline insulator (TCI) to a QAH insulator and between QAH insulators with opposite chirality emerge, as confirmed by first-principles calculations. These findings establish the feasibility of realizing the QAH effect in 2D altermagnets and provide an experimentally accessible avenue toward next-generation high-speed, optically controlled topological electronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03335&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03335"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Coherent Dynamics of Neutral and Charged Biexcitons in Monolayer WSe2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02450</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02450</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Monolayer transition-metal dichalcogenides provide an ideal platform for investigating many-body excitonic complexes due to their strong Coulomb interactions and unique valley-contrasting optical selection rules. Here, we employ helicity-resolved transient absorption spectroscopy in an opposite-circular-polarization configuration to systematically study the coherent dynamics of both neutral and charged intervalley biexcitons in monolayer WSe2. Our measurements reveal a linear dependence of the biexciton signal strength on the pump fluence, indicative of an intrinsic coherent process. In contrast to the exciton, the biexciton resonances display steeper red shifts as the temperature increases, leading to increased binding energies correspondingly. This behavior is attributed to the extended wave function and heavier effective mass of biexcitons, which enhance sensitivity to both thermal lattice vibration and low-energy phonon scattering. Our work advances the fundamental understanding of coherent biexciton dynamics and many-body physics in 2D semiconductors, paving the way for future quantum optoelectronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Coherent Dynamics of Neutral and Charged Biexcitons in Monolayer WSe2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02450&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02450"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

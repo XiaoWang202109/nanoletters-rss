@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:54:12 +0000</lastBuildDate>
     <item>
       <title>Ion-Selective GaN Optopairs with Rapid Response and High Stability for Intelligent Biomimetic Sensing</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03269</link>
@@ -367,18 +367,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
@@ -388,6 +376,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -571,18 +571,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon oxide (SiOx) is a promising anode for lithium-ion batteries, yet its practical application is hindered by multistep synthesis, hazardous silane-based routes, poor scalability, and sluggish electrochemical conversion. Herein, we report a low-cost and scalable strategy for constructing graphitic carbon-confined SiOx (SiOx@GC) anodes via all-process catalysis using waste-derived superabsorbent polymers and industrial by-product SiCl4 as carbon and silicon precursors, respectively. Ni species participate throughout by catalyzing carbon graphitization, mediating confined SiOx formation, and dynamically facilitating electrochemical conversion during cycling. This integrated Ni-enabled process promotes efficient SiOx formation and its deeper, more reversible conversion into electrochemically active silicon. Consequently, the SiOx@GC anode delivers 1147 mAh g–1 after 100 cycles at 0.1 A g–1, stable cycling over 1000 cycles at 5 A g–1, and a full-cell energy density of 353 Wh kg–1 after 250 cycles. This work establishes an all-process catalytic framework for coupling scalable SiOx synthesis with reversible electrochemical conversion.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; /Carbon Anodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03055&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03055"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02811</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02811</guid>
@@ -592,6 +580,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02811&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon oxide (SiOx) is a promising anode for lithium-ion batteries, yet its practical application is hindered by multistep synthesis, hazardous silane-based routes, poor scalability, and sluggish electrochemical conversion. Herein, we report a low-cost and scalable strategy for constructing graphitic carbon-confined SiOx (SiOx@GC) anodes via all-process catalysis using waste-derived superabsorbent polymers and industrial by-product SiCl4 as carbon and silicon precursors, respectively. Ni species participate throughout by catalyzing carbon graphitization, mediating confined SiOx formation, and dynamically facilitating electrochemical conversion during cycling. This integrated Ni-enabled process promotes efficient SiOx formation and its deeper, more reversible conversion into electrochemically active silicon. Consequently, the SiOx@GC anode delivers 1147 mAh g–1 after 100 cycles at 0.1 A g–1, stable cycling over 1000 cycles at 5 A g–1, and a full-cell energy density of 353 Wh kg–1 after 250 cycles. This work establishes an all-process catalytic framework for coupling scalable SiOx synthesis with reversible electrochemical conversion.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; /Carbon Anodes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03055&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03055"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

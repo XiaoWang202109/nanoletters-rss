@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:06:43 +0000</lastBuildDate>
+    <item>
+      <title>Superconducting Weak Links at Substrate Steps in Bilayer Nickelate Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03024</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03024</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ambient-pressure superconductivity above 40 K has been realized in bilayer nickelate thin films on SrLaAlO4 (001), yet resistive measurements often exhibit incomplete zero-resistance states and/or two-step superconducting transitions of unresolved origin. We show that these features arise from superconducting weak links at substrate step-terrace structures. A direct correlation between the azimuthal-angle-dependent two-step transition and step-terrace orientation establishes this connection, further supported by atomic-scale visualization of structurally disrupted regions at step terraces. Modeling the films as pristine (weak-link) regions with higher (lower) transition temperature reproduces essential features of the two-step transition using both a simple model and finite-element simulations. Transport measurements further reveal a strong dependence of transition characteristics (and even the occurrence of superconductivity itself) on average terrace width. These results identify step-induced weak links as the microscopic origin of two-step transitions in bilayer nickelate films, providing a framework for understanding anisotropic and percolative transport, and a route to superconducting devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Superconducting Weak Links at Substrate Steps in Bilayer Nickelate Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03024&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03024"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Ion-Selective GaN Optopairs with Rapid Response and High Stability for Intelligent Biomimetic Sensing</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03269</link>
@@ -28,6 +40,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03075&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03075"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -115,18 +151,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02841</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Solid-state Na–S batteries offer high energy density, yet their practicality deteriorates at low N/P ratios because limited Na inventory cannot compensate for irreversible loss. Under lean-Na conditions, the key issue is whether the restricted Na reservoir remains reversibly accessible during deep cycling. Here, we introduce a utilization-corrected N/P descriptor, φ = n/α, where n is the N/P ratio and α is the initial deep-stripping utilization. This descriptor corrects the apparent N/P advantage by accounting for incomplete Na utilization; as α decreases, φ exceeds n, while φ approaching 1 represents the ideal lean-anode limit. A self-generated 3D Na–Na3P/Cu foam anode is constructed via molten-Na conversion. The in-situ-formed Na3P enhances sodiophilicity, Na+ transport, and interfacial stability during deep stripping. The anode achieves 94% stripping utilization with φ = 1.28, sustains over 50 cycles at 90% depth of discharge, and delivers 976 mAh g–1 at 60 °C and N/P = 1.2.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Issue Editorial Masthead</title>
       <link>https://doi.org/10.1021/nlv026i035_2127241</link>
       <guid isPermaLink="false">10.1021/nlv026i035_2127241</guid>
@@ -136,6 +160,18 @@
 &lt;p&gt;DOI: 10.1021/nlv026i035_2127241&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i035_2127241"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02841</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Solid-state Na–S batteries offer high energy density, yet their practicality deteriorates at low N/P ratios because limited Na inventory cannot compensate for irreversible loss. Under lean-Na conditions, the key issue is whether the restricted Na reservoir remains reversibly accessible during deep cycling. Here, we introduce a utilization-corrected N/P descriptor, φ = n/α, where n is the N/P ratio and α is the initial deep-stripping utilization. This descriptor corrects the apparent N/P advantage by accounting for incomplete Na utilization; as α decreases, φ exceeds n, while φ approaching 1 represents the ideal lean-anode limit. A self-generated 3D Na–Na3P/Cu foam anode is constructed via molten-Na conversion. The in-situ-formed Na3P enhances sodiophilicity, Na+ transport, and interfacial stability during deep stripping. The anode achieves 94% stripping utilization with φ = 1.28, sustains over 50 cycles at 90% depth of discharge, and delivers 976 mAh g–1 at 60 °C and N/P = 1.2.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -367,18 +403,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Developing amphibious adhesives that bond strongly under dry, wet, and hydrothermal conditions remains challenging. Inspired by mussels and barnacles, we designed a bionic adhesive by introducing a catechol-grafted chain extender and an amino-terminated fluorinated polyimide chain extender to polyurethane. Catechol groups strengthen interfacial anchoring, while fluorinated polyimide segments induce hydrophobic microphase separation, displace interfacial water, and improve thermal stability. Tuning the fluorinated polyimide molecular weight optimized the phase structure and adhesion. The optimal PU1.4 showed a tensile strength of 62 MPa and a toughness of 320 MJ·m–3. It achieved 8.2 MPa lap-shear strength on Fe and retained &amp;amp;gt;85% adhesion at 100 °C. PU1.4 also delivered 7.3 MPa wet adhesion and 3.8 MPa underwater adhesion on Fe, while maintaining &amp;amp;gt;90% strength after 10 rebonding cycles and &amp;amp;gt;92% after 5 recycling cycles. This study offers a molecular design strategy for multifunctional amphibious adhesives in underwater repair, waterproof sealing, and harsh hydrothermal bonding.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
@@ -388,6 +412,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Developing amphibious adhesives that bond strongly under dry, wet, and hydrothermal conditions remains challenging. Inspired by mussels and barnacles, we designed a bionic adhesive by introducing a catechol-grafted chain extender and an amino-terminated fluorinated polyimide chain extender to polyurethane. Catechol groups strengthen interfacial anchoring, while fluorinated polyimide segments induce hydrophobic microphase separation, displace interfacial water, and improve thermal stability. Tuning the fluorinated polyimide molecular weight optimized the phase structure and adhesion. The optimal PU1.4 showed a tensile strength of 62 MPa and a toughness of 320 MJ·m–3. It achieved 8.2 MPa lap-shear strength on Fe and retained &amp;amp;gt;85% adhesion at 100 °C. PU1.4 also delivered 7.3 MPa wet adhesion and 3.8 MPa underwater adhesion on Fe, while maintaining &amp;amp;gt;90% strength after 10 rebonding cycles and &amp;amp;gt;92% after 5 recycling cycles. This study offers a molecular design strategy for multifunctional amphibious adhesives in underwater repair, waterproof sealing, and harsh hydrothermal bonding.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03323&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03323"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02811</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02811</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Friction is a key determinant governing energy dissipation at solid–water interfaces, but the interfacial friction mechanism remains poorly understood. Herein, we systematically investigated water slip in MoS2/(WS2, hBN, and graphene) van der Waals heterostructures (vdWHs) with MoS2 as the top layer. The water slip length increases from 9.6 nm on MoS2/WS2 to 12.8 nm on MoS2/hBN and reaches 36.7 nm on MoS2/graphene based on atomic force microscopy. Photoluminescence and Raman spectroscopy reveal charge transfer from vdWHs to water that strongly correlates with the water slip length. Simulations indicate that electron transfer from MoS2/WS2 to water enhances charge density at vdWHs–water interfaces, hindering water slip. In contrast, slight hole injection from MoS2/(hBN and graphene) into water reduces the residual interfacial charge, promoting water slip. Our findings elucidate friction mechanisms from the perspective of interfacial electronic friction, providing novel insights into energy transfer at vdWHs–water interfaces and a foundation for the design of advanced nanofluidic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02811&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon oxide (SiOx) is a promising anode for lithium-ion batteries, yet its practical application is hindered by multistep synthesis, hazardous silane-based routes, poor scalability, and sluggish electrochemical conversion. Herein, we report a low-cost and scalable strategy for constructing graphitic carbon-confined SiOx (SiOx@GC) anodes via all-process catalysis using waste-derived superabsorbent polymers and industrial by-product SiCl4 as carbon and silicon precursors, respectively. Ni species participate throughout by catalyzing carbon graphitization, mediating confined SiOx formation, and dynamically facilitating electrochemical conversion during cycling. This integrated Ni-enabled process promotes efficient SiOx formation and its deeper, more reversible conversion into electrochemically active silicon. Consequently, the SiOx@GC anode delivers 1147 mAh g–1 after 100 cycles at 0.1 A g–1, stable cycling over 1000 cycles at 5 A g–1, and a full-cell energy density of 353 Wh kg–1 after 250 cycles. This work establishes an all-process catalytic framework for coupling scalable SiOx synthesis with reversible electrochemical conversion.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; /Carbon Anodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03055&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03055"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Revealing the In-Plane Dielectric Tensor of Triclinic ReSe2 via Nano-imaging of Anisotropic Waveguide Modes and Tailored Surface Polaritons</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02287</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02287</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract In-plane anisotropic light propagation at the nanoscale enables directional, subwavelength control, yet its behavior in low-symmetry triclinic crystals remains underexplored because accessing the full dielectric tensor is challenging. Here, we use scattering-type scanning near-field optical microscopy to image mid-infrared waveguide modes in triclinic ReSe2 and directly reconstruct the in-plane dielectric tensor. We reveal principal axes rotated by ∼15° relative to the crystallographic axes and ultralow-loss guided modes propagating beyond 50 μm. Our approach is broadly applicable to other spectral ranges and low-symmetry van der Waals crystals. Integrating ReSe2 thin film with a SiC substrate, we engineer anisotropic, dielectric-tailored surface phonon polaritons exhibiting highly confined, directional fields. Nano-imaging provides a stringent validation of the reconstructed tensor. These findings establish a versatile platform for characterizing low-symmetry crystals and position ReSe2 as a promising component for anisotropic nanophotonic devices based on van der Waals materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Revealing the In-Plane Dielectric Tensor of Triclinic ReSe2 via Nano-imaging of Anisotropic Waveguide Modes and Tailored Surface Polaritons&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02287&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02287"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 02:54:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:59:00 +0000</lastBuildDate>
+    <item>
+      <title>Ion-Selective GaN Optopairs with Rapid Response and High Stability for Intelligent Biomimetic Sensing</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03269</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03269</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ion concentration variation can indicate dynamic physiological metabolism and environmental media changes. Although electrochemical biosensors with high sensitivity and selectivity are widely used, achieving rapid response and minimal signal drift remains challenging. Herein, a gallium nitride (GaN) chip was functionalized with an ion-selective membrane to enable highly sensitive, fast, and stable optical readout. During real-time continuous monitoring, a minimized response time of 0.15 s with high signal recovery was achieved, and the drift was reduced to about 0.5 μA/h and 0.3 μA/h for Na+ and K+, respectively. To reduce the cross-interference in mixed ion analysis, a dual-channel ion decoding algorithm was implemented to improve the accuracy. The sensor was integrated into a flexible platform for real-time sweat electrolytes monitoring during exercise and further applied to a robotic fish for biomimetic detection of abnormal ion-concentration hazard zones and closed-loop obstacle avoidance, demonstrating its potential for wearable health monitoring and environmental perception.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ion-Selective GaN Optopairs with Rapid Response and High Stability for Intelligent Biomimetic Sensing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03269&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03269"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Influence of Color-Center Electronegativity on Circular Dichroism in Single-Walled Carbon Nanotubes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03075</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03075</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Covalently functionalized single-walled carbon nanotubes (SWCNTs) have emerged as attractive quantum photonic materials due to their highly tunable optical properties and efficient single-photon emission capabilities. Recent progress in engineering chiral defects has motivated exploration of these systems for tunable circularly polarized photoluminescence. While electronegative defect adducts, such as fluorinated species, induce larger emission redshifts than their electroneutral counterparts, their impact on chiroptical properties remains poorly understood. Here, we theoretically demonstrate that electronegative defects enhance electronic circular dichroism (CD) responses by over 2 times and increase dissymmetry factors (g factors) by more than 2.5 times. Using transition chiral tensor methodology, we identify the atomistic origins of this enhancement, revealing that it arises from substantially increased magnetic transition dipole moment contributions driven by improved electric–magnetic dipole alignment. These results establish atomistic structure–property relationships linking defect chemistry to chiroptical activity and provide design principles for engineering CD responses in functionalized SWCNTs for advanced photonic applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Influence of Color-Center Electronegativity on Circular Dichroism in Single-Walled Carbon Nanotubes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03075&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03075"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>One-Dimensional van der Waals Heterostructure Field-Effect Transistors</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02908</link>
@@ -547,18 +571,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02811</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02811</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Friction is a key determinant governing energy dissipation at solid–water interfaces, but the interfacial friction mechanism remains poorly understood. Herein, we systematically investigated water slip in MoS2/(WS2, hBN, and graphene) van der Waals heterostructures (vdWHs) with MoS2 as the top layer. The water slip length increases from 9.6 nm on MoS2/WS2 to 12.8 nm on MoS2/hBN and reaches 36.7 nm on MoS2/graphene based on atomic force microscopy. Photoluminescence and Raman spectroscopy reveal charge transfer from vdWHs to water that strongly correlates with the water slip length. Simulations indicate that electron transfer from MoS2/WS2 to water enhances charge density at vdWHs–water interfaces, hindering water slip. In contrast, slight hole injection from MoS2/(hBN and graphene) into water reduces the residual interfacial charge, promoting water slip. Our findings elucidate friction mechanisms from the perspective of interfacial electronic friction, providing novel insights into energy transfer at vdWHs–water interfaces and a foundation for the design of advanced nanofluidic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02811&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>All-Process Catalysis from Low-Cost Scalable Synthesis to Activated Electrochemical Reaction of SiO &lt;i&gt;x&lt;/i&gt; /Carbon Anodes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03055</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03055</guid>
@@ -571,6 +583,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02811</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02811</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Friction is a key determinant governing energy dissipation at solid–water interfaces, but the interfacial friction mechanism remains poorly understood. Herein, we systematically investigated water slip in MoS2/(WS2, hBN, and graphene) van der Waals heterostructures (vdWHs) with MoS2 as the top layer. The water slip length increases from 9.6 nm on MoS2/WS2 to 12.8 nm on MoS2/hBN and reaches 36.7 nm on MoS2/graphene based on atomic force microscopy. Photoluminescence and Raman spectroscopy reveal charge transfer from vdWHs to water that strongly correlates with the water slip length. Simulations indicate that electron transfer from MoS2/WS2 to water enhances charge density at vdWHs–water interfaces, hindering water slip. In contrast, slight hole injection from MoS2/(hBN and graphene) into water reduces the residual interfacial charge, promoting water slip. Our findings elucidate friction mechanisms from the perspective of interfacial electronic friction, providing novel insights into energy transfer at vdWHs–water interfaces and a foundation for the design of advanced nanofluidic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Electronic-Friction-Modulated Water Slip at MoS2-Based van der Waals Heterostructures–Water Interfaces&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02811&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Revealing the In-Plane Dielectric Tensor of Triclinic ReSe2 via Nano-imaging of Anisotropic Waveguide Modes and Tailored Surface Polaritons</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02287</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02287</guid>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02287&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02287"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02688</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02688</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Metalenses offer a pathway toward flat, wafer-level optics, but their translation to mobile imaging has been hindered by the difficulty of achieving broadband performance at millimeter-scale apertures. Here we report a visible metalens that imparts a wavelength-invariant phase profile in a hybrid configuration with refractive elements. Central to this advance is a dispersion-contrasting metasurface that achieves broadband phase control using simple, photolithography-compatible nanostructures. Built from stacked silicon nitride nanohole and titanium dioxide nanopost arrays with opposite dispersion sensitivities, the device independently controls phase and group delay while maintaining high transmission across the visible. Integrated with refractive optics, it produces full-color photographic images free of visible artifacts under conditions representative of mobile camera modules. Interferometric measurements show that image quality is governed by phase fidelity of the metalens, demonstrating that accurate, manufacturable phase control provides a viable route toward integrating visible metalenses into compact imaging systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dispersion-Contrasting Dual-Layer Metalens for Hybrid Chromatic-Aberration Correction in the Visible&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02688&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02688"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02065</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02065</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Noise measurements provide a valuable tool for revealing spin polarization effects in the electronic transport through quantum coherent conductors. We present an extension of the Landauer description of shot noise to include energy dependent transmission functions and apply it to explore local magnetic correlations in air oxidized copper contacts, for which first-principle studies have predicted the emergence of ferromagnetic ground states, attributing certain atomic configurations with spin filtering capabilities. By means of low-temperature transport measurements, we provide comprehensive experimental evidence, including hysteretic magnetoresistance and zero-bias anomalies (ZBAs) attributed to the Kondo effect, for the presence of local magnetism. The analysis of the anomalous shot noise in the presence of ZBAs allows us to determine the spin polarization of the current which may reach even full polarization, confirming the spin filtering capability of copper oxide atomic contacts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spin Polarized Transport in Copper Oxide Atomic Junctions Revealed by Anomalous Shot Noise Behavior in the Presence of the Kondo Effect&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02065&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02065"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

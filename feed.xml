@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:07:26 +0000</lastBuildDate>
     <item>
       <title>Superconducting Weak Links at Substrate Steps in Bilayer Nickelate Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03024</link>
@@ -151,18 +151,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02841</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Solid-state Na–S batteries offer high energy density, yet their practicality deteriorates at low N/P ratios because limited Na inventory cannot compensate for irreversible loss. Under lean-Na conditions, the key issue is whether the restricted Na reservoir remains reversibly accessible during deep cycling. Here, we introduce a utilization-corrected N/P descriptor, φ = n/α, where n is the N/P ratio and α is the initial deep-stripping utilization. This descriptor corrects the apparent N/P advantage by accounting for incomplete Na utilization; as α decreases, φ exceeds n, while φ approaching 1 represents the ideal lean-anode limit. A self-generated 3D Na–Na3P/Cu foam anode is constructed via molten-Na conversion. The in-situ-formed Na3P enhances sodiophilicity, Na+ transport, and interfacial stability during deep stripping. The anode achieves 94% stripping utilization with φ = 1.28, sustains over 50 cycles at 90% depth of discharge, and delivers 976 mAh g–1 at 60 °C and N/P = 1.2.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Issue Editorial Masthead</title>
       <link>https://doi.org/10.1021/nlv026i035_2127241</link>
       <guid isPermaLink="false">10.1021/nlv026i035_2127241</guid>
@@ -172,6 +160,18 @@
 &lt;p&gt;DOI: 10.1021/nlv026i035_2127241&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i035_2127241"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02841</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Solid-state Na–S batteries offer high energy density, yet their practicality deteriorates at low N/P ratios because limited Na inventory cannot compensate for irreversible loss. Under lean-Na conditions, the key issue is whether the restricted Na reservoir remains reversibly accessible during deep cycling. Here, we introduce a utilization-corrected N/P descriptor, φ = n/α, where n is the N/P ratio and α is the initial deep-stripping utilization. This descriptor corrects the apparent N/P advantage by accounting for incomplete Na utilization; as α decreases, φ exceeds n, while φ approaching 1 represents the ideal lean-anode limit. A self-generated 3D Na–Na3P/Cu foam anode is constructed via molten-Na conversion. The in-situ-formed Na3P enhances sodiophilicity, Na+ transport, and interfacial stability during deep stripping. The anode achieves 94% stripping utilization with φ = 1.28, sustains over 50 cycles at 90% depth of discharge, and delivers 976 mAh g–1 at 60 °C and N/P = 1.2.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

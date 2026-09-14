@@ -5,7 +5,55 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:33:08 +0000</lastBuildDate>
+    <item>
+      <title>Nonlinear Freezing of Vibrational Polariton Transport via Mesoscale Simulations</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03367</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03367</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Two-dimensional real-space imaging of vibrational polariton transport in planar Fabry–Pérot microcavities is numerically simulated via the mesoscale cavity molecular dynamics approach, which self-consistently propagates∼2×104 realistic molecular simulation cells on a two-dimensional grid coupled to the same number of cavity modes. Beyond the well-known polariton ballistic-to-diffusive turnover in the linear response regime, these atomistic simulations reveal a nonlinear freezing mechanism of vibrational polariton transport; that is, under strong pumping of the upper polariton, the initially ballistically propagating upper polariton completely freezes and localizes energy to molecules at specific locations. This mechanism originates from pump-induced breaking of the in-plane translation symmetry: significant molecular excitations at the pulse hot spot broaden the polariton density of states, thus funneling population to the k∥ → 0 band edge with vanishing group velocities. Overall, our work provides numerical insights for exploring novel mechanisms of vibrational polaritons.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nonlinear Freezing of Vibrational Polariton Transport via Mesoscale Simulations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03367&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Bridging-Carbon Reconstruction of π Conjugation Enables Bright Blue Emission from Crystalline Carbon Nitride Quantum Dots</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03848</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03848</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Triclinic crystalline carbon nitride (CCN) quantum dots are promising metal-free blue emitters, but their luminescence is limited by residual alkali ions, framework defects, and surface-mediated nonradiative decay. Here we develop a bridging-carbon reconstruction strategy to produce few-layer CCN quantum dots (C-CCNQDs) through reactive-salt polymerization followed by alkali-assisted solvothermal exfoliation. Bridging-carbon units connect adjacent heptazine motifs and extend π-electron delocalization, while amino and hydroxyl groups formed during exfoliation passivate surface dangling bonds. The combined framework reconstruction and surface passivation redirect excited-state relaxation from defect-dominated pathways toward framework-centered radiative recombination. The resulting C-CCNQDs exhibit sky-blue emission at 470 nm, a photoluminescence quantum yield of 65.4%, and substantially enhanced photostability. As a proof of concept, C-CCNQD light-emitting diodes show spectrally stable electroluminescence at 470 nm with a maximum external quantum efficiency of 1.47%. These findings establish atomic reconstruction of π-conjugated carbon nitride frameworks as a route to bright, metal-free blue-emitting quantum dots.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Bridging-Carbon Reconstruction of π Conjugation Enables Bright Blue Emission from Crystalline Carbon Nitride Quantum Dots&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03848&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03848"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Imaging Nanoscale Kirkendall Effect on Oxidation Kinetics of Mg and MgH2 Particles by &lt;i&gt;in Situ&lt;/i&gt; TEM</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02359</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02359</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Understanding how Mg and MgH2 nanoparticles evolve under reactive and nonreactive environments is critical for hydrogen storage, energetic materials, and other functional applications where the native oxide shell governs mass transport and stability. Prior in situ studies were limited to subatmospheric O2 or high vacuum, where evaporation obscures oxidation-driven hollowing. Here, we use in situ transmission electron microscopy to compare the thermal evolution of Mg and Mg/MgH2 nanoparticles under atmospheric O2, atmospheric Ar, and a high vacuum. Under O2, both systems showed an inward oxide growth, a passivation window, and subsequent Kirkendall void formation via outward Mg transport. The vacuum promoted pressure-assisted rupture and sublimation, while Ar favored liquid-phase Mg extrusion. Relative to Mg, hydrogenated Mg exhibited a higher outward Mg flux and faster oxidation at lower temperature, indicating that hydrogenation enhances transport and accelerates oxidation. These results establish an atmospheric-pressure stability map, clarifying how oxygen activity, pressure, and hydrogenation govern oxidation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Imaging Nanoscale Kirkendall Effect on Oxidation Kinetics of Mg and MgH2 Particles by &amp;lt;i&amp;gt;in Situ&amp;lt;/i&amp;gt; TEM&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02359&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02359"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Heteroengineered Co3O4/CeO2 with Accelerated Electron Transfer and Enhanced Stability for Chlorine-Involved Anodic Reactions</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03343</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03343</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Electrosynthesis of epoxides from alkenes represents a safe and sustainable strategy to replace conventional synthetic methods that require harsh conditions. However, its practical industrial application is greatly restricted by low current density, competitive oxygen evolution reaction (OER), and poor electrocatalyst stability. Herein, we constructed a Co3O4/CeO2 heterojunction electrocatalyst with enhanced activity and stability toward chlorine (Cl)-involved anodic reactions. Spectroscopic and electrochemical characterizations combined with theoretical calculations reveal that strong electronic coupling at the heterointerface drives directional electron transfer from CeO2 to Co3O4, accelerating electron transport and facilitating Cl– activation. Moreover, the compressed Co–O bond of Co3O4/CeO2 enhances the stability and thus breaks the activity/stability tradeoff. Under practical conditions (100 mA cm–2), Co3O4/CeO2 not only realizes the gram-scale electrosynthesis of cyclohexene oxide with high Faradaic efficiency but also is suitable for other chlorination reactions. Our study provides a heterojunction-engineering strategy to promote the electrooxidation activity for Cl-involved anodic reactions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Heteroengineered Co3O4/CeO2 with Accelerated Electron Transfer and Enhanced Stability for Chlorine-Involved Anodic Reactions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03343&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03343"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Atomically Thin WS2 Nanomechanical Resonators with Geometry-Engineered Flexural Rigidity Control</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03123</link>
@@ -556,54 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03317&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03317"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Observation of Highly Efficient Electric-Quadrupole Second Harmonic Generation in a Dirac Semimetal</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02439</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02439</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Topological semimetals hold great promise for nonlinear optics (NLO). It is challenging to probe tilted Dirac fermion-driven intrinsic second harmonic generation (SHG) and topological band structure modulation of second-order nonlinearity in spatial inversion and time-reversal-symmetric nonmagnetic Dirac semimetals. Here, we identify NiTe2, featuring a type-II Dirac cone, as an ideal platform for investigating SHG in centrosymmetric crystals. Through comprehensive NLO measurements, we demonstrate that the highly efficient SHG emission in NiTe2 arises predominantly from bulk electric-quadrupole contribution. Under interband optical transition conditions, we quantify a giant effective nonlinear susceptibility |χEQ(3)q| ≈ 7.07 pm/V at 475 nm, which is an order of magnitude higher than that of commonly used NLO crystals. Furthermore, the striking spectral consistency between SHG and four-wave mixing (FWM) unambiguously identifies the shared interband excitation and radiation channels as the unified driving mechanism. Collectively, these findings pave the way for harnessing centrosymmetric topological semimetals in next-generation nonlinear optoelectronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Observation of Highly Efficient Electric-Quadrupole Second Harmonic Generation in a Dirac Semimetal&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02439&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02439"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Scorpion’s Slit Sensillum-Inspired Flexible Pressure-Position Sensor with Low Channel Consumption and High Localization Accuracy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02941</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02941</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Flexible pressure sensors have been widely adopted in fields including e-skin and wearable devices. Compared with single-mode pressure sensing, pressure-position sensing can further provide positional information, endowing the system with multidimensional sensing capabilities. This is usually achieved using multiple sensing units. However, numerous sensing units often cause excessive wiring, large data volumes, and high energy consumption. Here, inspired by the slit unit collaborative mechanism of scorpions, designed a flexible pressure-position sensor (FPPS). It consists of a pressure-sensing layer, which is a single conductive layer, and a pressure-positioning layer, which contains three conductive layers. With only four signal channels, the FPPS can identify nine positional regions, thereby significantly reducing data complexity. Based on outstanding perception capabilities, such as low zero-drift (0.2%), fast response time (124 ms), and excellent stability (&amp;amp;gt;14000), the FPPS is employed in digital input and control applications, demonstrating its potential in large-scale detection fields such as intelligent human–computer interaction.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Scorpion’s Slit Sensillum-Inspired Flexible Pressure-Position Sensor with Low Channel Consumption and High Localization Accuracy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02941&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02941"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Confined Predesolvation in a Yolk–Shell Metal–Organic Framework Interphase Enables Reversible Lithium-Metal Anodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03683</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03683</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Artificial interfaces for lithium-metal anodes typically regulate nucleation after Li+ desolvation, while the preceding solvation-to-interface transition remains poorly controlled. Herein, we show that a yolk–shell H-Fe3O4@ZIF-67 interphase can act as a confined predesolvation layer. The subnanometer apertures of ZIF-67 sterically constrain intact solvated Li+ complexes, forcing partial solvent removal before electron transfer takes place. Polar Fe–O/Co–N environments favor anion-derived solid electrolyte interphase (SEI) chemistry, while the internal void accommodates the deposited Li. These coupled effects lower the Li nucleation overpotential to 14.6 mV, decrease the apparent interfacial activation energy to 34.53 kJ mol–1, and increase the Li+ transference number to 0.60. Symmetric cells operate for over 2000 h. High-loading LiFePO4 full cells retain 132.6 mAh g–1 after 400 cycles at 1 C and deliver an average Coulombic efficiency of 99.88%. Confining predesolvation at the molecular scale thus provides an effective strategy for stabilizing reactive metal anodes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Confined Predesolvation in a Yolk–Shell Metal–Organic Framework Interphase Enables Reversible Lithium-Metal Anodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03683&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03683"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Lineage-Specific Mechanical Trajectories of Lipid Droplets during Late-Stage Adipocyte Differentiation</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01501</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01501</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Lipid droplets (LDs) are dynamic intracellular organelles that undergo extensive remodeling during adipocyte differentiation, yet how their mechanical properties evolve during late-stage maturation remains unexplored. Here, we apply Brillouin microscopy to map the viscoelastic properties of LDs in differentiating white (WAT) and brown (BAT) adipocytes over 34 days. LDs exhibit lineage-associated mechanical maturation characterized by distinct terminal states, elastic–dissipative relationships, and geometry–mechanics coupling. WAT droplets reach a higher mechanical end point, whereas BAT droplets remain in a lower viscoelastic regime and exhibit distinct temporal evolution of dissipative behavior. Notably, WAT transitions to a size-independent mechanical state, indicating decoupling of stiffness from geometric growth and a shift toward internal organization-dominated mechanics, while BAT maintains geometry–mechanics coupling. Across both lineages, Brillouin shift and line width remain strongly correlated. These findings establish LDs as dynamically evolving mechanical entities and uncover organelle-scale mechanics as a previously unrecognized dimension of adipocyte late-stage differentiation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Lineage-Specific Mechanical Trajectories of Lipid Droplets during Late-Stage Adipocyte Differentiation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01501&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01501"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

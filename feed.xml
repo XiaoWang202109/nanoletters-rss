@@ -5,7 +5,67 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 03:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:57:11 +0000</lastBuildDate>
+    <item>
+      <title>Spatiotemporal Programming via Asymmetric Dielectric Engineering for Nonvolatile 2D Optoelectronics</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03275</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03275</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ambipolar two-dimensional (2D) semiconductors integrated with floating-gate architectures offer a promising platform for nonvolatile, reconfigurable electronics. However, the switching between p–n and n–p junction polarities has conventionally required complex multigate designs, hindering the scalability and integration density. Here, we demonstrate a spatiotemporal programming strategy using a dual-floating-gate architecture with a symmetry-broken tunneling dielectric. An asymmetric dielectric stack creates distinct tunneling thresholds for two floating gates, enabling a single input gate to encode spatial doping profiles in the 2D channel via defined voltage pulse sequences. We achieve on-demand, nonvolatile, and reversible switching between p–n and n–p configurations with excellent retention and endurance. The reconfigurable homojunction serves as a multifunctional platform for logic encoding, rectification, photodetection, and in-sensor computing. This work establishes a design paradigm that replaces spatial input complexity with spatiotemporal programming, paving the way for high-density, multifunctional intelligent hardware.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spatiotemporal Programming via Asymmetric Dielectric Engineering for Nonvolatile 2D Optoelectronics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03275&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03275"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Amorphization-Mediated Si-I to Si-V Phase Transition and Reversible Amorphous Si-V Phase Memory in Silicon Nanoparticles</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02592</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02592</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract An experiment has shown that ∼10 nm Si nanoparticles undergo a Si–I (diamond cubic) to Si–V (simple hexagonal) phase transition under compression, in contrast to the Si–I to Si–II (tetragonal) transition observed in bulk silicon. However, the atomistic mechanism underlying this size-dependent transition pathway remains unclear. Here, we employ molecular dynamics simulations with a machine learning interatomic potential to reveal a stress triaxiality-driven, two-step Si–I to Si–V transition pathway in a spherical Si nanoparticle subjected to an idealized triaxial contact loading model. An intermediate amorphous phase nucleates at the nanoparticle surface and propagates inward around the Si–I core in regions of low stress triaxiality dominated by shear. Within this amorphous shell, Si–V recrystallizes at locations with increased stress triaxiality and hydrostatic pressure. Upon unloading, the Si–V structure transforms into an amorphous state. A subsequent loading–unloading cycle applied to this amorphous nanoparticle reveals a reversible amorphous-to-Si–V transformation, demonstrating a nanoscale phase memory effect.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Amorphization-Mediated Si-I to Si-V Phase Transition and Reversible Amorphous Si-V Phase Memory in Silicon Nanoparticles&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02592&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02592"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Euler Topology in Superconducting Honeycomb Lattices</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02407</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02407</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Electronic bands in systems with space–time inversion (IST) symmetry can host nontrivial Euler topology. Here, we investigate the band topology of IST-symmetric superconducting honeycomb lattices and demonstrate that s-wave spin–singlet (SWSS) and f-wave spin–triplet (FWST) superconducting pairings give rise to valley-Euler and Euler superconductors, respectively. We find that Euler topology in both pairing states gives rise to mirror-symmetry-protected helical Andreev bound states at superconducting domain walls. Furthermore, we show that Euler topology in the FWST state induces non-Abelian braiding of Dirac nodes in momentum space when anisotropic hopping is introduced. Our work establishes band engineering combined with superconducting electronic instabilities as a natural route to realizing nontrivial Euler band topology and its domain-wall physics in Dirac materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Euler Topology in Superconducting Honeycomb Lattices&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02407&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02407"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Adaptive Cavity Control of Single-Photon Emission from Hexagonal Boron Nitride</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03060</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03060</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Atom-like defects in hexagonal boron nitride (hBN) are promising room-temperature quantum light sources, but their stochastic spatial positions and emitter-dependent transition energies have limited deterministic cavity coupling and active control of their emission dynamics. Here, we demonstrate the adaptive cavity control of quantum emission from individual hBN single-photon emitters at room temperature. Using tip-enhanced cavity spectroscopy, we spatially position a nanoscale optical cavity over selected emitters and spectrally match the cavity response to the excitation laser and emitter zero-phonon line. This adaptive spatio-spectral control enables selective enhancement of excitation and spontaneous emission pathways rather than simple photoluminescence amplification. By switching between excitation-dominated and emission-dominated coupling regimes, we reshape photon statistics, enhancing antibunching or inducing controlled bunching, depending on the cavity condition. These results establish adaptive cavity control as a strategy for engineering the brightness, lifetime, saturation behavior, and photon statistics in hBN quantum emitters.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Adaptive Cavity Control of Single-Photon Emission from Hexagonal Boron Nitride&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03060&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03060"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Amorphization and Pd Loading Synergistically Enable Bulk-to-Surface Charge Carrier Separation for Efficient Photocatalytic H2O2 Production</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02936</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02936</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract A major challenge in artificial photosynthesis for H2O2 production arises from rapid charge recombination and non-selective side reactions. Herein, we design a Pd-decorated amorphous ZnCdS (Pd/AZCS) photocatalyst. Amorphization promotes bulk charge separation, while Pd loading enhances interfacial transfer, synergistically improving H2O2 selectivity and yield. Theoretical calculations reveal that amorphization and Pd loading synergistically enhance the dipole moment and modulate the electronic structure, resulting in significantly improved O2 adsorption capability. Spectroscopic analyses further confirm enhanced charge carrier separation and the formation of key intermediates in the oxygen reduction reaction (ORR). Consequently, the optimized Pd/AZCS achieves an impressive H2O2 evolution rate of 120.6 μmol g–1 min–1 in pure water without any sacrificial agents, representing a nearly 13-fold enhancement over pristine ZnCdS (ZCS). This work provides a pivotal strategy for efficient and durable photocatalytic H2O2 synthesis, highlighting its substantial promise for industrial-scale renewable energy applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Amorphization and Pd Loading Synergistically Enable Bulk-to-Surface Charge Carrier Separation for Efficient Photocatalytic H2O2 Production&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02936&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02936"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Nonlinear Freezing of Vibrational Polariton Transport via Mesoscale Simulations</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03367</link>
@@ -115,18 +175,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
@@ -136,6 +184,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -475,18 +535,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
@@ -496,6 +544,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02855</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02855</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Preeclampsia originates in placental dysfunction yet it is detected only after maternal hypertension and proteinuria or other organ damage emerge, by which point disease-modifying interventions are not available, and delivery of the baby and placenta remains the only cure. Nanotechnology offers a route to reduce this diagnostic-therapeutic latency. Nanostructured biosensors and liquid biopsy platforms detect placental proteins, cell-free RNA/DNA, and extracellular vesicles at femtomolar concentrations and in a multiplex manner, enabling earlier risk stratification when integrated with machine-learning models. In parallel, placenta-targeted lipid-, peptide-, polymeric-, dendrimeric-, and small extracellular vesicle-based nanocarriers deliver angiogenic mRNA, antiangiogenic siRNA, antioxidants, and immunomodulators selectively to the trophoblast cells while limiting fetal exposure. Placenta-on-a-chip platforms and ex vivo placental perfusion models provide human-relevant test beds for these systems. We critically appraise these advances, examine the safety-by-design, manufacturing bottlenecks, and regulatory constraints unique to obstetric nanomedicine, and outline the convergence of theranostics and digital health that could move preeclampsia care from reactive symptom management toward proactive, placenta-targeted monitoring and therapy.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanotechnology-Driven Precision Diagnostics and Therapeutics for Preeclampsia&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02855&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02855"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -544,66 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03253&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Layer-Controlled Intermolecular Coupling and Many-Body Effects in C60 Films</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02272</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02272</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Crystalline C60 is a molecular solid whose electronic properties emerge from the interplay of intermolecular hopping, electron correlations, and electron–vibration coupling. Unlike moiré van der Waals heterostructures, where the interaction strength is commonly tuned by twist angle, molecular materials offer a complementary route in which the layer number, molecular orientation, and substrate registry provide experimentally accessible control parameters. Here we present a systematic thickness-dependent angle-resolved photoemission study of C60 films, spanning the monolayer to the bulk limit. The HOMO-derived band exhibits a nonmonotonic evolution: the intermediate-thickness film shows a larger bandwidth, a reduced effective mass, and a pronounced gap-like and sub-band features. The experimental trends, together with Holstein-model simulations, point to strengthened effective intermolecular electronic coupling and enhanced electron–phonon-induced spectral renormalization in the intermediate-thickness regime. These results identify a dimensional crossover in C60 films and establish the layer number as an effective knob for engineering electronic structure and many-body interactions in molecular thin films.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-Controlled Intermolecular Coupling and Many-Body Effects in C60 Films&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02272&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Surface Reconstruction-Driven Insulating Behavior in Metallic Charge-Density-Wave 1T-TaSe2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02230</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02230</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Bulk 1T-TaSe2 is metallic, yet its surface consistently exhibits an insulating gap─a dichotomy long attributed to a surface Mott insulator driven by enhanced electron correlations. Using density functional theory calculations, we show that this insulating surface instead originates from a charge-density-wave (CDW) stacking reconstruction. Whereas the bulk stabilizes a single-layer CDW stacking that supports metallic transport, the surface energetically favors a bilayer stacking in which interlayer hybridization of Ta 5dz2 orbitals opens a ∼0.4 eV gap─a band insulator requiring no on-site Coulomb repulsion. This reconstruction is the thermodynamic ground state for slab thicknesses from two to eight layers, and the calculated surface density of states quantitatively reproduces scanning tunneling spectra of both insulating and metallic domains. CDW surface reconstruction, rather than Mott physics, thus governs the surface electronic structure of 1T-TaSe2, providing a unified explanation for the observed coexistence of metallic and insulating domains.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Surface Reconstruction-Driven Insulating Behavior in Metallic Charge-Density-Wave 1T-TaSe2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02230&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02230"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Synergistic Disorder-Driven and Framework-Locking Mechanism Enabling High-Voltage Stability of Sodium-Ion Layered Oxide Cathodes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03314</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03314</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The high-voltage stability of P2-type layered oxide cathodes for sodium-ion batteries is closely related to their intrinsic structural characteristics. However, complex phase transitions and structural degradation at high voltage lead to rapid capacity decay. Here, a synergistic Li/Nb co-doped P2-type layered cathode is developed. Li doping disrupts Na+/vacancy ordering and redirects the high-voltage phase-transition pathway from a deleterious P2→O2 transition toward a milder Z-like O/P intergrowth evolution. Nb incorporation preserves this pathway while further reinforcing the transition-metal coordination environment. This dual modification suppresses local structural distortion, alleviates lattice strain, and mitigates irreversible oxygen release. Consequently, Na0.67Ni0.21Li0.11Mn0.63Nb0.05O2 exhibits 93.1% capacity retention after 100 cycles at 2C within 2.0–4.3 V. This work elucidates how elemental co-doping regulates local coordination and structural evolution during charge and discharge, offering a strategy for stabilizing P2-type layered oxide cathodes under high-voltage operation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synergistic Disorder-Driven and Framework-Locking Mechanism Enabling High-Voltage Stability of Sodium-Ion Layered Oxide Cathodes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03314&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03314"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02786</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02786</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We demonstrate negative differential conductance (NDC), consistent with extreme band filling, in titanium trisulfide (TiS3) nanowire field-effect transistors (FETs) subject to ionic gating. Electronic-structure calculations connect the NDC to the narrow and nonparabolic nature of the conduction band states in TiS3. These exhibit inflection points at relatively low energies, which become accessible when ionic gating induces extreme carrier concentration (∼1020 cm–3). In contrast with the Gunn effect, which requires electron–phonon scattering to transfer electrons between conduction-band valleys to initiate NDC, the mechanism here derives solely from single-carrier, intraband dynamics. As such, the potential should exist to exploit its associated NDC in ultrafast (i.e., terahertz) electronic devices. Since the NDC ultimately results from the heavily d-orbital character of the conduction-band states of TiS3, this phenomenon need not be unique to this material. This should motivate future studies of other materials with similarly strong nonparabolicity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Negative Differential Conductance Due to Extreme Band-Filling in Ionically Gated TiS3 Nanowires&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02786&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02786"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Serum Lipids Remodel the Biomolecular Corona to Direct Nanoparticle Biodistribution</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01852</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01852</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Biomolecular corona (BC) governs nanoparticle (NP) interactions with biological systems. While the role of proteins in BC regulation is well recognized, the contribution of serum lipids remains largely unexplored. Here, silica magnetic NPs were incubated with normal or hyperlipidemic serum to form BC@NPs, followed by lipidomic and proteomic characterization using LC-MS/MS. Their cellular uptake, biodistribution, and hepatic clearance were subsequently evaluated. Hyperlipidemia profoundly remodeled BC composition, leading to reduced overall protein adsorption while enrichment of cholesterol, triglycerides, and apolipoproteins, particularly APOB, indicative competitive lipid-protein adsorption at the NP surface. This disease-associated BC remodeling enhanced macrophage uptake through LDL receptor–mediated endocytosis and lipid raft-dependent pathways, thereby leading to increased hepatic accumulation via facilitating the uptake by Kupffer cells and hepatocytes. By elucidating the interplay between lipids and proteins in BC formation, this work reveals a previously underappreciated role of serum lipids in regulating NP-bio interactions, especially in lipid-associated diseases.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Serum Lipids Remodel the Biomolecular Corona to Direct Nanoparticle Biodistribution&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01852&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01852"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

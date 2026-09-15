@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:09:16 +0000</lastBuildDate>
     <item>
       <title>Nonlinear Freezing of Vibrational Polariton Transport via Mesoscale Simulations</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03367</link>
@@ -115,18 +115,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
@@ -136,6 +124,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -223,18 +223,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02841</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Solid-state Na–S batteries offer high energy density, yet their practicality deteriorates at low N/P ratios because limited Na inventory cannot compensate for irreversible loss. Under lean-Na conditions, the key issue is whether the restricted Na reservoir remains reversibly accessible during deep cycling. Here, we introduce a utilization-corrected N/P descriptor, φ = n/α, where n is the N/P ratio and α is the initial deep-stripping utilization. This descriptor corrects the apparent N/P advantage by accounting for incomplete Na utilization; as α decreases, φ exceeds n, while φ approaching 1 represents the ideal lean-anode limit. A self-generated 3D Na–Na3P/Cu foam anode is constructed via molten-Na conversion. The in-situ-formed Na3P enhances sodiophilicity, Na+ transport, and interfacial stability during deep stripping. The anode achieves 94% stripping utilization with φ = 1.28, sustains over 50 cycles at 90% depth of discharge, and delivers 976 mAh g–1 at 60 °C and N/P = 1.2.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Issue Editorial Masthead</title>
       <link>https://doi.org/10.1021/nlv026i035_2127241</link>
       <guid isPermaLink="false">10.1021/nlv026i035_2127241</guid>
@@ -244,6 +232,18 @@
 &lt;p&gt;DOI: 10.1021/nlv026i035_2127241&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i035_2127241"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02841</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Solid-state Na–S batteries offer high energy density, yet their practicality deteriorates at low N/P ratios because limited Na inventory cannot compensate for irreversible loss. Under lean-Na conditions, the key issue is whether the restricted Na reservoir remains reversibly accessible during deep cycling. Here, we introduce a utilization-corrected N/P descriptor, φ = n/α, where n is the N/P ratio and α is the initial deep-stripping utilization. This descriptor corrects the apparent N/P advantage by accounting for incomplete Na utilization; as α decreases, φ exceeds n, while φ approaching 1 represents the ideal lean-anode limit. A self-generated 3D Na–Na3P/Cu foam anode is constructed via molten-Na conversion. The in-situ-formed Na3P enhances sodiophilicity, Na+ transport, and interfacial stability during deep stripping. The anode achieves 94% stripping utilization with φ = 1.28, sustains over 50 cycles at 90% depth of discharge, and delivers 976 mAh g–1 at 60 °C and N/P = 1.2.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Rational Quantification of Deep Sodium Reversibility with a Utilization-Corrected N/P Descriptor toward Low-N/P-Ratio Solid-State Na–S Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

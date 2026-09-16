@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:48:22 +0000</lastBuildDate>
     <item>
       <title>Nonlocal Electrostatic Origin of Schottky-Barrier Variability in 2D Contacts</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03959</link>
@@ -52,6 +52,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01707&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01707"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>A Firing-Based Ionizing Radiation-Sensitive Transistor Operating through a Single-Transistor Latch</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02964</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02964</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Neuromorphic sensory systems require artificial sensory neurons that directly convert environmental stimuli into spike-based signals for efficient interfacing with spiking neural networks (SNNs). Here, we demonstrate a firing-based ionizing radiation-sensitive transistor (FIRST) that detects ionizing radiation through a single-transistor latch (STL). FIRST is implemented using a single MOSFET with a floating body on silicon-on-insulator wafers and generates spike trains through repetitive charging–discharging dynamics. Under gamma-ray irradiation, oxide-trapped charges in the front gate oxide and the back buried oxide modulate the positive-feedback mechanism of STL operation. Consequently, the latch-up voltage decreases with increasing total ionizing dose, resulting in a higher firing frequency. The generated spikes directly encode radiation information without additional sensing or analog front-end circuits. By integrating radiation sensing and spike encoding within a single transistor, the FIRST enables an artificial sensory neuron for ionizing radiation. This work provides a foundation for event-driven radiation monitoring and SNN-compatible sensing in high-radiation environments.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A Firing-Based Ionizing Radiation-Sensitive Transistor Operating through a Single-Transistor Latch&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02964&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02964"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Machine Learning-Driven Phase Field Numerical Analysis for a Comprehensive Theoretical Framework of Local Electrochemical Environment and Operating Conditions Effects on Dendrite Evolution Mechanisms</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03313</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03313</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Unraveling the intricate interplay between the local electrochemical environment and operating conditions (LEEO) at the mesoscale is fundamental for the rational design of dendrite-free electrolytes. Herein, we quantitatively decouple the effects of diffusion and electromigration on dendrite evolution by using a phase-field model. Elevated voltages or current densities destabilize ion migration, exacerbating dendritic branching, while unexpectedly optimizing stripping efficiency. Conversely, high diffusion coefficients facilitate lateral ion replenishment, whereas superior ionic conductivity ensures rapid and uniform electromigration; their synergy effectively suppresses tip growth and regulates the lateral deposition. Moreover, Gaussian process regression establishes a robust predictive mapping between the LEEO and Coulombic efficiency (CE). This integrated mechanistic framework offers a reliable platform for screening electrolyte materials toward stable Li metal anodes.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Machine Learning-Driven Phase Field Numerical Analysis for a Comprehensive Theoretical Framework of Local Electrochemical Environment and Operating Conditions Effects on Dendrite Evolution Mechanisms&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03313&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03313"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -331,18 +355,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
@@ -352,6 +364,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03819&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03819"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tuning the Magnetic Properties of Kitaev Materials via the Antiferromagnetic Proximity Effect: Novel Phases and Application to an &lt;i&gt;α&lt;/i&gt; -RuCl3/MnPS3 Bilayer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03321</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03321</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract In recent years, the increasing level of control over van der Waals (vdW) heterostructures has opened new routes to tune the properties of quantum materials. Motivated by these developments, we examine the potential consequences of interfacing a Kitaev honeycomb magnet, such as α-RuCl3, with a nearly lattice-matched vdW antiferromagnet. By combining perturbation theory, exact diagonalization, and a classical energy-minimization method, we show that an effective staggered magnetic field originating from the vdW antiferromagnet can drive a monolayer of a Kitaev material into various novel phases, including an antichiral Kitaev spin liquid, a nonmagnetic nematic phase, and different types of skyrmion crystals. We then apply first-principles simulations to assess the prospect of concretely realizing this setup in a heterobilayer of α-RuCl3 and the easy-axis antiferromagnet MnPS3.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tuning the Magnetic Properties of Kitaev Materials via the Antiferromagnetic Proximity Effect: Novel Phases and Application to an &amp;lt;i&amp;gt;α&amp;lt;/i&amp;gt; -RuCl3/MnPS3 Bilayer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03321&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03321"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Strong Nanomechanical Duffing Nonlinearity and Interactions Induced through Cavity Optomechanics</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02784</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02784</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Nonlinearity is a key resource in both classical and quantum signal processing. Nonlinear nanomechanical elements enable applications from sensing to computing, while networks of nonlinear or nonlinearly coupled resonators offer promising platforms for simulating complex dynamics. Here, we experimentally demonstrate an approach to realizing strong mechanical nonlinearity in nanomechanical resonators, which is fully controlled through optical laser drives. The mechanism exploits the intrinsic nonlinearity of the radiation pressure interaction in a cavity optomechanical system, giving rise to a nonlinear optical spring effect. The resulting Duffing nonlinearity is conveniently tunable in strength via spring laser power and in sign via detuning. Moreover, we demonstrate that the nonlinear optical spring mediates effective interactions between mechanical modes coupled to a common cavity, inducing tunable nonlinear interactions between them that impact the spectral response and dynamics. These results establish cavity optomechanics as a versatile and in situ reconfigurable platform for engineering nonlinear dynamics in resonators and networks.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Strong Nanomechanical Duffing Nonlinearity and Interactions Induced through Cavity Optomechanics&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02784&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02784"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

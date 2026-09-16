@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:46:06 +0000</lastBuildDate>
+    <item>
+      <title>Nonlocal Electrostatic Origin of Schottky-Barrier Variability in 2D Contacts</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03959</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03959</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Electrical contacts often limit the performance of atomically thin semiconductor devices. The Schottky barrier height (SBH) is conventionally treated as a local interface property, yet reported values for the same metal/2D-semiconductor contact vary by hundreds of meV. Here we show that, in top contacts, the effective SBH exhibits a pronounced nonlocal electrostatic dependence on defects near the contact edge, beyond the conventional local interface framework. A nonlocal electrostatic model, supported by density-functional-theory-based transport calculations for Ti–MoS2 and Au–MoS2, captures the large, metal-dependent variations in SBH as a function of defect position relative to the contact edge. These results identify edge-mediated nonlocal electrostatics as a mechanism that can contribute substantially to experimentally extracted SBH variability. We also show that edge-proximal perturbations can either raise or lower the barrier, providing testable routes for modifying carrier injection in 2D contacts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nonlocal Electrostatic Origin of Schottky-Barrier Variability in 2D Contacts&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03959&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03959"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Tuning Upconversion through Ho3+/Nd3+ Co-sensitized Cascade Energy Transfer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03617</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03617</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Lanthanide-doped upconversion nanocrystals (UCNCs) have attracted significant interest, driven by their emerging applications in photonics and anticounterfeiting. However, conventional UCNCs are excited by 808, 980, or 1540 nm, and there remains a gap within the 808–980 nm region. Here, we present a conceptual design for an energy-migratory Nd sublattice in Ho-sensitized multilayer core–shell UCNCs, enabling UC luminescence from a broad range of lanthanide ions under 897 nm excitation. This excitation wavelength is enabled by resonant transitions within Ho3+ and Nd3+, serving as an intermediate “buffer” layer to bridge the energy mismatch between Ho3+5F5 and Yb3+2F5/2 levels. Transient absorption measurements provide direct evidence for the energy transfer pathways at the Ho3+/Nd3+ interface. Moreover, optimizing the interlayer thickness enhances cascaded energy transfer and UC emission under 897 nm excitation. This work expands the available excitation wavelength range of UCNCs and opens new opportunities for information security.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Tuning Upconversion through Ho3+/Nd3+ Co-sensitized Cascade Energy Transfer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03617&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03617"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Design Strategies of Cu-Based Tandem Catalysts for Efficient Electrochemical CO2 Reduction to C2+ Products</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03203</link>
@@ -259,18 +283,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
@@ -280,6 +292,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03692&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03692"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>The Interfacial Proton-Transfer Pathway Boosted Acidic Oxygen Evolution</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02937</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02937</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Developing efficient and durable acidic oxygen evolution reaction (OER) catalysts for the proton exchange membrane water electrolyzer (PEMWE) is made challenging by sluggish proton transfer. Here, we engineer a fluorinated carbon-coated Co3O4 (F/C–Co3O4) interface based on a “fluorinated-moiety-clothed” concept to promote both deprotonation and interfacial proton transport. Operando spectroscopy and density functional theory calculations indicate that a fluorine species deprotonates OER intermediates through strong electronegative interactions, lowering the free energy barrier by 0.43 eV. More importantly, the released protons are rapidly transported through a continuous hydrogen bond network formed between the F/C and electrolyte, thereby accelerating proton migration while suppressing acid-induced corrosion of Co3O4. As a result, F/C–Co3O4 shows an exceptionally low overpotential of 360 mV at 10 mA cm–2 and remains stable for 170 h in 0.5 M H2SO4. This work presents a molecular strategy for engineering proton-transfer pathways, offering insights into simultaneously achieving high activity and acid stability in non-precious metal OER catalysts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;The Interfacial Proton-Transfer Pathway Boosted Acidic Oxygen Evolution&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02937&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02937"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Defect-Mediated Oxygen Vacancy Engineering of CeO2 Unlocks Fast V2+/V3+ Kinetics for Vanadium Redox Flow Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02931</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02931</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Vanadium redox flow batteries (VRFBs) are promising for large-scale energy storage, yet their high-power capability is hindered by sluggish V2+/V3+ redox kinetics at the negative electrode. While CeO2-decorated graphite felts are widely investigated, most lack precise oxygen vacancy tuning and atomic-level mechanistic insights. Here, we fabricate a defect-engineered CeO2/graphite felt electrode with precisely regulated oxygen vacancies via citric acid chelation-mediated in situ growth. Structural characterizations verify maximized active sites and preserved efficient mass transport. Combined experiments and DFT calculations reveal that moderate oxygen vacancies narrow the d–p band center gap and optimize V–O adsorption to accelerate reaction kinetics. The optimized electrode achieves 79.1% energy efficiency at 300 mA cm–2, 66.4% at 500 mA cm–2, and 1500-cycle stability with 0.003% decay per cycle. This work provides a scalable strategy and fundamental insights for high-performance VRFB electrodes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Defect-Mediated Oxygen Vacancy Engineering of CeO2 Unlocks Fast V2+/V3+ Kinetics for Vanadium Redox Flow Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02931&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02931"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

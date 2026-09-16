@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:05:51 +0000</lastBuildDate>
     <item>
       <title>Design Strategies of Cu-Based Tandem Catalysts for Efficient Electrochemical CO2 Reduction to C2+ Products</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03203</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03203&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03203"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Untangling the Janus Effects of Ligament Size in Metal Aerogels for Wearable Electrochemical Biosensing</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03625</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03625</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Wearable electrochemical biointerfaces require electrode architectures that reconcile high electrochemical activity and mechanical flexibility, yet the micro-/nanoscale origin of this trade-off remains unclear. Here, ligament size-tailored gold aerogels are employed as a model system to how microstructural scaling governs their coupled electrochemical-mechanical behavior. Smaller ligament sizes increase surface area, accelerate charge transfer, and enhance bioelectrocatalytic activity, but they promote fracture and signal degradation under repeated deformation. In contrast, larger ligaments better preserve network continuity and conductive pathways at the expense of sensitivity. In situ scanning electron microscopy combined with molecular dynamics simulations identifies the diameter-dependent fracture strain of nanowires as a key descriptor linking nanoscale mechanics to macroscopic electrode stability. Guided by this mechanistic relationship, an intermediate ligament size achieves an optimal electrochemical activity-mechanical resilience balance, enabling deformation-stable sweat glucose monitoring with microfluidic sampling and wireless readout. This work offers a structural design guideline for high-performance wearable biosensing systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Untangling the Janus Effects of Ligament Size in Metal Aerogels for Wearable Electrochemical Biosensing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03625&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03625"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -88,6 +100,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03219&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03219"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Dipolar Excitonic Quantum Wires at Atomically Sharp Lateral Interfaces</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02624</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02624</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract One-dimensional (1D) quantum systems are a cornerstone of condensed matter physics. However, their realization in solids has traditionally relied on top-down methods, which are limited by structural disorder and coarse confinement. Here, we demonstrate a fundamentally new route to low-dimensional systems: the emergence of 1D quantum matter at the atomically sharp interface between monolayer semiconductors. Using lateral MoSe2–WSe2 heterostructures, we identify interfacial excitonic quasiparticles bound to the crystal junction. Photoluminescence spectroscopy resolves these excitons into a ladder of discrete states, establishing 1D confinement at length scales ≲3 nm. These excitons possess exceptionally large permanent in-plane electric dipole moments exceeding e × 2 nm, and exhibit micron-scale anisotropic diffusion confined to the interface. By introducing electrostatic doping, we demonstrate a collapse of the dipole moment and a 20-fold reduction in lifetime. By dynamically tuning wavefunctions within a single atomic monolayer, we open a scalable route toward engineering 1D quantum matter.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Dipolar Excitonic Quantum Wires at Atomically Sharp Lateral Interfaces&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02624&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02624"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02931&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02931"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Transition-Metal Incorporation Enables Reverse Saturable Absorption in Gold Nanoparticles</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02696</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02696</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Gold nanoparticles are renowned for intense localized surface plasmon resonances, featuring intense linear light extinction and low threshold saturable absorption, yet the reverse saturable absorption (RSA) in gold nanoparticles is typically limited to small clusters. Here, we show that alloying gold with iron or cobalt enables RSA at sizes readily achieved by standard nanoparticle synthesis methods. The size-dependent (5–34 nm) nonlinear optical response of colloidal bimetallic Au–Fe and Au–Co nanoalloys synthesized by laser ablation in liquid are investigated with open-aperture z-scan measurements at 532 nm and compared with monometallic Au nanoparticles. While pure Au exhibits no RSA, Au–Fe and Au–Co nanoalloys display RSA at larger sizes with remarkable nonlinear absorption cross sections up to 1012 GM. This behavior is attributed to alloy-induced transitions involving virtually bound states near the Fermi energy, providing a practical route to engineer nonlinear optical responses.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Transition-Metal Incorporation Enables Reverse Saturable Absorption in Gold Nanoparticles&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02696&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02696"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02755</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02755</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Developing amphibious adhesives that bond strongly under dry, wet, and hydrothermal conditions remains challenging. Inspired by mussels and barnacles, we designed a bionic adhesive by introducing a catechol-grafted chain extender and an amino-terminated fluorinated polyimide chain extender to polyurethane. Catechol groups strengthen interfacial anchoring, while fluorinated polyimide segments induce hydrophobic microphase separation, displace interfacial water, and improve thermal stability. Tuning the fluorinated polyimide molecular weight optimized the phase structure and adhesion. The optimal PU1.4 showed a tensile strength of 62 MPa and a toughness of 320 MJ·m–3. It achieved 8.2 MPa lap-shear strength on Fe and retained &amp;amp;gt;85% adhesion at 100 °C. PU1.4 also delivered 7.3 MPa wet adhesion and 3.8 MPa underwater adhesion on Fe, while maintaining &amp;amp;gt;90% strength after 10 rebonding cycles and &amp;amp;gt;92% after 5 recycling cycles. This study offers a molecular design strategy for multifunctional amphibious adhesives in underwater repair, waterproof sealing, and harsh hydrothermal bonding.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;An Amphibious Adhesive with Excellent Underwater Adhesion Enabled by Hydrophobic Microphase-Separation Reinforcement&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02755&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

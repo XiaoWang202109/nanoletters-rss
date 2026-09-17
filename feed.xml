@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:07:50 +0000</lastBuildDate>
     <item>
       <title>Aromatic Molecular Emitters in a Hexagonal Boron Nitride Stack</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01870</link>
@@ -31,6 +31,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Iontronic Triboelectric Sensing for Adaptive Robotic Perception before and during Contact</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03434</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03434</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Adaptive robotic manipulation requires sensing systems capable of both anticipating contact and resolving haptic interactions. Existing triboelectric sensors operate through electron transport alone and are intrinsically limited to contact-triggered signal generation, preventing unified tele-perception and haptic perception. Here we introduce an iontronic triboelectric sensor (ITS) that exploits coupled ionic and electronic carrier transport to stabilize triboelectric charge generation while extending electrostatic perception beyond physical contact. Based on a PVDF-ionic liquid-TiO2 composite dielectric with optimized surface microstructuring, the ITS enables haptic pressure sensing over 0–70 kPa in the contact-separation mode and human-target tele-perception up to 1.1 m in the single-electrode mode. The same 1D-CNN is independently applied, achieving 91.3% accuracy for material pre-recognition before contact and 90.28% accuracy for material recognition during contact. Integrated with a robotic hand, the ITS enables closed-loop tele-perception–haptic perception–action feedback for adaptive grasping, providing a self-powered multimodal platform for embodied intelligence and autonomous robotics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Iontronic Triboelectric Sensing for Adaptive Robotic Perception before and during Contact&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03434&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03434"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>&lt;i&gt;GCLC&lt;/i&gt; Deficiency Enhances Cellular Uptake of BNCT Agents via Oxidative Stress-Induced Macropinocytosis</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01862</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c01862</guid>
@@ -43,6 +55,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Polarization-Selective On-Chip Orbital Angular Momentum Photon Sources Enabled by Nanodiamond Emitters in Metasurface-Decorated Waveguides</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03327</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03327</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Encoding light with orbital angular momentum (OAM) provides additional photonic degrees of freedom for optical communications, structured-light engineering, and high-dimensional information processing. However, most OAM platforms rely on externally generated light, separating photon generation from OAM conversion. Here, we demonstrate source-integrated OAM photon generators combining nanodiamond-hosted nitrogen-vacancy emitters, dielectric waveguides, and metasurface-engineered holographic gratings in a chip-scale architecture. Emission from the embedded emitters is coupled into the fundamental waveguide mode, routed on chip, and converted into free-space vortex beams with prescribed helical phase fronts. A polarization-selective four-arm architecture further enables selective generation of OAM beam pairs with topological charges of ±1 and ±2 through control of excitation polarization. Experiments demonstrate high-purity OAM emission in agreement with simulations. This platform integrates photon generation, waveguide transport, and structured-light emission, providing a scalable route toward compact OAM sources and high-dimensional integrated photonic systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Polarization-Selective On-Chip Orbital Angular Momentum Photon Sources Enabled by Nanodiamond Emitters in Metasurface-Decorated Waveguides&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03327&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03327"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Atomic Defect-Mediated Charge Trapping Enables Multimodal Plasticity in van der Waals Heterostructures for In-Sensor Neuromorphic Vision</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03546</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03546</guid>
@@ -52,6 +76,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03546&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03546"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Endogenously Triboenhanced Heterogeneous Piezoelectric Nanofiber Membranes for Self-Powered Electroluminescent Pressure Sensing</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03418</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03418</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The innovation of sensing systems is increasingly evolving toward direct visualization, which demands real-time and high electromechanical output to drive reliable optical readout, yet most multimodal sensing systems rely on simple signal superposition. Here, an endogenous tribo-enhanced piezoelectric pressure sensing with visualization capability was developed by coupling a PAN/PVDF-HFP heterogeneous nanofiber membrane with a ZnS:Cu/PZT/Ecoflex electroluminescent layer. The nanofiber membrane features a skeleton-filling architecture in which PAN-rich and PVDF-HFP-rich domains create abundant heterogeneous interfaces for endogenous triboelectric charge generation. Incorporation of [BMIM][BF4] further promotes charge separation and transport, increasing the open-circuit voltage and short-circuit current to 8 V and 22.8 nA, respectively. The enhanced electromechanical output directly drives the electroluminescent layer, enabling the real-time visualization of handwriting, patterned indentation, and dynamic stretching. This work provides an interface engineering strategy for self-powered visual pressure sensing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Endogenously Triboenhanced Heterogeneous Piezoelectric Nanofiber Membranes for Self-Powered Electroluminescent Pressure Sensing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03418&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03418"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -415,18 +451,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
@@ -436,6 +460,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02846&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02846"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Bias-Driven Hot-Correlated Electrons in the Two-Dimensional Ferromagnet Fe4GeTe2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02700</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02700</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electronic correlations can strongly influence the properties of magnetic materials, yet their role in charge transport in devices under operating conditions remains largely unexplored. Here, we show that an applied bias voltage can drive a breakdown of quasiparticle coherence in the prototypical two-dimensional ferromagnet Fe4GeTe2. Using a first-principles framework combining density functional theory, dynamical mean-field theory, and nonequilibrium Green’s functions, we predict a voltage-induced transition from coherent, nearly half-metallic transport to a nonequilibrium regime dominated by strong inelastic scattering of charge carriers and collective electron–hole excitations. This emergent “hot-correlated electron” regime exhibits distinct spectral and transport signatures accessible in experiments. More generally, our results reveal how an applied bias reshapes electronic correlations in ferromagnets, modifying the current's spin-polarization and potentially impacting spintronic device performance.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Bias-Driven Hot-Correlated Electrons in the Two-Dimensional Ferromagnet Fe4GeTe2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02700&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02700"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultrafast Laser-Engineered Hierarchical Interface for Synergistic Radiative Cooling and Droplet Energy Harvesting</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03624</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03624</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Passive daytime radiative cooling provides an energy-free approach for thermal management, but achieving multifunctional operation under realistic outdoor conditions remains challenging, because optical regulation, surface wetting, and energy conversion are typically realized with separate material components. Here, we develop a femtosecond laser-engineered passive radiative cooler (FLA-PRC) based on a hierarchical PTFE/Ag/SiO2 interface that simultaneously regulates photons, water droplets, and interfacial charges. Orthogonal laser scanning creates periodic flat-topped micropyramid arrays decorated with secondary micro/nanostructures, enabling synergistic control of solar scattering, infrared emission, and superhydrophobicity. Combined spectral measurements and FDTD simulations reveal that the laser-induced hierarchical morphology enhances solar light redistribution through multiscale scattering while promoting mid-infrared coupling and emission through increased optical interaction pathways. The Ag layer further integrates broadband solar reflection with electrostatic induction for droplet energy harvesting. This work establishes a deterministic laser-fabricated interface strategy for coordinating photonic, wetting, and electrical functions within a single-surface architecture.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Engineered Hierarchical Interface for Synergistic Radiative Cooling and Droplet Energy Harvesting&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03624&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03624"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/nlv026i035_2127240</link>
-      <guid isPermaLink="false">10.1021/nlv026i035_2127240</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i035_2127240</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Publication Information&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i035_2127240&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i035_2127240"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

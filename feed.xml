@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:09:42 +0000</lastBuildDate>
+    <item>
+      <title>Aromatic Molecular Emitters in a Hexagonal Boron Nitride Stack</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01870</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01870</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Single polycyclic aromatic hydrocarbon molecules embedded in organic matrices are excellent narrow line width quantum emitters. Extending this host–guest setting to van der Waals materials offers the opportunity to combine the preeminent properties of molecular emitters with access to the versatility of two-dimensional heterostructures. In this work, we incorporate perylene molecules into multilayered hexagonal boron nitride (hBN) stacks and observe gigahertz-narrow zero-phonon-line transitions at cryogenic temperatures. We unambiguously verify the origins of photon emission through vibronic spectra analysis. By combining hyperspectral localization measurements with quantum chemistry calculations, we examine the insertion mechanisms of perylene molecules in the stacks and conclude that pristine hBN layers tend to expel molecules from the stacks, while extended morphological defects, hydroxyl groups, and unpassivated boron and nitrogen atoms can assist to stabilize molecular bindings to hBN. Our work provides valuable insight for future work to deterministically integrate narrow line width molecular emitters into van der Waals devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Aromatic Molecular Emitters in a Hexagonal Boron Nitride Stack&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01870&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01870"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Atomic Defect-Mediated Charge Trapping Enables Multimodal Plasticity in van der Waals Heterostructures for In-Sensor Neuromorphic Vision</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03546</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03546</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Neuromorphic hardware that unifies sensing, memory, and learning at the device level remains challenging due to limited optoelectronic comodulation and rigid architectures. Here, we report a flexible, van der Waals (vdW)-integrated MoS2/hexagonal boron nitride (h-BN)/graphene memtransistor in which defect-mediated interfacial charge trapping enables gate-tunable, multimodal synaptic plasticity under combined optical and electrical stimuli. The device reproduces short- and long-term plasticity, multilevel optical memory, and Pavlovian associative learning via repeated optical–electrical stimulus pairing. It exhibits an on/off ratio exceeding 108, low-energy optical switching (138.6 pJ per event), and stable operation after 1000 bending cycles (&amp;amp;lt;1.4% variation). Implemented in a hybrid optoelectronic neural network, the device achieves 96.03% accuracy on the MNIST benchmark, closely approaching ideal software performance. These results establish defect-mediated charge trapping in vdW heterostructures as a scalable route to flexible, in-sensor neuromorphic vision, where perception, memory, and learning converge for next-generation adaptive sensing systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic Defect-Mediated Charge Trapping Enables Multimodal Plasticity in van der Waals Heterostructures for In-Sensor Neuromorphic Vision&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03546&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03546"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Nonlocal Electrostatic Origin of Schottky-Barrier Variability in 2D Contacts</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03959</link>
@@ -355,18 +379,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
@@ -376,6 +388,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01993&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01993"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Vortex Beam Lasing with Controllable Orbital Angular Momentum and Directivity from Laser-Fabricated Gear-Shaped Perovskite Microdisks</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02157</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02157</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Orbital angular momentum (OAM) of light provides a fundamental degree of freedom for advanced photonics, yet compact, chip-scale vortex sources remain elusive. Here, we demonstrate OAM emission from optically pumped halide perovskite MAPbBr3 microdisks featuring gear-shaped sidewall modulations realized via femtosecond laser patterning. A rotating multi-beam printing procedure, assisted by a spatial light modulator, achieves sub-10 nm precision in defining the azimuthal grating geometry. The resulting gear-shaped microdisks exhibit low-threshold (50–70 μJ/cm2) vertical lasing, emitting vortex beam superpositions with geometry-controlled directionality and predefined yet opposite topological charge ±l at precisely specified wavelengths. Modeling and back-focal-plane imaging confirm the designed emission characteristics. Leveraging this unique high-precision printing strategy, we introduce a symmetry-breaking cavity with non-uniform azimuthal grating, enabling angular splitting of OAM beams carrying opposite l. This work establishes laser nanopatterning as flexible, direct route to structured-light perovskite microlasers and lays the groundwork for on-chip OAM sources with reconfigurable helicity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Vortex Beam Lasing with Controllable Orbital Angular Momentum and Directivity from Laser-Fabricated Gear-Shaped Perovskite Microdisks&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02157&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02157"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ferroelectric Generation and Switching of the Hidden Altermagnetism in Parity-Time-Structured Multiferroic CuCrP2S6</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03819</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03819</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The electrical control of altermagnetic spin splitting represents a critical ability to engineer band landscapes for generating emergent magnetoelectric physics and spintronic applications. Previous efforts have mainly resorted to hypothetical ferroelectric–altermagnetic materials to integrate ferroelectricity and altermagnetism into one system. However, even with such integration, the even-parity nature of altermagnetic band structures usually impedes the realization of ferroelectric-switchable altermagnetism, as polarization switching is widely assumed to be a spatial parity transformation. Here, we report the ferroelectric-switchable altermagnetism in an experimentally accessible van der Waals crystal CuCrP2S6, whose ground state has long been deemed to be an antiferroelectric–antiferromagnet. Driven by parity-time (PT) symmetry breaking through metastable ferroelectricity, bulk CuCrP2S6 instead transitions to a d-wave altermagnet. Despite its breaking, the PT symmetry remains operative as a transformation associated with polarization switching, underpinning the ferroelectric-switchable altermagnetism in bulk CuCrP2S6. Our theoretical findings elucidate a general symmetry-engineering strategy for ferroelectric-switchable altermagnetism.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ferroelectric Generation and Switching of the Hidden Altermagnetism in Parity-Time-Structured Multiferroic CuCrP2S6&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03819&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03819"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

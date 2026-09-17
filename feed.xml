@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 03:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:52:42 +0000</lastBuildDate>
     <item>
       <title>Aromatic Molecular Emitters in a Hexagonal Boron Nitride Stack</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c01870</link>
@@ -19,6 +19,30 @@
 </content:encoded>
     </item>
     <item>
+      <title>Giant Ferroelectric Domain Wall Conductance in MoS2/PbTiO3 Heterostructure for High-Density Memory</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02965</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02965</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Domain wall (DW) electronics hold promise for high-density computing, but their implementation is limited by low read currents and high operating voltages in bulk ferroelectric oxides. Here, we present a monolayer molybdenum disulfide (MoS2)/PbTiO3 (PTO) van der Waals (vdW) heterostructure that overcomes these limitations. By integrating a monolayer MoS2 capping layer, we read out giant DW conductance with microampere (μA)-level currents, exceptional retention (&amp;amp;gt;360 h), and an ultralow reading turn-on voltage (∼0.36 V). This giant DW conductance is attributed to local electrostatic doping of the overlaying MoS2 by bound charges accumulated at the DWs, which drastically minimizes the interfacial Schottky barrier for enhanced electron transport. A “nanobubble” domain engineering strategy is further implemented upon these DW-induced conductive channels, yielding quasi-one-dimensional (quasi-1D) conductive states (∼20 nm in diameter) for high-density storage. These results establish a platform with nanometer-scale spatial conduction control, promising for next-generation ultrahigh density reconfigurable nanoelectronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Giant Ferroelectric Domain Wall Conductance in MoS2/PbTiO3 Heterostructure for High-Density Memory&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02965&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02965"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>&lt;i&gt;GCLC&lt;/i&gt; Deficiency Enhances Cellular Uptake of BNCT Agents via Oxidative Stress-Induced Macropinocytosis</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01862</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01862</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Boron neutron capture therapy (BNCT) is a promising targeted radiotherapy for osteosarcoma, offering selective tumor cytotoxicity and localized energy deposition, but its efficacy is limited by heterogeneous intratumoral boron distribution. Using a genome-wide CRISPR-Cas9 screen in U2OS osteosarcoma cells, we identified genetic regulators of boron uptake. GCLC deficiency markedly enhanced internalization of boron-containing agents. Mechanistically, GCLC loss depleted glutathione, triggered oxidative stress, and potentiated macropinocytosis, thereby boosting boron compound uptake. This effect was preferentially observed in tumor cells, as GCLC deficiency profoundly enhanced the uptake of boron delivery agents in tumor cells (such as U2OS and MDA-MB-231), far exceeding its impact on normal osteoblasts (HOB-SV40). In U2OS xenografts, GCLC silencing significantly enhanced preferential boron accumulation in tumors without altering normal tissue biodistribution. Our findings nominate GCLC as a druggable target to overcome boron delivery barriers in BNCT, providing a translatable strategy to improve efficacy for osteosarcoma, especially refractory cases.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;GCLC&amp;lt;/i&amp;gt; Deficiency Enhances Cellular Uptake of BNCT Agents via Oxidative Stress-Induced Macropinocytosis&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01862&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01862"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Atomic Defect-Mediated Charge Trapping Enables Multimodal Plasticity in van der Waals Heterostructures for In-Sensor Neuromorphic Vision</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03546</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03546</guid>
@@ -28,6 +52,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03546&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03546"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Photoinduced Linear Motion of Ferroelectric Domain Walls for Neuromorphic Pattern Recognition</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02212</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02212</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Linear switching of ferroelectric polarization is essential for achieving high precision, sensitivity, and efficiency in ferroelectric devices. However, electric fields inevitably introduce significant nonlinearity into the switching process. Light offers a contactless and low-power route to switch polarization, which has drawn growing research interest. Despite various proposed mechanisms for photoinduced polarization switching, the interpretations remain controversial. Here, we demonstrate that, in ferroelectric BaTiO3 films, light induces linear domain wall motion and a corresponding linear change in the polarization area. These linear and continuously tunable multi-states enable a neuromorphic device with markedly improved pattern recognition accuracy. By combining ferroelectric hysteresis loops, surface potential measurements, and band structure analysis, we elucidate the underlying mechanism: photogenerated charges are separated by the local built-in field arising from surface band bending, which enhances the overall imprint field and thereby promotes the switching of ferroelectric polarization.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Photoinduced Linear Motion of Ferroelectric Domain Walls for Neuromorphic Pattern Recognition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02212&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02212"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -379,18 +415,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
@@ -400,6 +424,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/nlv026i035_2127240&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i035_2127240"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Triple-Helical Assembly of Atomically Precise Silver Nanocluster-Assembled Material: A p-Type Semiconductor</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03006</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03006</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The construction of helical architectures from achiral building blocks remains a fundamental challenge in supramolecular and materials chemistry. We report the first triple-helical cluster-assembled material constructed entirely from achiral components via covalent coordination. Thiol-protected Ag12 nanoclusters are linked by a rigid 4,4′-bipyridine ligand to form a three-dimensional framework with a unique triple-helical topology. Structural analysis shows that the helicity arises solely from the spatial arrangement of cluster nodes and linkers, without chiral precursors or templates. The material exhibits p-type semiconducting behavior with a conductivity of ∼10–6 S/cm and hole mobility of ∼1.7 cm2/(V s), highlighting its potential for electronic and optoelectronic applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Triple-Helical Assembly of Atomically Precise Silver Nanocluster-Assembled Material: A p-Type Semiconductor&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03006&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03006"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Electronic Upconversion of Infrared Light via Plasmon-Induced Hot Thermal Carrier Transfer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02325</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02325</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The robust upconversion of infrared light would bypass its low photon energy, enabling efficient utilization. Here we employ hot thermal carriers produced through excitation of localized surface plasmon resonances in semiconductor nanocrystals to efficiently upconvert infrared photons. Transient absorption spectroscopy shows hot electron transfer from plasmonic tin-doped indium oxide (ITO) nanocrystals to semiconductor thin films, overcoming a 1.1 eV barrier via infrared photoexcitation at 0.56 eV. The rate of hot electron transfer is consistent with kinetic and power dependencies for hot thermal carriers and well described by Marcus Theory. Analysis reveals that the low, tailorable carrier concentration in ITO compared to metals enables this upconversion process. This mechanism facilitates electronic upconversion throughout the infrared without constraints imposed by absorption cross sections, phonon energies, or energetic barriers.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Electronic Upconversion of Infrared Light via Plasmon-Induced Hot Thermal Carrier Transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02325&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02325"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>&lt;i&gt;Ex Situ&lt;/i&gt; Luring Sterilization and Visual Tracking for Wound Healing Acceleration</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01993</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01993</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Conventional sterilization methods, such as advanced oxidation and cationic antimicrobial action, inevitably cause harm to host tissues because of their in situ attack mode. The residual bacterial debris further increases the risk of secondary infection. Additionally, the inability to track the sterilization process in real time hampers precise wound management. Herein, a hydrogel-based platform that performs ex situ luring and elimination of bacteria, integrated with real-time visual tracking of single bacteria, was established. Therein, a bacterial chemoattractant is embedded within a density functional theory optimized hydrogel framework. By employing a hydrogel-microfluidic device, a stable spatial gradient of chemical stimuli was established, enabling the visual monitoring of the 4D chemotactic movement of single bacteria. The results indicated that 56.4% of the bacteria are lured away within 4.5 min. 99.99% of the bacteria are killed, while the positively charged hydrogel removes the residual bacterial debris, minimizing the secondary infection risk and doubling the wound healing rate.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;Ex Situ&amp;lt;/i&amp;gt; Luring Sterilization and Visual Tracking for Wound Healing Acceleration&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01993&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01993"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

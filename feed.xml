@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:19:07 +0000</lastBuildDate>
+    <item>
+      <title>Chemically Synthesized Single-Crystalline Gold Flakes for Patternable van der Waals Contacts</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02189</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02189</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Unlocking the full potential of two-dimensional (2D) electronics demands patternable electrical contacts that simultaneously offer atomic flatness, high conductivity, and robust resistance against thermal and environmental degradation. Here, we demonstrate that chemically synthesized, single-crystalline gold flakes meet all these requirements. Notably, the gold flakes can be precisely patterned into desired geometries via cysteamine-assisted mild wet etching, distinguishing them from other 2D metallic materials. By integrating gold flakes into field effect transistors (FETs) with a monolayer MoS2 channel, we achieved a low Schottky barrier height of ∼23 meV. Furthermore, we revealed that their unique flexibility enabled conformal contacts on thick quasi-2D AuxPd1–xTe2 (x = 0.33) crystals with a thickness of hundreds of nanometers, facilitating the precise measurement of superconductivity in this quantum material. This work establishes single-crystalline gold flakes as ideal metallic 2D building blocks for advancing next-generation logic and quantum devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Chemically Synthesized Single-Crystalline Gold Flakes for Patternable van der Waals Contacts&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02189&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02759</link>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>One-Dimensional van der Waals Heterostructure Field-Effect Transistors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02908</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02908</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Single-walled carbon nanotubes (SWCNTs) are promising candidates for next-generation nanoelectronics, but their atomically thin geometry and large surface area make device performance highly susceptible to environmental degradation. Here, we fabricate field-effect transistors based on individual one-dimensional (1D) van der Waals heterostructures consisting of SWCNTs encapsulated by few-layer boron nitride nanotubes (BNNTs). We directly fabricate devices on the same individual nanotube with and without BNNT protection, enabling a reliable comparison of their device performances. Statistical analysis reveals that metallic SWCNTs exhibit enhanced output currents due to the excellent electrostatic screening of BNNTs, whereas semiconducting SWCNTs show reduced hysteresis through environmental isolation. Importantly, BNNTs act as a protective barrier against harsh environments, e.g., oxygen plasma etching, demonstrating their ability and potential to protect the channel during fabrication. This work suggests that coating SWCNTs with atomically smooth BNNT and forming a 1D vdW heterostructure could significantly enhance the electrical performance and environmental robustness.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;One-Dimensional van der Waals Heterostructure Field-Effect Transistors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02908&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02908"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Emergent Circularly Polarized Luminescence from Self-Assembled Chiral-Ligand-Functionalized CsPbBr3 Nanocrystals</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02634</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02634</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Chiral surface ligands can impart optical activity to all-inorganic perovskite nanocrystals, but how this affects chiroptical properties of their assemblies remains unclear. Here we show that self-assembly of CsPbBr3 nanocubes synthesized with a small amount of added chiral ligand N-benzylcinchonidinium bromide (BCD-Br) results in measurable circularly polarized luminescence (CPL). BCD-Br-treated nanocrystals show weak circular dichroism but no detectable CPL in colloidal dispersion. Upon assembly into CsPbBr3 and mixed halide superlattices, they exhibit CPL with a luminescence dissymmetry factor, glum, of (5 ± 2) × 10–3, whereas untreated controls remain near the noise level. Polarization-resolved transient absorption (TA) reveals an extended spin lifetime of hundreds of picoseconds in BCD-Br-treated nanocrystals, while linear-response time-dependent density functional theory (LR-TDDFT) calculations suggest that inter-nanocrystal coupling can enhance the chiroptical response. These results support the idea that ordered nanocrystal assembly can convert weak ligand-induced chirality into an emergent chiroptical response in perovskite nanocrystal solids.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Emergent Circularly Polarized Luminescence from Self-Assembled Chiral-Ligand-Functionalized CsPbBr3 Nanocrystals&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02634&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02634"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

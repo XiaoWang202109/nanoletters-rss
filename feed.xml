@@ -5,7 +5,43 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 02:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:28:00 +0000</lastBuildDate>
+    <item>
+      <title>Stacking Offset Significantly Enhances the Magnetic-Field Modulation of Charge Transfer Spin States in Isomeric Organic Crystals</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03825</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03825</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Organic functional crystals with specific responses to external stimuli have attracted increasing interest for applications in biomedicine, information encryption, and sensing technologies. Modulating the offset of intermolecular provides an effective strategy for designing such responsive materials. Herein, two organic charge transfer cocrystals with distinct π-π stacking arrangements are designed. A larger stacking offset weakens the exchange interaction between electron–hole pairs while enhancing electron–phonon coupling, thereby significantly amplifying the magnetic-field response of charge transfer spin states. Magnetic field dependent photoluminescence and dielectric constant are exhibited. This finding reveals the importance of π-π stacking arrangements in achieving external-field manipulation of spin states in organic cocrystals.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Stacking Offset Significantly Enhances the Magnetic-Field Modulation of Charge Transfer Spin States in Isomeric Organic Crystals&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03825&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03825"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>The Tradeoff behind Optimal 3-Fold (C,N)-Coordinated Single-Atom Catalysts</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02777</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02777</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Single-atom catalysts have emerged as a powerful class of catalytic materials, maximizing atom efficiency through isolated metal centers. However, their design inherently relies on a delicate balance between stability and catalytic performance. In this work, we investigate this tradeoff by systematically analyzing trends in formation, adsorption, and reaction energy at the catalyst surface for the partial hydrogenation of butadiene. Our results reveal clear opposite relationships between these features: increasing the number of nitrogen neighbors (Ndop) enhances stability, whereas lower Ndop favors catalytic activity. Adsorption energies are shown to scale with the product Zm × Ndop, where Zm is the atomic number of the isolated metal. They also exhibit a weaker linear dependence on the catalyst d-states and HOMO-LUMO gap of the adsorbate. By extending this physically grounded model across the periodic table, we provide a framework for the rational optimization of single-atom catalysts through dedicated scoring functions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;The Tradeoff behind Optimal 3-Fold (C,N)-Coordinated Single-Atom Catalysts&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02777&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02777"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Electrolyte-Gated IGZO Nanofiber Transistors with Ultrafast Switching and Long-Term Stability for Ultraflexible Logic Circuits</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03478</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03478</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metal oxide electrolyte-gated transistors (MO EGTs) enable low-voltage operation through electric-double-layer coupling, but combining fast switching, stability, and ultraflexible integration remains challenging. Here, we report electrospun amorphous indium–gallium–zinc oxide (IGZO) nanofiber EGTs with high specific-surface-area channels that facilitate electrolyte access and gate modulation. Optimized phosphate buffer solution (PBS)-gated devices exhibit an on/off ratio of ∼6.3 × 104, a hysteresis of ∼40.4 mV, and a saturation current of 0.24 mA, with turn-on/off times of 201/347 μs and a small-signal transconductance cutoff frequency of ∼26 kHz. An ion-gel electrolyte improves bias-stress tolerance and enables continuous switching over 6,000 s, with turn-on/off times of 610 μs/1.2 ms. Solid-state devices are further integrated into inverters, NOR gates, and NAND gates operating at 1 V, including implementations on ultrathin polyimide substrates. These results advance low-voltage ultraflexible oxide logic for wearable electronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Electrolyte-Gated IGZO Nanofiber Transistors with Ultrafast Switching and Long-Term Stability for Ultraflexible Logic Circuits&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03478&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03478"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Robust Exchange Bias in van der Waals Heterostructures of Topological Insulators and Metallic Ferromagnets</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03588</link>
@@ -511,18 +547,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
@@ -532,6 +556,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03649&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03649"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nanodiamond Sensing of Stray Fields during Domain Reversal</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03535</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03535</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Quantitative measurement of nanoscale stray magnetic fields during domain reversal is important for optimizing magnetic memory and logic devices. Yet, achieving high spatial resolution with minimally invasive probes remains challenging. Here we demonstrate nitrogen vacancy centers in nanodiamonds (NDs) as local sensors in a CoFeB strip. During magnetic-field-driven reversal, the ND sensors resolve three distinct local responses depending on their positions relative to the strip: a positive frequency jump at the edge, an unexpected negative jump just outside the strip, and a negligible change near the center. These contrasting signals are quantitatively explained by magnetostatic boundary fields from micromagnetic simulations. We further implement a fully constrained fitting procedure for optically detected magnetic resonance spectra, enabling robust field extraction even when resonances are partially resolved. Together, these results extend ND magnetometry to quantitatively characterize heterogeneous stray fields during magnetic domain reversal in thin films and spintronic devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanodiamond Sensing of Stray Fields during Domain Reversal&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03535&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03535"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Structure-Dependent Chemical Order Modification in Strained Alloy Nanoparticles</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03772</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03772</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Alloy nanoparticles (nanoalloys) exhibit tunable physicochemical properties that depend sensitively on atomic arrangement. While most theoretical studies consider nanoalloys in a vacuum, practical systems are typically supported, where strong cluster–substrate interactions can introduce significant lattice strain. Here, we investigate strain as a control parameter for chemical ordering in bimetallic nanoalloys using atomistic simulations. Imposing controlled strain through an implicit anchored interface, we probe the response of NiPt nanoparticles with distinct structural motifs. For truncated-octahedral particles, chemical ordering remains remarkably robust even under large strains, indicating that intrinsic thermodynamic preferences dominate. Conversely, icosahedral nanoparticles exhibit pronounced strain-induced chemical redistribution with a significant increase in surface Ni concentration under tensile strain, attributed to the combined effects of intrinsic geometric frustration and a high fraction of undercoordinated sites. Our results demonstrate that strain can selectively modulate chemical ordering in a structure-dependent manner, establishing a general framework for understanding strain-induced chemical ordering in nanoalloys.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Structure-Dependent Chemical Order Modification in Strained Alloy Nanoparticles&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03772&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03772"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Synergistic Electronic and Bifunctional Effects in Amorphous BiS &lt;i&gt;x&lt;/i&gt; -Decorated Porous Pt Nanorods for CO-Tolerant Methanol Oxidation</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03420</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03420</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The acidic methanol oxidation reaction (MOR) suffers from severe CO poisoning with conventional Pt-based catalysts. Introducing oxophilic species into Pt catalysts can mitigate this poisoning by promoting the oxidation of adsorbed CO via OH* generated on such species. However, rational construction of Pt–oxophilic heterojunctions is often hindered by their significant lattice mismatch. Here, amorphous BiSx-decorated porous Pt nanorods (a-BiSx/Pt NRs) are prepared through acid etching of Pt2Bi2/Pt NRs, which are templated by Bi2S3 nanorods. The resulting a-BiSx/Pt NRs exhibit a mass activity of 2.05 A mgPt–1 for acidic MOR, which is 12.8 times higher than that of commercial Pt/C (0.16 A mgPt–1). In situ infrared spectroscopy and density functional theory calculations reveal that the a-BiSx–Pt heterointerface synergistically weakens CO adsorption on Pt via electronic modification and promotes OH* generation through the bifunctional mechanism of oxophilic Bi sites, thereby facilitating the oxidative removal of CO intermediates and enhancing MOR performance.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synergistic Electronic and Bifunctional Effects in Amorphous BiS &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; -Decorated Porous Pt Nanorods for CO-Tolerant Methanol Oxidation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03420&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03420"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:43:55 +0000</lastBuildDate>
+    <item>
+      <title>MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02759</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02759</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Single-color fluorescence-based single-molecule techniques enable label-efficient probing of membrane-associated biomolecular dynamics. However, extracting reliable kinetic information is challenging due to signal heterogeneity, noise and the absence of reference channels. Here, we introduce MonoXtract (Single-color fluorescence Trajectory eXtraction and Analysis via Transformer networks), an end-to-end deep learning framework integrating particle tracking, trace extraction, and classification. Combining convolutional inductive bias with a Vision Transformer backbone, MonoXtract captures both fine-scale fluctuations and long-range dependencies, enabling robust state identification across temporal and noise scales. It achieves expert-level accuracy and generalizes well to diverse systems without retraining. Applied to host-defense peptide LL-37, MonoXtract uncovered a previously unrecognized cell-entry pathway that LL-37 transiently incorporates into and escapes from LL-37 oligomers in membranes, providing mechanistic insight into LL-37’s roles in antimicrobial defense and cancer biology. By delivering fast, unbiased, reproducible analysis, MonoXtract extends the analytical reach of intensity-based single-molecule techniques and accelerates complex biomolecular dynamics discoveries.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02759&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02759"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Stacking Offset Significantly Enhances the Magnetic-Field Modulation of Charge Transfer Spin States in Isomeric Organic Crystals</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03825</link>
@@ -547,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
@@ -568,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02634&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02634"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Unveiling Dynamic Structural Evolution Mechanism of Titanium Oxide Anode for High-Performance Sodium-Ion Capacitors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03649</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03649</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Anatase TiO2 derived rock-salt NaTiO2 has emerged as a superior anode material for efficient sodium ion storage, but the dynamic structural evolution mechanism has yet been fully revealed. Herein, based on comprehensive electrochemical analyses and in situ structural characterizations, an overall structural evolution mechanism is established. Specifically, upon repeated sodiation and desodiation, considerable sodium ions are irreversibly intercalated into the anatase TiO2, straightening initially distorted TiO6 octahedra and producing a cubic rock-salt NaTiO2. Notably, the in situ formed rock-salt NaTiO2 delivers an ultrahigh specific capacity of 256 mA h g–1 at 0.1 A g–1 and maintains a high value of 165 mA h g–1 even at 10 A g–1. When coupled with a graphene-based capacitive cathode, the as-built sodium-ion capacitor achieves a high energy density of 102 W h kg–1, a high power density of 6.8 kW kg–1, and a prolonged cycling stability of 40 000 cycles, achieving collaborative improvements in comprehensive performances.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Unveiling Dynamic Structural Evolution Mechanism of Titanium Oxide Anode for High-Performance Sodium-Ion Capacitors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03649&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03649"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

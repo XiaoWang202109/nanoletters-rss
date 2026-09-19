@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 02:54:59 +0000</lastBuildDate>
+    <item>
+      <title>Isotropic Steric Hindrance of Acyclic Cations Enables Thermally Robust Anion-Derived Interphase for High-Temperature Lithium Metal Batteries at 100 °C</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03582</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03582</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract High-temperature lithium metal batteries are critical for desert energy storage and deep-field exploration, yet the molecular-level understanding of how solvation structure and interphase evolution govern thermal safety remains elusive. Conventional carbonate electrolytes undergo reductive decomposition at the lithium metal anode, while cyclic ionic liquids, constrained by charge-localized, anisotropic cations, fail to regulate high-temperature interfacial chemistry. Herein, we propose an acyclic ionic liquid electrolyte based on the tributylmethylammonium (TBMA+) cation, whose flexible acyclic skeleton and uniformly delocalized charge impart isotropic steric hindrance. Theory and experiments prove that TBMA+ can reshape the solvation structure and build an anion-dominated solvation sheath. This leads to the formation of a compact, anion-derived inorganic-rich SEI at high temperatures, which effectively suppresses solvent decomposition and dendrite growth. This strategy enables Li|NCM90 cells to cycle stably from room temperature to 100 °C. This work establishes cation configuration–interfacial stability relationships, guiding electrolyte design for extreme-condition lithium metal batteries</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Isotropic Steric Hindrance of Acyclic Cations Enables Thermally Robust Anion-Derived Interphase for High-Temperature Lithium Metal Batteries at 100 °C&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03582&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03582"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Chemically Synthesized Single-Crystalline Gold Flakes for Patternable van der Waals Contacts</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02189</link>
@@ -31,6 +43,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Obtaining a broadened optoelectronic response while maintaining a low photovoltage loss is a critical challenge for organic solar cells (OSCs). Infrared-responsive chiral single-walled carbon nanotubes (SWCNTs) could address this, yet their application is hindered by complex purification and aggregation. Here, we disperse SWCNTs in a high-quantum-yield wide-gap polymer, F8BT, to create an F8BT@CNT(10,5) composite dopant. This dopant broadens the spectral response, promotes energy transfer, refines the phase morphology of donor–acceptor heterojunctions, and synergistically enhances charge transport while suppressing nonradiative and bimolecular recombination. The strategy is general, achieving a 20.10% PCE and a low nonradiative loss of 0.182 eV across various OSC systems. Beyond photovoltaics, it enables high-sensitivity organic photodetectors for precise, real-time heart rate monitoring. This work highlights the potential of polymer-wrapped chiral CNTs to improve organic optoelectronic devices for energy conversion and sensing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02759</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02759</guid>
@@ -52,6 +76,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03825&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03825"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Colloidal Electrolyte Enables Bulk-to-Interface Stabilization for Aqueous Manganese Metal Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03231</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03231</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Aqueous Mn metal batteries combine the potential for high safety and energy density, yet are limited by high water activity, sluggish Mn2+ desolvation, and severe interfacial parasitic reactions, which cannot be resolved by isolated strategies. Here we develop an ether-oxygen-rich colloidal electrolyte (EORC) whose nanoscale units couple bulk solvation regulation with interfacial stabilization. EORC disrupts the water hydrogen-bond network, partially replaces Mn2+ solvated waters, and enriches ether-oxygen species to reconstruct the electrical double layer. This continuous bulk-to-interface regulation reduces free water activity, lowers desolvation and nucleation barriers, promotes uniform Mn deposition, and suppresses interfacial parasitic reactions, e.g., corrosion and byproducts accumulation. Consequently, Mn∥Mn symmetric cells operate stably for over 3000 h and Mn∥AgVO full cells achieve over 11000 cycles with 93% capacity retention, along with enhanced low-temperature and pouch cell performance. This work offers a transformative strategy that bridges bulk electrolyte chemistry and interfacial electrochemistry for stable aqueous Mn anodes.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Colloidal Electrolyte Enables Bulk-to-Interface Stabilization for Aqueous Manganese Metal Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03231&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03231"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03269&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03269"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Influence of Color-Center Electronegativity on Circular Dichroism in Single-Walled Carbon Nanotubes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03075</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03075</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Covalently functionalized single-walled carbon nanotubes (SWCNTs) have emerged as attractive quantum photonic materials due to their highly tunable optical properties and efficient single-photon emission capabilities. Recent progress in engineering chiral defects has motivated exploration of these systems for tunable circularly polarized photoluminescence. While electronegative defect adducts, such as fluorinated species, induce larger emission redshifts than their electroneutral counterparts, their impact on chiroptical properties remains poorly understood. Here, we theoretically demonstrate that electronegative defects enhance electronic circular dichroism (CD) responses by over 2 times and increase dissymmetry factors (g factors) by more than 2.5 times. Using transition chiral tensor methodology, we identify the atomistic origins of this enhancement, revealing that it arises from substantially increased magnetic transition dipole moment contributions driven by improved electric–magnetic dipole alignment. These results establish atomistic structure–property relationships linking defect chemistry to chiroptical activity and provide design principles for engineering CD responses in functionalized SWCNTs for advanced photonic applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Influence of Color-Center Electronegativity on Circular Dichroism in Single-Walled Carbon Nanotubes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03075&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03075"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02459</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02459</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. However, identifying molecules with stable logic states and reliable information propagation remains challenging. Here, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of MolFCN molecular candidates. Starting from 32 synthetically accessible molecules, LUFFY combines conformational sampling and electrostatic analysis in neutral and oxidized states to derive molecular response descriptors. We extract Vin-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and develop energy-averaged models that account for conformational diversity and are validated against ab initio molecular dynamics. We further demonstrate stable information propagation at the device level. LUFFY establishes a unified, transferable, and scalable strategy linking molecular structure to circuit functionality, providing a foundation for data-driven molecular discovery for ultra-low-power computing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02459&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02459"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02864</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02864</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Altermagnets, featuring momentum-dependent spin splitting without net magnetization, provide a promising platform for spintronic functionalities beyond conventional ferromagnets and antiferromagnets. Here, we propose an altermagnetic spin photovoltaic battery consisting of a nonmagnetic centrosymmetric semiconductor sandwiched between two altermagnetic electrodes. Using first-principles quantum-transport simulations, we show that a V2Te2O/ZnSe/V2Te2O junction supports a pure spin photocurrent for opposite Néel vectors in the two altermagnetic electrodes, with spin-up and spin-down photocurrents equal in magnitude and opposite in sign. The effect persists under both linearly and circularly polarized light and remains tunable with photon energy and polarization angle. Our results establish a realistic route toward light-driven pure spin-current generation in altermagnetic junctions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Pure Spin Photocurrent in an Altermagnetic Photovoltaic Battery&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02864&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02864"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

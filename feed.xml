@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 02:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:13:37 +0000</lastBuildDate>
+    <item>
+      <title>Narrow-Line-Width Room-Temperature Single-Photon Emission from Multinary Copper-Based Quantum Dots</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03011</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03011</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Colloidal quantum dots are promising scalable quantum light sources, yet leading systems typically rely on toxic heavy metals and often exhibit spectral instability and photoluminescence intermittency. Here, we demonstrate room-temperature single-photon emission from individual Ga-doped multinary CuInS2/ZnS core–shell quantum dots, a cadmium-free alternative with low toxicity and tunable emission. Hanbury Brown–Twiss measurements show pronounced photon antibunching with a minimum g2(0) of 0.06, corresponding to a single-photon purity of 94%. The emitters also exhibit a remarkably narrow emission line width of 35 meV and strongly suppressed blinking, remaining predominantly in a bright state under low excitation. Combining single-particle spectroscopy with phasor-based lifetime analysis directly resolves emissive-state dynamics without multiexponential fitting, revealing competing radiative and nonradiative pathways involving charged excitons and Auger-assisted recombination. These results establish multinary CuInS2/ZnS quantum dots as environmentally benign colloidal quantum emitters for scalable room-temperature quantum photonic technologies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Narrow-Line-Width Room-Temperature Single-Photon Emission from Multinary Copper-Based Quantum Dots&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03011&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03011"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Visualizing Heteroepitaxy of Angle-Oriented GeSe/WSe2 Heterostructures for Near-Infrared Ultrasensitive Photodetectors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03380</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03380</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Precise heteroepitaxial control in van der Waals (vdW) heterostructures remains a challenge. Here, we demonstrate a visualized and directed heteroepitaxy strategy for GeSe on WSe2 by integrating in situ imaging with symmetry-guided physical vapor deposition. Real-time observation captures the nucleation kinetics and orientation evolution, accelerating process optimization. Combined density functional theory calculations and transmission electron microscope characterizations identify a preferential epitaxial angle of 20° (occurrence: 59.37%) for most GeSe nanosheets, corresponding to the global energy minimum governed by lattice symmetry. Coverage-tunable photodetectors are constructed by modulating GeSe nanosheets’ number, delivering a three-orders-of-magnitude enhancement in responsivity at 808 nm (823.8 A/W at maximum coverage). This is attributed to optimized light harvesting in GeSe and a photogating effect via back-to-back type-II band alignment. High-contrast single-pixel imaging is also demonstrated. This work establishes a paradigm for visualized synthesis and performance optimization of monochalcogenide-based vdW heterostructures.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Visualizing Heteroepitaxy of Angle-Oriented GeSe/WSe2 Heterostructures for Near-Infrared Ultrasensitive Photodetectors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03380&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03380"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Isotropic Steric Hindrance of Acyclic Cations Enables Thermally Robust Anion-Derived Interphase for High-Temperature Lithium Metal Batteries at 100 °C</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03582</link>
@@ -31,18 +55,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
@@ -52,6 +64,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03123&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03123"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Superconducting Weak Links at Substrate Steps in Bilayer Nickelate Films</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03024</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03024</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ambient-pressure superconductivity above 40 K has been realized in bilayer nickelate thin films on SrLaAlO4 (001), yet resistive measurements often exhibit incomplete zero-resistance states and/or two-step superconducting transitions of unresolved origin. We show that these features arise from superconducting weak links at substrate step-terrace structures. A direct correlation between the azimuthal-angle-dependent two-step transition and step-terrace orientation establishes this connection, further supported by atomic-scale visualization of structurally disrupted regions at step terraces. Modeling the films as pristine (weak-link) regions with higher (lower) transition temperature reproduces essential features of the two-step transition using both a simple model and finite-element simulations. Transport measurements further reveal a strong dependence of transition characteristics (and even the occurrence of superconductivity itself) on average terrace width. These results identify step-induced weak links as the microscopic origin of two-step transitions in bilayer nickelate films, providing a framework for understanding anisotropic and percolative transport, and a route to superconducting devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Superconducting Weak Links at Substrate Steps in Bilayer Nickelate Films&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03024&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03024"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ion-Selective GaN Optopairs with Rapid Response and High Stability for Intelligent Biomimetic Sensing</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03269</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03269</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ion concentration variation can indicate dynamic physiological metabolism and environmental media changes. Although electrochemical biosensors with high sensitivity and selectivity are widely used, achieving rapid response and minimal signal drift remains challenging. Herein, a gallium nitride (GaN) chip was functionalized with an ion-selective membrane to enable highly sensitive, fast, and stable optical readout. During real-time continuous monitoring, a minimized response time of 0.15 s with high signal recovery was achieved, and the drift was reduced to about 0.5 μA/h and 0.3 μA/h for Na+ and K+, respectively. To reduce the cross-interference in mixed ion analysis, a dual-channel ion decoding algorithm was implemented to improve the accuracy. The sensor was integrated into a flexible platform for real-time sweat electrolytes monitoring during exercise and further applied to a robotic fish for biomimetic detection of abnormal ion-concentration hazard zones and closed-loop obstacle avoidance, demonstrating its potential for wearable health monitoring and environmental perception.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ion-Selective GaN Optopairs with Rapid Response and High Stability for Intelligent Biomimetic Sensing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03269&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03269"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

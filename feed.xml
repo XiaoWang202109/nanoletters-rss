@@ -5,7 +5,79 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 15:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:14:18 +0000</lastBuildDate>
+    <item>
+      <title>Periodic Solute Segregation Weakens Chemically Stabilized Grain Boundaries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03381</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03381</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Solute segregation can chemically stabilize grain boundaries (GBs), but whether such interfaces remain mechanically robust under load remains unclear. Here, atomic-resolution HAADF-STEM and atomistic modeling identify a periodically Nd-decorated asymmetric [12̅10] tilt GB in a deformed Mg–Nd alloy. Voronoi analysis and segregation-energy calculations show that Nd occupies distorted boundary-core sites and reduces local interfacial strain energy. Contrary to the common expectation that rare-earth segregation strengthens magnesium interfaces, shear simulations show that periodic Nd segregation substantially reduces the mechanical resistance of this boundary. Under loading, the segregated regions undergo amorphization-like structural rearrangement, redirecting stress relaxation from the intrinsic direction-dependent modes of the pure boundary─interfacial twinning or localized interfacial dislocation activity─to premature grain-boundary sliding. Thus, an energetically favorable segregated interface can become a mechanically weak pathway, demonstrating that chemical stabilization does not necessarily translate into mechanical strengthening and that load-induced deformation pathways must be considered when designing solute-engineered interfaces.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Periodic Solute Segregation Weakens Chemically Stabilized Grain Boundaries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03381&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03381"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Multimodal Perception through Synergistic Interface Fusion and Machine-Learning Decoupling in Vertically Integrated Flexible Sensors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01353</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01353</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Flexible integrated sensors have been constrained by signal crosstalk from planar layouts and material coupling, restricting the capability for high-precision multiparameter sensing. Here, we develop a biomimetic vertically integrated flexible sensor (BVIS) based on a poly(vinyl alcohol)-cellulose nanofiber-reduced graphene oxide multiwalled carbon nanotube (PVA-CNF-RGO-MCNT, PCRM) material system. Serpentine temperature-sensitive, humidity-sensitive, and square pressure-sensitive arrays are assembled into an ultrathin six-layer architecture through a water-induced interfacial fusion mechanism. The molecular-level interpenetrating network formed by the PCRM composite enhances the interfacial adhesion and suppresses multimodal interference. The humidity units exhibit sensitivities of 2.8%/%RH (70–80% RH) and 8.57%/%RH (80–95% RH), respectively, while the tangential interfacial and T-peel strengths reach 2.592 and 0.285 MPa. By combining structural isolation with a random forest algorithm for signal decoupling, the platform achieves recognition accuracies of 96.79% and 99.8% for temperature-position and humidity-position mapping, respectively. The study establishes a novel vertical-layered multimodal sensing paradigm for highly integrated and anticrosstalk flexible intelligent sensing systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Multimodal Perception through Synergistic Interface Fusion and Machine-Learning Decoupling in Vertically Integrated Flexible Sensors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01353&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01353"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Fractional-Quantum Ferroelectrics: A Route to High-Mobility Ferroelectric Semiconductors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02776</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02776</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ferroelectric semiconductors are promising for multifunctional electronics, yet their typically low carrier mobilities remain a major limitation. Using first-principles phonon-limited transport calculations for monolayer In2Se3, we show that this limitation depends critically on the microscopic origin of ferroelectricity. In displacive β′-In2Se3, low-frequency ferroelectric modes dominate carrier scattering, with additional contributions from longitudinal-optical (LO) phonons, limiting the room-temperature electron mobility to a few cm2/(V s). By contrast, in fractional-quantum ferroelectric α-In2Se3, ferroelectric-mode scattering is absent because polarization arises from discrete lattice-scale atomic displacements rather than soft-mode condensation. Transport is therefore dominated by LO phonons, yielding a room-temperature mobility above 70 cm2/(V s). Carrier doping further screens long-range electron–LO-phonon interactions and raises the mobility beyond 300 cm2/(V s) at experimentally accessible densities. These results establish that fractional-quantum ferroelectricity can decouple robust polarization from strong intrinsic carrier scattering, offering a route toward high-mobility ferroelectric semiconductors.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Fractional-Quantum Ferroelectrics: A Route to High-Mobility Ferroelectric Semiconductors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02776&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02776"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Function-Switchable Superconducting-Spintronic Devices for Read-Protected Data Storage</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03291</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03291</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Superconductivity and charge-to-spin conversion are both desirable for low-dissipation information processing, but they usually operate in different material platforms. Here we show that the p-orbital alloy In2Bi combines type-II superconductivity below 5.6 K with efficient spin-current generation in the normal state. In Co/In2Bi devices, spin Hall magnetoresistance and second-harmonic Hall measurements give consistent spin Hall angles, confirming reliable charge-to-spin conversion. By integrating In2Bi with Fe3GaTe2, we realize a function-switchable superconducting-spintronic device with three resistance states. Magnetic information can be written by a magnetic field or spin–orbit torque and read through the anomalous Hall resistance signal in the normal state. In the superconducting state, the anomalous Hall resistance signal readout is suppressed, producing field-controlled read protection without additional circuit elements. This work establishes In2Bi as a dual-functional platform for superconductivity-gated spintronic readout and read-protected data storage.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Function-Switchable Superconducting-Spintronic Devices for Read-Protected Data Storage&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03291&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03291"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Core–Shell PtIr Nanocubes with Lewis Acidic Ir Sites for Enhanced Ammonia Electrooxidation in Direct Ammonia Fuel Cells</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02958</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02958</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Direct ammonia fuel cells (DAFCs) represent a promising carbon-neutral energy technology, yet their practical application is severely hindered by the sluggish kinetics of the anodic ammonia oxidation reaction on traditional platinum-based catalysts. Herein, high-crystallinity PtIr nanocubes featuring a Pt-rich core/Ir-rich shell architecture are constructed by exploiting the differential reduction kinetics of the metal precursors. Spectroscopic analyses reveal oxygen-associated coordination and electron-deficient states around Ir, while pyridine-adsorbed Fourier transform infrared spectra establish surface Lewis acidity. Together, these findings support a role for Lewis acidic Ir sites in facilitating NH3 interaction and subsequent *NHx intermediate evolution. The catalyst delivers an exceptional mass activity of 151.45 A g–1, more than four times that of the commercial PtIr counterpart. Furthermore, a prototype DAFC equipped with this anode achieves a peak power density of 18.98 mW cm–2 at 60 °C, demonstrating efficient translation to device-level performance.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Core–Shell PtIr Nanocubes with Lewis Acidic Ir Sites for Enhanced Ammonia Electrooxidation in Direct Ammonia Fuel Cells&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02958&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02958"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Intrinsic Fermi Level Pinning and Reversible Depinning at Ultralow-Defect Epitaxial MoSe2/Au(111) Interfaces</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02384</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02384</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Fermi level pinning (FLP) fundamentally limits contact engineering in two-dimensional semiconductors, yet its intrinsic origin remains obscured by the presence of interfacial disorder and defect-induced gap states. Although theoretical models attribute FLP to metal-induced gap states (MIGSs) and interface dipoles, direct experimental validation at an ideal van der Waals interface has remained elusive. Here, we establish an ultralow-defect epitaxial monolayer MoSe2/Au(111) interface (defect density ∼ 1.7 × 1010 cm–2) to directly probe its electronic structure using scanning tunneling spectroscopy and field-emission resonance. Despite the nearly pristine interface, we observe symmetric electron and hole Schottky barriers alongside pronounced work function lowering, demonstrating that FLP persists even without significant interfacial disorder. These measurements quantitatively support the MIGS-induced interface dipole model. Remarkably, selenium intercalation reversibly suppresses the interfacial dipole, restores the work function, and shifts the Fermi level, resulting in substantial depinning and establishing a strategy for band alignment engineering at van der Waals interfaces.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Intrinsic Fermi Level Pinning and Reversible Depinning at Ultralow-Defect Epitaxial MoSe2/Au(111) Interfaces&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02384&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02384"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Narrow-Line-Width Room-Temperature Single-Photon Emission from Multinary Copper-Based Quantum Dots</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03011</link>
@@ -532,78 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03219&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03219"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Dipolar Excitonic Quantum Wires at Atomically Sharp Lateral Interfaces</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02624</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02624</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract One-dimensional (1D) quantum systems are a cornerstone of condensed matter physics. However, their realization in solids has traditionally relied on top-down methods, which are limited by structural disorder and coarse confinement. Here, we demonstrate a fundamentally new route to low-dimensional systems: the emergence of 1D quantum matter at the atomically sharp interface between monolayer semiconductors. Using lateral MoSe2–WSe2 heterostructures, we identify interfacial excitonic quasiparticles bound to the crystal junction. Photoluminescence spectroscopy resolves these excitons into a ladder of discrete states, establishing 1D confinement at length scales ≲3 nm. These excitons possess exceptionally large permanent in-plane electric dipole moments exceeding e × 2 nm, and exhibit micron-scale anisotropic diffusion confined to the interface. By introducing electrostatic doping, we demonstrate a collapse of the dipole moment and a 20-fold reduction in lifetime. By dynamically tuning wavefunctions within a single atomic monolayer, we open a scalable route toward engineering 1D quantum matter.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dipolar Excitonic Quantum Wires at Atomically Sharp Lateral Interfaces&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02624&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02624"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Adaptive Cavity Control of Single-Photon Emission from Hexagonal Boron Nitride</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03060</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03060</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Atom-like defects in hexagonal boron nitride (hBN) are promising room-temperature quantum light sources, but their stochastic spatial positions and emitter-dependent transition energies have limited deterministic cavity coupling and active control of their emission dynamics. Here, we demonstrate the adaptive cavity control of quantum emission from individual hBN single-photon emitters at room temperature. Using tip-enhanced cavity spectroscopy, we spatially position a nanoscale optical cavity over selected emitters and spectrally match the cavity response to the excitation laser and emitter zero-phonon line. This adaptive spatio-spectral control enables selective enhancement of excitation and spontaneous emission pathways rather than simple photoluminescence amplification. By switching between excitation-dominated and emission-dominated coupling regimes, we reshape photon statistics, enhancing antibunching or inducing controlled bunching, depending on the cavity condition. These results establish adaptive cavity control as a strategy for engineering the brightness, lifetime, saturation behavior, and photon statistics in hBN quantum emitters.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Adaptive Cavity Control of Single-Photon Emission from Hexagonal Boron Nitride&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03060&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03060"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Kinetically Arrested Interfacial Polyelectrolyte Complexes Enable Ionic Rectification in Ionoelastomer Heterojunctions</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02638</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02638</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract At interfaces between oppositely charged polyelectrolytes, ionic double layers (IDLs) emerge that are often treated as ionic counterparts of semiconductor depletion layers. Yet this analogy overlooks the molecular deformability of polymer-tethered charges. Here, we show that IDLs in soft ionoelastomer(IE) heterojunctions undergo interfacial complexation, resulting in the formation of a kinetically arrested polyelectrolyte complex (PEC) layer. Selective counterion-exchange staining with ionic fluorophores reveals a micron-scale unstained interfacial PEC region─far exceeding the depletion length predicted from thermodynamic considerations of IDLs. This exclusion arises from a kinetically frozen glassy PEC that suppresses counterion exchange with ionic fluorophores. Forward bias, elevated temperature, or salt addition reversibly drives a glass-to-rubber transition in the interfacial PEC, restoring fluorophore uptake, as confirmed by optical, mechanical, and impedance measurements. This transition produces asymmetric ionic conductivity, demonstrating that ionic current rectification in IE heterojunctions is governed by interfacial PEC formation and its kinetically arrested glassy state.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Kinetically Arrested Interfacial Polyelectrolyte Complexes Enable Ionic Rectification in Ionoelastomer Heterojunctions&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02638&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02638"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Amorphization and Pd Loading Synergistically Enable Bulk-to-Surface Charge Carrier Separation for Efficient Photocatalytic H2O2 Production</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02936</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02936</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract A major challenge in artificial photosynthesis for H2O2 production arises from rapid charge recombination and non-selective side reactions. Herein, we design a Pd-decorated amorphous ZnCdS (Pd/AZCS) photocatalyst. Amorphization promotes bulk charge separation, while Pd loading enhances interfacial transfer, synergistically improving H2O2 selectivity and yield. Theoretical calculations reveal that amorphization and Pd loading synergistically enhance the dipole moment and modulate the electronic structure, resulting in significantly improved O2 adsorption capability. Spectroscopic analyses further confirm enhanced charge carrier separation and the formation of key intermediates in the oxygen reduction reaction (ORR). Consequently, the optimized Pd/AZCS achieves an impressive H2O2 evolution rate of 120.6 μmol g–1 min–1 in pure water without any sacrificial agents, representing a nearly 13-fold enhancement over pristine ZnCdS (ZCS). This work provides a pivotal strategy for efficient and durable photocatalytic H2O2 synthesis, highlighting its substantial promise for industrial-scale renewable energy applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Amorphization and Pd Loading Synergistically Enable Bulk-to-Surface Charge Carrier Separation for Efficient Photocatalytic H2O2 Production&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02936&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02936"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nonlinear Freezing of Vibrational Polariton Transport via Mesoscale Simulations</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03367</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03367</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Two-dimensional real-space imaging of vibrational polariton transport in planar Fabry–Pérot microcavities is numerically simulated via the mesoscale cavity molecular dynamics approach, which self-consistently propagates∼2×104 realistic molecular simulation cells on a two-dimensional grid coupled to the same number of cavity modes. Beyond the well-known polariton ballistic-to-diffusive turnover in the linear response regime, these atomistic simulations reveal a nonlinear freezing mechanism of vibrational polariton transport; that is, under strong pumping of the upper polariton, the initially ballistically propagating upper polariton completely freezes and localizes energy to molecules at specific locations. This mechanism originates from pump-induced breaking of the in-plane translation symmetry: significant molecular excitations at the pulse hot spot broaden the polariton density of states, thus funneling population to the k∥ → 0 band edge with vanishing group velocities. Overall, our work provides numerical insights for exploring novel mechanisms of vibrational polaritons.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nonlinear Freezing of Vibrational Polariton Transport via Mesoscale Simulations&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03367&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03367"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Bridging-Carbon Reconstruction of π Conjugation Enables Bright Blue Emission from Crystalline Carbon Nitride Quantum Dots</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03848</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03848</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Triclinic crystalline carbon nitride (CCN) quantum dots are promising metal-free blue emitters, but their luminescence is limited by residual alkali ions, framework defects, and surface-mediated nonradiative decay. Here we develop a bridging-carbon reconstruction strategy to produce few-layer CCN quantum dots (C-CCNQDs) through reactive-salt polymerization followed by alkali-assisted solvothermal exfoliation. Bridging-carbon units connect adjacent heptazine motifs and extend π-electron delocalization, while amino and hydroxyl groups formed during exfoliation passivate surface dangling bonds. The combined framework reconstruction and surface passivation redirect excited-state relaxation from defect-dominated pathways toward framework-centered radiative recombination. The resulting C-CCNQDs exhibit sky-blue emission at 470 nm, a photoluminescence quantum yield of 65.4%, and substantially enhanced photostability. As a proof of concept, C-CCNQD light-emitting diodes show spectrally stable electroluminescence at 470 nm with a maximum external quantum efficiency of 1.47%. These findings establish atomic reconstruction of π-conjugated carbon nitride frameworks as a route to bright, metal-free blue-emitting quantum dots.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Bridging-Carbon Reconstruction of π Conjugation Enables Bright Blue Emission from Crystalline Carbon Nitride Quantum Dots&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03848&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03848"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

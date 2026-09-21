@@ -5,7 +5,43 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 03:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:51:39 +0000</lastBuildDate>
+    <item>
+      <title>Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03038</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03038</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Controlling the physicochemical properties of nano/microparticles is crucial to optimizing their performance as drug carriers and achieving selective cellular uptake. Extensive experimental evidence suggests that particle shape strongly influences the phagocytosis rate and immune cell targeting, showing disparate and cell-dependent trends that remain poorly understood. We develop a theoretical framework that reconciles experimental results using a computationally efficient method to estimate the energy required for active forces to achieve particle engulfment. We demonstrate that cell-dependent shape preferences arise from distinct cell membrane properties that regulate tension during particle-induced deformations. Macrophages prefer disks because particle-induced membrane tension increases, while neutrophils prefer rods because their membranes maintain constant tension. Varying cell rigidity alone hardly alters the particle shape preference. Further, rods are preferred for spontaneous attachment to both membrane types. Our theory provides mechanistic insights that guide the selection of parameter ranges with the highest likelihood of success for tailor-made particle designs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03038&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03038"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Propagating Edge and Interfacial States in Corrugated Graphene: Robustness and Configurability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04446</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04446</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Periodically strained graphene provides a versatile platform to realize moiré-like electronic structures. We show that the interplay between a strain-induced pseudomagnetic field and a displacement-field-controlled scalar potential enables the formation of isolated narrow bands. Some of the low-energy bands are topological, carrying valley-opposite Chern numbers. Remarkably, despite a vanishing total Chern number, propagating in-gap edge states emerge in various nanoribbon geometries that preserve valley symmetry. We elucidate the distinct mechanisms responsible for edge states in the zero-energy and higher-energy gaps and demonstrate their robustness against disorders, despite lacking conventional topological protection. Leveraging these properties, we propose device architectures in which a displacement field switches the zero-energy gap and its associated edge channels on and off. Furthermore, split-gate geometries generate topological interfacial states that coexist with the edge modes and can be spatially reconfigured. These results establish strain superlattices as a powerful platform for engineering topological electronic states and electronic transport.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Propagating Edge and Interfacial States in Corrugated Graphene: Robustness and Configurability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04446&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04446"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Waveguide-Integrated Photonic Platform for On-Chip Optical Quantum-Dot Excitation via Electrically Pumped WGM Microlasers</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02939</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02939</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We report the fabrication and characterization of an integrated quantum photonic device consisting of an electrically driven whispering-gallery-mode micropillar laser evanescently coupled to a ridge waveguide, both incorporating InGaAs quantum dots (QDs). The lasing characteristics of microlasers are systematically investigated as a function of the pillar–waveguide gap distance. Coherent emission from the whispering-gallery-mode microlaser coupled into the waveguide enables on-chip optical excitation of QDs embedded in an electrically contacted micropillar at the end of the waveguide. Under continuous-wave on-chip excitation, we observe single-photon emission with g(2)(0) = (3.49 ± 0.01)% for a QD integrated in the outcoupling micropillar, which can be spectrally tuned by the quantum confined Stark effect. These results constitute an important step toward low-footprint, deterministic, and scalable single-photon sources for QD-based integrated quantum photonic circuits.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Waveguide-Integrated Photonic Platform for On-Chip Optical Quantum-Dot Excitation via Electrically Pumped WGM Microlasers&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02939&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02939"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Periodic Solute Segregation Weakens Chemically Stabilized Grain Boundaries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03381</link>
@@ -175,18 +211,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
@@ -196,6 +220,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02592&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02592"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Euler Topology in Superconducting Honeycomb Lattices</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02407</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02407</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electronic bands in systems with space–time inversion (IST) symmetry can host nontrivial Euler topology. Here, we investigate the band topology of IST-symmetric superconducting honeycomb lattices and demonstrate that s-wave spin–singlet (SWSS) and f-wave spin–triplet (FWST) superconducting pairings give rise to valley-Euler and Euler superconductors, respectively. We find that Euler topology in both pairing states gives rise to mirror-symmetry-protected helical Andreev bound states at superconducting domain walls. Furthermore, we show that Euler topology in the FWST state induces non-Abelian braiding of Dirac nodes in momentum space when anisotropic hopping is introduced. Our work establishes band engineering combined with superconducting electronic instabilities as a natural route to realizing nontrivial Euler band topology and its domain-wall physics in Dirac materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Euler Topology in Superconducting Honeycomb Lattices&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02407&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02407"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Biodegradable Paints for Daytime Radiative Cooling</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01376</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01376</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Radiative cooling technologies help alleviate global warming and the urban heat island effect by reducing the energy load of conventional air conditioning. However, most radiative cooling materials contain nonbiodegradable components that decompose into microplastics and threaten the environment. To address this issue, this work develops a biodegradable radiative cooling paint, experimentally demonstrated to maintain an average surface temperature of 2–3 °C below ambient temperature and around 5 °C below commercial white paint under high solar irradiation (&amp;amp;gt;800 W m–2). Fabricated samples showed a high solar reflectance of 96.6% and sky window emissivity of 0.938. The binder demonstrated complete biodegradation within 3 months in a compost environment. TRNSYS simulation shows high energy savings across the US, with over 400 kWh of electricity saved in hot and dry climates such as Phoenix, AZ. With high UV resistance, mechanical durability, and self-cleaning capabilities, the biodegradable radiative cooling paint is suitable for large-scale deployment.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Biodegradable Paints for Daytime Radiative Cooling&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01376&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01376"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Surface-Reaction-Controlled Initial Growth of Ir-Rich IrTe &lt;i&gt;x&lt;/i&gt; Thin Films via ABC-Type Atomic Layer Deposition</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03219</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03219</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Iridium telluride thin films are promising materials for electronic and optoelectronic applications, but their low-temperature deposition remains challenging. Although atomic layer deposition (ALD) is well-suited for low-temperature thin-film growth, ALD of platinum-group metal (PGM) tellurides is still largely unexplored because of limited precursor/reactant combinations and the inherent nucleation delay of iridium ALD. Here we report the first ALD process for Ir-rich IrTex thin films using tricarbonyl(η-1,2,3-tri-tert-butylcyclopropenyl)iridium (TICP) and bis(trimethylsilyl) telluride (BTMS-Te)/methanol (MeOH) as the iridium precursor and tellurium reactant, respectively. Furthermore, incorporating an intermediate O2 step established a surface-reaction-controlled ABC-type process. Compared with the AB-type process, this strategy increased the nucleation density by ∼41% and the average nucleus size by ∼2.6-fold, enabling the formation of continuous ultrathin IrTex films. Optimized IrTex/n-Si photodetectors exhibited self-powered broadband photoresponse in the 400–1550 nm range. These findings demonstrate a practical strategy for overcoming nucleation-limited growth during the ALD of PGM tellurides.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Surface-Reaction-Controlled Initial Growth of Ir-Rich IrTe &amp;lt;i&amp;gt;x&amp;lt;/i&amp;gt; Thin Films via ABC-Type Atomic Layer Deposition&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03219&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03219"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

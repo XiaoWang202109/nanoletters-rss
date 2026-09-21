@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:38:19 +0000</lastBuildDate>
     <item>
       <title>Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03038</link>
@@ -55,6 +55,42 @@
 </content:encoded>
     </item>
     <item>
+      <title>Near-Electrode Diffusion Dynamics Govern Chirality-Induced Spin Selectivity in an Electrochemical Cell</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03613</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03613</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Chirality-induced spin selectivity (CISS) is a phenomenon resulting from the interaction between chiral molecules and electron spin. One example is chirality-induced magnetoconductance (MC), in which the electrical conduction through a molecule–ferromagnet junction depends on the molecular chirality and the magnetization direction of the ferromagnet. In this study, we investigate the microscopic mechanism of CISS in an electrochemical cell containing a chiral camphorsulfonic acid electrolyte and a ferromagnetic Ni electrode. We find that the MC effect strongly depends on electrode size, which we attribute to a crossover between one-dimensional planar and three-dimensional radial diffusion. Pronounced MC at large electrodes highlights the importance of the one-dimensional planar diffusion regime. This suggests that magnetization reversal modifies exchange coupling between chiral molecules and the ferromagnet, thereby altering the near-electrode concentration gradient rather than the chemical reaction rate per molecule. These findings identify near-electrode diffusion dynamics as a key factor in CISS-related electrochemical responses.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Electrode Diffusion Dynamics Govern Chirality-Induced Spin Selectivity in an Electrochemical Cell&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03613&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03613"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Optically Tracked Reversible Single-Atomic-Monolayer Redox in Plasmonic Nanocavities</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02438</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02438</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Controlling redox reactions at the atomic scale is key to enabling next-generation low-power memristive and neuromorphic devices. Ultrathin metallic layers, such as atomic monolayer palladium (Pd), offer tunable redox behavior well suited for switchable components in nanoscale electronics. Here, we present an in situ plasmonic-electrochemical platform that probes redox processes within subnanometer gaps using a nanoparticle-on-mirror (NPoM) geometry. Atomically thin Pd layers are grown by underpotential deposition, and their redox is monitored via surface enhanced Raman spectroscopy, revealing reversible transformations between metallic and dielectric Pd redox states. This confined plasmonic cavity enhances sensitivity to vibrational and electronic changes, allowing nondestructive optical readout of redox switching behaviors. By reducing the active switching volume to the monolayer limit while maintaining precise geometric control, this work establishes a powerful platform for probing redox dynamics at the atomic scale and points toward highly energy-efficient nanoswitches based on redox-active ultrathin materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Optically Tracked Reversible Single-Atomic-Monolayer Redox in Plasmonic Nanocavities&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02438&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02438"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Surface Effect and Termination-Dependent Charge Order Instability in Kagome Superconductor CsV3Sb5</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02349</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02349</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Kagome superconductors AV3Sb5 (A = K, Rb, Cs) exhibit intertwined symmetry-breaking orders, including charge density wave (CDW), superconductivity, and time-reversal symmetry breaking (TRSB), yet their relationship, nature, and experimental detections remain under intense debate. At the heart of these controversies lies a critical yet often overlooked factor: the surface effect, which may engineer distinct technique-dependent observations. By combining density functional theory calculations and ARPES measurements, we unveil the important role of surface effect on the CDW instability and electronic reconstruction in CsV3Sb5. The surface CDW instability is much reduced on the Cs and Sb terminations but well-preserved on half-Cs termination. On the Cs-terminated surface, the interlayer expansion induces quantum confinement and two-dimensional quantum well states. These results explain the diversity of surface band structures observed in AV3Sb5, potentially reconcile conflicting observations of superconductivity and TRSB between bulk- and surface-sensitive probes, and offer a new perspective on studying exotic phenomena in AV3Sb5.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Surface Effect and Termination-Dependent Charge Order Instability in Kagome Superconductor CsV3Sb5&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02349&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02349"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03080</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03080</guid>
@@ -64,6 +100,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03080&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03080"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03032</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03032</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Highly aligned polymer fibers provide continuous pathways for directional thermal conduction in all-organic composites, yet quantitative prediction remains limited by the lack of independently measured constituent-fiber thermal conductivity. Here, we study polydimethylsiloxane (PDMS) composites reinforced with commercial ultrahigh-molecular-weight polyethylene (UHMWPE), poly(p-phenylene benzobisoxazole) (PBO), and Kevlar fibers. The axial thermal conductivities of individual fibers and PDMS are measured independently and used, together with fiber volume fraction, as direct inputs to a parallel model. The model quantitatively captures the axial thermal conductivity of all three aligned fiber/PDMS materials over a range of fiber volume fractions. Molecular dynamics simulations further reveal distinct phonon-transport characteristics among crystalline PE, PBO, and Kevlar and support the parallel thermal transport trend. These results establish a quantitative framework linking constituent properties and continuous pathway architecture to axial thermal conduction. The UHMWPE-PDMS composite achieves 26.66 W m–1 K–1 while retaining low density, flexibility, electrical insulation, and thermal stability.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03032&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03032"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spin-Coupled Coherent Acoustic Phonons in van der Waals Antiferromagnet NiPS3</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02282</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02282</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Controlling magnetic order with coherent lattice motion is a key frontier for ultrafast spintronic and quantum technologies, yet direct access to propagating spin-coupled acoustic modes in 2D antiferromagnets has been limited. Here, the propagating longitudinal and transverse acoustic phonons in the van der Waals antiferromagnet NiPS3 are optically generated and detected by using ultrafast spectroscopy. Both the longitudinal and transverse acoustic branches exhibit a pronounced magnetic-state dependence: the shear-like transverse acoustic mode is amplified by nearly a factor of 3 below the Néel temperature, possibly resulting from the ultrafast demagnetization-driven shear stress. The propagating coherent acoustic phonons induce a distinct optical polarization-rotation response that disappears above magnetic ordering, providing a fully all optical readout of dynamic spin–lattice coupling in a zero-net-moment antiferromagnet. These findings reveal a particularly strong interplay among strain, optical anisotropy, and antiferromagnetic order in a layered van der Waals antiferromagnet.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spin-Coupled Coherent Acoustic Phonons in van der Waals Antiferromagnet NiPS3&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02282&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02282"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -79,6 +139,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Alveolar-Inspired Negative-Pressure Soft Actuators with Integrated Actuation–Sensing</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02923</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02923</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Soft actuators show promise for soft robotics, wearables, and biomedical devices. However, existing pneumatic actuators rely on positive pressure actuation, yielding bulky, complex systems. This study presents a negative-pressure-driven soft actuator inspired by alveolar respiration. A double-layer membrane composed of a high-porosity alveolar-mimicking layer (AML) and a dense structural layer (DSL) was fabricated via an ethanol-induced porogenic method. Under negative pressure, AML microbubbles expand, driving macroscopic directional bending, constrained by the DSL. The effects of the curing temperature and ethanol content on the pore structure, mechanical properties, and deformation behavior were systematically studied. Integrated actuation sensing was achieved by depositing a carbon nanotube conductive coating on the alveolar-inspired negative-pressure-driven (AND) soft actuator surface. The AND soft actuator exhibits reversible deformation within 0.0 to −0.1 MPa and has been demonstrated in soft crawling robots, shape-programmable reconfiguration, and negative-pressure-triggered switches. This study offers a bioinspired negative-pressure actuation strategy, opening a route to high-performance integrated soft actuators.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Alveolar-Inspired Negative-Pressure Soft Actuators with Integrated Actuation–Sensing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02923&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02923"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02599</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02599</guid>
@@ -91,6 +163,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03473</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03473</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Copper fluoride (CuF2) exhibits high theoretical specific capacity and an attractive redox potential, making it a promising lithium metal batteries (LMBs) cathode material. Nevertheless, its cycling performance remains inadequate, with severe capacity loss occurring over the first few cycles and leading to poor reversibility. Herein, a CuF2/copper foam (CuF2/CF) integrated cathode is constructed by in situ synthesizing CuF2 on CF substrate using a facile hydrothermal method and further annealing process. The in situ fluorination of the conductive three-dimensional (3D) porous CF may effectively inhibit the further dissolution of CuF2 in the organic electrolyte and enhances the electron and ion transport capabilities. The optimized CuF2/CF integrated cathode delivers an excellent specific capacity of 762 mAh g–1 and exhibits excellent cycling performance. This work provides a feasible strategy to solve the solubility problem of CuF2 as a cathode material for LMBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03473&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03473"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Waveguide-Integrated Photonic Platform for On-Chip Optical Quantum-Dot Excitation via Electrically Pumped WGM Microlasers</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02939</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02939</guid>
@@ -100,6 +184,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02939&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02939"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Borophene research has predominantly focused on its monolayer forms due to the challenges associated with synthesizing multilayer boron sheets, despite the desirable properties predicted theoretically beyond the single-atomic-layer limit. Here, we present the successful synthesis of bilayer borophene on Ir(111) substrates, which possesses a distinct atomic structure compared to previously reported bilayer borophene phases. Using scanning tunneling microscopy and spectroscopy, a significantly reduced local work function is observed for bilayer borophene compared to monolayer borophene on iridium. Specifically, bilayer islands show strong peak position shifts toward lower energy in field emission resonance spectroscopy, which is further corroborated by density functional theory calculations. This ultralow-work-function bilayer phase presents expanded application opportunities for borophene including field emission sources, photoelectric devices, and quantum technologies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02672</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02672</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Spin–orbit torque (SOT) enables ultrafast, energy-efficient magnetization switching, making it promising for MRAM cache applications. However, current SOT-MRAM devices face write efficiency limitations, with charge-to-spin conversion (ξDL) reaching only ∼ 45%, well below the projected ∼80% required for advanced transistor nodes. Recent advances in orbital current physics offer a route to enhance ξDL. Here, we study the Ta(3–30 nm)/W(1–4 nm) system, revealing a large additional torque contribution from Ta, a 4-fold increase over the spin Hall effect in Ta alone, attributed to the orbital physics. This system exhibits larger ξDL than W-based SOT systems, while maintaining robust perpendicular magnetic anisotropy and 400 °C annealing compatibility. We integrate the Ta/W system into 3-terminal SOT-MTJ devices, demonstrating performance comparable to W-based systems. Our results show that orbital physics offers a viable strategy to enhance SOT-MRAM efficiency. We further propose and demonstrate proof-of-concept vertical nonlocal switching using orbital torques, simplifying bottom-pinned SOT-MRAM fabrication.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02672&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02672"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -496,114 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02758&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02758"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Photoinduced Linear Motion of Ferroelectric Domain Walls for Neuromorphic Pattern Recognition</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02212</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02212</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Linear switching of ferroelectric polarization is essential for achieving high precision, sensitivity, and efficiency in ferroelectric devices. However, electric fields inevitably introduce significant nonlinearity into the switching process. Light offers a contactless and low-power route to switch polarization, which has drawn growing research interest. Despite various proposed mechanisms for photoinduced polarization switching, the interpretations remain controversial. Here, we demonstrate that, in ferroelectric BaTiO3 films, light induces linear domain wall motion and a corresponding linear change in the polarization area. These linear and continuously tunable multi-states enable a neuromorphic device with markedly improved pattern recognition accuracy. By combining ferroelectric hysteresis loops, surface potential measurements, and band structure analysis, we elucidate the underlying mechanism: photogenerated charges are separated by the local built-in field arising from surface band bending, which enhances the overall imprint field and thereby promotes the switching of ferroelectric polarization.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Photoinduced Linear Motion of Ferroelectric Domain Walls for Neuromorphic Pattern Recognition&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02212&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02212"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Piperazine-Structured Lipid Nanoparticles Enable Enhanced Targeted Delivery of SHP-1 siRNA to Macrophages for Treatment of Atherosclerotic Vulnerable Plaques</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03833</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03833</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Atherosclerotic vulnerable plaques pose a risk for acute coronary syndrome and sudden cardiac death due to plaque rupture and thrombosis. While nanomedicines modulating macrophage functions have attracted intensive interest, efficient delivery to plaque macrophages remains challenging. Here, mannose-modified lipid nanoparticles (LNPs) are developed for targeted delivery of a novel SHP-1 (Src Homology 2 Domain-containing Phosphatase-1) siRNA to macrophages within atherosclerotic vulnerable plaques, aiming to enhance macrophage function and stabilize plaques. In ApoE–/– mice with vulnerable plaques, both MIC5 and SM-102 LNPs demonstrated robust plaque targeting capabilities (Cy5 fluorescence reaching ∼1010 p/sec/cm2/sr) and significantly reduced plaque area following SHP-1 siRNA delivery. Importantly, the piperazine-based MIC5 LNPs exhibited enhanced plaque targeting efficiency with M2 macrophage uptake efficiency reaching 46.32% as well as superior therapeutic effects. Collectively, these SHP-1 siRNA-loaded LNPs offer a promising targeted therapeutic strategy for atherosclerotic vulnerable plaques and establish a novel nanoplatform for RNA-based macrophage-modulation in various inflammatory diseases.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Piperazine-Structured Lipid Nanoparticles Enable Enhanced Targeted Delivery of SHP-1 siRNA to Macrophages for Treatment of Atherosclerotic Vulnerable Plaques&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03833&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03833"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nonlocal Electrostatic Origin of Schottky-Barrier Variability in 2D Contacts</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03959</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03959</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electrical contacts often limit the performance of atomically thin semiconductor devices. The Schottky barrier height (SBH) is conventionally treated as a local interface property, yet reported values for the same metal/2D-semiconductor contact vary by hundreds of meV. Here we show that, in top contacts, the effective SBH exhibits a pronounced nonlocal electrostatic dependence on defects near the contact edge, beyond the conventional local interface framework. A nonlocal electrostatic model, supported by density-functional-theory-based transport calculations for Ti–MoS2 and Au–MoS2, captures the large, metal-dependent variations in SBH as a function of defect position relative to the contact edge. These results identify edge-mediated nonlocal electrostatics as a mechanism that can contribute substantially to experimentally extracted SBH variability. We also show that edge-proximal perturbations can either raise or lower the barrier, providing testable routes for modifying carrier injection in 2D contacts.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nonlocal Electrostatic Origin of Schottky-Barrier Variability in 2D Contacts&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03959&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03959"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/nlv026i036_2129856</link>
-      <guid isPermaLink="false">10.1021/nlv026i036_2129856</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i036_2129856</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Publication Information&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i036_2129856&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i036_2129856"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tuning Upconversion through Ho3+/Nd3+ Co-sensitized Cascade Energy Transfer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03617</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03617</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Lanthanide-doped upconversion nanocrystals (UCNCs) have attracted significant interest, driven by their emerging applications in photonics and anticounterfeiting. However, conventional UCNCs are excited by 808, 980, or 1540 nm, and there remains a gap within the 808–980 nm region. Here, we present a conceptual design for an energy-migratory Nd sublattice in Ho-sensitized multilayer core–shell UCNCs, enabling UC luminescence from a broad range of lanthanide ions under 897 nm excitation. This excitation wavelength is enabled by resonant transitions within Ho3+ and Nd3+, serving as an intermediate “buffer” layer to bridge the energy mismatch between Ho3+5F5 and Yb3+2F5/2 levels. Transient absorption measurements provide direct evidence for the energy transfer pathways at the Ho3+/Nd3+ interface. Moreover, optimizing the interlayer thickness enhances cascaded energy transfer and UC emission under 897 nm excitation. This work expands the available excitation wavelength range of UCNCs and opens new opportunities for information security.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tuning Upconversion through Ho3+/Nd3+ Co-sensitized Cascade Energy Transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03617&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03617"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tunable Kondo Behavior in a Bilayer Graphene Quantum Channel</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01707</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01707</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The interaction between itinerant electrons and localized spins is key to a wide range of electronic phenomena. We present conductance measurements of a quantum point contact (QPC) in bilayer graphene (BLG). Beyond the expected quantized conductance plateaus reflecting spin-and-valley degeneracy, we observe an additional plateau resembling the “0.7 anomaly”, exhibiting signatures of Kondo physics, with a Kondo temperature ranging from approximately 0.5 up to well above 5 K at zero magnetic field, corresponding to energies between 43 and 430 μeV. Because the QPC is spin-and-valley degenerate within our experimental resolution (110 μeV), according to the prevailing Kondo model, these results are consistent with a transition between 4-fold degenerate SU(4) and 2-fold degenerate spin-valley locked SU(2) interactions. Furthermore, we break the degeneracy of the lowest subband by an out-of-plane magnetic field and show that Kondo signatures remain, demonstrating the versatility of BLG QPCs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tunable Kondo Behavior in a Bilayer Graphene Quantum Channel&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01707&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01707"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>A Firing-Based Ionizing Radiation-Sensitive Transistor Operating through a Single-Transistor Latch</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02964</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02964</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Neuromorphic sensory systems require artificial sensory neurons that directly convert environmental stimuli into spike-based signals for efficient interfacing with spiking neural networks (SNNs). Here, we demonstrate a firing-based ionizing radiation-sensitive transistor (FIRST) that detects ionizing radiation through a single-transistor latch (STL). FIRST is implemented using a single MOSFET with a floating body on silicon-on-insulator wafers and generates spike trains through repetitive charging–discharging dynamics. Under gamma-ray irradiation, oxide-trapped charges in the front gate oxide and the back buried oxide modulate the positive-feedback mechanism of STL operation. Consequently, the latch-up voltage decreases with increasing total ionizing dose, resulting in a higher firing frequency. The generated spikes directly encode radiation information without additional sensing or analog front-end circuits. By integrating radiation sensing and spike encoding within a single transistor, the FIRST enables an artificial sensory neuron for ionizing radiation. This work provides a foundation for event-driven radiation monitoring and SNN-compatible sensing in high-radiation environments.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;A Firing-Based Ionizing Radiation-Sensitive Transistor Operating through a Single-Transistor Latch&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02964&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02964"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Machine Learning-Driven Phase Field Numerical Analysis for a Comprehensive Theoretical Framework of Local Electrochemical Environment and Operating Conditions Effects on Dendrite Evolution Mechanisms</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03313</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03313</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Unraveling the intricate interplay between the local electrochemical environment and operating conditions (LEEO) at the mesoscale is fundamental for the rational design of dendrite-free electrolytes. Herein, we quantitatively decouple the effects of diffusion and electromigration on dendrite evolution by using a phase-field model. Elevated voltages or current densities destabilize ion migration, exacerbating dendritic branching, while unexpectedly optimizing stripping efficiency. Conversely, high diffusion coefficients facilitate lateral ion replenishment, whereas superior ionic conductivity ensures rapid and uniform electromigration; their synergy effectively suppresses tip growth and regulates the lateral deposition. Moreover, Gaussian process regression establishes a robust predictive mapping between the LEEO and Coulombic efficiency (CE). This integrated mechanistic framework offers a reliable platform for screening electrolyte materials toward stable Li metal anodes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Machine Learning-Driven Phase Field Numerical Analysis for a Comprehensive Theoretical Framework of Local Electrochemical Environment and Operating Conditions Effects on Dendrite Evolution Mechanisms&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03313&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03313"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/nlv026i036_2129857</link>
-      <guid isPermaLink="false">10.1021/nlv026i036_2129857</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/nlv026i036_2129857</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Issue Editorial Masthead&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/nlv026i036_2129857&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i036_2129857"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:46:06 +0000</lastBuildDate>
     <item>
       <title>Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03038</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03038&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03038"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spin-Sensitive Optical Anisotropy Controlled by Pump Polarization in the Kagome Antiferromagnet FeSn</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02963</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02963</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Antiferromagnetic (AFM) materials offer ultrafast spin dynamics, negligible stray fields, and robustness against magnetic perturbations, yet their vanishing net magnetization renders optical detection and control of the Néel vector fundamentally challenging. Here, we demonstrate pump-polarization-written optical and magneto-optical (MO) anisotropy in the Kagome AFM FeSn by using pump–probe ultrafast spectroscopy. The experimental findings reveal that the principal axes of both optical and MO anisotropies are dictated exclusively by the pump polarization but remain insensitive to sample rotation, ruling out lattice birefringence as the dominant origin. Linearly polarized excitation generates a photoinduced electronic polarization that couples efficiently to AFM order via spin-layer-locked Dirac Fermions. In parallel, a cooperative anisotropic deformation potential mechanism produces bond-selective transient strain that modifies the dielectric tensor through elasto-optic and spin–orbit coupling, becoming increasingly prominent at higher fluence. These results establish a deterministic and nonthermal control of spin-sensitive optical anisotropy by pump polarization in Kagome AFMs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spin-Sensitive Optical Anisotropy Controlled by Pump Polarization in the Kagome Antiferromagnet FeSn&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02963&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02963"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -31,6 +43,54 @@
 </content:encoded>
     </item>
     <item>
+      <title>Operando Electrochemical Pump–Probe Spectroscopy for Resolving Electric Double Layer Formation Kinetics at Hydrogen Evolution Electrodes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03374</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03374</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Nanoscale interfacial charge transfer regulates electrochemical kinetics via solid–liquid electric double layer (EDL) modulation on nanostructured electrodes. Direct probing of nanoscale charge dynamics remains limited by the lack of efficient operando techniques. Herein, we develop an electrochemical pump–probe spectroscopy platform to track transient nano-interfacial processes in real time. Featuring high spectral sensitivity and microsecond-to-millisecond resolution, this setup synchronously captures electrical and plasmonic signals to resolve charge relaxation and EDL dynamics of Au nanoparticle electrodes during hydrogen evolution. Correlated electrical and optical responses successfully decouple charge transport and accumulation in electrode and interfacial charge transfer on the electrode surface: the former is more closed to capacitive charging, while the latter is determined by ion diffusion. Such interfacial kinetics are precisely modulated by electrolyte concentration, applied bias, and cation hydration. This work elucidates intrinsic nanoscale EDL evolution under hydrogen evolution reaction (HER) conditions and provides a versatile operando tool for broad nanoelectrochemical studies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Operando Electrochemical Pump–Probe Spectroscopy for Resolving Electric Double Layer Formation Kinetics at Hydrogen Evolution Electrodes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03374&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03374"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03080</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03080</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The band structure critically determines the intrinsic photodetector performance. With a high density of states (DOS), favorable band configuration, and strong electronic correlations, flat-band physics offers promising perspectives for optoelectronic optimization. Here, we demonstrate a broadband photodetector based on Mg4C60 superatomic crystals, in which hybridization of C-2p and Mg-3s orbitals creates flat bands with a suitable semiconducting gap. Such hybridization produces a global off-Γ conduction band minimum (CBM) with a nearly flat dispersion of ∼50 meV and an indirect quasiparticle gap of ∼1.37 eV, yielding a pronounced photoresponse peak at 905 nm. Complementary optical measurements and theoretical calculations show that these flat bands promote the photodetection figures of merit in few-layer Mg4C60 devices, leading to excellent photoresponsivity of ∼7 A·W–1, detectivity of ∼8.1 × 109 Jones, noise equivalent power of ∼5.5 × 10–14 W·Hz–1/2, and external quantum efficiency of ∼950%, exceeding most carbon-based photodetectors. This work establishes a general strategy for high-performance optoelectronics via flat-band engineering in superatomic crystals.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03080&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03080"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02274</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02274</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Fe3O4, the first reported nanozyme and the first FDA-approved transition-metal-based nanomaterial, holds promise for antibacterial therapy but is limited by poor ROS catalytic activity and utilization. Inspired by macrophage-like bacterial capture and insect wing micro/nanostructures, we designed Fe3O4 nanoparticles encapsulated in a conductive, hydrophobic carbon shell with densely aligned nanoneedles. This architecture shifted the Fe/O d/p-band centers toward the Fermi level, promoted H2O2 adsorption and activation, and strengthened H2O2 homolysis through H2O2–O hydrogen bonding, yielding 2.67-fold higher POD-like activity than that of pristine Fe3O4. The hydrophobic nanoneedle surface further inhibited continuous liquid film formation, enhanced bacterial adhesion, and shortened the distance between ROS generation sites and bacterial membranes, thereby improving ROS utilization. Consequently, the engineered Fe3O4 nanozyme achieved an MRSA inhibitory concentration nearly 15-fold lower than pristine Fe3O4. This work offers a microenvironment engineering strategy to advance Fe3O4-based antibacterial nanozymes toward clinical translation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02274&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02274"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02599</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02599</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Chemo-immunotherapy is limited by the poor bioavailability, nonspecific distribution, and systemic toxicity of free drugs. Here, we develop a reactive oxygen species (ROS)-responsive prodrug strategy by conjugating paclitaxel (PTX) and the TLR7/8 agonist resiquimod (R848) with a phenylboronic ester (PBE) moiety to generate two ROS-activatable prodrugs, PTX–PBE and R848–PBE. These prodrugs spontaneously coassemble into carrier-free nanoparticles (PR NPs) with ultrahigh loading efficiency and tunable drug ratios. PBE modification improves systemic stability while enabling ROS-triggered drug release in the tumor microenvironment, allowing PTX-mediated immunogenic cell death and R848-mediated innate immune activation. In colorectal cancer models, PR NPs suppress tumor growth, reduce systemic toxicity, and remodel the tumor immune microenvironment by promoting antitumor immune responses. This prodrug engineering strategy provides a high-loading, activatable, and carrier-free platform for chemo-immunotherapy with potential for cancer treatment.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02599&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02599"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Waveguide-Integrated Photonic Platform for On-Chip Optical Quantum-Dot Excitation via Electrically Pumped WGM Microlasers</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02939</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02939</guid>
@@ -40,6 +100,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02939&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02939"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Electrostatic Control of Li+ Density and Transport Rate in Double-Gated van der Waals Devices</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02610</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02610</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Ion transport in crystalline hosts is controlled by an applied potential that simultaneously sets ionic distribution and transport rate, restricting operation to a one-dimensional control space. Here we show that the transport rate of Li+ ions in double-gated van der Waals devices can be modulated while the system occupies fixed ionic-density states. We measure the ionic current along the van der Waals interfaces between hexagonal boron nitride and graphene or MoS2 while simultaneously monitoring the in-plane electronic response. The ionic current exhibits pronounced hysteresis, with plateaus marking discrete ionic-density states balanced by electronic charge, while an independently tunable electrochemical-potential drop controls the ionic transport rate. The devices sustain over 1,000 switching cycles and function as hybrid ionic–electronic transistors capable of logic operations and memory retention, with ON/OFF ratios exceeding 2 orders of magnitude. This work demonstrates a two-dimensional control space for ions intercalated in layered materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Electrostatic Control of Li+ Density and Transport Rate in Double-Gated van der Waals Devices&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02610&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02610"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -211,18 +283,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Obtaining a broadened optoelectronic response while maintaining a low photovoltage loss is a critical challenge for organic solar cells (OSCs). Infrared-responsive chiral single-walled carbon nanotubes (SWCNTs) could address this, yet their application is hindered by complex purification and aggregation. Here, we disperse SWCNTs in a high-quantum-yield wide-gap polymer, F8BT, to create an F8BT@CNT(10,5) composite dopant. This dopant broadens the spectral response, promotes energy transfer, refines the phase morphology of donor–acceptor heterojunctions, and synergistically enhances charge transport while suppressing nonradiative and bimolecular recombination. The strategy is general, achieving a 20.10% PCE and a low nonradiative loss of 0.182 eV across various OSC systems. Beyond photovoltaics, it enables high-sensitivity organic photodetectors for precise, real-time heart rate monitoring. This work highlights the potential of polymer-wrapped chiral CNTs to improve organic optoelectronic devices for energy conversion and sensing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
@@ -232,6 +292,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Obtaining a broadened optoelectronic response while maintaining a low photovoltage loss is a critical challenge for organic solar cells (OSCs). Infrared-responsive chiral single-walled carbon nanotubes (SWCNTs) could address this, yet their application is hindered by complex purification and aggregation. Here, we disperse SWCNTs in a high-quantum-yield wide-gap polymer, F8BT, to create an F8BT@CNT(10,5) composite dopant. This dopant broadens the spectral response, promotes energy transfer, refines the phase morphology of donor–acceptor heterojunctions, and synergistically enhances charge transport while suppressing nonradiative and bimolecular recombination. The strategy is general, achieving a 20.10% PCE and a low nonradiative loss of 0.182 eV across various OSC systems. Beyond photovoltaics, it enables high-sensitivity organic photodetectors for precise, real-time heart rate monitoring. This work highlights the potential of polymer-wrapped chiral CNTs to improve organic optoelectronic devices for energy conversion and sensing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -532,78 +604,6 @@
 &lt;p&gt;DOI: 10.1021/nlv026i036_2129857&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i036_2129857"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Flash Laser Heating of Sn Single-Atom Reconstructed Graphene toward Multifunctional Thermal Management</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03400</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03400</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Battery power loss, sluggish sensor response, and surface icing in low-temperature environments demand flexible and efficient thermal management materials. Here, we propose a flash-laser heating strategy to fabricate Sn single-atom anchored laser-induced graphene (Sn-SA@LIG) on a polyimide substrate. A secondary femtosecond laser treatment simultaneously enables Sn precursor decomposition, carbon framework reconstruction, and single-atom anchoring. Atomically dispersed Sn is incorporated into the graphitized carbon network, regulating defect electronic states and enhancing carrier transport. Meanwhile, the porous architecture promotes electrothermal conversion and infrared radiation. The optimized Sn-SA@LIG exhibits rapid and stable Joule heating at low voltages, achieving an electrothermal temperature rise coefficient of ∼204.64 °C·cm2·W–1 and an average infrared emissivity of 96.22%. It delivers efficient thermal output through both contact and radiative heating, demonstrating strong potential as a low-voltage thermal management material for extreme low-temperature environments.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Flash Laser Heating of Sn Single-Atom Reconstructed Graphene toward Multifunctional Thermal Management&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03400&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03400"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Design Strategies of Cu-Based Tandem Catalysts for Efficient Electrochemical CO2 Reduction to C2+ Products</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03203</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03203</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electrochemical CO2 reduction reaction (CO2RR) offers a promising route to convert CO2 into value-added fuels and chemicals using renewable electricity. Cu-based catalysts are uniquely capable of producing C2+ hydrocarbons and oxygenates through C–C coupling, but their performance is limited by insufficient *CO coverage, broad product distributions, competing hydrogen evolution, and stability issues at high current densities. Tandem catalysis addresses these challenges by integrating CO-generating components with Cu-based C–C coupling sites. This review summarizes recent advances in Cu-based tandem catalysts under flow-cell and industrially relevant conditions, focusing on spatially separated systems, Ag–Cu bimetallic interfaces, single-atom alloys, and SAC–Cu tandem architectures. Key design principles include regulating CO generation, transport, interfacial structure, and coupling pathways.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Design Strategies of Cu-Based Tandem Catalysts for Efficient Electrochemical CO2 Reduction to C2+ Products&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03203&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03203"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Untangling the Janus Effects of Ligament Size in Metal Aerogels for Wearable Electrochemical Biosensing</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03625</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03625</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Wearable electrochemical biointerfaces require electrode architectures that reconcile high electrochemical activity and mechanical flexibility, yet the micro-/nanoscale origin of this trade-off remains unclear. Here, ligament size-tailored gold aerogels are employed as a model system to how microstructural scaling governs their coupled electrochemical-mechanical behavior. Smaller ligament sizes increase surface area, accelerate charge transfer, and enhance bioelectrocatalytic activity, but they promote fracture and signal degradation under repeated deformation. In contrast, larger ligaments better preserve network continuity and conductive pathways at the expense of sensitivity. In situ scanning electron microscopy combined with molecular dynamics simulations identifies the diameter-dependent fracture strain of nanowires as a key descriptor linking nanoscale mechanics to macroscopic electrode stability. Guided by this mechanistic relationship, an intermediate ligament size achieves an optimal electrochemical activity-mechanical resilience balance, enabling deformation-stable sweat glucose monitoring with microfluidic sampling and wireless readout. This work offers a structural design guideline for high-performance wearable biosensing systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Untangling the Janus Effects of Ligament Size in Metal Aerogels for Wearable Electrochemical Biosensing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03625&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03625"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spatiotemporal Programming via Asymmetric Dielectric Engineering for Nonvolatile 2D Optoelectronics</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03275</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03275</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ambipolar two-dimensional (2D) semiconductors integrated with floating-gate architectures offer a promising platform for nonvolatile, reconfigurable electronics. However, the switching between p–n and n–p junction polarities has conventionally required complex multigate designs, hindering the scalability and integration density. Here, we demonstrate a spatiotemporal programming strategy using a dual-floating-gate architecture with a symmetry-broken tunneling dielectric. An asymmetric dielectric stack creates distinct tunneling thresholds for two floating gates, enabling a single input gate to encode spatial doping profiles in the 2D channel via defined voltage pulse sequences. We achieve on-demand, nonvolatile, and reversible switching between p–n and n–p configurations with excellent retention and endurance. The reconfigurable homojunction serves as a multifunctional platform for logic encoding, rectification, photodetection, and in-sensor computing. This work establishes a design paradigm that replaces spatial input complexity with spatiotemporal programming, paving the way for high-density, multifunctional intelligent hardware.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spatiotemporal Programming via Asymmetric Dielectric Engineering for Nonvolatile 2D Optoelectronics&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03275&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03275"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Interfacial Oxidation Unlocks Degenerate &lt;i&gt;n&lt;/i&gt; -Doping in Monolayer MoS2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04142</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04142</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Recent advances in interface engineering have overcome high contact resistance in 2D semiconductor devices by modifying band alignment and carrier density of transition metal dichalcogenide contacts, including through group-V semimetals and charge-transfer doping. Combining photoelectron spectroscopy, diffraction, and microscopy, we demonstrate that placing single-layer MoS2 in contact with a pristine Bi layer results only in weak n-doping and no detectable conduction-band occupation, whereas oxidation of the Bi layer produces a pronounced occupation of the MoS2 conduction band with an electron density on the order of 1013 cm–2. We attribute this strong n-type charge transfer to the formation of an ultrathin β-Bi2O3-like layer with an unusually low effective work function, consistent with our measurements and calculations for an ideal Bi-terminated β-Bi2O3(201) surface. These results establish interfacial oxidation as a means to engineer strong n-type charge transfer at transition metal dichalcogenide interfaces and motivate future transport studies of oxide-mediated contact architectures.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Interfacial Oxidation Unlocks Degenerate &amp;lt;i&amp;gt;n&amp;lt;/i&amp;gt; -Doping in Monolayer MoS2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04142&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04142"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Amorphization-Mediated Si-I to Si-V Phase Transition and Reversible Amorphous Si-V Phase Memory in Silicon Nanoparticles</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02592</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02592</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract An experiment has shown that ∼10 nm Si nanoparticles undergo a Si–I (diamond cubic) to Si–V (simple hexagonal) phase transition under compression, in contrast to the Si–I to Si–II (tetragonal) transition observed in bulk silicon. However, the atomistic mechanism underlying this size-dependent transition pathway remains unclear. Here, we employ molecular dynamics simulations with a machine learning interatomic potential to reveal a stress triaxiality-driven, two-step Si–I to Si–V transition pathway in a spherical Si nanoparticle subjected to an idealized triaxial contact loading model. An intermediate amorphous phase nucleates at the nanoparticle surface and propagates inward around the Si–I core in regions of low stress triaxiality dominated by shear. Within this amorphous shell, Si–V recrystallizes at locations with increased stress triaxiality and hydrostatic pressure. Upon unloading, the Si–V structure transforms into an amorphous state. A subsequent loading–unloading cycle applied to this amorphous nanoparticle reveals a reversible amorphous-to-Si–V transformation, demonstrating a nanoscale phase memory effect.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Amorphization-Mediated Si-I to Si-V Phase Transition and Reversible Amorphous Si-V Phase Memory in Silicon Nanoparticles&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02592&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02592"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

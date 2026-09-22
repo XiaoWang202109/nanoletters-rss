@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 03:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:52:57 +0000</lastBuildDate>
+    <item>
+      <title>Phosphorylation-Mediated Regulatory Networks Fine-Tune Rye Responses to PVC Nanoplastic Stress: Evidence from Multiomics and Computational Biology</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02670</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02670</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Although polyvinyl chloride nanoplastics (NPs-PVC) are widespread emerging contaminants, their crop toxicity mechanisms─especially at the post-translational modification (PTM) level─remain unclear. Using multiscale exposures (short-term hydroponics and whole-life-cycle soil cultivation), integrated physiological, imaging, omics (transcriptomics and phosphoproteomics), molecular docking, and molecular dynamics simulations, we systematically evaluated NPs-PVC impacts on Secale cereale. Short-term exposure inhibited growth, reduced photosynthesis, and induced oxidative stress, with PVC stably binding cytochrome f and catalase. Long-term exposure decreased grain weight and tillers, accompanied by transcriptional shifts in metabolism and stress pathways. Phosphoproteomics revealed widespread phosphorylation changes in photosynthesis- and lipid metabolism-related proteins, with PVC-14-3-3λ binding confirmed by simulation. Structural equation modeling demonstrated that NPs-PVC regulates agronomic traits mainly through oxidative stress and photosynthesis disruption. Collectively, NPs-PVC suppresses rye growth via direct protein binding, transcriptional reprogramming, and PTM-mediated physiological tuning. This study advances the understanding of nanoplastic phytotoxicity mechanisms and agricultural ecological risk assessment.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Phosphorylation-Mediated Regulatory Networks Fine-Tune Rye Responses to PVC Nanoplastic Stress: Evidence from Multiomics and Computational Biology&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02670&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02670"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Multiscale van der Waals Metallization via Peel-Front Strain Engineering</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03171</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03171</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Integrating van der Waals (vdW) devices into circuits requires metal electrodes and interconnects spanning nanometer to millimeter scales, yet mechanical deformation during electrode transfer compromises geometric integrity across this range. This work identifies strain localized at the carrier peel-front as a dominant factor influencing transferred metal geometry. Evaluating the peel-front strain against thickness-dependent strain tolerance of the carrier layer yields a mechanics-based framework that predicts the carrier thickness for geometry-preserving transfer. Operating within this regime preserves line continuity, edge definition, and dimensional accuracy from sub-100 nm to millimeters in a single transfer. The impact of geometric preservation is evident in MoS2 memristors with transferred electrodes as narrow as 80 nm, which improve switching durability by more than an order of magnitude, and in field-effect transistors with a channel length of 70 nm and ultrascaled contact geometries. These results provide a practical route toward scalable vdW metallization for 2D electronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Multiscale van der Waals Metallization via Peel-Front Strain Engineering&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03171&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03171"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03038</link>
@@ -175,18 +199,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03473</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03473</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Copper fluoride (CuF2) exhibits high theoretical specific capacity and an attractive redox potential, making it a promising lithium metal batteries (LMBs) cathode material. Nevertheless, its cycling performance remains inadequate, with severe capacity loss occurring over the first few cycles and leading to poor reversibility. Herein, a CuF2/copper foam (CuF2/CF) integrated cathode is constructed by in situ synthesizing CuF2 on CF substrate using a facile hydrothermal method and further annealing process. The in situ fluorination of the conductive three-dimensional (3D) porous CF may effectively inhibit the further dissolution of CuF2 in the organic electrolyte and enhances the electron and ion transport capabilities. The optimized CuF2/CF integrated cathode delivers an excellent specific capacity of 762 mAh g–1 and exhibits excellent cycling performance. This work provides a feasible strategy to solve the solubility problem of CuF2 as a cathode material for LMBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03473&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03473"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02599</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02599</guid>
@@ -196,6 +208,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02599&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02599"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03473</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03473</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Copper fluoride (CuF2) exhibits high theoretical specific capacity and an attractive redox potential, making it a promising lithium metal batteries (LMBs) cathode material. Nevertheless, its cycling performance remains inadequate, with severe capacity loss occurring over the first few cycles and leading to poor reversibility. Herein, a CuF2/copper foam (CuF2/CF) integrated cathode is constructed by in situ synthesizing CuF2 on CF substrate using a facile hydrothermal method and further annealing process. The in situ fluorination of the conductive three-dimensional (3D) porous CF may effectively inhibit the further dissolution of CuF2 in the organic electrolyte and enhances the electron and ion transport capabilities. The optimized CuF2/CF integrated cathode delivers an excellent specific capacity of 762 mAh g–1 and exhibits excellent cycling performance. This work provides a feasible strategy to solve the solubility problem of CuF2 as a cathode material for LMBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03473&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03473"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -211,18 +235,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Borophene research has predominantly focused on its monolayer forms due to the challenges associated with synthesizing multilayer boron sheets, despite the desirable properties predicted theoretically beyond the single-atomic-layer limit. Here, we present the successful synthesis of bilayer borophene on Ir(111) substrates, which possesses a distinct atomic structure compared to previously reported bilayer borophene phases. Using scanning tunneling microscopy and spectroscopy, a significantly reduced local work function is observed for bilayer borophene compared to monolayer borophene on iridium. Specifically, bilayer islands show strong peak position shifts toward lower energy in field emission resonance spectroscopy, which is further corroborated by density functional theory calculations. This ultralow-work-function bilayer phase presents expanded application opportunities for borophene including field emission sources, photoelectric devices, and quantum technologies.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02672</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02672</guid>
@@ -232,6 +244,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02672&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02672"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Borophene research has predominantly focused on its monolayer forms due to the challenges associated with synthesizing multilayer boron sheets, despite the desirable properties predicted theoretically beyond the single-atomic-layer limit. Here, we present the successful synthesis of bilayer borophene on Ir(111) substrates, which possesses a distinct atomic structure compared to previously reported bilayer borophene phases. Using scanning tunneling microscopy and spectroscopy, a significantly reduced local work function is observed for bilayer borophene compared to monolayer borophene on iridium. Specifically, bilayer islands show strong peak position shifts toward lower energy in field emission resonance spectroscopy, which is further corroborated by density functional theory calculations. This ultralow-work-function bilayer phase presents expanded application opportunities for borophene including field emission sources, photoelectric devices, and quantum technologies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -415,18 +439,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
@@ -436,6 +448,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03327&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03327"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Atomic Defect-Mediated Charge Trapping Enables Multimodal Plasticity in van der Waals Heterostructures for In-Sensor Neuromorphic Vision</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03546</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03546</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Neuromorphic hardware that unifies sensing, memory, and learning at the device level remains challenging due to limited optoelectronic comodulation and rigid architectures. Here, we report a flexible, van der Waals (vdW)-integrated MoS2/hexagonal boron nitride (h-BN)/graphene memtransistor in which defect-mediated interfacial charge trapping enables gate-tunable, multimodal synaptic plasticity under combined optical and electrical stimuli. The device reproduces short- and long-term plasticity, multilevel optical memory, and Pavlovian associative learning via repeated optical–electrical stimulus pairing. It exhibits an on/off ratio exceeding 108, low-energy optical switching (138.6 pJ per event), and stable operation after 1000 bending cycles (&amp;amp;lt;1.4% variation). Implemented in a hybrid optoelectronic neural network, the device achieves 96.03% accuracy on the MNIST benchmark, closely approaching ideal software performance. These results establish defect-mediated charge trapping in vdW heterostructures as a scalable route to flexible, in-sensor neuromorphic vision, where perception, memory, and learning converge for next-generation adaptive sensing systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Atomic Defect-Mediated Charge Trapping Enables Multimodal Plasticity in van der Waals Heterostructures for In-Sensor Neuromorphic Vision&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03546&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03546"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Straightforward Syntheses of Alloys and Core–Shell Nanoparticles: The Benefits of Surfactant-Free Alcohol-Mediated Strategies Illustrated with Au–Ag Nanomaterials</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02771</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02771</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Core–shell nanoparticles present unique properties that their monometallic counterparts do not express. Unfortunately, the simple and environmentally friendly preparation of such advanced structures is challenging. A method that bypasses typical challenges in the synthesis of such materials is proposed based on a room-temperature monoalcohol-mediated synthesis without the need for surfactants. The concept is demonstrated with the straightforward synthesis of gold–silver alloys and core–shell nanostructures. The results pave the way for complex materials obtained by more sustainable surfactant-free approaches.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Straightforward Syntheses of Alloys and Core–Shell Nanoparticles: The Benefits of Surfactant-Free Alcohol-Mediated Strategies Illustrated with Au–Ag Nanomaterials&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02771&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02771"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:03:57 +0000</lastBuildDate>
     <item>
       <title>Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03038</link>
@@ -28,6 +28,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02963&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02963"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>In Situ Control of Self-Assembled Morphology and Photonic Properties via In-Film Polymerization</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02315</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02315</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Bottlebrush block copolymers (BBCPs) are promising materials for the fabrication of photonic crystals because of their tunable composition and rapid self-assembly into large-period nanostructures. However, it is currently difficult to achieve spatially resolved control over nanostructure and photonic response, because these nanostructures are usually fixed upon fabrication. Here, we demonstrate that in-film polymerization within a BBCP photonic film provides a composition-directing route to alter its morphology and structural color based on the effective volume fraction of the two blocks. Monomer vapor swells photoinitiator-containing BBCP films and undergoes UV-triggered photopolymerization, generating a homopolymer in situ within the BBCP matrix. Reflectance spectroscopy monitored the color evolution, while SEM visualized the accompanying morphology changes, which were driven by the shift in film composition from the resulting homopolymer. Masked irradiation further provides a proof-of-concept route to localize the polymerization and resulting optical response within a single film.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;In Situ Control of Self-Assembled Morphology and Photonic Properties via In-Film Polymerization&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02315&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02315"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Native Defects Enable Facile Measurement of the Carrier Concentration in Two-Dimensional Semiconductors Using Kelvin Probe Force Microscopy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c01913</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c01913</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The carrier concentration is an important property of semiconductors; however, measuring the carrier concentration is challenging for nonstandard samples. Here, we report a method for measuring the carrier concentration in 2D semiconductors using sideband Kelvin probe force microscopy. We map the surface potential (1) at three Pt–transition-metal dichalcogenide (TMDC) interfaces and (2) at step-edge defects native to the TMDCs. Mapping the local surface potential across Pt–TMDC interfaces enables quantification of the built-in potential and the space-charge-region width, from which the carrier concentration can be calculated. The calculated values are similar to those obtained from simulations of the 3D space-charge region at Pt–TMDC interfaces. Mapping the local surface potential at step-edge defects in the same crystals and modeling these defects as rectifying metal–semiconductor interfaces yields similar carrier concentrations. Together, this work provides a straightforward, nondestructive method for measuring the carrier concentration in 2D semiconductors.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Native Defects Enable Facile Measurement of the Carrier Concentration in Two-Dimensional Semiconductors Using Kelvin Probe Force Microscopy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01913&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01913"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -127,18 +151,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02274</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02274</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Fe3O4, the first reported nanozyme and the first FDA-approved transition-metal-based nanomaterial, holds promise for antibacterial therapy but is limited by poor ROS catalytic activity and utilization. Inspired by macrophage-like bacterial capture and insect wing micro/nanostructures, we designed Fe3O4 nanoparticles encapsulated in a conductive, hydrophobic carbon shell with densely aligned nanoneedles. This architecture shifted the Fe/O d/p-band centers toward the Fermi level, promoted H2O2 adsorption and activation, and strengthened H2O2 homolysis through H2O2–O hydrogen bonding, yielding 2.67-fold higher POD-like activity than that of pristine Fe3O4. The hydrophobic nanoneedle surface further inhibited continuous liquid film formation, enhanced bacterial adhesion, and shortened the distance between ROS generation sites and bacterial membranes, thereby improving ROS utilization. Consequently, the engineered Fe3O4 nanozyme achieved an MRSA inhibitory concentration nearly 15-fold lower than pristine Fe3O4. This work offers a microenvironment engineering strategy to advance Fe3O4-based antibacterial nanozymes toward clinical translation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02274&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02274"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Alveolar-Inspired Negative-Pressure Soft Actuators with Integrated Actuation–Sensing</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02923</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02923</guid>
@@ -151,15 +163,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02599</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02599</guid>
+      <title>Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02274</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02274</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Chemo-immunotherapy is limited by the poor bioavailability, nonspecific distribution, and systemic toxicity of free drugs. Here, we develop a reactive oxygen species (ROS)-responsive prodrug strategy by conjugating paclitaxel (PTX) and the TLR7/8 agonist resiquimod (R848) with a phenylboronic ester (PBE) moiety to generate two ROS-activatable prodrugs, PTX–PBE and R848–PBE. These prodrugs spontaneously coassemble into carrier-free nanoparticles (PR NPs) with ultrahigh loading efficiency and tunable drug ratios. PBE modification improves systemic stability while enabling ROS-triggered drug release in the tumor microenvironment, allowing PTX-mediated immunogenic cell death and R848-mediated innate immune activation. In colorectal cancer models, PR NPs suppress tumor growth, reduce systemic toxicity, and remodel the tumor immune microenvironment by promoting antitumor immune responses. This prodrug engineering strategy provides a high-loading, activatable, and carrier-free platform for chemo-immunotherapy with potential for cancer treatment.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02599&lt;/p&gt;
+      <description>Abstract Fe3O4, the first reported nanozyme and the first FDA-approved transition-metal-based nanomaterial, holds promise for antibacterial therapy but is limited by poor ROS catalytic activity and utilization. Inspired by macrophage-like bacterial capture and insect wing micro/nanostructures, we designed Fe3O4 nanoparticles encapsulated in a conductive, hydrophobic carbon shell with densely aligned nanoneedles. This architecture shifted the Fe/O d/p-band centers toward the Fermi level, promoted H2O2 adsorption and activation, and strengthened H2O2 homolysis through H2O2–O hydrogen bonding, yielding 2.67-fold higher POD-like activity than that of pristine Fe3O4. The hydrophobic nanoneedle surface further inhibited continuous liquid film formation, enhanced bacterial adhesion, and shortened the distance between ROS generation sites and bacterial membranes, thereby improving ROS utilization. Consequently, the engineered Fe3O4 nanozyme achieved an MRSA inhibitory concentration nearly 15-fold lower than pristine Fe3O4. This work offers a microenvironment engineering strategy to advance Fe3O4-based antibacterial nanozymes toward clinical translation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02274&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02599"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02274"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -172,6 +184,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03473&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03473"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02599</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02599</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Chemo-immunotherapy is limited by the poor bioavailability, nonspecific distribution, and systemic toxicity of free drugs. Here, we develop a reactive oxygen species (ROS)-responsive prodrug strategy by conjugating paclitaxel (PTX) and the TLR7/8 agonist resiquimod (R848) with a phenylboronic ester (PBE) moiety to generate two ROS-activatable prodrugs, PTX–PBE and R848–PBE. These prodrugs spontaneously coassemble into carrier-free nanoparticles (PR NPs) with ultrahigh loading efficiency and tunable drug ratios. PBE modification improves systemic stability while enabling ROS-triggered drug release in the tumor microenvironment, allowing PTX-mediated immunogenic cell death and R848-mediated innate immune activation. In colorectal cancer models, PR NPs suppress tumor growth, reduce systemic toxicity, and remodel the tumor immune microenvironment by promoting antitumor immune responses. This prodrug engineering strategy provides a high-loading, activatable, and carrier-free platform for chemo-immunotherapy with potential for cancer treatment.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02599&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02599"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02771&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02771"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Endogenously Triboenhanced Heterogeneous Piezoelectric Nanofiber Membranes for Self-Powered Electroluminescent Pressure Sensing</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03418</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03418</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The innovation of sensing systems is increasingly evolving toward direct visualization, which demands real-time and high electromechanical output to drive reliable optical readout, yet most multimodal sensing systems rely on simple signal superposition. Here, an endogenous tribo-enhanced piezoelectric pressure sensing with visualization capability was developed by coupling a PAN/PVDF-HFP heterogeneous nanofiber membrane with a ZnS:Cu/PZT/Ecoflex electroluminescent layer. The nanofiber membrane features a skeleton-filling architecture in which PAN-rich and PVDF-HFP-rich domains create abundant heterogeneous interfaces for endogenous triboelectric charge generation. Incorporation of [BMIM][BF4] further promotes charge separation and transport, increasing the open-circuit voltage and short-circuit current to 8 V and 22.8 nA, respectively. The enhanced electromechanical output directly drives the electroluminescent layer, enabling the real-time visualization of handwriting, patterned indentation, and dynamic stretching. This work provides an interface engineering strategy for self-powered visual pressure sensing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Endogenously Triboenhanced Heterogeneous Piezoelectric Nanofiber Membranes for Self-Powered Electroluminescent Pressure Sensing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03418&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03418"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Raman Enhancement of Molecules Sandwiched between van der Waals Materials</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02758</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02758</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Raman enhancement has been widely observed for molecules adsorbed on van der Waals (vdW) materials including graphene, MoS2, hexagonal boron nitride, and transition-metal dichalcogenides. This enhancement is often dominated by a chemical mechanism. However, how the Raman response evolves when a molecule is sandwiched between two vdW layers remains unclear. Here, using copper phthalocyanine (CuPc) as a probe, we compare three sandwich structures: graphene/CuPc/TiS2, graphene/CuPc/TiSe2, and graphene/CuPc/graphene, spanning asymmetric to near-symmetric dual-interface geometries. We find that adding a second interface in contact with the molecule can suppress, moderate, or enhance the Raman response of CuPc depending on the contacting material pair and vibrational symmetry. The graphene/CuPc/graphene sandwich shows stronger enhancement than single-interface CuPc/graphene, with an excitation wavelength dependence. These results show that the dual-interface Raman response is influenced by interface-dependent charge-transfer effects and increased nonradiative damping. This work provides an experimental framework for understanding Raman enhancement in molecule-sandwiched structures.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Raman Enhancement of Molecules Sandwiched between van der Waals Materials&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02758&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02758"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

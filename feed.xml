@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:48:45 +0000</lastBuildDate>
     <item>
       <title>Phosphorylation-Mediated Regulatory Networks Fine-Tune Rye Responses to PVC Nanoplastic Stress: Evidence from Multiomics and Computational Biology</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02670</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02670&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02670"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>First-Principles Insights into Surface and Ligand Effects in Stoichiometric HgTe Quantum Dots</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02979</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02979</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract HgTe quantum dots are promising colloidal infrared semiconductors for photodetection, imaging, and optoelectronics because their electronic structure can be tuned from the short-wave to mid-infrared. Despite this technological promise, how the electronic structure of ultrasmall HgTe quantum dots emerges from confined semimetallic HgTe and how surface coordination governs frontier-state localization remain unresolved. Here, first-principles calculations on stoichiometric HgTe nanoclusters spanning ∼0.86–1.85 nm reveal a transition from confinement-dominated to surface-controlled electronic structure. Small self-passivated clusters exhibit clean HOMO–LUMO gaps and delocalized frontier states, whereas larger nanoclusters develop localized surface-associated near-edge states driven by coordination and bond-length heterogeneity. At intermediate sizes, the HOMO and LUMO become spatially separated without forming deep-gap states. Neutral ligands suppress localized states by restoring surface coordination while tuning frontier-state energetics through ligand–surface hybridization. These findings establish an atomistic framework for controlling surface-driven electronic structure in infrared quantum dots.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;First-Principles Insights into Surface and Ligand Effects in Stoichiometric HgTe Quantum Dots&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02979&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02979"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -100,6 +112,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02777&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02777"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Electrolyte-Gated IGZO Nanofiber Transistors with Ultrafast Switching and Long-Term Stability for Ultraflexible Logic Circuits</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03478</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03478</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Metal oxide electrolyte-gated transistors (MO EGTs) enable low-voltage operation through electric-double-layer coupling, but combining fast switching, stability, and ultraflexible integration remains challenging. Here, we report electrospun amorphous indium–gallium–zinc oxide (IGZO) nanofiber EGTs with high specific-surface-area channels that facilitate electrolyte access and gate modulation. Optimized phosphate buffer solution (PBS)-gated devices exhibit an on/off ratio of ∼6.3 × 104, a hysteresis of ∼40.4 mV, and a saturation current of 0.24 mA, with turn-on/off times of 201/347 μs and a small-signal transconductance cutoff frequency of ∼26 kHz. An ion-gel electrolyte improves bias-stress tolerance and enables continuous switching over 6,000 s, with turn-on/off times of 610 μs/1.2 ms. Solid-state devices are further integrated into inverters, NOR gates, and NAND gates operating at 1 V, including implementations on ultrathin polyimide substrates. These results advance low-voltage ultraflexible oxide logic for wearable electronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Electrolyte-Gated IGZO Nanofiber Transistors with Ultrafast Switching and Long-Term Stability for Ultraflexible Logic Circuits&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03478&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03478"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Robust Exchange Bias in van der Waals Heterostructures of Topological Insulators and Metallic Ferromagnets</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03588</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03588</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Exchange bias from ferromagnet (FM) and antiferromagnet (AFM) interface underpins modern spintronics and magnetic technologies. Van der Waals (vdW) magnets allow arbitrary stacking, offering richer material and device choices. However, challenges arise when integrating FM metals with vdW topological materials. Conductive channels from FMs obscure intrinsic topological transport properties of interest for low-dissipation spintronics. Here we report a device obtained by inserting an insulating h-BN spacer between FM Fe3GaTe2 and the AFM topological insulator MnBi2Te4, departing from the conventional requirement of direct FM/AFM contact. Contrary to expectations that a spacer would preclude coupling, we observe an exchange bias field of ∼0.5 T, among the highest in vdW magnetic systems. We propose that Fe3GaTe2 induces a ferromagnetic component on the MnBi2Te4 surface while its interior remains antiferromagnetic, resulting in exchange bias originating within MnBi2Te4 layers. This large exchange bias without direct contact opens new design avenues for vdW magnetic heterostructures and broadens the scope of low-dimensional magnetism.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Robust Exchange Bias in van der Waals Heterostructures of Topological Insulators and Metallic Ferromagnets&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03588&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03588"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,79 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 03:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:40:53 +0000</lastBuildDate>
+    <item>
+      <title>Relaxation Piezoionic Hydrogel for Self-Powered, Self-Decoupled Monitoring of Finger Rehabilitation</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03647</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03647</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Hand motor dysfunction involves limited finger flexion and impaired release control, making finger flexion angles and active relaxation ability key metrics for rehabilitation assessment. However, existing flexible electronics quantify deformation amplitude, while deformation rate remains difficult to read out directly. Here, we report a mechanically trained poly(vinyl alcohol)-NaCl hydrogel with the relaxation piezoionic effect for self-powered, self-decoupled monitoring of stress magnitude and acceleration. The hydrogel produces a positive piezoionic voltage above 20 mV during compression and a reverse relaxation piezoionic voltage above 18 mV during unloading. Experiments and multiphysics simulations show that the reverse piezoionic voltage correlates with deformation recovery rate, enabling electrical readout of unloading speed. The hydrogel is further integrated into a multichannel platform for real-time finger rehabilitation visualization. This work provides an autonomous strategy for hand rehabilitation monitoring and a design principle for bioelectronic platforms in motion analysis, human–machine interaction, and personalized healthcare.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Relaxation Piezoionic Hydrogel for Self-Powered, Self-Decoupled Monitoring of Finger Rehabilitation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03647&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03647"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Catheter-associated urinary tract infections (CAUTIs) have been a common but challenging disease due to difficulties in the accurate prescribing of antibiotics, while existing clinical diagnostic methods are deficient in their quickness, simplicity, and convenience. Here we report a point-of-care sensing technique using untethered coacervate robots, which demonstrate high controllability and adaptation in confined catheters filled with viscous urine. Under different motion modes, the controlled coacervate robots can achieve a quick, visualized, and selective fluorescence response to Gram-negative bacteria from 102 CFU/mL to 107 CFU/mL in human urine as well as remove the colonized bacteria in the inner wall of catheters within 5 min. Blind tests on clinical urine samples with various bacterial infections reveal that the coacervate robots achieve 90% sensitivity and 100% specificity in identifying Gram-negative bacteriuria. The visualized sensing technique opens up a pathway for quick onsite diagnosis, which helps prevent infections associated with urinary catheters.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Coupling Porous Architecture and Fe–F Coordination Engineering Enables Highly Reversible FeF3 Cathode Materials</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03811</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03811</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Iron trifluoride (FeF3) is a promising conversion-type cathode material for next-generation lithium-ion batteries (LIBs) owing to its high theoretical capacity enabled by multielectron redox chemistry. However, its practical application is limited by sluggish reaction kinetics, large volume fluctuations, and unstable electrode/electrolyte interfaces. Herein, we develop a deep eutectic solvent strategy that enables controlled fluorination, constructing interconnected porous architectures and regulating the local Fe–F coordination environment. Benefiting from shortened Li+ diffusion pathways and reduced stress accumulation, the porous FeF3 delivers a reversible capacity of 551.5 mAh g–1 at 50 mA g–1 and excellent cycling stability with 66.4% capacity retention after 1000 cycles. Spectroscopic characterizations and COMSOL simulations reveal that the regulated Fe–F promotes the formation of a robust inorganic-rich cathode electrolyte interphase, thereby enabling stable interfacial chemistry. This work highlights the critical roles of both porous architecture design and local coordination chemistry in governing conversion-type cathode materials for LIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Coupling Porous Architecture and Fe–F Coordination Engineering Enables Highly Reversible FeF3 Cathode Materials&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03811&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanoconfined Polymer Dot Reactors for Ultrasensitive Monitoring of Diverse Metabolites and Point-of-Care Diagnosis</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03728</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03728</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Polymer dots (Pdots) offer high brightness and tunable electronic properties for point-of-care testing, but conventional sensing often suffers from inefficient stochastic interactions and limited adaptability. Here, we screened Pdots for interactions with the NAD+/NADH redox couple and identified PDFDP Pdots with an NADH detection limit of 2.41 nM. Coupling PDFDP Pdots with NAD+-dependent enzymes enabled detection of multiple metabolites through enzymatically generated NADH. Co-encapsulation of Pdots and enzymes within microreactors further enhanced signal transduction by spatial confinement. Combined with smartphone-based RGB analysis under UV illumination, the platform enabled micromolar detection of lactate, β-hydroxybutyrate, glutamate, alanine, and ethanol. The method was further demonstrated in sweat and urine samples, showing good agreement with established analytical methods and supporting its potential for portable metabolite monitoring and exploratory disease-associated analysis.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoconfined Polymer Dot Reactors for Ultrasensitive Monitoring of Diverse Metabolites and Point-of-Care Diagnosis&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03728&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Hysteresis and Trap Emission in dc-Biased Integrated Lithium Niobate Electro-optic Modulators</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03406</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03406</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The electro-optic (EO) effect is crucially important for low power and efficient tuning of integrated photonic circuits. However, in EO materials such as lithium niobate, dc biasing for an extended duration of time results in the emergence of numerous nonidealities, including hysteresis─a persistent degradation of the magnitude and linearity of the dc EO response. We show that EO hysteresis can be reversed under both zero-bias and reverse-bias conditions, given sufficient time or reverse voltage and consistent with a defect model of the underlying physics. Specifically, we infer that drift phenomena at short time scales may arise from charge trapping dynamics near the contact junction and thereby devise an active reset protocol that restores the magnitude of the response and partially restores the drift time scales.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Hysteresis and Trap Emission in dc-Biased Integrated Lithium Niobate Electro-optic Modulators&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03406&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03406"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Peptide Glasses with Room Temperature Shaping and Autonomous Self-Healing Capabilities</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03551</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03551</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Biomolecular glasses recently emerged as a promising renewable and benign alternative to conventional glasses, but often they cannot autonomously self-repair. In this study, we adopt a new strategy to arrest the crystallization tendency of dipeptides and leverage high molecular mobility of protected dipeptides to prepare self-healing glassy solids without the application of external stimuli. The peptide glasses are stable under wet conditions and have some promising properties, such as high transmittance of visible light, Young’s moduli of up to 16.3 GPa, and heating-free shaping capability. Moreover, a cysteine–lysine dipeptide can be applied as an auxiliary to promote the healing of peptide glasses, which are otherwise unable to automatically recover from mechanical damages. Our findings establish a promising avenue to the design and preparation of healable and shapeable biomolecular glasses that could be highly advantageous for their application as smart coating, optical, and biomedical materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Peptide Glasses with Room Temperature Shaping and Autonomous Self-Healing Capabilities&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03551&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03551"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Phosphorylation-Mediated Regulatory Networks Fine-Tune Rye Responses to PVC Nanoplastic Stress: Evidence from Multiomics and Computational Biology</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02670</link>
@@ -103,18 +175,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
@@ -124,6 +184,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -235,18 +307,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03032</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03032</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Highly aligned polymer fibers provide continuous pathways for directional thermal conduction in all-organic composites, yet quantitative prediction remains limited by the lack of independently measured constituent-fiber thermal conductivity. Here, we study polydimethylsiloxane (PDMS) composites reinforced with commercial ultrahigh-molecular-weight polyethylene (UHMWPE), poly(p-phenylene benzobisoxazole) (PBO), and Kevlar fibers. The axial thermal conductivities of individual fibers and PDMS are measured independently and used, together with fiber volume fraction, as direct inputs to a parallel model. The model quantitatively captures the axial thermal conductivity of all three aligned fiber/PDMS materials over a range of fiber volume fractions. Molecular dynamics simulations further reveal distinct phonon-transport characteristics among crystalline PE, PBO, and Kevlar and support the parallel thermal transport trend. These results establish a quantitative framework linking constituent properties and continuous pathway architecture to axial thermal conduction. The UHMWPE-PDMS composite achieves 26.66 W m–1 K–1 while retaining low density, flexibility, electrical insulation, and thermal stability.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03032&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03032"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03080</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03080</guid>
@@ -256,6 +316,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03080&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03080"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03032</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03032</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Highly aligned polymer fibers provide continuous pathways for directional thermal conduction in all-organic composites, yet quantitative prediction remains limited by the lack of independently measured constituent-fiber thermal conductivity. Here, we study polydimethylsiloxane (PDMS) composites reinforced with commercial ultrahigh-molecular-weight polyethylene (UHMWPE), poly(p-phenylene benzobisoxazole) (PBO), and Kevlar fibers. The axial thermal conductivities of individual fibers and PDMS are measured independently and used, together with fiber volume fraction, as direct inputs to a parallel model. The model quantitatively captures the axial thermal conductivity of all three aligned fiber/PDMS materials over a range of fiber volume fractions. Molecular dynamics simulations further reveal distinct phonon-transport characteristics among crystalline PE, PBO, and Kevlar and support the parallel thermal transport trend. These results establish a quantitative framework linking constituent properties and continuous pathway architecture to axial thermal conduction. The UHMWPE-PDMS composite achieves 26.66 W m–1 K–1 while retaining low density, flexibility, electrical insulation, and thermal stability.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03032&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03032"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -331,18 +403,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Borophene research has predominantly focused on its monolayer forms due to the challenges associated with synthesizing multilayer boron sheets, despite the desirable properties predicted theoretically beyond the single-atomic-layer limit. Here, we present the successful synthesis of bilayer borophene on Ir(111) substrates, which possesses a distinct atomic structure compared to previously reported bilayer borophene phases. Using scanning tunneling microscopy and spectroscopy, a significantly reduced local work function is observed for bilayer borophene compared to monolayer borophene on iridium. Specifically, bilayer islands show strong peak position shifts toward lower energy in field emission resonance spectroscopy, which is further corroborated by density functional theory calculations. This ultralow-work-function bilayer phase presents expanded application opportunities for borophene including field emission sources, photoelectric devices, and quantum technologies.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02672</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02672</guid>
@@ -352,6 +412,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02672&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02672"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Borophene research has predominantly focused on its monolayer forms due to the challenges associated with synthesizing multilayer boron sheets, despite the desirable properties predicted theoretically beyond the single-atomic-layer limit. Here, we present the successful synthesis of bilayer borophene on Ir(111) substrates, which possesses a distinct atomic structure compared to previously reported bilayer borophene phases. Using scanning tunneling microscopy and spectroscopy, a significantly reduced local work function is observed for bilayer borophene compared to monolayer borophene on iridium. Specifically, bilayer islands show strong peak position shifts toward lower energy in field emission resonance spectroscopy, which is further corroborated by density functional theory calculations. This ultralow-work-function bilayer phase presents expanded application opportunities for borophene including field emission sources, photoelectric devices, and quantum technologies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -532,78 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02189&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Three-dimensional porous electrodes (anodes and cathodes) using only non-noble-metal electrocatalysts are important for enhancing the performance of anion-exchange membrane water electrolysis (AEMWE), contributing to reduced green-hydrogen production costs. This study designed a layer-by-layer (LbL) electrode with a macroporous carbon nanotube (CNT) skeleton for an anode and cathode by modifying the fabrication to enable a uniform distribution of catalyst nanoparticles throughout the electrode. The LbL anode and cathode, fabricated by loading NiFe and NiFeOx as oxygen (OER) and hydrogen (HER) evolution reaction catalysts, respectively, onto the CNT skeleton, resulted in macroporous electrodes with square pores. Compared to conventional electrodes with densely loaded catalysts, the LbL electrodes exhibited enhanced OER activity and similar HER activity and stability. The practical performance of AEMWE employing LbL electrodes exceeded those of CNT-based electrodes without LbL processing, and conventional electrodes. Moreover, durability data showed that the AEMWE integrating LbL electrodes maintained stable performance without significant degradation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Obtaining a broadened optoelectronic response while maintaining a low photovoltage loss is a critical challenge for organic solar cells (OSCs). Infrared-responsive chiral single-walled carbon nanotubes (SWCNTs) could address this, yet their application is hindered by complex purification and aggregation. Here, we disperse SWCNTs in a high-quantum-yield wide-gap polymer, F8BT, to create an F8BT@CNT(10,5) composite dopant. This dopant broadens the spectral response, promotes energy transfer, refines the phase morphology of donor–acceptor heterojunctions, and synergistically enhances charge transport while suppressing nonradiative and bimolecular recombination. The strategy is general, achieving a 20.10% PCE and a low nonradiative loss of 0.182 eV across various OSC systems. Beyond photovoltaics, it enables high-sensitivity organic photodetectors for precise, real-time heart rate monitoring. This work highlights the potential of polymer-wrapped chiral CNTs to improve organic optoelectronic devices for energy conversion and sensing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02759</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02759</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Single-color fluorescence-based single-molecule techniques enable label-efficient probing of membrane-associated biomolecular dynamics. However, extracting reliable kinetic information is challenging due to signal heterogeneity, noise and the absence of reference channels. Here, we introduce MonoXtract (Single-color fluorescence Trajectory eXtraction and Analysis via Transformer networks), an end-to-end deep learning framework integrating particle tracking, trace extraction, and classification. Combining convolutional inductive bias with a Vision Transformer backbone, MonoXtract captures both fine-scale fluctuations and long-range dependencies, enabling robust state identification across temporal and noise scales. It achieves expert-level accuracy and generalizes well to diverse systems without retraining. Applied to host-defense peptide LL-37, MonoXtract uncovered a previously unrecognized cell-entry pathway that LL-37 transiently incorporates into and escapes from LL-37 oligomers in membranes, providing mechanistic insight into LL-37’s roles in antimicrobial defense and cancer biology. By delivering fast, unbiased, reproducible analysis, MonoXtract extends the analytical reach of intensity-based single-molecule techniques and accelerates complex biomolecular dynamics discoveries.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02759&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02759"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Stacking Offset Significantly Enhances the Magnetic-Field Modulation of Charge Transfer Spin States in Isomeric Organic Crystals</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03825</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03825</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Organic functional crystals with specific responses to external stimuli have attracted increasing interest for applications in biomedicine, information encryption, and sensing technologies. Modulating the offset of intermolecular provides an effective strategy for designing such responsive materials. Herein, two organic charge transfer cocrystals with distinct π-π stacking arrangements are designed. A larger stacking offset weakens the exchange interaction between electron–hole pairs while enhancing electron–phonon coupling, thereby significantly amplifying the magnetic-field response of charge transfer spin states. Magnetic field dependent photoluminescence and dielectric constant are exhibited. This finding reveals the importance of π-π stacking arrangements in achieving external-field manipulation of spin states in organic cocrystals.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Stacking Offset Significantly Enhances the Magnetic-Field Modulation of Charge Transfer Spin States in Isomeric Organic Crystals&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03825&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03825"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Colloidal Electrolyte Enables Bulk-to-Interface Stabilization for Aqueous Manganese Metal Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03231</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03231</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Aqueous Mn metal batteries combine the potential for high safety and energy density, yet are limited by high water activity, sluggish Mn2+ desolvation, and severe interfacial parasitic reactions, which cannot be resolved by isolated strategies. Here we develop an ether-oxygen-rich colloidal electrolyte (EORC) whose nanoscale units couple bulk solvation regulation with interfacial stabilization. EORC disrupts the water hydrogen-bond network, partially replaces Mn2+ solvated waters, and enriches ether-oxygen species to reconstruct the electrical double layer. This continuous bulk-to-interface regulation reduces free water activity, lowers desolvation and nucleation barriers, promotes uniform Mn deposition, and suppresses interfacial parasitic reactions, e.g., corrosion and byproducts accumulation. Consequently, Mn∥Mn symmetric cells operate stably for over 3000 h and Mn∥AgVO full cells achieve over 11000 cycles with 93% capacity retention, along with enhanced low-temperature and pouch cell performance. This work offers a transformative strategy that bridges bulk electrolyte chemistry and interfacial electrochemistry for stable aqueous Mn anodes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Colloidal Electrolyte Enables Bulk-to-Interface Stabilization for Aqueous Manganese Metal Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03231&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03231"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>The Tradeoff behind Optimal 3-Fold (C,N)-Coordinated Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02777</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02777</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Single-atom catalysts have emerged as a powerful class of catalytic materials, maximizing atom efficiency through isolated metal centers. However, their design inherently relies on a delicate balance between stability and catalytic performance. In this work, we investigate this tradeoff by systematically analyzing trends in formation, adsorption, and reaction energy at the catalyst surface for the partial hydrogenation of butadiene. Our results reveal clear opposite relationships between these features: increasing the number of nitrogen neighbors (Ndop) enhances stability, whereas lower Ndop favors catalytic activity. Adsorption energies are shown to scale with the product Zm × Ndop, where Zm is the atomic number of the isolated metal. They also exhibit a weaker linear dependence on the catalyst d-states and HOMO-LUMO gap of the adsorbate. By extending this physically grounded model across the periodic table, we provide a framework for the rational optimization of single-atom catalysts through dedicated scoring functions.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;The Tradeoff behind Optimal 3-Fold (C,N)-Coordinated Single-Atom Catalysts&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02777&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02777"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

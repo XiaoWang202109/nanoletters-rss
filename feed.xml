@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:48:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:04:12 +0000</lastBuildDate>
     <item>
       <title>Phosphorylation-Mediated Regulatory Networks Fine-Tune Rye Responses to PVC Nanoplastic Stress: Evidence from Multiomics and Computational Biology</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02670</link>
@@ -235,18 +235,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03080</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03080</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The band structure critically determines the intrinsic photodetector performance. With a high density of states (DOS), favorable band configuration, and strong electronic correlations, flat-band physics offers promising perspectives for optoelectronic optimization. Here, we demonstrate a broadband photodetector based on Mg4C60 superatomic crystals, in which hybridization of C-2p and Mg-3s orbitals creates flat bands with a suitable semiconducting gap. Such hybridization produces a global off-Γ conduction band minimum (CBM) with a nearly flat dispersion of ∼50 meV and an indirect quasiparticle gap of ∼1.37 eV, yielding a pronounced photoresponse peak at 905 nm. Complementary optical measurements and theoretical calculations show that these flat bands promote the photodetection figures of merit in few-layer Mg4C60 devices, leading to excellent photoresponsivity of ∼7 A·W–1, detectivity of ∼8.1 × 109 Jones, noise equivalent power of ∼5.5 × 10–14 W·Hz–1/2, and external quantum efficiency of ∼950%, exceeding most carbon-based photodetectors. This work establishes a general strategy for high-performance optoelectronics via flat-band engineering in superatomic crystals.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03080&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03080"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03032</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03032</guid>
@@ -256,6 +244,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03032&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03032"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03080</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03080</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The band structure critically determines the intrinsic photodetector performance. With a high density of states (DOS), favorable band configuration, and strong electronic correlations, flat-band physics offers promising perspectives for optoelectronic optimization. Here, we demonstrate a broadband photodetector based on Mg4C60 superatomic crystals, in which hybridization of C-2p and Mg-3s orbitals creates flat bands with a suitable semiconducting gap. Such hybridization produces a global off-Γ conduction band minimum (CBM) with a nearly flat dispersion of ∼50 meV and an indirect quasiparticle gap of ∼1.37 eV, yielding a pronounced photoresponse peak at 905 nm. Complementary optical measurements and theoretical calculations show that these flat bands promote the photodetection figures of merit in few-layer Mg4C60 devices, leading to excellent photoresponsivity of ∼7 A·W–1, detectivity of ∼8.1 × 109 Jones, noise equivalent power of ∼5.5 × 10–14 W·Hz–1/2, and external quantum efficiency of ∼950%, exceeding most carbon-based photodetectors. This work establishes a general strategy for high-performance optoelectronics via flat-band engineering in superatomic crystals.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03080&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03080"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -331,18 +331,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02672</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02672</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Spin–orbit torque (SOT) enables ultrafast, energy-efficient magnetization switching, making it promising for MRAM cache applications. However, current SOT-MRAM devices face write efficiency limitations, with charge-to-spin conversion (ξDL) reaching only ∼ 45%, well below the projected ∼80% required for advanced transistor nodes. Recent advances in orbital current physics offer a route to enhance ξDL. Here, we study the Ta(3–30 nm)/W(1–4 nm) system, revealing a large additional torque contribution from Ta, a 4-fold increase over the spin Hall effect in Ta alone, attributed to the orbital physics. This system exhibits larger ξDL than W-based SOT systems, while maintaining robust perpendicular magnetic anisotropy and 400 °C annealing compatibility. We integrate the Ta/W system into 3-terminal SOT-MTJ devices, demonstrating performance comparable to W-based systems. Our results show that orbital physics offers a viable strategy to enhance SOT-MRAM efficiency. We further propose and demonstrate proof-of-concept vertical nonlocal switching using orbital torques, simplifying bottom-pinned SOT-MRAM fabrication.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02672&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02672"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
@@ -352,6 +340,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02672</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02672</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Spin–orbit torque (SOT) enables ultrafast, energy-efficient magnetization switching, making it promising for MRAM cache applications. However, current SOT-MRAM devices face write efficiency limitations, with charge-to-spin conversion (ξDL) reaching only ∼ 45%, well below the projected ∼80% required for advanced transistor nodes. Recent advances in orbital current physics offer a route to enhance ξDL. Here, we study the Ta(3–30 nm)/W(1–4 nm) system, revealing a large additional torque contribution from Ta, a 4-fold increase over the spin Hall effect in Ta alone, attributed to the orbital physics. This system exhibits larger ξDL than W-based SOT systems, while maintaining robust perpendicular magnetic anisotropy and 400 °C annealing compatibility. We integrate the Ta/W system into 3-terminal SOT-MTJ devices, demonstrating performance comparable to W-based systems. Our results show that orbital physics offers a viable strategy to enhance SOT-MRAM efficiency. We further propose and demonstrate proof-of-concept vertical nonlocal switching using orbital torques, simplifying bottom-pinned SOT-MRAM fabrication.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02672&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02672"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -535,18 +535,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Obtaining a broadened optoelectronic response while maintaining a low photovoltage loss is a critical challenge for organic solar cells (OSCs). Infrared-responsive chiral single-walled carbon nanotubes (SWCNTs) could address this, yet their application is hindered by complex purification and aggregation. Here, we disperse SWCNTs in a high-quantum-yield wide-gap polymer, F8BT, to create an F8BT@CNT(10,5) composite dopant. This dopant broadens the spectral response, promotes energy transfer, refines the phase morphology of donor–acceptor heterojunctions, and synergistically enhances charge transport while suppressing nonradiative and bimolecular recombination. The strategy is general, achieving a 20.10% PCE and a low nonradiative loss of 0.182 eV across various OSC systems. Beyond photovoltaics, it enables high-sensitivity organic photodetectors for precise, real-time heart rate monitoring. This work highlights the potential of polymer-wrapped chiral CNTs to improve organic optoelectronic devices for energy conversion and sensing.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Layer-by-Layer Electrode Design Integrating a Macroporous Carbon-Nanotube Skeleton for an Anion-Exchange Membrane Water Electrolyzer</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02052</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02052</guid>
@@ -556,6 +544,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02052&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02052"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03189</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03189</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Obtaining a broadened optoelectronic response while maintaining a low photovoltage loss is a critical challenge for organic solar cells (OSCs). Infrared-responsive chiral single-walled carbon nanotubes (SWCNTs) could address this, yet their application is hindered by complex purification and aggregation. Here, we disperse SWCNTs in a high-quantum-yield wide-gap polymer, F8BT, to create an F8BT@CNT(10,5) composite dopant. This dopant broadens the spectral response, promotes energy transfer, refines the phase morphology of donor–acceptor heterojunctions, and synergistically enhances charge transport while suppressing nonradiative and bimolecular recombination. The strategy is general, achieving a 20.10% PCE and a low nonradiative loss of 0.182 eV across various OSC systems. Beyond photovoltaics, it enables high-sensitivity organic photodetectors for precise, real-time heart rate monitoring. This work highlights the potential of polymer-wrapped chiral CNTs to improve organic optoelectronic devices for energy conversion and sensing.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Polymer-Wrapped Chiral Single-Walled Carbon Nanotubes Enable 20% Efficiency Organic Solar Cells and Broadband Photodetectors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03189&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03189"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

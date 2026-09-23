@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:00:18 +0000</lastBuildDate>
     <item>
       <title>Relaxation Piezoionic Hydrogel for Self-Powered, Self-Decoupled Monitoring of Finger Rehabilitation</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03647</link>
@@ -88,6 +88,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03910</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03910</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Identifying materials with intrinsically low lattice thermal conductivity (κL) underpins thermoelectric and phase-change technologies, yet simple structural descriptors often fail to capture how chemical bonding controls lattice dynamics. Here, we compare thermal transport in two BeO polymorphs of identical chemistry and atomic mass: covalent zincblende (zb) and metavalent-like rocksalt (rs). Despite being denser, rs-BeO exhibits a κL more than an order of magnitude below zb-BeO (24 vs 357 W m–1 K–1 at 300 K), breaking the conventional density-κL correlation. Ab initio bonding analysis traces this anomaly to metavalent-like bonding in rs-BeO, which produces electron delocalization, long-range interatomic force constants, and giant quartic anharmonicity that drives strong four-phonon scattering, whereas stiff covalent bonding sustains efficient heat conduction in zb-BeO. Quantitative modeling of the rocksalt phase requires explicit phonon renormalization and four-phonon scattering, effects negligible in zb-BeO. Bonding character, rather than density, governs thermal transport in this ultrawide-bandgap oxide.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -283,18 +295,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
@@ -304,6 +304,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03291&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03291"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Core–Shell PtIr Nanocubes with Lewis Acidic Ir Sites for Enhanced Ammonia Electrooxidation in Direct Ammonia Fuel Cells</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02958</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02958</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Direct ammonia fuel cells (DAFCs) represent a promising carbon-neutral energy technology, yet their practical application is severely hindered by the sluggish kinetics of the anodic ammonia oxidation reaction on traditional platinum-based catalysts. Herein, high-crystallinity PtIr nanocubes featuring a Pt-rich core/Ir-rich shell architecture are constructed by exploiting the differential reduction kinetics of the metal precursors. Spectroscopic analyses reveal oxygen-associated coordination and electron-deficient states around Ir, while pyridine-adsorbed Fourier transform infrared spectra establish surface Lewis acidity. Together, these findings support a role for Lewis acidic Ir sites in facilitating NH3 interaction and subsequent *NHx intermediate evolution. The catalyst delivers an exceptional mass activity of 151.45 A g–1, more than four times that of the commercial PtIr counterpart. Furthermore, a prototype DAFC equipped with this anode achieves a peak power density of 18.98 mW cm–2 at 60 °C, demonstrating efficient translation to device-level performance.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Core–Shell PtIr Nanocubes with Lewis Acidic Ir Sites for Enhanced Ammonia Electrooxidation in Direct Ammonia Fuel Cells&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02958&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02958"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

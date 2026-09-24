@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:24:05 +0000</lastBuildDate>
     <item>
       <title>Broad Stability and pH-Mediated Reversible Disassembly of &lt;i&gt;In Vitro&lt;/i&gt; Assembled Bacterial Microcompartment Shells</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02629</link>
@@ -28,6 +28,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03561&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03561"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Millisecond-Resolved Electronic pH Microdomains Synchronize Calcium Amplification in Cell Clusters</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02566</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02566</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract A central goal for bioelectronic interfaces is to convert electrical inputs into local chemical commands that regulate cell signaling with defined space and time. However, imposing spatially confined extracellular pH (pHo) cues across cell populations with externally programmed millisecond timing remains difficult. Here, we show that an electronically generated pHo microdomain can act as a timed biochemical command that synchronizes intracellular Ca2+ amplification in HL-1 cardiomyocyte clusters. Using a microfabricated electrochemical interface, electronic stimulation produced a spatially confined pHo cue, followed by coordinated Ca2+ elevation and a pronounced abrupt-amplification phase that emerged at 33 ± 13 ms after stimulation onset. Pharmacological dissection identified ryanodine receptor–mediated calcium-induced calcium release as the dominant intracellular amplifier of the fast response. These results position electronic pH modulation as a route for translating electrical inputs into spatially defined, millisecond-timed biochemical commands for synchronized control of intracellular signaling in cell populations.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Millisecond-Resolved Electronic pH Microdomains Synchronize Calcium Amplification in Cell Clusters&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02566&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02566"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -91,6 +103,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Sacrificial Additives Stabilize Interfaces for Durable 5 V LiCoO2 Operation in Zr-Based Halide Solid-State Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03433</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03433</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract High-voltage all-solid-state batteries (ASSBs) promise high-energy-density storage, but oxidative instability of solid-state electrolytes at cathode interfaces remains a major obstacle. Here, we report a sacrificial-additive strategy for durable, high-voltage operation of low-cost Zr-based halide ASSBs. Introducing LiPO2F2 (LPOF) into Li2ZrCl4O (LZCO) markedly enhances interfacial and oxidative stability. Paired with uncoated LiCoO2, the ASSBs deliver over 80% capacity after 700 cycles at 2 C (4.6 V cutoff) and cycle stably under ultrahigh cathode loadings of 35.7 mg cm–2. Notably, the cells sustain 5 V operation with over 80% capacity after 380 cycles at 2 C and over 70% retention after 3500 cycles at 7 C. Experimental characterizations reveal that LPOF preferentially forms a LiF- and Li3PO4-rich layer that stabilizes the high-voltage cathode/electrolyte interface, which is further supported by theoretical calculations. This work establishes sacrificial-additive engineering as an effective route toward durable high-voltage halide-based ASSBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Sacrificial Additives Stabilize Interfaces for Durable 5 V LiCoO2 Operation in Zr-Based Halide Solid-State Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03433&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03433"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Relaxation Piezoionic Hydrogel for Self-Powered, Self-Decoupled Monitoring of Finger Rehabilitation</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03647</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03647</guid>
@@ -151,18 +175,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The synthesis of cubic boron nitride (cBN) solids by consolidation of cBN powders at high pressure and high temperature (HPHT) is challenging, as it leads to the hexagonal BN (hBN) phase. Here we report an HPHT synthesis of polycrystalline fluorinated cBN (F-cBN) solids that show twinned nanodomains, the presence of F at the grain boundaries, and excellent mechanical hardness and second-order nonlinear susceptibility. In contrast to pure diamagnetic cBN, we found that F-cBN is paramagnetic at room temperature, as confirmed by electron paramagnetic resonance spectroscopy, suggesting the role of defects in tuning the magnetic properties of cBN. Density functional theory calculations reveal that F stabilizes the cBN phase by passivating the dangling bonds and, in addition, forms substitutional defects (FN) leading to FN-VB defect complexes that generate local magnetic moments. These properties of F-cBN might lead to new applications of cBN and also open a pathway to synthesize new metastable phase materials with emergent properties.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
@@ -172,6 +184,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The synthesis of cubic boron nitride (cBN) solids by consolidation of cBN powders at high pressure and high temperature (HPHT) is challenging, as it leads to the hexagonal BN (hBN) phase. Here we report an HPHT synthesis of polycrystalline fluorinated cBN (F-cBN) solids that show twinned nanodomains, the presence of F at the grain boundaries, and excellent mechanical hardness and second-order nonlinear susceptibility. In contrast to pure diamagnetic cBN, we found that F-cBN is paramagnetic at room temperature, as confirmed by electron paramagnetic resonance spectroscopy, suggesting the role of defects in tuning the magnetic properties of cBN. Density functional theory calculations reveal that F stabilizes the cBN phase by passivating the dangling bonds and, in addition, forms substitutional defects (FN) leading to FN-VB defect complexes that generate local magnetic moments. These properties of F-cBN might lead to new applications of cBN and also open a pathway to synthesize new metastable phase materials with emergent properties.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -391,18 +415,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
@@ -412,6 +424,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02274&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02274"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03473</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03473</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Copper fluoride (CuF2) exhibits high theoretical specific capacity and an attractive redox potential, making it a promising lithium metal batteries (LMBs) cathode material. Nevertheless, its cycling performance remains inadequate, with severe capacity loss occurring over the first few cycles and leading to poor reversibility. Herein, a CuF2/copper foam (CuF2/CF) integrated cathode is constructed by in situ synthesizing CuF2 on CF substrate using a facile hydrothermal method and further annealing process. The in situ fluorination of the conductive three-dimensional (3D) porous CF may effectively inhibit the further dissolution of CuF2 in the organic electrolyte and enhances the electron and ion transport capabilities. The optimized CuF2/CF integrated cathode delivers an excellent specific capacity of 762 mAh g–1 and exhibits excellent cycling performance. This work provides a feasible strategy to solve the solubility problem of CuF2 as a cathode material for LMBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03473&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03473"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02599</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02599</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Chemo-immunotherapy is limited by the poor bioavailability, nonspecific distribution, and systemic toxicity of free drugs. Here, we develop a reactive oxygen species (ROS)-responsive prodrug strategy by conjugating paclitaxel (PTX) and the TLR7/8 agonist resiquimod (R848) with a phenylboronic ester (PBE) moiety to generate two ROS-activatable prodrugs, PTX–PBE and R848–PBE. These prodrugs spontaneously coassemble into carrier-free nanoparticles (PR NPs) with ultrahigh loading efficiency and tunable drug ratios. PBE modification improves systemic stability while enabling ROS-triggered drug release in the tumor microenvironment, allowing PTX-mediated immunogenic cell death and R848-mediated innate immune activation. In colorectal cancer models, PR NPs suppress tumor growth, reduce systemic toxicity, and remodel the tumor immune microenvironment by promoting antitumor immune responses. This prodrug engineering strategy provides a high-loading, activatable, and carrier-free platform for chemo-immunotherapy with potential for cancer treatment.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02599&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02599"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

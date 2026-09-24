@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:55:17 +0000</lastBuildDate>
+    <item>
+      <title>Tailoring Wood Shrinkage via Solvent-Driven Interfacial Engineering for On-Demand Applications</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03759</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03759</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Modulating wood cell shrinkage offers a promising yet underexplored route to advanced timber-based materials. Here, we combine chemical softening with solvent evaporation-induced assembly for programmable shrinkage control. Solvent prewetting facilitates penetration of aqueous NaOH/Na2SO3/AQ, promoting cell-wall softening through partial removal of lignin and hemicellulose at elevated temperatures. Subsequent evaporation generates capillary stresses dependent on solvent surface tension, driving cellular shrinkage. Finite element simulations capture the macroscopic relationship between solvent surface tension and shrinkage, providing a mechanistic basis for tailoring the final thickness and mechanical stiffness. Extensive shrinkage produces a cellulose-rich lamellar structure with a tensile strength of 400.4 MPa and Young’s modulus of 24.6 GPa, approximately 20 and 10 times those of natural wood, respectively. Partial shrinkage nearly doubles volumetric capacitance while preserving ion-transport pathways. These results demonstrate that chemical softening and evaporation-induced reconstruction enable programmable structural and functional properties in wood.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Tailoring Wood Shrinkage via Solvent-Driven Interfacial Engineering for On-Demand Applications&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03759&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03759"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Relaxation Piezoionic Hydrogel for Self-Powered, Self-Decoupled Monitoring of Finger Rehabilitation</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03647</link>
@@ -67,18 +79,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Catheter-associated urinary tract infections (CAUTIs) have been a common but challenging disease due to difficulties in the accurate prescribing of antibiotics, while existing clinical diagnostic methods are deficient in their quickness, simplicity, and convenience. Here we report a point-of-care sensing technique using untethered coacervate robots, which demonstrate high controllability and adaptation in confined catheters filled with viscous urine. Under different motion modes, the controlled coacervate robots can achieve a quick, visualized, and selective fluorescence response to Gram-negative bacteria from 102 CFU/mL to 107 CFU/mL in human urine as well as remove the colonized bacteria in the inner wall of catheters within 5 min. Blind tests on clinical urine samples with various bacterial infections reveal that the coacervate robots achieve 90% sensitivity and 100% specificity in identifying Gram-negative bacteriuria. The visualized sensing technique opens up a pathway for quick onsite diagnosis, which helps prevent infections associated with urinary catheters.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
@@ -91,6 +91,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Catheter-associated urinary tract infections (CAUTIs) have been a common but challenging disease due to difficulties in the accurate prescribing of antibiotics, while existing clinical diagnostic methods are deficient in their quickness, simplicity, and convenience. Here we report a point-of-care sensing technique using untethered coacervate robots, which demonstrate high controllability and adaptation in confined catheters filled with viscous urine. Under different motion modes, the controlled coacervate robots can achieve a quick, visualized, and selective fluorescence response to Gram-negative bacteria from 102 CFU/mL to 107 CFU/mL in human urine as well as remove the colonized bacteria in the inner wall of catheters within 5 min. Blind tests on clinical urine samples with various bacterial infections reveal that the coacervate robots achieve 90% sensitivity and 100% specificity in identifying Gram-negative bacteriuria. The visualized sensing technique opens up a pathway for quick onsite diagnosis, which helps prevent infections associated with urinary catheters.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03910</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03910</guid>
@@ -100,6 +112,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -295,18 +319,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
@@ -316,6 +328,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -427,18 +451,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03032</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03032</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Highly aligned polymer fibers provide continuous pathways for directional thermal conduction in all-organic composites, yet quantitative prediction remains limited by the lack of independently measured constituent-fiber thermal conductivity. Here, we study polydimethylsiloxane (PDMS) composites reinforced with commercial ultrahigh-molecular-weight polyethylene (UHMWPE), poly(p-phenylene benzobisoxazole) (PBO), and Kevlar fibers. The axial thermal conductivities of individual fibers and PDMS are measured independently and used, together with fiber volume fraction, as direct inputs to a parallel model. The model quantitatively captures the axial thermal conductivity of all three aligned fiber/PDMS materials over a range of fiber volume fractions. Molecular dynamics simulations further reveal distinct phonon-transport characteristics among crystalline PE, PBO, and Kevlar and support the parallel thermal transport trend. These results establish a quantitative framework linking constituent properties and continuous pathway architecture to axial thermal conduction. The UHMWPE-PDMS composite achieves 26.66 W m–1 K–1 while retaining low density, flexibility, electrical insulation, and thermal stability.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03032&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03032"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Hybridized Flat Band-Assisted Photoresponse Enhancement in Superatomic Crystal Mg4C60</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03080</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03080</guid>
@@ -448,6 +460,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03080&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03080"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03032</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03032</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Highly aligned polymer fibers provide continuous pathways for directional thermal conduction in all-organic composites, yet quantitative prediction remains limited by the lack of independently measured constituent-fiber thermal conductivity. Here, we study polydimethylsiloxane (PDMS) composites reinforced with commercial ultrahigh-molecular-weight polyethylene (UHMWPE), poly(p-phenylene benzobisoxazole) (PBO), and Kevlar fibers. The axial thermal conductivities of individual fibers and PDMS are measured independently and used, together with fiber volume fraction, as direct inputs to a parallel model. The model quantitatively captures the axial thermal conductivity of all three aligned fiber/PDMS materials over a range of fiber volume fractions. Molecular dynamics simulations further reveal distinct phonon-transport characteristics among crystalline PE, PBO, and Kevlar and support the parallel thermal transport trend. These results establish a quantitative framework linking constituent properties and continuous pathway architecture to axial thermal conduction. The UHMWPE-PDMS composite achieves 26.66 W m–1 K–1 while retaining low density, flexibility, electrical insulation, and thermal stability.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03032&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03032"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -487,18 +511,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03473</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03473</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Copper fluoride (CuF2) exhibits high theoretical specific capacity and an attractive redox potential, making it a promising lithium metal batteries (LMBs) cathode material. Nevertheless, its cycling performance remains inadequate, with severe capacity loss occurring over the first few cycles and leading to poor reversibility. Herein, a CuF2/copper foam (CuF2/CF) integrated cathode is constructed by in situ synthesizing CuF2 on CF substrate using a facile hydrothermal method and further annealing process. The in situ fluorination of the conductive three-dimensional (3D) porous CF may effectively inhibit the further dissolution of CuF2 in the organic electrolyte and enhances the electron and ion transport capabilities. The optimized CuF2/CF integrated cathode delivers an excellent specific capacity of 762 mAh g–1 and exhibits excellent cycling performance. This work provides a feasible strategy to solve the solubility problem of CuF2 as a cathode material for LMBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03473&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03473"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Tumor-Activated Carrier-Free Dual-Prodrug Nanoassemblies for Synergistic Chemo-Immunotherapy</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02599</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02599</guid>
@@ -508,6 +520,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02599&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02599"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03473</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03473</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Copper fluoride (CuF2) exhibits high theoretical specific capacity and an attractive redox potential, making it a promising lithium metal batteries (LMBs) cathode material. Nevertheless, its cycling performance remains inadequate, with severe capacity loss occurring over the first few cycles and leading to poor reversibility. Herein, a CuF2/copper foam (CuF2/CF) integrated cathode is constructed by in situ synthesizing CuF2 on CF substrate using a facile hydrothermal method and further annealing process. The in situ fluorination of the conductive three-dimensional (3D) porous CF may effectively inhibit the further dissolution of CuF2 in the organic electrolyte and enhances the electron and ion transport capabilities. The optimized CuF2/CF integrated cathode delivers an excellent specific capacity of 762 mAh g–1 and exhibits excellent cycling performance. This work provides a feasible strategy to solve the solubility problem of CuF2 as a cathode material for LMBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;In-Situ Synthesis of CuF2 Integrated Cathodes for High-Performance Lithium Metal Batteries with Superb Stability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03473&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03473"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -523,18 +547,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Borophene research has predominantly focused on its monolayer forms due to the challenges associated with synthesizing multilayer boron sheets, despite the desirable properties predicted theoretically beyond the single-atomic-layer limit. Here, we present the successful synthesis of bilayer borophene on Ir(111) substrates, which possesses a distinct atomic structure compared to previously reported bilayer borophene phases. Using scanning tunneling microscopy and spectroscopy, a significantly reduced local work function is observed for bilayer borophene compared to monolayer borophene on iridium. Specifically, bilayer islands show strong peak position shifts toward lower energy in field emission resonance spectroscopy, which is further corroborated by density functional theory calculations. This ultralow-work-function bilayer phase presents expanded application opportunities for borophene including field emission sources, photoelectric devices, and quantum technologies.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Orbital and Spin–Orbit Torque Interplay in Ta/W-Based Magnetic Tunnel Junctions with Vertical Nonlocal Switching</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02672</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02672</guid>
@@ -544,6 +556,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02672&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02672"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03673</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03673</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Borophene research has predominantly focused on its monolayer forms due to the challenges associated with synthesizing multilayer boron sheets, despite the desirable properties predicted theoretically beyond the single-atomic-layer limit. Here, we present the successful synthesis of bilayer borophene on Ir(111) substrates, which possesses a distinct atomic structure compared to previously reported bilayer borophene phases. Using scanning tunneling microscopy and spectroscopy, a significantly reduced local work function is observed for bilayer borophene compared to monolayer borophene on iridium. Specifically, bilayer islands show strong peak position shifts toward lower energy in field emission resonance spectroscopy, which is further corroborated by density functional theory calculations. This ultralow-work-function bilayer phase presents expanded application opportunities for borophene including field emission sources, photoelectric devices, and quantum technologies.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of Ultralow-Work-Function Bilayer Borophene on Iridium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03673&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03673"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c01353&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01353"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Fractional-Quantum Ferroelectrics: A Route to High-Mobility Ferroelectric Semiconductors</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02776</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02776</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Ferroelectric semiconductors are promising for multifunctional electronics, yet their typically low carrier mobilities remain a major limitation. Using first-principles phonon-limited transport calculations for monolayer In2Se3, we show that this limitation depends critically on the microscopic origin of ferroelectricity. In displacive β′-In2Se3, low-frequency ferroelectric modes dominate carrier scattering, with additional contributions from longitudinal-optical (LO) phonons, limiting the room-temperature electron mobility to a few cm2/(V s). By contrast, in fractional-quantum ferroelectric α-In2Se3, ferroelectric-mode scattering is absent because polarization arises from discrete lattice-scale atomic displacements rather than soft-mode condensation. Transport is therefore dominated by LO phonons, yielding a room-temperature mobility above 70 cm2/(V s). Carrier doping further screens long-range electron–LO-phonon interactions and raises the mobility beyond 300 cm2/(V s) at experimentally accessible densities. These results establish that fractional-quantum ferroelectricity can decouple robust polarization from strong intrinsic carrier scattering, offering a route toward high-mobility ferroelectric semiconductors.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Fractional-Quantum Ferroelectrics: A Route to High-Mobility Ferroelectric Semiconductors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02776&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02776"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Function-Switchable Superconducting-Spintronic Devices for Read-Protected Data Storage</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03291</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03291</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Superconductivity and charge-to-spin conversion are both desirable for low-dissipation information processing, but they usually operate in different material platforms. Here we show that the p-orbital alloy In2Bi combines type-II superconductivity below 5.6 K with efficient spin-current generation in the normal state. In Co/In2Bi devices, spin Hall magnetoresistance and second-harmonic Hall measurements give consistent spin Hall angles, confirming reliable charge-to-spin conversion. By integrating In2Bi with Fe3GaTe2, we realize a function-switchable superconducting-spintronic device with three resistance states. Magnetic information can be written by a magnetic field or spin–orbit torque and read through the anomalous Hall resistance signal in the normal state. In the superconducting state, the anomalous Hall resistance signal readout is suppressed, producing field-controlled read protection without additional circuit elements. This work establishes In2Bi as a dual-functional platform for superconductivity-gated spintronic readout and read-protected data storage.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Function-Switchable Superconducting-Spintronic Devices for Read-Protected Data Storage&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03291&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03291"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

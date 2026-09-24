@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:04:56 +0000</lastBuildDate>
     <item>
       <title>Broad Stability and pH-Mediated Reversible Disassembly of &lt;i&gt;In Vitro&lt;/i&gt; Assembled Bacterial Microcompartment Shells</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02629</link>
@@ -19,18 +19,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Breaking Ionic Stagnation Zones for Ultrafast Charging in Low-Concentration Lithium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03561</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03561</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Low-concentration electrolytes (LCEs) offer significant cost benefits for lithium-ion batteries (LIBs), but struggle with fast-charging demands due to sluggish Li+ transport, high desolvation barriers, and unstable interphase chemistry. Herein, we leveraged low-ionophilic solvents to form a high ionic-conductivity LCE, which enables rapid intersolvation cluster hopping networks, thus overcoming ionic stagnation zones. Our formulated electrolyte delivers an ionic conductivity of 9.2 mS cm–1, accelerates Li+ desolvation, and promotes anion-derived inorganic-rich interphases. As a result, graphite anodes achieve a high reversible capacity of 306.4 mAh g–1 at 5 C (81.5% of its capacity at 0.3 C) and deliver 332.4 mAh g–1 at −20 °C, retaining 88.9% of its room-temperature capacity. In 1 Ah graphite||LiNi0.8Co0.1Mn0.1O2 (NMC811) pouch cells, this electrolyte supports 76.6% capacity at 5 C, 84.1% retention over 1000 cycles at 0.5 C, and 82.0% retention after 100 cycles at 3 C, demonstrating the practical promise of LCEs for fast-charging LIBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Breaking Ionic Stagnation Zones for Ultrafast Charging in Low-Concentration Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03561&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03561"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Millisecond-Resolved Electronic pH Microdomains Synchronize Calcium Amplification in Cell Clusters</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02566</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02566</guid>
@@ -40,6 +28,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02566&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02566"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Breaking Ionic Stagnation Zones for Ultrafast Charging in Low-Concentration Lithium-Ion Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03561</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03561</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Low-concentration electrolytes (LCEs) offer significant cost benefits for lithium-ion batteries (LIBs), but struggle with fast-charging demands due to sluggish Li+ transport, high desolvation barriers, and unstable interphase chemistry. Herein, we leveraged low-ionophilic solvents to form a high ionic-conductivity LCE, which enables rapid intersolvation cluster hopping networks, thus overcoming ionic stagnation zones. Our formulated electrolyte delivers an ionic conductivity of 9.2 mS cm–1, accelerates Li+ desolvation, and promotes anion-derived inorganic-rich interphases. As a result, graphite anodes achieve a high reversible capacity of 306.4 mAh g–1 at 5 C (81.5% of its capacity at 0.3 C) and deliver 332.4 mAh g–1 at −20 °C, retaining 88.9% of its room-temperature capacity. In 1 Ah graphite||LiNi0.8Co0.1Mn0.1O2 (NMC811) pouch cells, this electrolyte supports 76.6% capacity at 5 C, 84.1% retention over 1000 cycles at 0.5 C, and 82.0% retention after 100 cycles at 3 C, demonstrating the practical promise of LCEs for fast-charging LIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Breaking Ionic Stagnation Zones for Ultrafast Charging in Low-Concentration Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03561&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03561"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -67,6 +67,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Switching Chern Number by Sliding and Gating in Alternately Twisted Tetralayer MoTe2</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03169</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03169</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Switching the bulk Chern number in topological materials is of central importance for the design of topological electronic devices. Motivated by recent observations of integer and fractional quantum anomalous Hall effects in twisted transition metal dichalcogenides, we realize the switching of valley Chern number through sliding and gating in alternately twisted tetralayer (ATT) MoTe2. Using density functional theory (DFT) calculations, we show that the Chern number of the first K-valley moiré band evolves from +1 to −1 under the interlayer sliding. Furthermore, an applied electric field can switch the valley Chern number from −1 to +1. Based on the developed continuum model, we reveal that these switching behaviors are caused by the sliding- and gate-dependent intralayer moiré potential distributions across the layers. Our results establish ATT MoTe2 as a promising platform for engineering moiré band topologies through the design of moiré potentials with sliding in multilayer moiré systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Switching Chern Number by Sliding and Gating in Alternately Twisted Tetralayer MoTe2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03169&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03169"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Tailoring Wood Shrinkage via Solvent-Driven Interfacial Engineering for On-Demand Applications</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03759</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03759</guid>
@@ -76,6 +88,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03759&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03759"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Molecular Origins of Emulsification by Polysaccharide Nanofibers: Effects of Crystal Surfaces and Chemical Structure</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02570</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02570</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Cellulose nanofibers (CNFs) and chitin nanofibers (ChNFs) are biocompatible and biodegradable Pickering emulsifiers with excellent emulsifying capacity. However, the molecular origins of their emulsifying capacity remain unclear. Here, we combined emulsification experiments with molecular dynamics (MD) simulations to elucidate how the surface chemical structure governs the emulsifying capacity. Emulsification experiments showed that ChNFs consistently outperform CNFs across all oils tested. MD simulations revealed that partial conversion of hydroxymethyl groups to carboxylate groups through the TEMPO-oxidation significantly increased the hydrophilicity of the cellulose surfaces and decreased the three-phase contact angle formed among the water, oil, and cellulose surface, reducing the emulsifying capacity. In contrast, the conversion of acetamide groups to protonated amino groups through deacetylation of chitin increased hydrophilicity without causing complete wetting, maintaining the three-phase contact angle and emulsifying capacity. These results guide the rational design of polysaccharide-stabilized Pickering emulsions and deepen the fundamental understanding of cellulose and chitin surfaces.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Molecular Origins of Emulsification by Polysaccharide Nanofibers: Effects of Crystal Surfaces and Chemical Structure&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02570&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02570"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -112,6 +136,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03433&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03433"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>High-Mobility MoS2 Transistors Enabled by In2P3S9 Functional Dielectric Engineering and Interfacial Dipole Modulation</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03755</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03755</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Interfacial disorder, threshold-voltage instability, and mobility degradation present critical roadblocks for two-dimensional (2D) electronics. Conventional deposited high-κ oxides often introduce damage and defect states, whereas standard van der Waals (vdW) dielectrics function primarily as passive encapsulation layers. Here, we demonstrate a functional vdW dielectric interface strategy using layered In2P3S9, a wide-bandgap (∼2.9 eV) material with a high dielectric constant (about 24), which unifies charge-transfer modulation, dielectric screening, and gate coupling within a single vdW transistor architecture. Driven by spontaneous charge redistribution and dipole formation at the MoS2/In2P3S9 interface, the threshold voltage shifts positively from −28 V to −2 V, achieving near-zero-gate operation. Concurrently, strong dielectric screening mitigates Coulomb scattering from substrate charged impurities, optimizing the subthreshold swing and enhancing the field-effect mobility from 18 to 130 cm2·V–1·s–1. Demonstrated across MoS2, SnS2, and ReS2 devices, this functional dielectric integration strategy offers a compact materials-design principle for next-generation 2D nanoelectronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;High-Mobility MoS2 Transistors Enabled by In2P3S9 Functional Dielectric Engineering and Interfacial Dipole Modulation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03755&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03755"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03080&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03080"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spin-Coupled Coherent Acoustic Phonons in van der Waals Antiferromagnet NiPS3</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02282</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02282</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Controlling magnetic order with coherent lattice motion is a key frontier for ultrafast spintronic and quantum technologies, yet direct access to propagating spin-coupled acoustic modes in 2D antiferromagnets has been limited. Here, the propagating longitudinal and transverse acoustic phonons in the van der Waals antiferromagnet NiPS3 are optically generated and detected by using ultrafast spectroscopy. Both the longitudinal and transverse acoustic branches exhibit a pronounced magnetic-state dependence: the shear-like transverse acoustic mode is amplified by nearly a factor of 3 below the Néel temperature, possibly resulting from the ultrafast demagnetization-driven shear stress. The propagating coherent acoustic phonons induce a distinct optical polarization-rotation response that disappears above magnetic ordering, providing a fully all optical readout of dynamic spin–lattice coupling in a zero-net-moment antiferromagnet. These findings reveal a particularly strong interplay among strain, optical anisotropy, and antiferromagnetic order in a layered van der Waals antiferromagnet.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spin-Coupled Coherent Acoustic Phonons in van der Waals Antiferromagnet NiPS3&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02282&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02282"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Alveolar-Inspired Negative-Pressure Soft Actuators with Integrated Actuation–Sensing</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02923</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02923</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Soft actuators show promise for soft robotics, wearables, and biomedical devices. However, existing pneumatic actuators rely on positive pressure actuation, yielding bulky, complex systems. This study presents a negative-pressure-driven soft actuator inspired by alveolar respiration. A double-layer membrane composed of a high-porosity alveolar-mimicking layer (AML) and a dense structural layer (DSL) was fabricated via an ethanol-induced porogenic method. Under negative pressure, AML microbubbles expand, driving macroscopic directional bending, constrained by the DSL. The effects of the curing temperature and ethanol content on the pore structure, mechanical properties, and deformation behavior were systematically studied. Integrated actuation sensing was achieved by depositing a carbon nanotube conductive coating on the alveolar-inspired negative-pressure-driven (AND) soft actuator surface. The AND soft actuator exhibits reversible deformation within 0.0 to −0.1 MPa and has been demonstrated in soft crawling robots, shape-programmable reconfiguration, and negative-pressure-triggered switches. This study offers a bioinspired negative-pressure actuation strategy, opening a route to high-performance integrated soft actuators.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Alveolar-Inspired Negative-Pressure Soft Actuators with Integrated Actuation–Sensing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02923&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02923"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02274</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02274</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Fe3O4, the first reported nanozyme and the first FDA-approved transition-metal-based nanomaterial, holds promise for antibacterial therapy but is limited by poor ROS catalytic activity and utilization. Inspired by macrophage-like bacterial capture and insect wing micro/nanostructures, we designed Fe3O4 nanoparticles encapsulated in a conductive, hydrophobic carbon shell with densely aligned nanoneedles. This architecture shifted the Fe/O d/p-band centers toward the Fermi level, promoted H2O2 adsorption and activation, and strengthened H2O2 homolysis through H2O2–O hydrogen bonding, yielding 2.67-fold higher POD-like activity than that of pristine Fe3O4. The hydrophobic nanoneedle surface further inhibited continuous liquid film formation, enhanced bacterial adhesion, and shortened the distance between ROS generation sites and bacterial membranes, thereby improving ROS utilization. Consequently, the engineered Fe3O4 nanozyme achieved an MRSA inhibitory concentration nearly 15-fold lower than pristine Fe3O4. This work offers a microenvironment engineering strategy to advance Fe3O4-based antibacterial nanozymes toward clinical translation.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Macrophage-Inspired Fe3O4 Nanozymes with a Hydrophobic Spiky Topography for Treating Drug-Resistant Bacteria&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02274&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02274"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

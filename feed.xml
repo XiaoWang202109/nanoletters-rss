@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:24:10 +0000</lastBuildDate>
     <item>
       <title>Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03217</link>
@@ -88,6 +88,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03763&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03763"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Phase transfer of polymer nanoparticles (NPs) across immiscible liquids typically demands surface functionalization or mechanical agitation. Here, we demonstrate a proof-of-concept, modification-free transfer mechanism driven by a controlled freeze–thaw process. Using a hydrophobic perylene diimide (PDI) derivative (PDI-N-DAN) as a model, we show that freezing transforms the water–oil interface into an oil–ice interface threaded with temporary nanocracks. A chaperone solvent (2,2,2-trifluoroethanol, TFE) forms a directionally ordered layer within these conduits. This interfacial sleeve lowers the free-energy barrier, allowing lipophilic PDI-N-DAN NPs) to enter the cracks. Subsequently, as the ice melts, TFE templates solvent-shell reorganization, converting them into hydrophilic PDI-N-DAN NPs to yield stable water dispersions. Validated by systematic experiments and molecular dynamics simulation, this strategy repurposes ubiquitous ice defects to program interfacial chemistry, offering a reliable route for on-demand polymer phase transfer.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract CsPb(Cl1–xBrx)3:Yb3+ has been widely reported as a broadband quantum-cutting material with a photoluminescence quantum yield exceeding 100%, making it a promising candidate for enhancing the blue–green spectral response of silicon photovoltaics. Many groups have reproduced absolute photoluminescence quantum yields over 100%, but others have struggled to obtain such high values. Here, we test the quantum-cutting capabilities of CsPbCl3:Yb3+ nanocrystals and bulk material using photon-correlation analysis. A quantum-cutting material is expected to exhibit photon bunching, but our experiments on CsPbCl3:Yb3+ show no such behavior. In fact, we observe the opposite─antibunching─under focused-excitation conditions. This observation can be explained with the previously established Auger-quenching pathway in CsPbCl3:Yb3+. Our results thus confirm high-power Auger quenching but question earlier descriptions of quantum cutting in CsPb(Cl1–xBrx)3:Yb3+.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -319,18 +343,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03910</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03910</guid>
@@ -340,6 +352,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -535,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
@@ -556,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02963&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02963"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>In Situ Control of Self-Assembled Morphology and Photonic Properties via In-Film Polymerization</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02315</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02315</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Bottlebrush block copolymers (BBCPs) are promising materials for the fabrication of photonic crystals because of their tunable composition and rapid self-assembly into large-period nanostructures. However, it is currently difficult to achieve spatially resolved control over nanostructure and photonic response, because these nanostructures are usually fixed upon fabrication. Here, we demonstrate that in-film polymerization within a BBCP photonic film provides a composition-directing route to alter its morphology and structural color based on the effective volume fraction of the two blocks. Monomer vapor swells photoinitiator-containing BBCP films and undergoes UV-triggered photopolymerization, generating a homopolymer in situ within the BBCP matrix. Reflectance spectroscopy monitored the color evolution, while SEM visualized the accompanying morphology changes, which were driven by the shift in film composition from the resulting homopolymer. Masked irradiation further provides a proof-of-concept route to localize the polymerization and resulting optical response within a single film.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;In Situ Control of Self-Assembled Morphology and Photonic Properties via In-Film Polymerization&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02315&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02315"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Native Defects Enable Facile Measurement of the Carrier Concentration in Two-Dimensional Semiconductors Using Kelvin Probe Force Microscopy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c01913</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c01913</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The carrier concentration is an important property of semiconductors; however, measuring the carrier concentration is challenging for nonstandard samples. Here, we report a method for measuring the carrier concentration in 2D semiconductors using sideband Kelvin probe force microscopy. We map the surface potential (1) at three Pt–transition-metal dichalcogenide (TMDC) interfaces and (2) at step-edge defects native to the TMDCs. Mapping the local surface potential across Pt–TMDC interfaces enables quantification of the built-in potential and the space-charge-region width, from which the carrier concentration can be calculated. The calculated values are similar to those obtained from simulations of the 3D space-charge region at Pt–TMDC interfaces. Mapping the local surface potential at step-edge defects in the same crystals and modeling these defects as rectifying metal–semiconductor interfaces yields similar carrier concentrations. Together, this work provides a straightforward, nondestructive method for measuring the carrier concentration in 2D semiconductors.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Native Defects Enable Facile Measurement of the Carrier Concentration in Two-Dimensional Semiconductors Using Kelvin Probe Force Microscopy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c01913&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c01913"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

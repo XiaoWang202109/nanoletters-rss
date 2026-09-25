@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:11:45 +0000</lastBuildDate>
+    <item>
+      <title>Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03217</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03217</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Hybrid metal halides are promising scintillators due to their strong X-ray absorption and efficient self-trapped exciton (STE) emission. However, their practical applications are largely hindered by poor processability, severe light scattering, and substantial energy loss during secondary electron relaxation, leading to low spatial resolution in X-ray imaging. Here, we report a solvent-assisted rapid evaporation method for fabricating a class of hybrid metal halide glasses with excellent processability and high optical transparency. A molecular design strategy is further introduced by incorporating triphenylphosphonium-based organic phosphorescent cations to effectively reclaim the energy dissipated during the relaxation of secondary electrons. In addition to the direct X-ray excitation of the inorganic STE state, the harvested triplet excitons can further sensitize STE emission with near-unity energy transfer efficiency. This dual-sensitization pathway synergistically enhances the scintillation performance. A large-area scintillation screen is successfully fabricated, achieving high-resolution X-ray imaging with a spatial resolution of 22.5 lp mm–1.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03217&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03217"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Broad Stability and pH-Mediated Reversible Disassembly of &lt;i&gt;In Vitro&lt;/i&gt; Assembled Bacterial Microcompartment Shells</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02629</link>
@@ -211,18 +223,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Catheter-associated urinary tract infections (CAUTIs) have been a common but challenging disease due to difficulties in the accurate prescribing of antibiotics, while existing clinical diagnostic methods are deficient in their quickness, simplicity, and convenience. Here we report a point-of-care sensing technique using untethered coacervate robots, which demonstrate high controllability and adaptation in confined catheters filled with viscous urine. Under different motion modes, the controlled coacervate robots can achieve a quick, visualized, and selective fluorescence response to Gram-negative bacteria from 102 CFU/mL to 107 CFU/mL in human urine as well as remove the colonized bacteria in the inner wall of catheters within 5 min. Blind tests on clinical urine samples with various bacterial infections reveal that the coacervate robots achieve 90% sensitivity and 100% specificity in identifying Gram-negative bacteriuria. The visualized sensing technique opens up a pathway for quick onsite diagnosis, which helps prevent infections associated with urinary catheters.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
@@ -232,6 +232,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Catheter-associated urinary tract infections (CAUTIs) have been a common but challenging disease due to difficulties in the accurate prescribing of antibiotics, while existing clinical diagnostic methods are deficient in their quickness, simplicity, and convenience. Here we report a point-of-care sensing technique using untethered coacervate robots, which demonstrate high controllability and adaptation in confined catheters filled with viscous urine. Under different motion modes, the controlled coacervate robots can achieve a quick, visualized, and selective fluorescence response to Gram-negative bacteria from 102 CFU/mL to 107 CFU/mL in human urine as well as remove the colonized bacteria in the inner wall of catheters within 5 min. Blind tests on clinical urine samples with various bacterial infections reveal that the coacervate robots achieve 90% sensitivity and 100% specificity in identifying Gram-negative bacteriuria. The visualized sensing technique opens up a pathway for quick onsite diagnosis, which helps prevent infections associated with urinary catheters.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,18 +592,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02349&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02349"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03032</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03032</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Highly aligned polymer fibers provide continuous pathways for directional thermal conduction in all-organic composites, yet quantitative prediction remains limited by the lack of independently measured constituent-fiber thermal conductivity. Here, we study polydimethylsiloxane (PDMS) composites reinforced with commercial ultrahigh-molecular-weight polyethylene (UHMWPE), poly(p-phenylene benzobisoxazole) (PBO), and Kevlar fibers. The axial thermal conductivities of individual fibers and PDMS are measured independently and used, together with fiber volume fraction, as direct inputs to a parallel model. The model quantitatively captures the axial thermal conductivity of all three aligned fiber/PDMS materials over a range of fiber volume fractions. Molecular dynamics simulations further reveal distinct phonon-transport characteristics among crystalline PE, PBO, and Kevlar and support the parallel thermal transport trend. These results establish a quantitative framework linking constituent properties and continuous pathway architecture to axial thermal conduction. The UHMWPE-PDMS composite achieves 26.66 W m–1 K–1 while retaining low density, flexibility, electrical insulation, and thermal stability.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Direct Experimental Validation of Parallel Thermal Transport in Fiber-Aligned All-Organic Composites&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03032&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03032"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

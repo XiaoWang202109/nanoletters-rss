@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 16:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:02:29 +0000</lastBuildDate>
     <item>
       <title>Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03217</link>
@@ -319,18 +319,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The synthesis of cubic boron nitride (cBN) solids by consolidation of cBN powders at high pressure and high temperature (HPHT) is challenging, as it leads to the hexagonal BN (hBN) phase. Here we report an HPHT synthesis of polycrystalline fluorinated cBN (F-cBN) solids that show twinned nanodomains, the presence of F at the grain boundaries, and excellent mechanical hardness and second-order nonlinear susceptibility. In contrast to pure diamagnetic cBN, we found that F-cBN is paramagnetic at room temperature, as confirmed by electron paramagnetic resonance spectroscopy, suggesting the role of defects in tuning the magnetic properties of cBN. Density functional theory calculations reveal that F stabilizes the cBN phase by passivating the dangling bonds and, in addition, forms substitutional defects (FN) leading to FN-VB defect complexes that generate local magnetic moments. These properties of F-cBN might lead to new applications of cBN and also open a pathway to synthesize new metastable phase materials with emergent properties.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
@@ -340,6 +328,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The synthesis of cubic boron nitride (cBN) solids by consolidation of cBN powders at high pressure and high temperature (HPHT) is challenging, as it leads to the hexagonal BN (hBN) phase. Here we report an HPHT synthesis of polycrystalline fluorinated cBN (F-cBN) solids that show twinned nanodomains, the presence of F at the grain boundaries, and excellent mechanical hardness and second-order nonlinear susceptibility. In contrast to pure diamagnetic cBN, we found that F-cBN is paramagnetic at room temperature, as confirmed by electron paramagnetic resonance spectroscopy, suggesting the role of defects in tuning the magnetic properties of cBN. Density functional theory calculations reveal that F stabilizes the cBN phase by passivating the dangling bonds and, in addition, forms substitutional defects (FN) leading to FN-VB defect complexes that generate local magnetic moments. These properties of F-cBN might lead to new applications of cBN and also open a pathway to synthesize new metastable phase materials with emergent properties.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -559,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
@@ -580,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

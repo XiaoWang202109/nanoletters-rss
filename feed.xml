@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 15:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:35:22 +0000</lastBuildDate>
+    <item>
+      <title>Embodied Sensing for Closed-Loop Manipulation in an Integrated Magnetic Soft Robot</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02409</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02409</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Precision manipulation of magnetic soft robots holds great promise for applications in complex and confined environments, where a single robot could perform diverse tasks on different target objects. However, existing sensing strategies predominantly emphasize the detection of biophysical or biochemical signals or magnetic field measurements, providing limited insight into robots’ internal mechanical behaviors and their interactions with surrounding environments. This gap hinders the realization of high-precision manipulation of robotic systems. Here, we present an integrated magnetic soft robotic platform that integrates two flexible sensors, including a tension sensor and a pressure sensor, directly within a magnetic composite. By coupling embodied sensing with magnetic actuation, the robotic platform achieves feedback-driven, closed-loop manipulation. This approach provides a versatile strategy for achieving precise manipulation with promising applications in biomedical engineering and industrial robotics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Embodied Sensing for Closed-Loop Manipulation in an Integrated Magnetic Soft Robot&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02409&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02409"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Edible Metal–Phenolic Nanoarchitecture with pH-Responsive GI Transit and Mucoadhesive Retention for Oral Vitamin Delivery</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02488</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02488</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Oral vitamin supplements must survive gastric degradation yet achieve efficient intestinal absorption, requirements that conventional carriers address separately but rarely synchronize. Here, we present a supramolecular polyphenol-based micronutrient nanoarchitecture (SPNut), an edible metal–organic framework analogue composed entirely of generally recognized as safe (GRAS)-certified food-grade materials, featuring a calcium-cross-linked alginate core and an iron(III)–tannic acid metal–phenolic network shell. SPNut undergoes pH-triggered structural transformation, contracting into a protective state in the stomach (pH 2.1) and swelling with polyphenol-mediated mucoadhesion (∼70%) in the intestine (pH 7.4). This modular platform accommodates a panel of 12 vitamin formulations, achieves &amp;amp;gt;50% encapsulation efficiencies for representative B vitamins, and retains &amp;amp;gt;90% of representative labile payloads after 80 days. In vivo, vitamin C-loaded SPNut achieves 1.8-fold higher systemic exposure than free vitamin C with levels elevated to 8 h. SPNut establishes edible supramolecular coordination architectures as a scalable chassis for oral micronutrient fortification.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Edible Metal–Phenolic Nanoarchitecture with pH-Responsive GI Transit and Mucoadhesive Retention for Oral Vitamin Delivery&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02488&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02488"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03217</link>
@@ -91,18 +115,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Phase transfer of polymer nanoparticles (NPs) across immiscible liquids typically demands surface functionalization or mechanical agitation. Here, we demonstrate a proof-of-concept, modification-free transfer mechanism driven by a controlled freeze–thaw process. Using a hydrophobic perylene diimide (PDI) derivative (PDI-N-DAN) as a model, we show that freezing transforms the water–oil interface into an oil–ice interface threaded with temporary nanocracks. A chaperone solvent (2,2,2-trifluoroethanol, TFE) forms a directionally ordered layer within these conduits. This interfacial sleeve lowers the free-energy barrier, allowing lipophilic PDI-N-DAN NPs) to enter the cracks. Subsequently, as the ice melts, TFE templates solvent-shell reorganization, converting them into hydrophilic PDI-N-DAN NPs to yield stable water dispersions. Validated by systematic experiments and molecular dynamics simulation, this strategy repurposes ubiquitous ice defects to program interfacial chemistry, offering a reliable route for on-demand polymer phase transfer.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
@@ -112,6 +124,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Phase transfer of polymer nanoparticles (NPs) across immiscible liquids typically demands surface functionalization or mechanical agitation. Here, we demonstrate a proof-of-concept, modification-free transfer mechanism driven by a controlled freeze–thaw process. Using a hydrophobic perylene diimide (PDI) derivative (PDI-N-DAN) as a model, we show that freezing transforms the water–oil interface into an oil–ice interface threaded with temporary nanocracks. A chaperone solvent (2,2,2-trifluoroethanol, TFE) forms a directionally ordered layer within these conduits. This interfacial sleeve lowers the free-energy barrier, allowing lipophilic PDI-N-DAN NPs) to enter the cracks. Subsequently, as the ice melts, TFE templates solvent-shell reorganization, converting them into hydrophilic PDI-N-DAN NPs to yield stable water dispersions. Validated by systematic experiments and molecular dynamics simulation, this strategy repurposes ubiquitous ice defects to program interfacial chemistry, offering a reliable route for on-demand polymer phase transfer.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -343,18 +367,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03910</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03910</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Identifying materials with intrinsically low lattice thermal conductivity (κL) underpins thermoelectric and phase-change technologies, yet simple structural descriptors often fail to capture how chemical bonding controls lattice dynamics. Here, we compare thermal transport in two BeO polymorphs of identical chemistry and atomic mass: covalent zincblende (zb) and metavalent-like rocksalt (rs). Despite being denser, rs-BeO exhibits a κL more than an order of magnitude below zb-BeO (24 vs 357 W m–1 K–1 at 300 K), breaking the conventional density-κL correlation. Ab initio bonding analysis traces this anomaly to metavalent-like bonding in rs-BeO, which produces electron delocalization, long-range interatomic force constants, and giant quartic anharmonicity that drives strong four-phonon scattering, whereas stiff covalent bonding sustains efficient heat conduction in zb-BeO. Quantitative modeling of the rocksalt phase requires explicit phonon renormalization and four-phonon scattering, effects negligible in zb-BeO. Bonding character, rather than density, governs thermal transport in this ultrawide-bandgap oxide.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
@@ -364,6 +376,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03910</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03910</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Identifying materials with intrinsically low lattice thermal conductivity (κL) underpins thermoelectric and phase-change technologies, yet simple structural descriptors often fail to capture how chemical bonding controls lattice dynamics. Here, we compare thermal transport in two BeO polymorphs of identical chemistry and atomic mass: covalent zincblende (zb) and metavalent-like rocksalt (rs). Despite being denser, rs-BeO exhibits a κL more than an order of magnitude below zb-BeO (24 vs 357 W m–1 K–1 at 300 K), breaking the conventional density-κL correlation. Ab initio bonding analysis traces this anomaly to metavalent-like bonding in rs-BeO, which produces electron delocalization, long-range interatomic force constants, and giant quartic anharmonicity that drives strong four-phonon scattering, whereas stiff covalent bonding sustains efficient heat conduction in zb-BeO. Quantitative modeling of the rocksalt phase requires explicit phonon renormalization and four-phonon scattering, effects negligible in zb-BeO. Bonding character, rather than density, governs thermal transport in this ultrawide-bandgap oxide.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -559,18 +583,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
@@ -583,27 +595,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03038</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03038</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Controlling the physicochemical properties of nano/microparticles is crucial to optimizing their performance as drug carriers and achieving selective cellular uptake. Extensive experimental evidence suggests that particle shape strongly influences the phagocytosis rate and immune cell targeting, showing disparate and cell-dependent trends that remain poorly understood. We develop a theoretical framework that reconciles experimental results using a computationally efficient method to estimate the energy required for active forces to achieve particle engulfment. We demonstrate that cell-dependent shape preferences arise from distinct cell membrane properties that regulate tension during particle-induced deformations. Macrophages prefer disks because particle-induced membrane tension increases, while neutrophils prefer rods because their membranes maintain constant tension. Varying cell rigidity alone hardly alters the particle shape preference. Further, rods are preferred for spontaneous attachment to both membrane types. Our theory provides mechanistic insights that guide the selection of parameter ranges with the highest likelihood of success for tailor-made particle designs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Cell-Dependent Particle Shape Preference during Phagocytosis is Governed by Cell Mechanics&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03038&lt;/p&gt;
+      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03038"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spin-Sensitive Optical Anisotropy Controlled by Pump Polarization in the Kagome Antiferromagnet FeSn</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02963</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02963</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Antiferromagnetic (AFM) materials offer ultrafast spin dynamics, negligible stray fields, and robustness against magnetic perturbations, yet their vanishing net magnetization renders optical detection and control of the Néel vector fundamentally challenging. Here, we demonstrate pump-polarization-written optical and magneto-optical (MO) anisotropy in the Kagome AFM FeSn by using pump–probe ultrafast spectroscopy. The experimental findings reveal that the principal axes of both optical and MO anisotropies are dictated exclusively by the pump polarization but remain insensitive to sample rotation, ruling out lattice birefringence as the dominant origin. Linearly polarized excitation generates a photoinduced electronic polarization that couples efficiently to AFM order via spin-layer-locked Dirac Fermions. In parallel, a cooperative anisotropic deformation potential mechanism produces bond-selective transient strain that modifies the dielectric tensor through elasto-optic and spin–orbit coupling, becoming increasingly prominent at higher fluence. These results establish a deterministic and nonthermal control of spin-sensitive optical anisotropy by pump polarization in Kagome AFMs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spin-Sensitive Optical Anisotropy Controlled by Pump Polarization in the Kagome Antiferromagnet FeSn&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02963&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02963"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

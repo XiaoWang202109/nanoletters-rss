@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:43:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:39:11 +0000</lastBuildDate>
     <item>
       <title>Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03217</link>
@@ -43,18 +43,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract While mechanical instabilities enable engineered nonlinear responses, their controlled application in functional crystalline oxides has remained largely unexplored. Recent advances in freestanding oxide membranes now allow their integration into nanoscale, bistable architectures. Here, we demonstrate that freestanding SrTiO3 and BaTiO3 membranes relax into well-defined metastable buckling states when they are transferred onto lithographically defined cavities. This deformation, driven by the interplay of residual strain, bending stiffness, and cavity geometry, produces reproducible bistable states with distinct strain distribution. Using atomic force microscopy, Kelvin probe measurements, and finite element modeling, we reveal that these mechanically locked states directly govern the electromechanical potential landscape of ferroelectric BaTiO3. We further demonstrate reversible snap-through transitions between degenerate states, establishing complex oxides as deterministic, geometry-tunable building blocks for nonlinear nanoelectromechanical architectures. These results provide a general strategy for exploiting mechanical instabilities to manipulate functional responses in ultrathin, crystalline membranes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Instability-Driven Mechanically Locked States in Functional Oxide Membranes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
@@ -64,6 +52,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract While mechanical instabilities enable engineered nonlinear responses, their controlled application in functional crystalline oxides has remained largely unexplored. Recent advances in freestanding oxide membranes now allow their integration into nanoscale, bistable architectures. Here, we demonstrate that freestanding SrTiO3 and BaTiO3 membranes relax into well-defined metastable buckling states when they are transferred onto lithographically defined cavities. This deformation, driven by the interplay of residual strain, bending stiffness, and cavity geometry, produces reproducible bistable states with distinct strain distribution. Using atomic force microscopy, Kelvin probe measurements, and finite element modeling, we reveal that these mechanically locked states directly govern the electromechanical potential landscape of ferroelectric BaTiO3. We further demonstrate reversible snap-through transitions between degenerate states, establishing complex oxides as deterministic, geometry-tunable building blocks for nonlinear nanoelectromechanical architectures. These results provide a general strategy for exploiting mechanical instabilities to manipulate functional responses in ultrathin, crystalline membranes.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Instability-Driven Mechanically Locked States in Functional Oxide Membranes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -343,18 +343,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Metavalent-Like Bonding Character Drives Giant Anharmonicity and Ultralow Thermal Conductivity in Rocksalt BeO</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03910</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03910</guid>
@@ -364,6 +352,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -559,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
@@ -580,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

@@ -5,7 +5,67 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:46:55 +0000</lastBuildDate>
+    <item>
+      <title>Temporally Locked Exceptional Points for an Ultrasensitive Metasurface Biosensor</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03151</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03151</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Non-Hermitian degeneracies, notably exceptional points (EPs), enable ultrasensitive detection via an eigenvalue topology. Nevertheless, conventional EP-based metasurface biosensors require stringent fabrication precision to attain the ideal EP state, while the detection metric is restricted to only spectral splitting. Here, we demonstrate the locking of EPs even employing two nondegenerate nanoresonators by integrating a temporal dimension into a non-Hermitian Jones matrix, in which the target nanometer-size bioanalytes induce time-dependent phase reversal associated with chirality, effectively mapping the sensing signals onto the time domain. This yields a substantially greater relative signal variation than the frequency splitting in the conventional EP sensors. Intriguingly, the proposed temporally binarized gating strategy facilitates exact subgroup classification within a wide analyte concentration range. We anticipate that the proposed temporal EP-locked biosensor platform will not only provide a compelling framework for exploring non-Hermitian optical polarization dynamics but also promise rapid, sensitive, and scalable decision-making for diverse biomarker detection.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Temporally Locked Exceptional Points for an Ultrasensitive Metasurface Biosensor&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03151&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03151"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Machine Learning-Enabled Meta-Analysis of Bioengineering Micro- and Nanorobots</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02258</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02258</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Micro- and nanorobots are emerging bioengineering tools for targeted delivery, biosensing, imaging, and minimally invasive therapy, yet systematic design and cross-study translation remain hindered by heterogeneous experimental conditions, inconsistent reporting, and sparse structured data sets. Here, we develop a literature-derived data set of micro- and nanorobot systems and apply artificial intelligence (AI)-enabled structural meta-analysis to resolve relationships among bioengineering constraints, actuation strategies, environmental conditions, measurement practices, and performance. Dendrogram- and correlation-based clustering identifies three dominant descriptor modules spanning deployment context, actuation–measurement coupling, and design intent. Supervised learning reveals structured descriptor patterns in propulsion mechanisms, whereas prediction of instantaneous velocity remains only moderately generalizable, highlighting substantial domain shift across materials, propulsion physics, biological media, operating conditions, and measurement protocols. Overall, AI and machine learning provide a powerful framework for mapping heterogeneous design landscapes, exposing reporting biases and descriptor coupling, and advancing standardized data sets for reliable comparison and predictive design.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Machine Learning-Enabled Meta-Analysis of Bioengineering Micro- and Nanorobots&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02258&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02258"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Triboelectric Topological Ion Effect for Highly Sensitive Tactile Sensing</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03710</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03710</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract With the rapid development of flexible electronics and intelligent robotics, highly sensitive tactile sensing systems have become crucial for human–machine interactions and object recognition. However, achieving high sensitivity and mechanical robustness simultaneously remains a major challenge. Herein, we develop a topological interface engineering strategy to construct a polymer hydrogel with a multiscale topological architecture via the competitive regulation of interfacial hydrogen bonding. The resulting gel exhibits excellent mechanical adaptability with high compressive strength (417 kPa) and tensile strength (4.9 MPa). Under compression, confined ions within the topological channels undergo nonuniform migration and localized enrichment, inducing polarization effects that enhance the interfacial charge storage and separation. The triboelectric tactile sensor achieves a sensitivity of 6.278 V kPa–1 and rapid response/recovery times of 125/84 ms, enabling self-powered human–machine interaction and object recognition. This work provides a new structural design paradigm and a mechanistic regulation strategy for intelligent tactile sensing systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Triboelectric Topological Ion Effect for Highly Sensitive Tactile Sensing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03710&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03710"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Discovery and Manipulation of a Single Polaron in a Monolayer Mott Insulator</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04363</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04363</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Polarons are quasiparticles composed of excess electrons and local lattice distortions that are crucial for understanding many-body physics. However, atomic-scale observation and manipulation of an intrinsic polaron in strongly correlated systems still remain elusive. Here, we report the discovery and manipulation of a single polaron in single-layer Mott insulator 1T-TaSe2 by employing low-temperature scanning tunneling microscopy (STM). We observed a polaronic state located near the lower Hubbard band accompanied by a weakening of the Hubbard band. The polaron resulted in an upward bending of the Hubbard band, which signifies a local doping effect. Remarkably, the polaron can be reversibly generated, annihilated, and moved by the STM tip. Furthermore, first-principles calculations reveal that an excess electron couples to the surrounding lattice within a charge-density-wave cell to form a small polaron. Our work provides key insights into intrinsic small polarons in strongly correlated systems and demonstrates a route toward the atomic-scale manipulation of individual polarons.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Discovery and Manipulation of a Single Polaron in a Monolayer Mott Insulator&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04363&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04363"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Molecular Intercalation Regulation of Solid-State Reaction Enables Thermally Evaporated FASnI3 Light-Emitting Diodes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04013</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04013</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Tin-based perovskite light-emitting diodes (PeLEDs), particularly FASnI3-based devices, are promising for lead-free near-infrared optoelectronics. However, thermally evaporated FASnI3-PeLEDs remain unexplored because of the difficulty in controlling solid-state precursor diffusion, reaction, and crystallization. Here, we develop a molecular intercalation strategy to regulate the solid-state reaction and crystallization of layer-by-layer evaporated FASnI3. A tryptophan (Trp) interlayer modulates interfacial reaction kinetics and precursor interdiffusion, enabling controlled crystallization and improved structural quality. Meanwhile, Trp interacts strongly with the Sn-based perovskite lattice, suppressing defect formation and Sn2+ oxidation and thereby reducing nonradiative recombination. The resulting fully thermally evaporated FASnI3-PeLEDs achieve a peak radiance exceeding 100 W sr–1 m–2. Large-area devices up to 2500 mm2 and patterned devices with uniform emission are also demonstrated, highlighting the potential of molecularly regulated solid-state crystallization for scalable vacuum-processed perovskite optoelectronics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Molecular Intercalation Regulation of Solid-State Reaction Enables Thermally Evaporated FASnI3 Light-Emitting Diodes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04013&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04013"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Embodied Sensing for Closed-Loop Manipulation in an Integrated Magnetic Soft Robot</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02409</link>
@@ -67,18 +127,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract While mechanical instabilities enable engineered nonlinear responses, their controlled application in functional crystalline oxides has remained largely unexplored. Recent advances in freestanding oxide membranes now allow their integration into nanoscale, bistable architectures. Here, we demonstrate that freestanding SrTiO3 and BaTiO3 membranes relax into well-defined metastable buckling states when they are transferred onto lithographically defined cavities. This deformation, driven by the interplay of residual strain, bending stiffness, and cavity geometry, produces reproducible bistable states with distinct strain distribution. Using atomic force microscopy, Kelvin probe measurements, and finite element modeling, we reveal that these mechanically locked states directly govern the electromechanical potential landscape of ferroelectric BaTiO3. We further demonstrate reversible snap-through transitions between degenerate states, establishing complex oxides as deterministic, geometry-tunable building blocks for nonlinear nanoelectromechanical architectures. These results provide a general strategy for exploiting mechanical instabilities to manipulate functional responses in ultrathin, crystalline membranes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Instability-Driven Mechanically Locked States in Functional Oxide Membranes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
@@ -88,6 +136,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract While mechanical instabilities enable engineered nonlinear responses, their controlled application in functional crystalline oxides has remained largely unexplored. Recent advances in freestanding oxide membranes now allow their integration into nanoscale, bistable architectures. Here, we demonstrate that freestanding SrTiO3 and BaTiO3 membranes relax into well-defined metastable buckling states when they are transferred onto lithographically defined cavities. This deformation, driven by the interplay of residual strain, bending stiffness, and cavity geometry, produces reproducible bistable states with distinct strain distribution. Using atomic force microscopy, Kelvin probe measurements, and finite element modeling, we reveal that these mechanically locked states directly govern the electromechanical potential landscape of ferroelectric BaTiO3. We further demonstrate reversible snap-through transitions between degenerate states, establishing complex oxides as deterministic, geometry-tunable building blocks for nonlinear nanoelectromechanical architectures. These results provide a general strategy for exploiting mechanical instabilities to manipulate functional responses in ultrathin, crystalline membranes.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Instability-Driven Mechanically Locked States in Functional Oxide Membranes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -115,18 +175,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract CsPb(Cl1–xBrx)3:Yb3+ has been widely reported as a broadband quantum-cutting material with a photoluminescence quantum yield exceeding 100%, making it a promising candidate for enhancing the blue–green spectral response of silicon photovoltaics. Many groups have reproduced absolute photoluminescence quantum yields over 100%, but others have struggled to obtain such high values. Here, we test the quantum-cutting capabilities of CsPbCl3:Yb3+ nanocrystals and bulk material using photon-correlation analysis. A quantum-cutting material is expected to exhibit photon bunching, but our experiments on CsPbCl3:Yb3+ show no such behavior. In fact, we observe the opposite─antibunching─under focused-excitation conditions. This observation can be explained with the previously established Auger-quenching pathway in CsPbCl3:Yb3+. Our results thus confirm high-power Auger quenching but question earlier descriptions of quantum cutting in CsPb(Cl1–xBrx)3:Yb3+.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
@@ -136,6 +184,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract CsPb(Cl1–xBrx)3:Yb3+ has been widely reported as a broadband quantum-cutting material with a photoluminescence quantum yield exceeding 100%, making it a promising candidate for enhancing the blue–green spectral response of silicon photovoltaics. Many groups have reproduced absolute photoluminescence quantum yields over 100%, but others have struggled to obtain such high values. Here, we test the quantum-cutting capabilities of CsPbCl3:Yb3+ nanocrystals and bulk material using photon-correlation analysis. A quantum-cutting material is expected to exhibit photon bunching, but our experiments on CsPbCl3:Yb3+ show no such behavior. In fact, we observe the opposite─antibunching─under focused-excitation conditions. This observation can be explained with the previously established Auger-quenching pathway in CsPbCl3:Yb3+. Our results thus confirm high-power Auger quenching but question earlier descriptions of quantum cutting in CsPb(Cl1–xBrx)3:Yb3+.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -343,18 +403,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Catheter-associated urinary tract infections (CAUTIs) have been a common but challenging disease due to difficulties in the accurate prescribing of antibiotics, while existing clinical diagnostic methods are deficient in their quickness, simplicity, and convenience. Here we report a point-of-care sensing technique using untethered coacervate robots, which demonstrate high controllability and adaptation in confined catheters filled with viscous urine. Under different motion modes, the controlled coacervate robots can achieve a quick, visualized, and selective fluorescence response to Gram-negative bacteria from 102 CFU/mL to 107 CFU/mL in human urine as well as remove the colonized bacteria in the inner wall of catheters within 5 min. Blind tests on clinical urine samples with various bacterial infections reveal that the coacervate robots achieve 90% sensitivity and 100% specificity in identifying Gram-negative bacteriuria. The visualized sensing technique opens up a pathway for quick onsite diagnosis, which helps prevent infections associated with urinary catheters.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
@@ -364,6 +412,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Catheter-associated urinary tract infections (CAUTIs) have been a common but challenging disease due to difficulties in the accurate prescribing of antibiotics, while existing clinical diagnostic methods are deficient in their quickness, simplicity, and convenience. Here we report a point-of-care sensing technique using untethered coacervate robots, which demonstrate high controllability and adaptation in confined catheters filled with viscous urine. Under different motion modes, the controlled coacervate robots can achieve a quick, visualized, and selective fluorescence response to Gram-negative bacteria from 102 CFU/mL to 107 CFU/mL in human urine as well as remove the colonized bacteria in the inner wall of catheters within 5 min. Blind tests on clinical urine samples with various bacterial infections reveal that the coacervate robots achieve 90% sensitivity and 100% specificity in identifying Gram-negative bacteriuria. The visualized sensing technique opens up a pathway for quick onsite diagnosis, which helps prevent infections associated with urinary catheters.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04324&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04324"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -544,66 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03678&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03678"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Multiscale van der Waals Metallization via Peel-Front Strain Engineering</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03171</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03171</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Integrating van der Waals (vdW) devices into circuits requires metal electrodes and interconnects spanning nanometer to millimeter scales, yet mechanical deformation during electrode transfer compromises geometric integrity across this range. This work identifies strain localized at the carrier peel-front as a dominant factor influencing transferred metal geometry. Evaluating the peel-front strain against thickness-dependent strain tolerance of the carrier layer yields a mechanics-based framework that predicts the carrier thickness for geometry-preserving transfer. Operating within this regime preserves line continuity, edge definition, and dimensional accuracy from sub-100 nm to millimeters in a single transfer. The impact of geometric preservation is evident in MoS2 memristors with transferred electrodes as narrow as 80 nm, which improve switching durability by more than an order of magnitude, and in field-effect transistors with a channel length of 70 nm and ultrascaled contact geometries. These results provide a practical route toward scalable vdW metallization for 2D electronics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Multiscale van der Waals Metallization via Peel-Front Strain Engineering&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03171&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03171"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nanolayer-Confined Strain Waves in Femtosecond-Optical-Vortex-Excited Multiferroic BiFeO3</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03252</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03252</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Strain waves provide a route to reshape nanoscale order in functional materials, where lattice deformation couples to charge and spin degrees of freedom. Real-space tracking of these transient strain fields is critical for connecting acoustic excitation to functionality, yet progress has been limited because buried crystalline layers require simultaneous spatial, temporal, and crystallographic selectivity for high-resolution imaging beyond the surface. Here, we reveal optical-vortex-excited strain dynamics in a 100 nm thick BiFeO3 layer embedded in an oxide heterostructure using time-resolved dark-field X-ray microscopy. An infrared optical vortex launches strain waves, and (001)PC Bragg-reflection images track the [001]PC-projected lattice deformation, revealing acoustic modes at 15.7, 21.0, and 35.5 GHz and a longitudinal sound velocity of 4.10 ± 0.18 km s–1. Two-temperature finite-element simulations attribute the transient angular shifts to overlapping tensile and compressive strain waves. This work establishes a route to visualize confined picosecond strain fields in buried functional nanolayers.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanolayer-Confined Strain Waves in Femtosecond-Optical-Vortex-Excited Multiferroic BiFeO3&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03252&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03252"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Polymer-Free Assembly of Unencapsulated van der Waals Heterostructure Devices</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03183</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03183</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract van der Waals (vdW) heterostructures provide a versatile platform for exploring emergent quantum phenomena, yet their fabrication is often limited by interfacial contamination and incompatibility with surface-sensitive characterization. Here, we demonstrate muscovite mica as a polymer-free platform for assembling and patterning vdW heterostructure devices. Mica-mediated transfer enables clean exposed surfaces suitable for atomic-resolution scanning tunneling microscopy (STM) following mild thermal annealing, without aggressive postprocessing. Mica also serves as a mechanically robust support for sequential pickup assembly, eliminating intermediate release steps. Furthermore, exfoliated mica flakes function as removable shadow masks for contact deposition, enabling straightforward patterning without conventional lithography. We quantify the temperature dependence of mica-mediated graphene pickup and demonstrate gate-dependent transport in a three-terminal graphene/hBN device fabricated using the approach. By integrating transfer, sequential assembly, and contact patterning within a single materials platform, mica provides a simple and accessible route to unencapsulated vdW heterostructures for surface-sensitive spectroscopy and quantum-device applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Polymer-Free Assembly of Unencapsulated van der Waals Heterostructure Devices&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03183&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03183"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03809</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03809</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract We investigate the carrier dynamics in graphene junctions under mid-infrared excitation using ultrafast pump–probe photocurrent spectroscopy. We utilize dual split gate devices to demonstrate that the photothermoelectric effect can dominate the photocurrent response of graphene also for a mid-infrared femtosecond excitation. Graphene retains its broadband photocurrent response in this spectral region, but the photocurrent relaxation time increases from ∼2 ps below 8–9 μm up to 3 ps at longer mid-infrared wavelengths. The absence of a pronounced phonon bottleneck in the decay dynamics at room temperature suggests an efficient interplay of electron–electron and electron–phonon scattering even for photon energies below the optical phonon energy in graphene. The observed wavelength dependence of the photocurrent relaxation times is consistent with energy-dependent theoretical relaxation times as derived from a microscopic transport theory of graphene that includes electron–phonon coupling within a Holstein-Peierls Hamiltonian.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Ultrafast Laser-Induced Photothermoelectric Currents in Graphene Junctions in the Mid-Infrared&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03809&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03809"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Probing Solvent Dynamics at the Single-Molecule Limit</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03272</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03272</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The Electric Double Layer (EDL) that self-organizes at electrode–electrolyte interfaces plays a fundamental role in electrochemistry. While its structure has been extensively studied over the last 150 years, its dynamic behavior is still not completely understood. Here, we present a novel experimental approach to probe the EDL using single-molecule junctions as ultrasensitive probes, validated by a preliminary study of the Inner Helmholtz Plane (IHP). We measured the current response of single-molecule devices under square-wave bias in various solvent environments, and we found remarkable differences falling into three categories: large nonlinear transients in highly polar solvents, capacitor-like responses in solvents of intermediate polarity, and no significant transients (within our frequency limits) in nonpolar solvents. By fitting the solvent behavior to a molecular-level equivalent circuit, our data reveal trends in how the nature of the solvent influences IHP dynamics and provide insights into the origin of nonlinearity.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Probing Solvent Dynamics at the Single-Molecule Limit&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03272&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03272"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

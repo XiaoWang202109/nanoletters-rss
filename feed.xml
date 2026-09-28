@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 03:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:46:13 +0000</lastBuildDate>
+    <item>
+      <title>Deep Learning-Enhanced All-Nanofiber Sensors for Pressure–Temperature Sensing and Stimulus Discrimination</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03538</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03538</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Flexible sensors for elderly-assistive robots typically chase high sensitivity, while comfort and multisensory capabilities are largely ignored. Here, we break this pattern with a deep-learning decoupled sensor based on tunable all-nanofiber membranes. Unlike conventional sensors that rely on multiple complex signals, our device uses a single sensing mode and decouples the pressure–temperature signal. The all-nanofiber sensors not only offer excellent pressure–temperature sensing performances but also demonstrate outstanding elderly-friendliness, including biocompatibility, breathability, and degradability. A deep learning algorithm decouples the mixed signals, enabling accurate recognition of liquid temperature and volume in a cup, as well as classification of 15 daily objects during robotic grasping with 97.78% accuracy. This work provides a simple, ecofriendly, and high-performance sensing solution for elderly-assistive robotics and smart home systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Deep Learning-Enhanced All-Nanofiber Sensors for Pressure–Temperature Sensing and Stimulus Discrimination&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03538&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03538"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Temporally Locked Exceptional Points for an Ultrasensitive Metasurface Biosensor</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03151</link>
@@ -127,18 +139,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
@@ -148,6 +148,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -175,18 +187,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Phase transfer of polymer nanoparticles (NPs) across immiscible liquids typically demands surface functionalization or mechanical agitation. Here, we demonstrate a proof-of-concept, modification-free transfer mechanism driven by a controlled freeze–thaw process. Using a hydrophobic perylene diimide (PDI) derivative (PDI-N-DAN) as a model, we show that freezing transforms the water–oil interface into an oil–ice interface threaded with temporary nanocracks. A chaperone solvent (2,2,2-trifluoroethanol, TFE) forms a directionally ordered layer within these conduits. This interfacial sleeve lowers the free-energy barrier, allowing lipophilic PDI-N-DAN NPs) to enter the cracks. Subsequently, as the ice melts, TFE templates solvent-shell reorganization, converting them into hydrophilic PDI-N-DAN NPs to yield stable water dispersions. Validated by systematic experiments and molecular dynamics simulation, this strategy repurposes ubiquitous ice defects to program interfacial chemistry, offering a reliable route for on-demand polymer phase transfer.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
@@ -196,6 +196,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Phase transfer of polymer nanoparticles (NPs) across immiscible liquids typically demands surface functionalization or mechanical agitation. Here, we demonstrate a proof-of-concept, modification-free transfer mechanism driven by a controlled freeze–thaw process. Using a hydrophobic perylene diimide (PDI) derivative (PDI-N-DAN) as a model, we show that freezing transforms the water–oil interface into an oil–ice interface threaded with temporary nanocracks. A chaperone solvent (2,2,2-trifluoroethanol, TFE) forms a directionally ordered layer within these conduits. This interfacial sleeve lowers the free-energy barrier, allowing lipophilic PDI-N-DAN NPs) to enter the cracks. Subsequently, as the ice melts, TFE templates solvent-shell reorganization, converting them into hydrophilic PDI-N-DAN NPs to yield stable water dispersions. Validated by systematic experiments and molecular dynamics simulation, this strategy repurposes ubiquitous ice defects to program interfacial chemistry, offering a reliable route for on-demand polymer phase transfer.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -403,18 +415,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The synthesis of cubic boron nitride (cBN) solids by consolidation of cBN powders at high pressure and high temperature (HPHT) is challenging, as it leads to the hexagonal BN (hBN) phase. Here we report an HPHT synthesis of polycrystalline fluorinated cBN (F-cBN) solids that show twinned nanodomains, the presence of F at the grain boundaries, and excellent mechanical hardness and second-order nonlinear susceptibility. In contrast to pure diamagnetic cBN, we found that F-cBN is paramagnetic at room temperature, as confirmed by electron paramagnetic resonance spectroscopy, suggesting the role of defects in tuning the magnetic properties of cBN. Density functional theory calculations reveal that F stabilizes the cBN phase by passivating the dangling bonds and, in addition, forms substitutional defects (FN) leading to FN-VB defect complexes that generate local magnetic moments. These properties of F-cBN might lead to new applications of cBN and also open a pathway to synthesize new metastable phase materials with emergent properties.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Remote Coacervate Robots with Visualized Bacteria Sensing and Removal in Indwelling Catheters for Infection Prevention</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04324</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04324</guid>
@@ -427,15 +427,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
+      <title>Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02285</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02285</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
+      <description>Abstract The synthesis of cubic boron nitride (cBN) solids by consolidation of cBN powders at high pressure and high temperature (HPHT) is challenging, as it leads to the hexagonal BN (hBN) phase. Here we report an HPHT synthesis of polycrystalline fluorinated cBN (F-cBN) solids that show twinned nanodomains, the presence of F at the grain boundaries, and excellent mechanical hardness and second-order nonlinear susceptibility. In contrast to pure diamagnetic cBN, we found that F-cBN is paramagnetic at room temperature, as confirmed by electron paramagnetic resonance spectroscopy, suggesting the role of defects in tuning the magnetic properties of cBN. Density functional theory calculations reveal that F stabilizes the cBN phase by passivating the dangling bonds and, in addition, forms substitutional defects (FN) leading to FN-VB defect complexes that generate local magnetic moments. These properties of F-cBN might lead to new applications of cBN and also open a pathway to synthesize new metastable phase materials with emergent properties.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Fluorine-Assisted Stabilization of Cubic Phase Boron Nitride Polycrystalline Solids&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02285&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02285"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -448,6 +448,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03949&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03949"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Self-Healing Core–Shell Interfaces Enabling Adaptive Solid-State Ion Transport Kinetics toward Highly Efficient Seawater Lithium Extraction</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03678</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03678</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The surging global demand for lithium poses increasing challenges to supply security and sustainability. However, seawater lithium extraction technology with high selectivity and high extraction rate has not yet been developed due to extremely low lithium ion concentration and high competitive ion levels. Here, we proposed an interface engineering strategy to fabricate interface-strengthened core–shell electrodes with interfacial self-healing via 3D coaxial printing for highly efficient seawater lithium extraction. The as-prepared electrode exhibits an outstanding Li+ extraction capacity (35.35 mg g–1) and excellent Li+ extraction rate (3.53 mg g–1 min–1) in a 2200 mg L–1 LiCl solution, together with superior cycling stability (89.2% retention after 200 cycles), high Li+ purity (95.87%), and exceptional selectivity for Li+ (separation factors for Li+/Na+, Li+/K+, Li+/Ca2+, and Li+/Mg2+ of 479.3, 418.1, 135.3, and 81.5, respectively). This interface engineering strategy provides a new avenue for high-selectivity and high-rate lithium extraction from seawater.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Self-Healing Core–Shell Interfaces Enabling Adaptive Solid-State Ion Transport Kinetics toward Highly Efficient Seawater Lithium Extraction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03678&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03678"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

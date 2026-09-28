@@ -5,7 +5,163 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:53:31 +0000</lastBuildDate>
+    <item>
+      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Correction to “The Electric Field Morphology of Plasmonic Picocavities”</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04064</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04064</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>DOI: 10.1021/acs.nanolett.6c04064</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Correction to “The Electric Field Morphology of Plasmonic Picocavities”&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04064&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Gate-Switchable Nonlinear Photoresponse in a Dangling-Bond-Free Nanowire Photodetector</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03308</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03308</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract As intelligent optoelectronic systems advance, photodetectors with switchable nonlinear responses are increasingly desirable. However, conventional materials exhibit only sublinear behavior, and superlinear strategies rely on heterojunctions lacking reversible modulation. Here, we report one-dimensional Ta2Pd3Se8 nanowires obtained by electrochemical intercalation and exfoliation. Their dangling-bond-free chain architecture suppresses carrier scattering and photogenerated recombination, yielding an electron mobility of 38.95 cm2 V–1 s–1, a responsivity of 58.14 A/W, a photoconductive gain of 137.1, and a specific detectivity of 1.48 × 1011 Jones. Notably, tuning the gate voltage continuously switches the power exponent α from 1.74 to 0.50, corresponding to a 248% modulation range, surpassing all back-gated low-dimensional visible photodetectors. This switching arises from gate-modulated trap-state occupation. Furthermore, the gate-tunable nonlinear photoresponse enables adaptive image convolution, including salient-feature enhancement, high-fidelity convolution, and dynamic-range compression. Our work establishes the nanowires as a platform for tunable photodetectors for autonomous driving, unmanned aerial vehicles, and intelligent defense systems.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Gate-Switchable Nonlinear Photoresponse in a Dangling-Bond-Free Nanowire Photodetector&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03308&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03308"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Thermodynamic Optimization of Atomically Thin Iron-Based Compounds for Mid-Infrared Laser Power Scaling</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03014</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03014</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Mid-infrared pulsed lasers are pivotal for biomedical engineering and atmospheric remote sensing, yet power scaling is severely bottlenecked by poor thermal stability and low damage thresholds of conventional saturable absorbers. Here, we address this limitation through a thermodynamic optimization strategy applied to atomically thin iron-based crystals grown by space-confined chemical vapor deposition. Screening anionic chalcogens (Se, S, and O) paired with Fe identifies iron oxide as the most stable matrix, while Mn doping further stabilizes the matrix and modulates carrier dynamics. Mn incorporation enhances the laser-induced damage threshold approximately 3-fold and accelerates carrier relaxation to 23.63 ps. Consequently, a record-high average output power exceeding 1.0 W was achieved in an Er3+-doped fiber laser at 2.8 μm, accompanied by nanosecond pulse compression and operation stability over 30 days. Our findings establish lattice thermodynamics as a material route to high-energy mid-infrared pulsed lasers and highlight its potential for on-chip long-wave terahertz photonic devices.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Thermodynamic Optimization of Atomically Thin Iron-Based Compounds for Mid-Infrared Laser Power Scaling&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03014&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03014"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Electron Scattering Effect on Orbital Transport in Highly Disordered Nanocrystalline Mn</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03559</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03559</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Orbital angular momentum (OAM) has emerged as an important information carrier in solids, yet how scattering influences its transport remains poorly understood. Here, we examine scattering-dependent OAM transport in single-layer, highly disordered, nanocrystalline Mn films. We quantify current-induced orbital accumulation using longitudinal magneto-optical Kerr effect measurements while systematically varying the disorder strength as gauged by their resistivity. The Kerr signal is undetectable in the least resistive films but increases sharply in more resistive films, implying that sufficiently strong disorder scattering enhances OAM transport. Thickness-dependent measurements yield orbital relaxation lengths on the order of 10 nm, far exceeding the mean free path. Moreover, the orbital accumulation exhibits an anomalous sign, which is attributed to an intrinsic boundary contribution associated with the crystal field. These results, supported by first-principles calculations, illustrate that electron scattering may even enhance orbital transport, establishing scattering control as a practical knob for boosting the orbitronic functionality.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Electron Scattering Effect on Orbital Transport in Highly Disordered Nanocrystalline Mn&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03559&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03559"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02989</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02989</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Colloidal gels are three-dimensional networks formed by nanoparticles, which have attracted great attention for applications in tissue engineering and regenerative medicine due to their excellent viscoelastic properties. Usually, they are formed by attractive electrostatic interactions between oppositely charged particles. However, high ionic strength of physiological fluids may disrupt the networks by screening electrostatic interactions resulting in gel instability, thereby limiting practical applicability. Herein, we report the fabrication of novel colloidal gels stabilized by host-guest interactions between gelatin nanoparticles functionalized with either β-cyclodextrin or adamantane as building blocks. These host-guest stabilized colloidal gels exhibit repeatable self-healing capability (∼100%) in NaCl solutions of high ionic strength similar to physiological fluids (150 mM), surfactant solutions and cell culture medium. Furthermore, these gels are cytocompatible and promote proliferation and migration of HUVECs and L929 cells. Consequently, this work provides a promising new strategy for extending biomedical applicability of colloidal gels.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02989&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Sliding Disassembly of van der Waals Heterostructures</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02726</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02726</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Many recent advances in our understanding of two-dimensional electron systems stem from van der Waals (vdW) heterostructures. The assembly process relies on the weak bonding across interfaces between layered vdW compounds, making it possible to construct exceptionally clean heterostructures from chemically and structurally distinct materials. Here we demonstrate an additional, dynamic degree of freedom afforded by vdW interfaces, wherein we use microstructured polymer stamps to disassemble and reconfigure vdW heterostructures by deterministic, reversible, and nondestructive sliding. We apply this technique to alter the dielectric environment of monolayer graphene, expose an encapsulated H-WSe2 monolayer characterized by electronic transport for scanning tunneling microscopy measurements, and facilitate the preparation of air-sensitive monolayer 1T′-WTe2 devices. We also show that sliding preserves underlying moiré patterns, and, moreover, can be used to produce twisted vdW interfaces. Together these demonstrations suggest a new paradigm for assembling and dynamically modifying vdW heterostructures.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Sliding Disassembly of van der Waals Heterostructures&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02726&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02726"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Time-Integrated Phototransistor Based on Photoactive Gate Engineering for Ultra-Weak Light Detection</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03153</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03153</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Miniaturized weak-light detection is constrained by the reliance on external amplification and signal-accumulation circuitry. Here, we report a time-integrated phototransistor (TIPT) based on γ-InSe photoactive gate architecture that enables intrinsic signal amplification and temporal accumulation within a single device. This architecture enables continuous integration and amplification of weak optical signals, achieving ultra-low-power detection with high photosensitivity, with detection limits down to 29 fW at 520 nm and 4.2 pW at 980 nm. The accumulation process is dynamically tunable and resettable via gate control. A single-device sequential scanning reconstruction further validates improved image contrast through temporal integration due to the robustness and repeatability of TIPT. These results establish time-integrated photogating as a strategy for ultra-low-power photodetection, offering a compact and energy-efficient platform for miniaturized weak-light imaging.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Time-Integrated Phototransistor Based on Photoactive Gate Engineering for Ultra-Weak Light Detection&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03153&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03153"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Graphene-Enhanced Magnetic Anisotropies in Fe/Ni (100) Superlattices with Monolayer Periodicity</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03892</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03892</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Fe/Ni(100) superlattices grown on graphene/Ir(100) by intercalation of alternate monolayers of Ni and Fe under graphene show magnetic properties severely modified. The graphene–iron interaction at the external interface produces a surface anisotropy Kint(gr/Fe) = 0.89 ± 0.08 mJ/m2, large enough to drive the uniaxial, out-of-plane magnetic anisotropy of the whole superlattice to KU = 0.87 ± 0.03 MJ/m3 and compensate the in-plane shape anisotropy characteristic of thin magnetic layers. Graphene also introduces an additional trigonal in-plane anisotropy superimposed to the biaxial anisotropy of the underlying Fe/Ni (100) superlattice and increases the mL(parallel)/mspin ratio by 50% with respect to Fe/Ni films grown without graphene, as determined by XMCD. The films show chemical ordering plane-by-plane and a strongly distorted face-centered tetragonal (fct) structure, as determined by synchrotron-based X-ray diffraction. The gr-Fe charge transfer and the electronic hybridization of the respective π and d bands at the interface are responsible for the observed magnetic phenomena.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Graphene-Enhanced Magnetic Anisotropies in Fe/Ni (100) Superlattices with Monolayer Periodicity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03892&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03892"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Bis(phosphoramidate diester)-Based Ionizable Lipids for Highly Efficient Lung-Selective mRNA Delivery via Intercellular Transport</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02802</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02802</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Highly efficient lung-selective mRNA delivery is pivotal for advancing mRNA-based targeted therapy. Here, we report bis(phosphoramidate diester)-based ionizable cationic lipids (bpLs) for lung-specific mRNA delivery via a distinct intercellular transport mechanism. A bpL library is synthesized by modular headgroups (Ha), linkers (Lb), and tails (Tc). In vivo screening identifies the formulated bpLH15L2T8/DOPENP as the top lung-selective lipid nanoparticle (LNP) with superior pulmonary mRNA transfection. We elucidate that mononuclear phagocyte-guided cell-to-cell trafficking of bpLH15L2T8/DOPENP contributes to its high efficiency and selectivity of mRNA expression in lung tissue. p53 mRNA (mp53) delivered by bpLH15L2T8/DOPENP restores p53 function in p53-deficient pulmonary metastases and synergizes with immune checkpoint inhibitors to enhance antitumor immunity and inhibit lung metastasis of triple-negative breast cancer (TNBC). An all-trans retinoic acid (ATRA) prodrug-containing bpLNP is further developed for lung-specific codelivery of ATRA and mp53, which effectively suppresses lung metastasis of cancer stem cell-enriched TNBC.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Bis(phosphoramidate diester)-Based Ionizable Lipids for Highly Efficient Lung-Selective mRNA Delivery via Intercellular Transport&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02802&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02802"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Overcoming Field-Assisted Leakage and Mobility Deficits in InAs Colloidal Quantum Dot SWIR Photodetectors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03767</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03767</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract InAs colloidal quantum dots (CQDs) synthesized using non-pyrophoric precursors are attractive for short-wave infrared (SWIR) photodetection, yet their device performance remains limited by low external quantum efficiency (EQE) and high dark current. Here, we attribute these limitations to two material-level impediments: poor carrier mobility and broadly distributed sub-bandgap states. To address the former, we adapt a butylamine-assisted InBr3 ligand-exchange process, which increases carrier mobility by ∼80-fold and enhances EQE from 11% to 25% at −1 V. Temperature-dependent electrical and defect analyses reveal that field-assisted leakage current arises from sub-bandgap states associated with agglomerated, irregularly shaped particles within the CQD ensemble. Removing these particles via size-selective precipitation reduces trap density, increases trap activation energy, and suppresses dark current by an order of magnitude. Together, these complementary strategies yield InAs CQD photodetectors with a shot-noise-estimated detectivity of 9.8 × 1010 jones at 1320 nm and a rise time of 32 ns at −0.5 V.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Overcoming Field-Assisted Leakage and Mobility Deficits in InAs Colloidal Quantum Dot SWIR Photodetectors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03767&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03767"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Achieving ultradense zinc plating at the theoretical limit is crucial for high-energy aqueous zinc metal batteries (AZMBs), but is hindered by severe interfacial instabilities such as dendrite growth and hydrogen evolution. Here we construct a nanometer-thin, vertically stratified organic–inorganic Janus bilayer (CF-LaF3) by ion layer epitaxy to pre-engineer the zinc anode interface. A hydrophobic perfluoroalkyl top layer accelerates Zn2+ desolvation, blocks active water and suppresses parasitic reactions, while a crystalline LaF3 bottom layer with high modulus, zincophilicity and continuous ionic channels homogenizes Zn2+ flux and helps mechanically suppress dendritic growth. This complementary interphase delivers dendrite-free zinc deposition at 5 mAh cm–2 with an ultradense thickness of 8.60 μm, approaching the theoretical limit (8.54 μm). Ah-level Zn||I2 pouch cells achieve 109 Wh L–1 energy density on a full-cell basis. This pre-engineered Janus interphase offers a general and scalable route to practical high-energy AZMBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03595&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03595"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04262</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04262</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Scaling resistive random-access memory (RRAM) toward ultradense crossbar arrays for high-density storage and neuromorphic computing requires precise nanoscale control of conductive filaments for reliable multilevel operation. Here we directly visualize and modulate nanoscale filament evolution in substoichiometric Y2O3–x thin films using high-resolution in situ conductive atomic force microscopy (c-AFM) with controlled current compliance. The switching threshold systematically increases with increasing oxygen stoichiometry, while filament evolution is continuously modulated by varying the applied bias. The initially formed larger filaments persist and dominate subsequent switching events during multicycle measurements. Using the c-AFM tip as a nanoscale mobile top electrode, single-point switching reveals localized switching with a lateral influence of approximately 20 nm, defining a crosstalk length scale. These results directly link oxygen stoichiometry, microstructure, filament evolution, and switching length scales, providing new insight into nanoscale filamentary switching and physical guidelines for scaling polycrystalline memristors toward ultradense memory and neuromorphic applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04262&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04262"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Deep Learning-Enhanced All-Nanofiber Sensors for Pressure–Temperature Sensing and Stimulus Discrimination</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03538</link>
@@ -139,18 +295,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract While mechanical instabilities enable engineered nonlinear responses, their controlled application in functional crystalline oxides has remained largely unexplored. Recent advances in freestanding oxide membranes now allow their integration into nanoscale, bistable architectures. Here, we demonstrate that freestanding SrTiO3 and BaTiO3 membranes relax into well-defined metastable buckling states when they are transferred onto lithographically defined cavities. This deformation, driven by the interplay of residual strain, bending stiffness, and cavity geometry, produces reproducible bistable states with distinct strain distribution. Using atomic force microscopy, Kelvin probe measurements, and finite element modeling, we reveal that these mechanically locked states directly govern the electromechanical potential landscape of ferroelectric BaTiO3. We further demonstrate reversible snap-through transitions between degenerate states, establishing complex oxides as deterministic, geometry-tunable building blocks for nonlinear nanoelectromechanical architectures. These results provide a general strategy for exploiting mechanical instabilities to manipulate functional responses in ultrathin, crystalline membranes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Instability-Driven Mechanically Locked States in Functional Oxide Membranes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
@@ -160,6 +304,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract While mechanical instabilities enable engineered nonlinear responses, their controlled application in functional crystalline oxides has remained largely unexplored. Recent advances in freestanding oxide membranes now allow their integration into nanoscale, bistable architectures. Here, we demonstrate that freestanding SrTiO3 and BaTiO3 membranes relax into well-defined metastable buckling states when they are transferred onto lithographically defined cavities. This deformation, driven by the interplay of residual strain, bending stiffness, and cavity geometry, produces reproducible bistable states with distinct strain distribution. Using atomic force microscopy, Kelvin probe measurements, and finite element modeling, we reveal that these mechanically locked states directly govern the electromechanical potential landscape of ferroelectric BaTiO3. We further demonstrate reversible snap-through transitions between degenerate states, establishing complex oxides as deterministic, geometry-tunable building blocks for nonlinear nanoelectromechanical architectures. These results provide a general strategy for exploiting mechanical instabilities to manipulate functional responses in ultrathin, crystalline membranes.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Instability-Driven Mechanically Locked States in Functional Oxide Membranes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -448,162 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03910&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03910"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02413</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02413</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Inspired by the enhanced attachment of spiky structures in nature, a toughening strategy for polymer nanocomposites has been developed, which operates by improving the interfacial stability between polymer chains and nanoparticles with a hierarchical architecture combining accessible mesoporosity with spiky surfaces. However, engineering nanoparticles with such architectures remains difficult because epitaxial growth blocks pores and etching damages the mesostructures. Here, we report a condensation-induced anisotropic contraction strategy for constructing silica nanoparticles with a hierarchical architecture of an internal, center-radial mesoporous structure and conical-spiky surface. The incorporation of these nanoparticles into Sylgard 184 resulted in an increase of 2.1-fold tensile strength and 8.5-fold toughness compared to the pristine control. The fracture surfaces exhibited tortuous crack propagation, branching, and larger pull-out cavities than the nonspiky counterpart. It is proposed as a reinforcing mechanism involving interfacial entanglement between the spiky surface and polymer chains, which may enable dynamic chain sliding and facilitate energy dissipation during stretching.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Spiky-Surfaced Mesoporous Silica Nanoparticles for Reinforced Elastomer Composites with Improved Interfacial Stability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02413&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02413"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Coupling Porous Architecture and Fe–F Coordination Engineering Enables Highly Reversible FeF3 Cathode Materials</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03811</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03811</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Iron trifluoride (FeF3) is a promising conversion-type cathode material for next-generation lithium-ion batteries (LIBs) owing to its high theoretical capacity enabled by multielectron redox chemistry. However, its practical application is limited by sluggish reaction kinetics, large volume fluctuations, and unstable electrode/electrolyte interfaces. Herein, we develop a deep eutectic solvent strategy that enables controlled fluorination, constructing interconnected porous architectures and regulating the local Fe–F coordination environment. Benefiting from shortened Li+ diffusion pathways and reduced stress accumulation, the porous FeF3 delivers a reversible capacity of 551.5 mAh g–1 at 50 mA g–1 and excellent cycling stability with 66.4% capacity retention after 1000 cycles. Spectroscopic characterizations and COMSOL simulations reveal that the regulated Fe–F promotes the formation of a robust inorganic-rich cathode electrolyte interphase, thereby enabling stable interfacial chemistry. This work highlights the critical roles of both porous architecture design and local coordination chemistry in governing conversion-type cathode materials for LIBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Coupling Porous Architecture and Fe–F Coordination Engineering Enables Highly Reversible FeF3 Cathode Materials&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03811&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03811"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Nanoconfined Polymer Dot Reactors for Ultrasensitive Monitoring of Diverse Metabolites and Point-of-Care Diagnosis</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03728</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03728</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Polymer dots (Pdots) offer high brightness and tunable electronic properties for point-of-care testing, but conventional sensing often suffers from inefficient stochastic interactions and limited adaptability. Here, we screened Pdots for interactions with the NAD+/NADH redox couple and identified PDFDP Pdots with an NADH detection limit of 2.41 nM. Coupling PDFDP Pdots with NAD+-dependent enzymes enabled detection of multiple metabolites through enzymatically generated NADH. Co-encapsulation of Pdots and enzymes within microreactors further enhanced signal transduction by spatial confinement. Combined with smartphone-based RGB analysis under UV illumination, the platform enabled micromolar detection of lactate, β-hydroxybutyrate, glutamate, alanine, and ethanol. The method was further demonstrated in sweat and urine samples, showing good agreement with established analytical methods and supporting its potential for portable metabolite monitoring and exploratory disease-associated analysis.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoconfined Polymer Dot Reactors for Ultrasensitive Monitoring of Diverse Metabolites and Point-of-Care Diagnosis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03728&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03728"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Structure and Interfacial Modulation of Triboelectric Sensors for Sitting Posture Monitoring</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03912</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03912</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The output performance of triboelectric sensors (TESs) still encounters some limitations, such as interface charge recombination and incomplete contact during deformation. This study improves the performance of TESs by integrating material interface engineering with structural design. A 1-mm-thick hydrogel generates the strongest interfacial polarization electric field, reducing the charge recombination rate from 25.6% to 4.1%. Meanwhile, optimizing the hydrogel thickness improves structural compliance and enlarges the effective contact area. Therefore, a 3-mm-thick hydrogel achieves the maximum surface charge density of 219 μC·m–2 by balancing charge-recombination suppression and effective contact status. Additionally, the spacer gap of TES is optimized to regulate contact evolution during deformation, consistent with the Föppl–von Kármán large-deflection model. The combined theoretical and experimental analyses clarify the roles of interfacial polarization and structural deformation in output enhancement. The optimized TES further enables sitting-posture recognition, demonstrating its potential for health monitoring.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Structure and Interfacial Modulation of Triboelectric Sensors for Sitting Posture Monitoring&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03912&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03912"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Hysteresis and Trap Emission in dc-Biased Integrated Lithium Niobate Electro-optic Modulators</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03406</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03406</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The electro-optic (EO) effect is crucially important for low power and efficient tuning of integrated photonic circuits. However, in EO materials such as lithium niobate, dc biasing for an extended duration of time results in the emergence of numerous nonidealities, including hysteresis─a persistent degradation of the magnitude and linearity of the dc EO response. We show that EO hysteresis can be reversed under both zero-bias and reverse-bias conditions, given sufficient time or reverse voltage and consistent with a defect model of the underlying physics. Specifically, we infer that drift phenomena at short time scales may arise from charge trapping dynamics near the contact junction and thereby devise an active reset protocol that restores the magnitude of the response and partially restores the drift time scales.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Hysteresis and Trap Emission in dc-Biased Integrated Lithium Niobate Electro-optic Modulators&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03406&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03406"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Synthesis of CsPbI3 Rhombic Dodecahedra Using Facet-Selective Bidentate Ammonium Ligands</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03385</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03385</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract CsPbI3 nanocrystals exhibit bright, tunable photoluminescence and are attractive for use in a variety of optoelectronic devices. Existing colloidal syntheses of CsPbI3 predominantly produce nanocubes or other hexahedral shapes because of the stability of the nanocube facets in the perovskite structure. In this work, we utilize a bidentate ammonium ligand with a tunable linker between the two head groups in order to preferentially nucleate and stabilize rhombic dodecahedral nanocrystals. These particles show enhanced environmental stability compared to CsPbI3 nanocrystals capped with monodentate ammonium ligands and self-assemble into ordered, hexagonally packed monolayers. This work represents a new entry into the limited shape catalog of CsPbI3 and expands the design principles for facet-selective ligands in lead-halide perovskite nanocrystals.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Synthesis of CsPbI3 Rhombic Dodecahedra Using Facet-Selective Bidentate Ammonium Ligands&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03385&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03385"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Peptide Glasses with Room Temperature Shaping and Autonomous Self-Healing Capabilities</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03551</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03551</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Biomolecular glasses recently emerged as a promising renewable and benign alternative to conventional glasses, but often they cannot autonomously self-repair. In this study, we adopt a new strategy to arrest the crystallization tendency of dipeptides and leverage high molecular mobility of protected dipeptides to prepare self-healing glassy solids without the application of external stimuli. The peptide glasses are stable under wet conditions and have some promising properties, such as high transmittance of visible light, Young’s moduli of up to 16.3 GPa, and heating-free shaping capability. Moreover, a cysteine–lysine dipeptide can be applied as an auxiliary to promote the healing of peptide glasses, which are otherwise unable to automatically recover from mechanical damages. Our findings establish a promising avenue to the design and preparation of healable and shapeable biomolecular glasses that could be highly advantageous for their application as smart coating, optical, and biomedical materials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Peptide Glasses with Room Temperature Shaping and Autonomous Self-Healing Capabilities&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03551&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03551"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>“Egyptian” and “Mayan” Molybdenum Disulfide Pyramids</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03801</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03801</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The pyramid geometry is among the most fundamental architectural forms found in human culture. Culturally, “Egyptian” pyramids feature sharply pointed geometries, whereas “Mayan” pyramids exhibit truncated and stepped-terrace profiles. Here we demonstrate chemical vapor deposition of multilayer two-dimensional (2D) molybdenum disulfide (MoS2) can selectively yield both distinct architectural classes. By tuning local supersaturation via specific substrate configurations, we modulate the growth of 3R-stacked MoS2, triggering a thermodynamic stability inversion between S- and Mo-terminated zigzag edges, driving the morphological transition between Egyptian and Mayan pyramids. Compared to conventional Egyptian structures, the novel Mayan pyramids contain a central screw-dislocation defect and unique triple-alternating ridges and valleys, facilitating photoluminescence quenching symmetrically, reducing the local work function, and enhancing surface friction near the central screw dislocation. These findings demonstrate how growth kinetics and morphology dictate the optoelectronic and nanotribological properties of 2D vdW architectures, promising for future device and lubrication regulations.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;“Egyptian” and “Mayan” Molybdenum Disulfide Pyramids&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03801&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03801"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Controlled Synthesis of Twisted Bilayer WSe2 Via Hydrogen Pulse and Water-Assisted CVD</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03309</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03309</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Twisted bilayer tungsten diselenide (TB-WSe2), which combines twist-angle-dependent electronic band structure with broken inversion symmetry, is particularly attractive for ultrathin optoelectronic and ferroelectric devices. However, TB-WSe2 is still synthesized by mechanical exfoliation and artificial stacking, which suffer from low yield, interfacial contamination, and lattice damage. In this work, we develop a chemical vapor deposition strategy that integrates water-assisted precursor engineering with hydrogen-pulse modulation to enable the controlled synthesis of TB-WSe2. Temperature-dependent PL measurements reveal an additional interlayer-exciton emission in TB-WSe2 compared with the conventionally stacked AA bilayer and, further, reveal the temperature evolution of the PL peak positions and intensities. Piezoresponse force microscopy confirms out-of-plane polarization at selected twist angles, as evidenced by representative butterfly-shaped amplitude loops and phase-switching hysteresis curves. This work establishes a high-yield synthesis route for TB-WSe2 and provides an experimental foundation for the development and practical application of two-dimensional twisted transition-metal dichalcogenide-based optoelectronic and ferroelectric devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Controlled Synthesis of Twisted Bilayer WSe2 Via Hydrogen Pulse and Water-Assisted CVD&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03309&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03309"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Phosphorylation-Mediated Regulatory Networks Fine-Tune Rye Responses to PVC Nanoplastic Stress: Evidence from Multiomics and Computational Biology</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02670</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02670</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Although polyvinyl chloride nanoplastics (NPs-PVC) are widespread emerging contaminants, their crop toxicity mechanisms─especially at the post-translational modification (PTM) level─remain unclear. Using multiscale exposures (short-term hydroponics and whole-life-cycle soil cultivation), integrated physiological, imaging, omics (transcriptomics and phosphoproteomics), molecular docking, and molecular dynamics simulations, we systematically evaluated NPs-PVC impacts on Secale cereale. Short-term exposure inhibited growth, reduced photosynthesis, and induced oxidative stress, with PVC stably binding cytochrome f and catalase. Long-term exposure decreased grain weight and tillers, accompanied by transcriptional shifts in metabolism and stress pathways. Phosphoproteomics revealed widespread phosphorylation changes in photosynthesis- and lipid metabolism-related proteins, with PVC-14-3-3λ binding confirmed by simulation. Structural equation modeling demonstrated that NPs-PVC regulates agronomic traits mainly through oxidative stress and photosynthesis disruption. Collectively, NPs-PVC suppresses rye growth via direct protein binding, transcriptional reprogramming, and PTM-mediated physiological tuning. This study advances the understanding of nanoplastic phytotoxicity mechanisms and agricultural ecological risk assessment.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Phosphorylation-Mediated Regulatory Networks Fine-Tune Rye Responses to PVC Nanoplastic Stress: Evidence from Multiomics and Computational Biology&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02670&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02670"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>First-Principles Insights into Surface and Ligand Effects in Stoichiometric HgTe Quantum Dots</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02979</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02979</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract HgTe quantum dots are promising colloidal infrared semiconductors for photodetection, imaging, and optoelectronics because their electronic structure can be tuned from the short-wave to mid-infrared. Despite this technological promise, how the electronic structure of ultrasmall HgTe quantum dots emerges from confined semimetallic HgTe and how surface coordination governs frontier-state localization remain unresolved. Here, first-principles calculations on stoichiometric HgTe nanoclusters spanning ∼0.86–1.85 nm reveal a transition from confinement-dominated to surface-controlled electronic structure. Small self-passivated clusters exhibit clean HOMO–LUMO gaps and delocalized frontier states, whereas larger nanoclusters develop localized surface-associated near-edge states driven by coordination and bond-length heterogeneity. At intermediate sizes, the HOMO and LUMO become spatially separated without forming deep-gap states. Neutral ligands suppress localized states by restoring surface coordination while tuning frontier-state energetics through ligand–surface hybridization. These findings establish an atomistic framework for controlling surface-driven electronic structure in infrared quantum dots.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;First-Principles Insights into Surface and Ligand Effects in Stoichiometric HgTe Quantum Dots&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02979&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02979"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Branched DNA Nanoplatform-Based Multivalent PROTACs for Tumor Microenvironment-Responsive Degradation of Telomere-Binding Proteins in Tumor Therapy</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02181</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02181</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Targeted protein degradation systems have been widely employed in biomedical applications. Herein, we report a branched DNA nanoplatform-based multivalent proteolysis-targeting chimera (PROTAC) for efficient degradation of telomeric repeat-binding factor proteins (TRF1/2) in vivo. In our design, a branched DNA-based scaffold with predesigned numbers of PROTACs utilizing telomere mimics as warheads can be synthesized to coassemble with pro-melittins for efficient Legumain-responsive intratumoral permeation. After cellular uptake, the protein degradation units can be subsequently released by GSH reduction to recruit their target proteins (TRF1/2) and key E3 ligases. Owing to covalent characteristics and optimized spatial positions, the branched PROTACs can achieve a multivalent cooperative effect to enhance their degradation efficiency and trigger a series of subsequent cellular behaviors for tumor therapy while showing minimal side effects on normal cells. This tailored targeted protein degradation system based on a branched DNA nanoplatform presents a new avenue for development of precise therapy.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Branched DNA Nanoplatform-Based Multivalent PROTACs for Tumor Microenvironment-Responsive Degradation of Telomere-Binding Proteins in Tumor Therapy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02181&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02181"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Dual-Defects Engineering and Fe–S–Ga Bridging Synergy in Secondary Battery Anode Enable Fast-Charging and Durable Performances</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03949</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03949</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Defect-engineering commonly enables improved energy-storage performance; however, how it synergizes with interfacial bond bridging to boost fast-charging capacity remains a challenge. Here, we develop a FeS2@Ga2S3 heterostructure as sodium-ion battery anode that integrates dual-phase vacancies with Fe–S–Ga bonds. Peak-force atomic force microscopy and insitu characterizations reveal that Fe–S–Ga bonds enable structural stability. Density functional theory (DFT) calculations and kinetic analyses demonstrate the tailored heterointerface exhibits moderate Na+ adsorption energy and reduced diffusion barrier. The FeS2@Ga2S3 anode delivers a capacity of 468.5 mAh g–1 after 1000 cycles at 10.0 A g–1 with nearly 100% Coulombic efficiency, an exceptional rate-performance keeping 416.8 mAh g–1 at 20.0 A g–1, and stable performance over wide temperatures from −15 to 50 °C. FeS2@Ga2S3||Na3V2(PO4)3 full cell retains 442.4 mAh g–1 after 500 cycles at 1.0 A g–1, exhibiting a good potential for applications. This dual-defects and chemical bond-bridging design could be applied for developing a broad set of battery systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Dual-Defects Engineering and Fe–S–Ga Bridging Synergy in Secondary Battery Anode Enable Fast-Charging and Durable Performances&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03949&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03949"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

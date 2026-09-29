@@ -5,19 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 22:53:31 +0000</lastBuildDate>
-    <item>
-      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 03:57:58 +0000</lastBuildDate>
     <item>
       <title>Correction to “The Electric Field Morphology of Plasmonic Picocavities”</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04064</link>
@@ -28,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04064&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -295,18 +295,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
@@ -316,6 +304,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

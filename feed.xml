@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:48:45 +0000</lastBuildDate>
     <item>
       <title>Issue Publication Information</title>
       <link>https://doi.org/10.1021/nlv026i038_2136211</link>
@@ -16,6 +16,18 @@
 &lt;p&gt;DOI: 10.1021/nlv026i038_2136211&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/nlv026i038_2136211"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Gate-Tunable Unconventional Unidirectional Magnetoresistance in Chiral Tellurium Nanosheets</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03583</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03583</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Chiral materials, which lack inversion and mirror symmetries, host spin textures in momentum space that give rise to current-induced spin polarization. In bulk Te, symmetry restricts the induced spin polarization to the chiral axis, allowing unidirectional magnetoresistance (UMR) only when the magnetic field is aligned with this direction. Here, we demonstrate an unconventional UMR in chiral Te nanosheets that emerges under a magnetic field transverse to the chiral axis. The unconventional UMR exhibits nearly linear magnetic-field and current dependences and reverses sign with opposite crystal handedness, confirming its intrinsic chiral origin. First-principles calculations explain the unconventional UMR by out-of-plane spin polarization induced by symmetry reduction in Te nanosheets. Furthermore, electrostatic gating experiments demonstrate that the unconventional UMR is governed by the electronic structure near the Fermi level. These results establish symmetry reduction and Fermi-level control as effective routes to generating multiaxis spin polarization in chiral materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Gate-Tunable Unconventional Unidirectional Magnetoresistance in Chiral Tellurium Nanosheets&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03583&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03583"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -43,6 +55,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Transfer Medium Design for Fabrication of Graphene Barrier Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03009</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03009</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Theoretically, defect-free monolayer graphene grown by chemical vapor deposition can block nearly all gases and moisture, making it a promising material for large-scale flexible encapsulation in future photonic and electronic applications. However, the lack of reliable transfer and fabrication methods that suppress the formation of transfer-induced cracks and interlayer transport of water molecules in stacked graphene films severely limits the barrier performance of current graphene-based barrier films. In this work, we employed a dopant-incorporated polyvinylidene difluoride with a concentration gradient as a transfer medium to suppress crack formation during transfer through conformal graphene–polymer contact and to dope graphene, thereby hindering water diffusion through enhanced water–graphene interactions. Consequently, the as-fabricated barrier film achieved an ultralow water vapor transmission rate value of 9.3 × 10–5 g m–2 day–1. In addition, a home-built roll-to-roll transfer system for continuous fabrication of graphene barrier films demonstrates the scalability of this strategy and its potential for large-scale flexible and transparent encapsulation.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Transfer Medium Design for Fabrication of Graphene Barrier Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03009&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03009"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Confining Sn Nanocatalysts via Ship-in-a-Bottle Strategy: Local Alkaline Microenvironment Engineering for High-Selective and Durable Acidic CO2RR to Formic Acid</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02682</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02682</guid>
@@ -52,18 +76,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02682&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02682"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04087</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04087</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electrocatalytic water purification suffers from metal leaching, sluggish mass transfer, and inefficient electrode utilization. Here we present a free-standing oxygen and defect co-tuned carbon nanofiber (O–CN) membrane as a bifunctional electrocatalyst for concurrent anodic and cathodic pollutant degradation. Fabricated via electrospinning and gradient annealing, O–CN features dense submicron channels enabling ultrafast transport. Oxygen doping with defect passivation induces charge polarization, intensifying the density of states near the Fermi level and creating electron-rich and electron-deficient regions. This promotes anodic direct oxidation via a downshifted HOMO and cathodic singlet oxygen production via a decreased work function. Complete removal of emerging contaminants occurs within 0.4 s, flux of ∼936.5 L m–2 h–1 bar–1, energy consumption of ∼0.096 kWh m–3, and &amp;amp;gt;99% efficiency over 300 h. Costs and environmental impact are reduced by &amp;amp;gt;65% versus conventional systems. This work establishes a sustainable electrified water treatment paradigm by converging atomic-level electronic modulation with nanoscale transport optimization.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04087&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04087"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -79,15 +91,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02899</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02899</guid>
+      <title>Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04087</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04087</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Geometric phases are fundamental to wave physics and underpin a broad range of optical phenomena. The most prominent example, the Pancharatnam–Berry (PB) phase, originates from polarization evolution during wave propagation. In contrast, geometric phases associated with optical resonances and cavities remain largely unexplored. Here, we uncover the relation between the generalized PB phase and the far-field polarization evolution in bound states in the continuum (BIC) cavities. We demonstrate the continuous homotopic evolution of vortex lasing modes through geometric-phase engineering of BIC resonances. To experimentally validate this concept, we realize metasurface lasers composed of titanium dioxide hole arrays integrated with CdSe/CdxZn1–xS core/shell colloidal quantum wells as the gain medium. Our results reveal a previously unexplored form of spin–orbit interaction in BIC cavities under oblique incidence and provide a versatile route for on-chip control of polarization and orbital angular momentum in nanolasers.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02899&lt;/p&gt;
+      <description>Abstract Electrocatalytic water purification suffers from metal leaching, sluggish mass transfer, and inefficient electrode utilization. Here we present a free-standing oxygen and defect co-tuned carbon nanofiber (O–CN) membrane as a bifunctional electrocatalyst for concurrent anodic and cathodic pollutant degradation. Fabricated via electrospinning and gradient annealing, O–CN features dense submicron channels enabling ultrafast transport. Oxygen doping with defect passivation induces charge polarization, intensifying the density of states near the Fermi level and creating electron-rich and electron-deficient regions. This promotes anodic direct oxidation via a downshifted HOMO and cathodic singlet oxygen production via a decreased work function. Complete removal of emerging contaminants occurs within 0.4 s, flux of ∼936.5 L m–2 h–1 bar–1, energy consumption of ∼0.096 kWh m–3, and &amp;amp;gt;99% efficiency over 300 h. Costs and environmental impact are reduced by &amp;amp;gt;65% versus conventional systems. This work establishes a sustainable electrified water treatment paradigm by converging atomic-level electronic modulation with nanoscale transport optimization.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04087&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02899"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04087"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -100,6 +112,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02899</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02899</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Geometric phases are fundamental to wave physics and underpin a broad range of optical phenomena. The most prominent example, the Pancharatnam–Berry (PB) phase, originates from polarization evolution during wave propagation. In contrast, geometric phases associated with optical resonances and cavities remain largely unexplored. Here, we uncover the relation between the generalized PB phase and the far-field polarization evolution in bound states in the continuum (BIC) cavities. We demonstrate the continuous homotopic evolution of vortex lasing modes through geometric-phase engineering of BIC resonances. To experimentally validate this concept, we realize metasurface lasers composed of titanium dioxide hole arrays integrated with CdSe/CdxZn1–xS core/shell colloidal quantum wells as the gain medium. Our results reveal a previously unexplored form of spin–orbit interaction in BIC cavities under oblique incidence and provide a versatile route for on-chip control of polarization and orbital angular momentum in nanolasers.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02899&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02899"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03186&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03186"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Coherence Enhancement of Interlayer Excitons Via 3D Trapping</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03241</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03241</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Interlayer excitons (IXs) in van der Waals heterostructures exhibit intrinsically long lifetimes, but disorder-induced inhomogeneous broadening, rapid dephasing, and stacking-dependent emission intensity limit their use in coherent light sources. Here, we integrate robust IXs formed in a two-dimensional perovskite/transition metal dichalcogenide heterostructure, whose emission is largely insensitive to twist angle, into a vertical optical cavity operating in the weak-coupling regime. Quantized momentum-space spectra indicate three-dimensional photonic confinement, which narrows the emission line width from ∼125 to ∼0.75 meV and extends the temporal coherence time from 0.09 to 2.6 ps. IX diffusion over distances comparable to the photonic trap dimensions enables efficient spatial feeding of the confined modes. Time-resolved measurements further reveal Purcell-enhanced recombination of IXs. Our results demonstrate that modulated photonic potentials can enhance the intrinsic emission properties of IXs and provide a route to coherent excitonic light sources based on van der Waals heterostructures.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Coherence Enhancement of Interlayer Excitons Via 3D Trapping&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03241&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03241"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Switching Chern Number by Sliding and Gating in Alternately Twisted Tetralayer MoTe2</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03169</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03169</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Switching the bulk Chern number in topological materials is of central importance for the design of topological electronic devices. Motivated by recent observations of integer and fractional quantum anomalous Hall effects in twisted transition metal dichalcogenides, we realize the switching of valley Chern number through sliding and gating in alternately twisted tetralayer (ATT) MoTe2. Using density functional theory (DFT) calculations, we show that the Chern number of the first K-valley moiré band evolves from +1 to −1 under the interlayer sliding. Furthermore, an applied electric field can switch the valley Chern number from −1 to +1. Based on the developed continuum model, we reveal that these switching behaviors are caused by the sliding- and gate-dependent intralayer moiré potential distributions across the layers. Our results establish ATT MoTe2 as a promising platform for engineering moiré band topologies through the design of moiré potentials with sliding in multilayer moiré systems.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Switching Chern Number by Sliding and Gating in Alternately Twisted Tetralayer MoTe2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03169&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03169"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

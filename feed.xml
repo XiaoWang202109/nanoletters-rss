@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 21:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:45:17 +0000</lastBuildDate>
     <item>
       <title>Confining Sn Nanocatalysts via Ship-in-a-Bottle Strategy: Local Alkaline Microenvironment Engineering for High-Selective and Durable Acidic CO2RR to Formic Acid</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02682</link>
@@ -139,18 +139,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Correction to “The Electric Field Morphology of Plasmonic Picocavities”</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04064</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04064</guid>
@@ -160,6 +148,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04064&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -199,18 +199,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02989</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02989</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Colloidal gels are three-dimensional networks formed by nanoparticles, which have attracted great attention for applications in tissue engineering and regenerative medicine due to their excellent viscoelastic properties. Usually, they are formed by attractive electrostatic interactions between oppositely charged particles. However, high ionic strength of physiological fluids may disrupt the networks by screening electrostatic interactions resulting in gel instability, thereby limiting practical applicability. Herein, we report the fabrication of novel colloidal gels stabilized by host-guest interactions between gelatin nanoparticles functionalized with either β-cyclodextrin or adamantane as building blocks. These host-guest stabilized colloidal gels exhibit repeatable self-healing capability (∼100%) in NaCl solutions of high ionic strength similar to physiological fluids (150 mM), surfactant solutions and cell culture medium. Furthermore, these gels are cytocompatible and promote proliferation and migration of HUVECs and L929 cells. Consequently, this work provides a promising new strategy for extending biomedical applicability of colloidal gels.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02989&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Sliding Disassembly of van der Waals Heterostructures</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02726</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02726</guid>
@@ -220,6 +208,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02726&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02726"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02989</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02989</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Colloidal gels are three-dimensional networks formed by nanoparticles, which have attracted great attention for applications in tissue engineering and regenerative medicine due to their excellent viscoelastic properties. Usually, they are formed by attractive electrostatic interactions between oppositely charged particles. However, high ionic strength of physiological fluids may disrupt the networks by screening electrostatic interactions resulting in gel instability, thereby limiting practical applicability. Herein, we report the fabrication of novel colloidal gels stabilized by host-guest interactions between gelatin nanoparticles functionalized with either β-cyclodextrin or adamantane as building blocks. These host-guest stabilized colloidal gels exhibit repeatable self-healing capability (∼100%) in NaCl solutions of high ionic strength similar to physiological fluids (150 mM), surfactant solutions and cell culture medium. Furthermore, these gels are cytocompatible and promote proliferation and migration of HUVECs and L929 cells. Consequently, this work provides a promising new strategy for extending biomedical applicability of colloidal gels.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02989&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -271,18 +271,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Achieving ultradense zinc plating at the theoretical limit is crucial for high-energy aqueous zinc metal batteries (AZMBs), but is hindered by severe interfacial instabilities such as dendrite growth and hydrogen evolution. Here we construct a nanometer-thin, vertically stratified organic–inorganic Janus bilayer (CF-LaF3) by ion layer epitaxy to pre-engineer the zinc anode interface. A hydrophobic perfluoroalkyl top layer accelerates Zn2+ desolvation, blocks active water and suppresses parasitic reactions, while a crystalline LaF3 bottom layer with high modulus, zincophilicity and continuous ionic channels homogenizes Zn2+ flux and helps mechanically suppress dendritic growth. This complementary interphase delivers dendrite-free zinc deposition at 5 mAh cm–2 with an ultradense thickness of 8.60 μm, approaching the theoretical limit (8.54 μm). Ah-level Zn||I2 pouch cells achieve 109 Wh L–1 energy density on a full-cell basis. This pre-engineered Janus interphase offers a general and scalable route to practical high-energy AZMBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03595&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03595"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04262</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04262</guid>
@@ -292,6 +280,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04262&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04262"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Achieving ultradense zinc plating at the theoretical limit is crucial for high-energy aqueous zinc metal batteries (AZMBs), but is hindered by severe interfacial instabilities such as dendrite growth and hydrogen evolution. Here we construct a nanometer-thin, vertically stratified organic–inorganic Janus bilayer (CF-LaF3) by ion layer epitaxy to pre-engineer the zinc anode interface. A hydrophobic perfluoroalkyl top layer accelerates Zn2+ desolvation, blocks active water and suppresses parasitic reactions, while a crystalline LaF3 bottom layer with high modulus, zincophilicity and continuous ionic channels homogenizes Zn2+ flux and helps mechanically suppress dendritic growth. This complementary interphase delivers dendrite-free zinc deposition at 5 mAh cm–2 with an ultradense thickness of 8.60 μm, approaching the theoretical limit (8.54 μm). Ah-level Zn||I2 pouch cells achieve 109 Wh L–1 energy density on a full-cell basis. This pre-engineered Janus interphase offers a general and scalable route to practical high-energy AZMBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03595&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03595"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>

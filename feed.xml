@@ -5,7 +5,19 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:50:19 +0000</lastBuildDate>
+    <item>
+      <title>Magnetic-Field-Induced Large OER Enhancement in Co-Based Ferrimagnetic Thin Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03575</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03575</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Electrochemical water splitting offers a promising route to sustainable hydrogen production, yet the oxygen evolution reaction (OER) remains kinetically sluggish and subject to spin-selection constraints associated with triplet O2. Here, CoTb ferrimagnetic thin films with strong perpendicular magnetic anisotropy (PMA) are used to investigate the relationship between magnetic ordering and OER kinetics. Under a 300 mT magnetic field, the onset potential decreases by ∼96 mV and the Tafel slope by ∼15.1 mV·dec–1, accompanied by reduced charge-transfer resistance. The enhanced OER activity is strongly correlated with magnetic-state regulation and largely retained after field removal. Tb-mediated 3d–4f exchange and strong PMA contribute to regulating and retaining the Co magnetic state, which may influence interactions between Co active sites and oxygen intermediates. This nonvolatile magnetic state may eliminate the need for continuous field application, potentially reducing energy consumption. These findings provide a new perspective for magnetically regulated electrocatalysts.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Magnetic-Field-Induced Large OER Enhancement in Co-Based Ferrimagnetic Thin Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03575&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03575"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Confining Sn Nanocatalysts via Ship-in-a-Bottle Strategy: Local Alkaline Microenvironment Engineering for High-Selective and Durable Acidic CO2RR to Formic Acid</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02682</link>
@@ -16,18 +28,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02682&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02682"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03589</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03589</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Titanium nitride nanoparticles (TiN NPs) are promising alternatives to noble metals for visible-range plasmonic applications, yet their structure–property relationships remain insufficiently understood. Here, we combine ultrafast transmission electron microscopy (UTEM) and monochromated TEM to investigate plasmon-enhanced localized fields in TiN NPs. Photon-induced near-field electron microscopy (PINEM) enables the visualization and quantification of near fields in individual NPs while also serving as a tool to fuse smaller NPs with an ultrafast pulsed laser, creating larger NPs to explore the maximum near-field enhancement under a specific excitation wavelength. Our findings also reveal that the surface oxidation of TiN NPs, induced by initial high-energy laser synthesis in water, could contribute to a red-shift of their plasmon resonance toward the near-infrared region. By correlating nanoparticle size and composition with plasmonic response, this study provides new insights into light–TiN interactions and highlights the potential of tunable-laser-integrated TEM for investigating plasmonically and photothermally responsive nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03589&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03589"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -43,15 +43,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>&lt;i&gt;In Situ&lt;/i&gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03033</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03033</guid>
+      <title>Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03589</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03589</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Plasma-driven solution electrochemistry (PDSE) offers an additive-free approach to nanomaterial synthesis but has not been widely implemented because of the current lack of control strategies, rooted in the limited mechanistic understanding of nucleation and growth that has been inaccessible to direct observation. We report on the real-time visualization of gold nanoparticle nucleation, growth, and coalescence in a thin ionic liquid film using a newly developed in situ plasma–liquid transmission electron microscopy platform. Monomer attachment is identified as the dominant growth process, and the measured growth rates suggest a nucleation-limited regime. Trajectory analysis reveals enhanced nucleation near the film edge, likely due to an increased monomer concentration caused by plasma-induced solvent evaporation. The reported observations provide critical insights into mechanisms and rate-limiting processes and can provide guidance for PDSE-enabled process development to achieve the rapid synthesis of colloidal nanomaterials with a narrow size distribution.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
+      <description>Abstract Titanium nitride nanoparticles (TiN NPs) are promising alternatives to noble metals for visible-range plasmonic applications, yet their structure–property relationships remain insufficiently understood. Here, we combine ultrafast transmission electron microscopy (UTEM) and monochromated TEM to investigate plasmon-enhanced localized fields in TiN NPs. Photon-induced near-field electron microscopy (PINEM) enables the visualization and quantification of near fields in individual NPs while also serving as a tool to fuse smaller NPs with an ultrafast pulsed laser, creating larger NPs to explore the maximum near-field enhancement under a specific excitation wavelength. Our findings also reveal that the surface oxidation of TiN NPs, induced by initial high-energy laser synthesis in water, could contribute to a red-shift of their plasmon resonance toward the near-infrared region. By correlating nanoparticle size and composition with plasmonic response, this study provides new insights into light–TiN interactions and highlights the potential of tunable-laser-integrated TEM for investigating plasmonically and photothermally responsive nanomaterials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03589&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03589"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -64,6 +64,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02899&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02899"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>&lt;i&gt;In Situ&lt;/i&gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03033</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03033</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Plasma-driven solution electrochemistry (PDSE) offers an additive-free approach to nanomaterial synthesis but has not been widely implemented because of the current lack of control strategies, rooted in the limited mechanistic understanding of nucleation and growth that has been inaccessible to direct observation. We report on the real-time visualization of gold nanoparticle nucleation, growth, and coalescence in a thin ionic liquid film using a newly developed in situ plasma–liquid transmission electron microscopy platform. Monomer attachment is identified as the dominant growth process, and the measured growth rates suggest a nucleation-limited regime. Trajectory analysis reveals enhanced nucleation near the film edge, likely due to an increased monomer concentration caused by plasma-induced solvent evaporation. The reported observations provide critical insights into mechanisms and rate-limiting processes and can provide guidance for PDSE-enabled process development to achieve the rapid synthesis of colloidal nanomaterials with a narrow size distribution.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -199,18 +211,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Sliding Disassembly of van der Waals Heterostructures</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02726</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02726</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Many recent advances in our understanding of two-dimensional electron systems stem from van der Waals (vdW) heterostructures. The assembly process relies on the weak bonding across interfaces between layered vdW compounds, making it possible to construct exceptionally clean heterostructures from chemically and structurally distinct materials. Here we demonstrate an additional, dynamic degree of freedom afforded by vdW interfaces, wherein we use microstructured polymer stamps to disassemble and reconfigure vdW heterostructures by deterministic, reversible, and nondestructive sliding. We apply this technique to alter the dielectric environment of monolayer graphene, expose an encapsulated H-WSe2 monolayer characterized by electronic transport for scanning tunneling microscopy measurements, and facilitate the preparation of air-sensitive monolayer 1T′-WTe2 devices. We also show that sliding preserves underlying moiré patterns, and, moreover, can be used to produce twisted vdW interfaces. Together these demonstrations suggest a new paradigm for assembling and dynamically modifying vdW heterostructures.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Sliding Disassembly of van der Waals Heterostructures&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02726&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02726"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02989</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02989</guid>
@@ -223,15 +223,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>Graphene-Enhanced Magnetic Anisotropies in Fe/Ni (100) Superlattices with Monolayer Periodicity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03892</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03892</guid>
+      <title>Sliding Disassembly of van der Waals Heterostructures</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02726</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02726</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Fe/Ni(100) superlattices grown on graphene/Ir(100) by intercalation of alternate monolayers of Ni and Fe under graphene show magnetic properties severely modified. The graphene–iron interaction at the external interface produces a surface anisotropy Kint(gr/Fe) = 0.89 ± 0.08 mJ/m2, large enough to drive the uniaxial, out-of-plane magnetic anisotropy of the whole superlattice to KU = 0.87 ± 0.03 MJ/m3 and compensate the in-plane shape anisotropy characteristic of thin magnetic layers. Graphene also introduces an additional trigonal in-plane anisotropy superimposed to the biaxial anisotropy of the underlying Fe/Ni (100) superlattice and increases the mL(parallel)/mspin ratio by 50% with respect to Fe/Ni films grown without graphene, as determined by XMCD. The films show chemical ordering plane-by-plane and a strongly distorted face-centered tetragonal (fct) structure, as determined by synchrotron-based X-ray diffraction. The gr-Fe charge transfer and the electronic hybridization of the respective π and d bands at the interface are responsible for the observed magnetic phenomena.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Graphene-Enhanced Magnetic Anisotropies in Fe/Ni (100) Superlattices with Monolayer Periodicity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03892&lt;/p&gt;
+      <description>Abstract Many recent advances in our understanding of two-dimensional electron systems stem from van der Waals (vdW) heterostructures. The assembly process relies on the weak bonding across interfaces between layered vdW compounds, making it possible to construct exceptionally clean heterostructures from chemically and structurally distinct materials. Here we demonstrate an additional, dynamic degree of freedom afforded by vdW interfaces, wherein we use microstructured polymer stamps to disassemble and reconfigure vdW heterostructures by deterministic, reversible, and nondestructive sliding. We apply this technique to alter the dielectric environment of monolayer graphene, expose an encapsulated H-WSe2 monolayer characterized by electronic transport for scanning tunneling microscopy measurements, and facilitate the preparation of air-sensitive monolayer 1T′-WTe2 devices. We also show that sliding preserves underlying moiré patterns, and, moreover, can be used to produce twisted vdW interfaces. Together these demonstrations suggest a new paradigm for assembling and dynamically modifying vdW heterostructures.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Sliding Disassembly of van der Waals Heterostructures&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02726&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03892"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02726"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -244,6 +244,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03153&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03153"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Graphene-Enhanced Magnetic Anisotropies in Fe/Ni (100) Superlattices with Monolayer Periodicity</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03892</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03892</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Fe/Ni(100) superlattices grown on graphene/Ir(100) by intercalation of alternate monolayers of Ni and Fe under graphene show magnetic properties severely modified. The graphene–iron interaction at the external interface produces a surface anisotropy Kint(gr/Fe) = 0.89 ± 0.08 mJ/m2, large enough to drive the uniaxial, out-of-plane magnetic anisotropy of the whole superlattice to KU = 0.87 ± 0.03 MJ/m3 and compensate the in-plane shape anisotropy characteristic of thin magnetic layers. Graphene also introduces an additional trigonal in-plane anisotropy superimposed to the biaxial anisotropy of the underlying Fe/Ni (100) superlattice and increases the mL(parallel)/mspin ratio by 50% with respect to Fe/Ni films grown without graphene, as determined by XMCD. The films show chemical ordering plane-by-plane and a strongly distorted face-centered tetragonal (fct) structure, as determined by synchrotron-based X-ray diffraction. The gr-Fe charge transfer and the electronic hybridization of the respective π and d bands at the interface are responsible for the observed magnetic phenomena.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Graphene-Enhanced Magnetic Anisotropies in Fe/Ni (100) Superlattices with Monolayer Periodicity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03892&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03892"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -271,18 +283,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04262</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04262</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Scaling resistive random-access memory (RRAM) toward ultradense crossbar arrays for high-density storage and neuromorphic computing requires precise nanoscale control of conductive filaments for reliable multilevel operation. Here we directly visualize and modulate nanoscale filament evolution in substoichiometric Y2O3–x thin films using high-resolution in situ conductive atomic force microscopy (c-AFM) with controlled current compliance. The switching threshold systematically increases with increasing oxygen stoichiometry, while filament evolution is continuously modulated by varying the applied bias. The initially formed larger filaments persist and dominate subsequent switching events during multicycle measurements. Using the c-AFM tip as a nanoscale mobile top electrode, single-point switching reveals localized switching with a lateral influence of approximately 20 nm, defining a crosstalk length scale. These results directly link oxygen stoichiometry, microstructure, filament evolution, and switching length scales, providing new insight into nanoscale filamentary switching and physical guidelines for scaling polycrystalline memristors toward ultradense memory and neuromorphic applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04262&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04262"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
@@ -292,6 +292,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03595&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03595"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04262</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04262</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Scaling resistive random-access memory (RRAM) toward ultradense crossbar arrays for high-density storage and neuromorphic computing requires precise nanoscale control of conductive filaments for reliable multilevel operation. Here we directly visualize and modulate nanoscale filament evolution in substoichiometric Y2O3–x thin films using high-resolution in situ conductive atomic force microscopy (c-AFM) with controlled current compliance. The switching threshold systematically increases with increasing oxygen stoichiometry, while filament evolution is continuously modulated by varying the applied bias. The initially formed larger filaments persist and dominate subsequent switching events during multicycle measurements. Using the c-AFM tip as a nanoscale mobile top electrode, single-point switching reveals localized switching with a lateral influence of approximately 20 nm, defining a crosstalk length scale. These results directly link oxygen stoichiometry, microstructure, filament evolution, and switching length scales, providing new insight into nanoscale filamentary switching and physical guidelines for scaling polycrystalline memristors toward ultradense memory and neuromorphic applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04262&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04262"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -427,18 +439,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
@@ -448,6 +448,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -475,18 +487,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract CsPb(Cl1–xBrx)3:Yb3+ has been widely reported as a broadband quantum-cutting material with a photoluminescence quantum yield exceeding 100%, making it a promising candidate for enhancing the blue–green spectral response of silicon photovoltaics. Many groups have reproduced absolute photoluminescence quantum yields over 100%, but others have struggled to obtain such high values. Here, we test the quantum-cutting capabilities of CsPbCl3:Yb3+ nanocrystals and bulk material using photon-correlation analysis. A quantum-cutting material is expected to exhibit photon bunching, but our experiments on CsPbCl3:Yb3+ show no such behavior. In fact, we observe the opposite─antibunching─under focused-excitation conditions. This observation can be explained with the previously established Auger-quenching pathway in CsPbCl3:Yb3+. Our results thus confirm high-power Auger quenching but question earlier descriptions of quantum cutting in CsPb(Cl1–xBrx)3:Yb3+.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
@@ -496,6 +496,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract CsPb(Cl1–xBrx)3:Yb3+ has been widely reported as a broadband quantum-cutting material with a photoluminescence quantum yield exceeding 100%, making it a promising candidate for enhancing the blue–green spectral response of silicon photovoltaics. Many groups have reproduced absolute photoluminescence quantum yields over 100%, but others have struggled to obtain such high values. Here, we test the quantum-cutting capabilities of CsPbCl3:Yb3+ nanocrystals and bulk material using photon-correlation analysis. A quantum-cutting material is expected to exhibit photon bunching, but our experiments on CsPbCl3:Yb3+ show no such behavior. In fact, we observe the opposite─antibunching─under focused-excitation conditions. This observation can be explained with the previously established Auger-quenching pathway in CsPbCl3:Yb3+. Our results thus confirm high-power Auger quenching but question earlier descriptions of quantum cutting in CsPb(Cl1–xBrx)3:Yb3+.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -592,18 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02570&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02570"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Strain Correlated Linearly Polarized Photoluminescence in WSe2/WS2 Moiré Superlattices</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02363</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02363</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Reliable optical control of valley degrees of freedom in moiré excitons requires that the emitted polarization faithfully reflects the underlying valley state. Here, we show that linearly polarized photoluminescence from WSe2/WS2 moiré excitons is largely insensitive to the excitation linear polarization and therefore does not arise from valley coherence. Automated polarization-resolved photoluminescence and Raman mapping at cryogenic temperature reveal that the degree of linear polarization correlates strongly with local Raman shifts and moiré-exciton observables, identifying strain as the dominant experimental correlate. Linear-regression analysis further shows that strain-related descriptors provide the best prediction of the observed polarization. Guided by theory, we attribute this behavior to strain-amplified breaking of C3 symmetry in the moiré potential: weak uniaxial strain produces only partial cancellation of locally elliptical emission, yielding a finite far-field degree of linear polarization. These results establish strain as a key control parameter for reliable optical readout in TMD moiré superlattices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Strain Correlated Linearly Polarized Photoluminescence in WSe2/WS2 Moiré Superlattices&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02363&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02363"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,31 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 03:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:19:56 +0000</lastBuildDate>
+    <item>
+      <title>Mechanically Exfoliated Metallic Delafossite PdCoO2 Nanomembranes: Quantum Transport and Electrical Evaluation toward Interconnect Applications</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03008</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03008</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Metallic delafossite oxides have drawn attention for their ultralow resistivity and coherent electronic transport. However, mesoscopic transport studies are hindered by the limited access to high-quality nanoscale devices. Here, we report single-crystalline PdCoO2 nanomembranes, enabling exploration of quasi-two-dimensional (quasi-2D) transport. Shubnikov-de Haas and angle-dependent h/e magnetoresistance oscillations under different magnetic field directions are observed at low temperatures, from which the electron effective mass is extracted. Beyond quantum transport, the electrical performance of PdCoO2 toward interconnect applications is evaluated. A nearly thickness-independent room-temperature resistivity is observed for flakes down to 40 nm thickness. The nanomembranes exhibit a breakdown current density up to 113 MA cm–2, with excellent thermal stability and electromigration resistance. These results demonstrate that mechanically exfoliated PdCoO2 flakes preserve the high crystalline and electronic quality of bulk crystals in the quasi-2D limit, providing a useful platform for mesoscopic transport studies and interconnect applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Mechanically Exfoliated Metallic Delafossite PdCoO2 Nanomembranes: Quantum Transport and Electrical Evaluation toward Interconnect Applications&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03008&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03008"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Quantum-Dot-Based Scanning Probe d-Band Hole Spectroscopy of Plasmonic Nanoparticles</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03990</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03990</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Despite intense research efforts, quantitative energy-resolved measurements on hot carriers generated due to plasmon decay in metal nanoparticles are rare. This concerns in particular excitations below the Fermi level, i.e., holes. Here, we use a metallized scanning probe tip to measure photocurrents from plasmonic gold nanoparticles through a monolayer of colloidal lead sulfide quantum dots. Separating out current contributions from quantum dot excitons and thermionic emission, we achieve quantitative measurements on the hole excitation quantum efficiency in the gold nanoparticles in the 1.9–2.6 eV energy range. Therefore, we combine systematic experimental bias and wavelength variations and a comparison with the case of aluminum with extensive modeling. The detection scheme can be extended to electron currents and other energy ranges by simply using quantum dots with different energy levels.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Quantum-Dot-Based Scanning Probe d-Band Hole Spectroscopy of Plasmonic Nanoparticles&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03990&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03990"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Probing the Anomalous Symmetry Breaking in Kagome Material CsV3Sb5 via Third-Order Nonlinearity</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02890</link>
@@ -127,18 +151,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03589</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03589</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Titanium nitride nanoparticles (TiN NPs) are promising alternatives to noble metals for visible-range plasmonic applications, yet their structure–property relationships remain insufficiently understood. Here, we combine ultrafast transmission electron microscopy (UTEM) and monochromated TEM to investigate plasmon-enhanced localized fields in TiN NPs. Photon-induced near-field electron microscopy (PINEM) enables the visualization and quantification of near fields in individual NPs while also serving as a tool to fuse smaller NPs with an ultrafast pulsed laser, creating larger NPs to explore the maximum near-field enhancement under a specific excitation wavelength. Our findings also reveal that the surface oxidation of TiN NPs, induced by initial high-energy laser synthesis in water, could contribute to a red-shift of their plasmon resonance toward the near-infrared region. By correlating nanoparticle size and composition with plasmonic response, this study provides new insights into light–TiN interactions and highlights the potential of tunable-laser-integrated TEM for investigating plasmonically and photothermally responsive nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03589&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03589"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04087</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04087</guid>
@@ -151,15 +163,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>&lt;i&gt;In Situ&lt;/i&gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03033</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03033</guid>
+      <title>Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03589</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03589</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Plasma-driven solution electrochemistry (PDSE) offers an additive-free approach to nanomaterial synthesis but has not been widely implemented because of the current lack of control strategies, rooted in the limited mechanistic understanding of nucleation and growth that has been inaccessible to direct observation. We report on the real-time visualization of gold nanoparticle nucleation, growth, and coalescence in a thin ionic liquid film using a newly developed in situ plasma–liquid transmission electron microscopy platform. Monomer attachment is identified as the dominant growth process, and the measured growth rates suggest a nucleation-limited regime. Trajectory analysis reveals enhanced nucleation near the film edge, likely due to an increased monomer concentration caused by plasma-induced solvent evaporation. The reported observations provide critical insights into mechanisms and rate-limiting processes and can provide guidance for PDSE-enabled process development to achieve the rapid synthesis of colloidal nanomaterials with a narrow size distribution.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
+      <description>Abstract Titanium nitride nanoparticles (TiN NPs) are promising alternatives to noble metals for visible-range plasmonic applications, yet their structure–property relationships remain insufficiently understood. Here, we combine ultrafast transmission electron microscopy (UTEM) and monochromated TEM to investigate plasmon-enhanced localized fields in TiN NPs. Photon-induced near-field electron microscopy (PINEM) enables the visualization and quantification of near fields in individual NPs while also serving as a tool to fuse smaller NPs with an ultrafast pulsed laser, creating larger NPs to explore the maximum near-field enhancement under a specific excitation wavelength. Our findings also reveal that the surface oxidation of TiN NPs, induced by initial high-energy laser synthesis in water, could contribute to a red-shift of their plasmon resonance toward the near-infrared region. By correlating nanoparticle size and composition with plasmonic response, this study provides new insights into light–TiN interactions and highlights the potential of tunable-laser-integrated TEM for investigating plasmonically and photothermally responsive nanomaterials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03589&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03589"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -172,6 +184,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02899&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02899"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>&lt;i&gt;In Situ&lt;/i&gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03033</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03033</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Plasma-driven solution electrochemistry (PDSE) offers an additive-free approach to nanomaterial synthesis but has not been widely implemented because of the current lack of control strategies, rooted in the limited mechanistic understanding of nucleation and growth that has been inaccessible to direct observation. We report on the real-time visualization of gold nanoparticle nucleation, growth, and coalescence in a thin ionic liquid film using a newly developed in situ plasma–liquid transmission electron microscopy platform. Monomer attachment is identified as the dominant growth process, and the measured growth rates suggest a nucleation-limited regime. Trajectory analysis reveals enhanced nucleation near the film edge, likely due to an increased monomer concentration caused by plasma-induced solvent evaporation. The reported observations provide critical insights into mechanisms and rate-limiting processes and can provide guidance for PDSE-enabled process development to achieve the rapid synthesis of colloidal nanomaterials with a narrow size distribution.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -247,18 +271,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Correction to “The Electric Field Morphology of Plasmonic Picocavities”</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04064</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04064</guid>
@@ -268,6 +280,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04064&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -307,18 +331,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02989</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02989</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Colloidal gels are three-dimensional networks formed by nanoparticles, which have attracted great attention for applications in tissue engineering and regenerative medicine due to their excellent viscoelastic properties. Usually, they are formed by attractive electrostatic interactions between oppositely charged particles. However, high ionic strength of physiological fluids may disrupt the networks by screening electrostatic interactions resulting in gel instability, thereby limiting practical applicability. Herein, we report the fabrication of novel colloidal gels stabilized by host-guest interactions between gelatin nanoparticles functionalized with either β-cyclodextrin or adamantane as building blocks. These host-guest stabilized colloidal gels exhibit repeatable self-healing capability (∼100%) in NaCl solutions of high ionic strength similar to physiological fluids (150 mM), surfactant solutions and cell culture medium. Furthermore, these gels are cytocompatible and promote proliferation and migration of HUVECs and L929 cells. Consequently, this work provides a promising new strategy for extending biomedical applicability of colloidal gels.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02989&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Sliding Disassembly of van der Waals Heterostructures</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02726</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02726</guid>
@@ -328,6 +340,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02726&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02726"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02989</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02989</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Colloidal gels are three-dimensional networks formed by nanoparticles, which have attracted great attention for applications in tissue engineering and regenerative medicine due to their excellent viscoelastic properties. Usually, they are formed by attractive electrostatic interactions between oppositely charged particles. However, high ionic strength of physiological fluids may disrupt the networks by screening electrostatic interactions resulting in gel instability, thereby limiting practical applicability. Herein, we report the fabrication of novel colloidal gels stabilized by host-guest interactions between gelatin nanoparticles functionalized with either β-cyclodextrin or adamantane as building blocks. These host-guest stabilized colloidal gels exhibit repeatable self-healing capability (∼100%) in NaCl solutions of high ionic strength similar to physiological fluids (150 mM), surfactant solutions and cell culture medium. Furthermore, these gels are cytocompatible and promote proliferation and migration of HUVECs and L929 cells. Consequently, this work provides a promising new strategy for extending biomedical applicability of colloidal gels.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02989&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -379,18 +403,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04262</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04262</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Scaling resistive random-access memory (RRAM) toward ultradense crossbar arrays for high-density storage and neuromorphic computing requires precise nanoscale control of conductive filaments for reliable multilevel operation. Here we directly visualize and modulate nanoscale filament evolution in substoichiometric Y2O3–x thin films using high-resolution in situ conductive atomic force microscopy (c-AFM) with controlled current compliance. The switching threshold systematically increases with increasing oxygen stoichiometry, while filament evolution is continuously modulated by varying the applied bias. The initially formed larger filaments persist and dominate subsequent switching events during multicycle measurements. Using the c-AFM tip as a nanoscale mobile top electrode, single-point switching reveals localized switching with a lateral influence of approximately 20 nm, defining a crosstalk length scale. These results directly link oxygen stoichiometry, microstructure, filament evolution, and switching length scales, providing new insight into nanoscale filamentary switching and physical guidelines for scaling polycrystalline memristors toward ultradense memory and neuromorphic applications.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04262&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04262"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
@@ -400,6 +412,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03595&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03595"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04262</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04262</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Scaling resistive random-access memory (RRAM) toward ultradense crossbar arrays for high-density storage and neuromorphic computing requires precise nanoscale control of conductive filaments for reliable multilevel operation. Here we directly visualize and modulate nanoscale filament evolution in substoichiometric Y2O3–x thin films using high-resolution in situ conductive atomic force microscopy (c-AFM) with controlled current compliance. The switching threshold systematically increases with increasing oxygen stoichiometry, while filament evolution is continuously modulated by varying the applied bias. The initially formed larger filaments persist and dominate subsequent switching events during multicycle measurements. Using the c-AFM tip as a nanoscale mobile top electrode, single-point switching reveals localized switching with a lateral influence of approximately 20 nm, defining a crosstalk length scale. These results directly link oxygen stoichiometry, microstructure, filament evolution, and switching length scales, providing new insight into nanoscale filamentary switching and physical guidelines for scaling polycrystalline memristors toward ultradense memory and neuromorphic applications.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04262&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04262"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -535,18 +559,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
@@ -556,6 +568,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -580,30 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03763&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03763"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02641</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02641</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Phase transfer of polymer nanoparticles (NPs) across immiscible liquids typically demands surface functionalization or mechanical agitation. Here, we demonstrate a proof-of-concept, modification-free transfer mechanism driven by a controlled freeze–thaw process. Using a hydrophobic perylene diimide (PDI) derivative (PDI-N-DAN) as a model, we show that freezing transforms the water–oil interface into an oil–ice interface threaded with temporary nanocracks. A chaperone solvent (2,2,2-trifluoroethanol, TFE) forms a directionally ordered layer within these conduits. This interfacial sleeve lowers the free-energy barrier, allowing lipophilic PDI-N-DAN NPs) to enter the cracks. Subsequently, as the ice melts, TFE templates solvent-shell reorganization, converting them into hydrophilic PDI-N-DAN NPs to yield stable water dispersions. Validated by systematic experiments and molecular dynamics simulation, this strategy repurposes ubiquitous ice defects to program interfacial chemistry, offering a reliable route for on-demand polymer phase transfer.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;From Barrier at Water–Oil to Conduits at Ice–Oil: Ice-Crack-Enabled Chaperone Solvent Drives On-Demand Polymer Phase Transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02641&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02641"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03196</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03196</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract CsPb(Cl1–xBrx)3:Yb3+ has been widely reported as a broadband quantum-cutting material with a photoluminescence quantum yield exceeding 100%, making it a promising candidate for enhancing the blue–green spectral response of silicon photovoltaics. Many groups have reproduced absolute photoluminescence quantum yields over 100%, but others have struggled to obtain such high values. Here, we test the quantum-cutting capabilities of CsPbCl3:Yb3+ nanocrystals and bulk material using photon-correlation analysis. A quantum-cutting material is expected to exhibit photon bunching, but our experiments on CsPbCl3:Yb3+ show no such behavior. In fact, we observe the opposite─antibunching─under focused-excitation conditions. This observation can be explained with the previously established Auger-quenching pathway in CsPbCl3:Yb3+. Our results thus confirm high-power Auger quenching but question earlier descriptions of quantum cutting in CsPb(Cl1–xBrx)3:Yb3+.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Photon Statistics from Yb3+-Doped CsPbCl3 Are Inconsistent with Quantum Cutting&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03196&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03196"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:16:36 +0000</lastBuildDate>
     <item>
       <title>Mechanically Exfoliated Metallic Delafossite PdCoO2 Nanomembranes: Quantum Transport and Electrical Evaluation toward Interconnect Applications</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03008</link>
@@ -19,6 +19,18 @@
 </content:encoded>
     </item>
     <item>
+      <title>Inhibition of Calendar Aging Induced Li Metal Corrosion Using Selected Area Insulating Layer Current Collectors</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02391</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02391</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Li metal is a promising anode for next-generation batteries, but its high per-cycle capacity loss hinders its commercial adoption. A major contributor is the corrosion of Li during calendar aging, which accelerates the generation of degradation byproducts, such as the solid electrolyte interphase (SEI) and isolated Li (i-Li). Here, we reveal that Li corrosion is spatially heterogeneous: five times more capacity is lost at the edge overhang area of the current collector than at the center in the coin cell form factor. To address this, we developed a selected-area insulating layer (SAIL) that prevents Li plating in the overhang, yielding a 94% reduction in corrosion-induced capacity loss. Electron microscopy and titration gas chromatography were employed to visualize the morphological heterogeneity and quantify the disconnected Li loss at the center versus the overhang. Preventing dendritic Li plating in the overhang of the current collector can therefore substantially mitigate calendar aging-induced capacity loss.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Inhibition of Calendar Aging Induced Li Metal Corrosion Using Selected Area Insulating Layer Current Collectors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02391&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02391"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
       <title>Quantum-Dot-Based Scanning Probe d-Band Hole Spectroscopy of Plasmonic Nanoparticles</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03990</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03990</guid>
@@ -28,6 +40,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03990&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03990"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Single-Particle View of Doping-Controlled Charge Recombination in BiVO4</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03155</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03155</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Chemical doping of semiconductors has been widely used to alter and enhance the photochemistry of materials. More specifically, the nature of the doping element(s) influences the inherent electronic and structural properties of semiconductors. The morphology of the semiconductor particles can further impact the photocatalytic performance of the materials. We report here that solo- and codoping of truncated pyramidal BiVO4 with phosphorus and nitrogen affects the photoluminescence (PL) pattern and enhances the emission intensity, as observed using confocal fluorescence microscopy. The PL emission has been shown to increase with doping in P:BiVO4, N:BiVO4, and P:N:BiVO4 by 6.8%, 10.8%, and 19.2%, respectively, relative to that of BiVO4. Our subparticle analyses revealed a trend of corner edge &amp;amp;gt; top edge &amp;amp;gt; side edge. We demonstrated that codoping diminishes the sensitivity of PL to the particle volume, reducing the impact of structural heterogeneity in BiVO4.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Single-Particle View of Doping-Controlled Charge Recombination in BiVO4&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03155&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03155"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -52,6 +76,30 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02868&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02868"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Programmable Multisite Recognition Enables Amplification-Free Nanopore Detection of &lt;i&gt;Mycobacterium tuberculosis&lt;/i&gt; in Sputum and Plasma</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03484</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03484</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Tuberculosis diagnostics remain challenged by low target abundance, strain diversity, and the need for reliable testing in difficult clinical specimens. Here, we develop an amplification-free nanopore sensing platform based on programmable linear DNA nanohook arrays for direct detection of Mycobacterium tuberculosis (Mtb) DNA. This work presents a dual-target, multisite recognition strategy that simultaneously captures two conserved insertion sequences, IS6110 and IS1081, and converts their binding events into resolvable nanopore electrical signatures. This design improves target recovery and reduces dependence on any single genomic locus, enabling robust detection across diverse Mtb strains. Using this approach, we achieved a limit of detection of 9.5 copies/μL and demonstrated accurate identification of Mtb in both sputum and plasma samples without nucleic acid amplification. Our results show that programmable multisite recognition combined with nanopore readout provides a powerful route toward sensitive, sample-flexible tuberculosis diagnostics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Programmable Multisite Recognition Enables Amplification-Free Nanopore Detection of &amp;lt;i&amp;gt;Mycobacterium tuberculosis&amp;lt;/i&amp;gt; in Sputum and Plasma&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03484&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03484"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Resolving DNA Conformations and Dynamics at the Graphene Interface by Graphene Energy Transfer</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03383</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03383</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract The recent discovery that double-stranded DNA stands vertically on graphene has transformed graphene from a passive quenching surface into an active platform for axial single-molecule readout, opening opportunities in biosensing, molecular materials, and nanoscale devices. Here, we use graphene energy transfer with vertical nucleic acids (GETvNA) to resolve how partially single- and double-stranded DNA constructs interact with graphene at the molecular level. Single-molecule fluorescence lifetime measurements show that dsDNA adopts both vertical and parallel orientations on graphene and reveal rare 1–3 base-pair zipping and unzipping events. We further show that the ssDNA anchor length regulates dsDNA conformation by controlling the availability of graphene binding sites for exposed nucleotides, thereby modulating partial unzipping. Finally, we demonstrate programmable axial motion using DNA hybridization and strand-displacement reactions, realizing a single-molecule DNA nanoelevator with nanometer precision. These results establish GETvNA as a platform for probing molecular interfaces and engineering DNA-based nanodevices on graphene.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Resolving DNA Conformations and Dynamics at the Graphene Interface by Graphene Energy Transfer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03383&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03383"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -151,18 +199,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04087</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04087</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Electrocatalytic water purification suffers from metal leaching, sluggish mass transfer, and inefficient electrode utilization. Here we present a free-standing oxygen and defect co-tuned carbon nanofiber (O–CN) membrane as a bifunctional electrocatalyst for concurrent anodic and cathodic pollutant degradation. Fabricated via electrospinning and gradient annealing, O–CN features dense submicron channels enabling ultrafast transport. Oxygen doping with defect passivation induces charge polarization, intensifying the density of states near the Fermi level and creating electron-rich and electron-deficient regions. This promotes anodic direct oxidation via a downshifted HOMO and cathodic singlet oxygen production via a decreased work function. Complete removal of emerging contaminants occurs within 0.4 s, flux of ∼936.5 L m–2 h–1 bar–1, energy consumption of ∼0.096 kWh m–3, and &amp;amp;gt;99% efficiency over 300 h. Costs and environmental impact are reduced by &amp;amp;gt;65% versus conventional systems. This work establishes a sustainable electrified water treatment paradigm by converging atomic-level electronic modulation with nanoscale transport optimization.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04087&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04087"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03589</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03589</guid>
@@ -175,15 +211,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02899</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02899</guid>
+      <title>Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04087</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04087</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Geometric phases are fundamental to wave physics and underpin a broad range of optical phenomena. The most prominent example, the Pancharatnam–Berry (PB) phase, originates from polarization evolution during wave propagation. In contrast, geometric phases associated with optical resonances and cavities remain largely unexplored. Here, we uncover the relation between the generalized PB phase and the far-field polarization evolution in bound states in the continuum (BIC) cavities. We demonstrate the continuous homotopic evolution of vortex lasing modes through geometric-phase engineering of BIC resonances. To experimentally validate this concept, we realize metasurface lasers composed of titanium dioxide hole arrays integrated with CdSe/CdxZn1–xS core/shell colloidal quantum wells as the gain medium. Our results reveal a previously unexplored form of spin–orbit interaction in BIC cavities under oblique incidence and provide a versatile route for on-chip control of polarization and orbital angular momentum in nanolasers.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02899&lt;/p&gt;
+      <description>Abstract Electrocatalytic water purification suffers from metal leaching, sluggish mass transfer, and inefficient electrode utilization. Here we present a free-standing oxygen and defect co-tuned carbon nanofiber (O–CN) membrane as a bifunctional electrocatalyst for concurrent anodic and cathodic pollutant degradation. Fabricated via electrospinning and gradient annealing, O–CN features dense submicron channels enabling ultrafast transport. Oxygen doping with defect passivation induces charge polarization, intensifying the density of states near the Fermi level and creating electron-rich and electron-deficient regions. This promotes anodic direct oxidation via a downshifted HOMO and cathodic singlet oxygen production via a decreased work function. Complete removal of emerging contaminants occurs within 0.4 s, flux of ∼936.5 L m–2 h–1 bar–1, energy consumption of ∼0.096 kWh m–3, and &amp;amp;gt;99% efficiency over 300 h. Costs and environmental impact are reduced by &amp;amp;gt;65% versus conventional systems. This work establishes a sustainable electrified water treatment paradigm by converging atomic-level electronic modulation with nanoscale transport optimization.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04087&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02899"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04087"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -196,6 +232,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02899</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02899</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Geometric phases are fundamental to wave physics and underpin a broad range of optical phenomena. The most prominent example, the Pancharatnam–Berry (PB) phase, originates from polarization evolution during wave propagation. In contrast, geometric phases associated with optical resonances and cavities remain largely unexplored. Here, we uncover the relation between the generalized PB phase and the far-field polarization evolution in bound states in the continuum (BIC) cavities. We demonstrate the continuous homotopic evolution of vortex lasing modes through geometric-phase engineering of BIC resonances. To experimentally validate this concept, we realize metasurface lasers composed of titanium dioxide hole arrays integrated with CdSe/CdxZn1–xS core/shell colloidal quantum wells as the gain medium. Our results reveal a previously unexplored form of spin–orbit interaction in BIC cavities under oblique incidence and provide a versatile route for on-chip control of polarization and orbital angular momentum in nanolasers.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Homotopic Vortex Lasing Mediated by a Resonant Geometric Phase in a Bound States in the Continuum Cavity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02899&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02899"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -271,18 +319,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Correction to “The Electric Field Morphology of Plasmonic Picocavities”</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04064</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c04064</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>DOI: 10.1021/acs.nanolett.6c04064</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Correction to “The Electric Field Morphology of Plasmonic Picocavities”&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04064&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
@@ -292,6 +328,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Correction to “The Electric Field Morphology of Plasmonic Picocavities”</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c04064</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c04064</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>DOI: 10.1021/acs.nanolett.6c04064</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Correction to “The Electric Field Morphology of Plasmonic Picocavities”&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c04064&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -331,18 +379,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Sliding Disassembly of van der Waals Heterostructures</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02726</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02726</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Many recent advances in our understanding of two-dimensional electron systems stem from van der Waals (vdW) heterostructures. The assembly process relies on the weak bonding across interfaces between layered vdW compounds, making it possible to construct exceptionally clean heterostructures from chemically and structurally distinct materials. Here we demonstrate an additional, dynamic degree of freedom afforded by vdW interfaces, wherein we use microstructured polymer stamps to disassemble and reconfigure vdW heterostructures by deterministic, reversible, and nondestructive sliding. We apply this technique to alter the dielectric environment of monolayer graphene, expose an encapsulated H-WSe2 monolayer characterized by electronic transport for scanning tunneling microscopy measurements, and facilitate the preparation of air-sensitive monolayer 1T′-WTe2 devices. We also show that sliding preserves underlying moiré patterns, and, moreover, can be used to produce twisted vdW interfaces. Together these demonstrations suggest a new paradigm for assembling and dynamically modifying vdW heterostructures.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Sliding Disassembly of van der Waals Heterostructures&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02726&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02726"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Salt-Resistant Composite Colloidal Gels Stabilized by Host-Guest Interaction</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c02989</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c02989</guid>
@@ -352,6 +388,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02989&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02989"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Sliding Disassembly of van der Waals Heterostructures</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02726</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02726</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Many recent advances in our understanding of two-dimensional electron systems stem from van der Waals (vdW) heterostructures. The assembly process relies on the weak bonding across interfaces between layered vdW compounds, making it possible to construct exceptionally clean heterostructures from chemically and structurally distinct materials. Here we demonstrate an additional, dynamic degree of freedom afforded by vdW interfaces, wherein we use microstructured polymer stamps to disassemble and reconfigure vdW heterostructures by deterministic, reversible, and nondestructive sliding. We apply this technique to alter the dielectric environment of monolayer graphene, expose an encapsulated H-WSe2 monolayer characterized by electronic transport for scanning tunneling microscopy measurements, and facilitate the preparation of air-sensitive monolayer 1T′-WTe2 devices. We also show that sliding preserves underlying moiré patterns, and, moreover, can be used to produce twisted vdW interfaces. Together these demonstrations suggest a new paradigm for assembling and dynamically modifying vdW heterostructures.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Sliding Disassembly of van der Waals Heterostructures&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02726&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02726"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -403,18 +451,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Achieving ultradense zinc plating at the theoretical limit is crucial for high-energy aqueous zinc metal batteries (AZMBs), but is hindered by severe interfacial instabilities such as dendrite growth and hydrogen evolution. Here we construct a nanometer-thin, vertically stratified organic–inorganic Janus bilayer (CF-LaF3) by ion layer epitaxy to pre-engineer the zinc anode interface. A hydrophobic perfluoroalkyl top layer accelerates Zn2+ desolvation, blocks active water and suppresses parasitic reactions, while a crystalline LaF3 bottom layer with high modulus, zincophilicity and continuous ionic channels homogenizes Zn2+ flux and helps mechanically suppress dendritic growth. This complementary interphase delivers dendrite-free zinc deposition at 5 mAh cm–2 with an ultradense thickness of 8.60 μm, approaching the theoretical limit (8.54 μm). Ah-level Zn||I2 pouch cells achieve 109 Wh L–1 energy density on a full-cell basis. This pre-engineered Janus interphase offers a general and scalable route to practical high-energy AZMBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03595&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03595"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Nanoscale Filament Evolution and Local Resistive Switching in Substoichiometric Yttrium Oxide Thin Films</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04262</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04262</guid>
@@ -424,6 +460,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04262&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04262"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Achieving ultradense zinc plating at the theoretical limit is crucial for high-energy aqueous zinc metal batteries (AZMBs), but is hindered by severe interfacial instabilities such as dendrite growth and hydrogen evolution. Here we construct a nanometer-thin, vertically stratified organic–inorganic Janus bilayer (CF-LaF3) by ion layer epitaxy to pre-engineer the zinc anode interface. A hydrophobic perfluoroalkyl top layer accelerates Zn2+ desolvation, blocks active water and suppresses parasitic reactions, while a crystalline LaF3 bottom layer with high modulus, zincophilicity and continuous ionic channels homogenizes Zn2+ flux and helps mechanically suppress dendritic growth. This complementary interphase delivers dendrite-free zinc deposition at 5 mAh cm–2 with an ultradense thickness of 8.60 μm, approaching the theoretical limit (8.54 μm). Ah-level Zn||I2 pouch cells achieve 109 Wh L–1 energy density on a full-cell basis. This pre-engineered Janus interphase offers a general and scalable route to practical high-energy AZMBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03595&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03595"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -556,54 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c03250&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03250"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Instability-Driven Mechanically Locked States in Functional Oxide Membranes</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02253</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02253</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract While mechanical instabilities enable engineered nonlinear responses, their controlled application in functional crystalline oxides has remained largely unexplored. Recent advances in freestanding oxide membranes now allow their integration into nanoscale, bistable architectures. Here, we demonstrate that freestanding SrTiO3 and BaTiO3 membranes relax into well-defined metastable buckling states when they are transferred onto lithographically defined cavities. This deformation, driven by the interplay of residual strain, bending stiffness, and cavity geometry, produces reproducible bistable states with distinct strain distribution. Using atomic force microscopy, Kelvin probe measurements, and finite element modeling, we reveal that these mechanically locked states directly govern the electromechanical potential landscape of ferroelectric BaTiO3. We further demonstrate reversible snap-through transitions between degenerate states, establishing complex oxides as deterministic, geometry-tunable building blocks for nonlinear nanoelectromechanical architectures. These results provide a general strategy for exploiting mechanical instabilities to manipulate functional responses in ultrathin, crystalline membranes.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Instability-Driven Mechanically Locked States in Functional Oxide Membranes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02253&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02253"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03841</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03841</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Room-temperature phosphorescence (RTP) carbon dots (CDs) are highly promising for optoelectronic applications but typically rely on external matrices to achieve high efficiency and long-lived emission. Herein, we address this limitation by designing matrix-free self-protected RTP CDs (CDsT) via one-step hydrothermal treatment of a polymer, poly(acrylamide-co-N-acryloylcarbazole). Such molecular design affords a dual-enhancement mechanism. Specifically, nitrogen atoms strengthen spin-orbit coupling, thereby facilitating intersystem crossing and efficient population of triplet excitons. Meanwhile, extensive hydrogen bonding between amide and amino groups restricts the intramolecular motions, significantly suppressing the nonradiative decay. Consequently, the cross-linked CDs exhibit blue fluorescence and bright green RTP. Elevating the reaction temperature from 120 to 220 °C progressively enriches C═N–C and C═O functional groups, which remarkably prolongs the phosphorescence lifetime from 446 to 761 ms. These optical properties provide possible promise in 3D dynamic information encryption and time-delayed ligh-emitting diodest, providing a new paradigm for designing advanced self-protective RTP nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Achieving Matrix-Free Self-Protective Room-Temperature Phosphorescence from Polymer-Derived Carbon Dots for Optical Applications&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03841&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03841"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Scaling Diradicaloid Thermoelectricity</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03798</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03798</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract The identification of molecular materials with high thermoelectric performance has attracted considerable attention due to their unique quantum properties, elemental abundance, and environmental friendliness. Achieving this requires overcoming the conventional tradeoff between the Seebeck coefficient (S) and electrical conductance (G). Here, we exploit the thermoelectric properties of diradicaloid molecular junctions and demonstrate the coenhancement of G and S. Calculations predict that elongating the diradicaloid backbone systematically reduces the energy gap, pushing transport resonances closer to the electrode’s Fermi energy, leading to the simultaneous improvement of G and S, and a length-dependent increase in power factor unlike that of conventional conjugated molecules. This is confirmed in self-assembled monolayers (SAMs) formed from diradicaloids, where we observe an increase in G with the diradicaloid length and S reaching values exceeding 40 μV/K. This shows exotic quantum transport properties of single-molecule diradicaloids translate to technologically relevant SAMs for next-generation high-performance thermoelectric energy conversion devices.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Scaling Diradicaloid Thermoelectricity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03798&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03798"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Weakly Confined Perovskite Nanocrystal Films for Energy-Efficient Electroluminescence Devices</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03763</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03763</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract High wall-plug efficiency (WPE) and long-term operational stability are major hurdles for perovskite light-emitting diodes (PeLEDs) toward low-power practical applications. This work presents high-WPE PeLEDs utilizing in situ fabricated weakly confined perovskite nanocrystal films with boosted stability. Reducing the proportion of bulky organic cations increases the nanocrystal size, causing a red-shift of the emission peak. A small-molecule salt is further introduced to regulate crystallization, reducing surface trap-state density and electron–phonon coupling strength. The resulting weakly confined nanocrystal films retain high WPE and an ultranarrow emission line width, while showing markedly better thermal and structural stability. Optimized device achieves a low turn-on voltage of 1.8 V, a peak WPE of 28.7%, and an ultranarrow electroluminescence line width of 17.6 nm. Notably, the device exhibited a T50 operational lifetime exceeding 10,000 h at 100 cd m–2. This study proves weakly confined perovskite nanocrystal engineering can synergistically enhance efficiency, stability, brightness and color purity, providing a feasible route to high-performance PeLEDs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Weakly Confined Perovskite Nanocrystal Films for Energy-Efficient Electroluminescence Devices&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03763&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03763"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>

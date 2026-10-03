@@ -5,7 +5,43 @@
     <link>https://pubs.acs.org/toc/nalefd/0/0</link>
     <description>Latest ASAP articles published in Nano Letters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:32:14 +0000</lastBuildDate>
+    <item>
+      <title>A DNAzyme-Driven DNA Nanotracker for Orthogonal Dual-Channel Imaging of an Oncogenic Signaling Axis and Its Pharmacological Modulation</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c02711</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c02711</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Pathway-targeted therapy has emerged as a promising strategy in cancer treatment, yet its efficacy relies on the accurate analysis of key signaling axes in living cells. The miR-140/FEN1 signaling axis, which is balanced in normal hepatocytes but dysregulated in hepatocellular carcinoma, represents a potential target for cancer therapy. Here, we present a DNAzyme-driven DNA nanotracker (DDN) for the orthogonal imaging of this pathway in dual channels with high sensitivity. The nanotracker is constructed by assembling DNAzyme-powered DNA walkers, which are responsive to miR-140 and FEN1, onto gold nanoparticles, enabling simultaneous visualization of upstream miRNA expression and downstream enzymatic activity in living cells. Leveraging this platform, we further revealed the differential pharmacological modulations of the miR-140/FEN1 signaling axis by simvastatin and myricetin. In summary, the DDN serves not only as a sensitive molecular imaging probe but also as a versatile tool for mechanistic studies, offering advanced opportunities for pathway-guided drug discovery and precision therapeutics.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;A DNAzyme-Driven DNA Nanotracker for Orthogonal Dual-Channel Imaging of an Oncogenic Signaling Axis and Its Pharmacological Modulation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02711&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02711"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Scalable, Simple, and Versatile Encapsulation of 2D Materials and Devices</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03297</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03297</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Air-sensitive 2D materials present fundamental challenges for device integration. Encapsulation is required to preserve intrinsic properties, yet conventional strategies require complicated fabrication workflows and fail with thicker flakes. We demonstrate that electron-beam (e-beam) evaporated aluminum oxide (AlOx) serves as an effective encapsulation layer and sacrificial fabrication mask, protecting sensitive flakes from air, photoresists, and chemicals. Unlike transfer-based approaches, this scalable technique requires no stacking and enables contacts without postencapsulation etching or harsh chemistry. Using rare-earth tritellurides (RTe3, R = La, Er), semimetallic WTe2, and superconducting FeTexSe1–x, we show that AlOx suppresses oxidation and preserves optical and electronic properties. We establish substrate-dependent optimization of encapsulation across a range of flake thicknesses, demonstrate that ultrathin AlOx preserves WTe2’s plasmonic response, and enhances superconducting performance in FeTexSe1–x devices when employed as a mask. Thus, we overcome the longstanding trade-off between encapsulation and straightforward device fabrication in fragile quantum materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Scalable, Simple, and Versatile Encapsulation of 2D Materials and Devices&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03297&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03297"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Narrow-Line-Width Electroluminescence in Monolayer WSe2 Enabled by a Sub-5 nm Au/Pt Nanogap</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03133</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03133</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Spectrally isolated, electrically driven emission from localized states in two-dimensional semiconductors remains challenging in scalable planar devices. Here, we report narrow-line-width alternating-current electroluminescence (ACEL) from localized states in monolayer WSe2 using a lithographically defined sub-5 nm Au/Pt nanogap on SiO2/Si at 3.5 K. The curved nanogap geometry produces a nonuniform strain landscape and regions of enhanced electric field that may influence the local electronic environment. Under square-wave gate excitation, the device exhibits a spectrally isolated ACEL line at 1.652 eV with an apparent fitted line width of approximately 2 meV, in contrast to broad, multipeak photoluminescence from the same device. Spectral decomposition identifies dominant ZPL-like and weaker red-shifted sideband-like contributions. This nanogap architecture provides a scalable planar platform for narrow-line-width, electrically driven localized emission in two-dimensional materials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Narrow-Line-Width Electroluminescence in Monolayer WSe2 Enabled by a Sub-5 nm Au/Pt Nanogap&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03133&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03133"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
     <item>
       <title>Manipulating Crystallization and Deprotonation Reaction through Surface Engineering of ZnO for Bright and Stable Near-Infrared Perovskite LEDs</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c03636</link>
@@ -223,18 +259,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03589</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03589</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Titanium nitride nanoparticles (TiN NPs) are promising alternatives to noble metals for visible-range plasmonic applications, yet their structure–property relationships remain insufficiently understood. Here, we combine ultrafast transmission electron microscopy (UTEM) and monochromated TEM to investigate plasmon-enhanced localized fields in TiN NPs. Photon-induced near-field electron microscopy (PINEM) enables the visualization and quantification of near fields in individual NPs while also serving as a tool to fuse smaller NPs with an ultrafast pulsed laser, creating larger NPs to explore the maximum near-field enhancement under a specific excitation wavelength. Our findings also reveal that the surface oxidation of TiN NPs, induced by initial high-energy laser synthesis in water, could contribute to a red-shift of their plasmon resonance toward the near-infrared region. By correlating nanoparticle size and composition with plasmonic response, this study provides new insights into light–TiN interactions and highlights the potential of tunable-laser-integrated TEM for investigating plasmonically and photothermally responsive nanomaterials.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03589&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03589"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Intramolecular Charge Polarization Drives Bifunctional Electrocatalytic Oxidation in a Nonmetallic Electrified Confinement Membrane</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04087</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04087</guid>
@@ -247,15 +271,15 @@
 </content:encoded>
     </item>
     <item>
-      <title>&lt;i&gt;In Situ&lt;/i&gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03033</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03033</guid>
+      <title>Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03589</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03589</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Plasma-driven solution electrochemistry (PDSE) offers an additive-free approach to nanomaterial synthesis but has not been widely implemented because of the current lack of control strategies, rooted in the limited mechanistic understanding of nucleation and growth that has been inaccessible to direct observation. We report on the real-time visualization of gold nanoparticle nucleation, growth, and coalescence in a thin ionic liquid film using a newly developed in situ plasma–liquid transmission electron microscopy platform. Monomer attachment is identified as the dominant growth process, and the measured growth rates suggest a nucleation-limited regime. Trajectory analysis reveals enhanced nucleation near the film edge, likely due to an increased monomer concentration caused by plasma-induced solvent evaporation. The reported observations provide critical insights into mechanisms and rate-limiting processes and can provide guidance for PDSE-enabled process development to achieve the rapid synthesis of colloidal nanomaterials with a narrow size distribution.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
+      <description>Abstract Titanium nitride nanoparticles (TiN NPs) are promising alternatives to noble metals for visible-range plasmonic applications, yet their structure–property relationships remain insufficiently understood. Here, we combine ultrafast transmission electron microscopy (UTEM) and monochromated TEM to investigate plasmon-enhanced localized fields in TiN NPs. Photon-induced near-field electron microscopy (PINEM) enables the visualization and quantification of near fields in individual NPs while also serving as a tool to fuse smaller NPs with an ultrafast pulsed laser, creating larger NPs to explore the maximum near-field enhancement under a specific excitation wavelength. Our findings also reveal that the surface oxidation of TiN NPs, induced by initial high-energy laser synthesis in water, could contribute to a red-shift of their plasmon resonance toward the near-infrared region. By correlating nanoparticle size and composition with plasmonic response, this study provides new insights into light–TiN interactions and highlights the potential of tunable-laser-integrated TEM for investigating plasmonically and photothermally responsive nanomaterials.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Unveiling Plasmon-Enhanced Localized Fields of Titanium Nitride via Complementary Electron Microscopy Techniques&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03589&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03589"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -268,6 +292,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c02899&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02899"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>&lt;i&gt;In Situ&lt;/i&gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03033</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03033</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Plasma-driven solution electrochemistry (PDSE) offers an additive-free approach to nanomaterial synthesis but has not been widely implemented because of the current lack of control strategies, rooted in the limited mechanistic understanding of nucleation and growth that has been inaccessible to direct observation. We report on the real-time visualization of gold nanoparticle nucleation, growth, and coalescence in a thin ionic liquid film using a newly developed in situ plasma–liquid transmission electron microscopy platform. Monomer attachment is identified as the dominant growth process, and the measured growth rates suggest a nucleation-limited regime. Trajectory analysis reveals enhanced nucleation near the film edge, likely due to an increased monomer concentration caused by plasma-induced solvent evaporation. The reported observations provide critical insights into mechanisms and rate-limiting processes and can provide guidance for PDSE-enabled process development to achieve the rapid synthesis of colloidal nanomaterials with a narrow size distribution.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;&amp;lt;i&amp;gt;In Situ&amp;lt;/i&amp;gt; Transmission Electron Microscopy of Plasma-Driven Nanoparticle Synthesis in Solution&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03033&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03033"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -343,18 +379,6 @@
 </content:encoded>
     </item>
     <item>
-      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
       <title>Correction to “The Electric Field Morphology of Plasmonic Picocavities”</title>
       <link>https://doi.org/10.1021/acs.nanolett.6c04064</link>
       <guid isPermaLink="false">10.1021/acs.nanolett.6c04064</guid>
@@ -364,6 +388,18 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04064&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04064"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+    </item>
+    <item>
+      <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
+      <guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Abstract Silicon is a promising anode for high-energy-density lithium-ion batteries (LIBs) due to its exceptionally high theoretical capacity, yet severe volume expansion and interfacial instability hinder practical application. Silicon-deposited porous carbon (SiDPC), which spatially confines nanosized silicon within porous carbon frameworks, offers a distinct structural paradigm beyond conventional mechanically blended Si–C composites. This mini-review summarizes the evolution and engineering principles of SiDPC architectures, highlighting how structural regulation governs electrochemical performance. Particular attention is given to the synergistic management of volume expansion, stress evolution, electron/Li+ transport, and solid electrolyte interphase formation, through which SiDPC has evolved from passive buffering to active structural regulation. Remaining challenges in scalable synthesis, electrode engineering, and practical application are discussed, alongside opportunities for programmable Si–C architectures enabled by intelligent structural design. This review provides mechanistic insights and design guidelines for advancing SiDPC toward practical high-energy-density silicon anodes for LIBs.</description>
+      <content:encoded>&lt;p&gt;&lt;b&gt;Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03725&lt;/p&gt;
+&lt;p&gt;Source: Crossref&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03725"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -568,42 +604,6 @@
 &lt;p&gt;DOI: 10.1021/acs.nanolett.6c04013&lt;/p&gt;
 &lt;p&gt;Source: Crossref&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c04013"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Embodied Sensing for Closed-Loop Manipulation in an Integrated Magnetic Soft Robot</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02409</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02409</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Precision manipulation of magnetic soft robots holds great promise for applications in complex and confined environments, where a single robot could perform diverse tasks on different target objects. However, existing sensing strategies predominantly emphasize the detection of biophysical or biochemical signals or magnetic field measurements, providing limited insight into robots’ internal mechanical behaviors and their interactions with surrounding environments. This gap hinders the realization of high-precision manipulation of robotic systems. Here, we present an integrated magnetic soft robotic platform that integrates two flexible sensors, including a tension sensor and a pressure sensor, directly within a magnetic composite. By coupling embodied sensing with magnetic actuation, the robotic platform achieves feedback-driven, closed-loop manipulation. This approach provides a versatile strategy for achieving precise manipulation with promising applications in biomedical engineering and industrial robotics.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Embodied Sensing for Closed-Loop Manipulation in an Integrated Magnetic Soft Robot&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02409&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02409"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Edible Metal–Phenolic Nanoarchitecture with pH-Responsive GI Transit and Mucoadhesive Retention for Oral Vitamin Delivery</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c02488</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c02488</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Oral vitamin supplements must survive gastric degradation yet achieve efficient intestinal absorption, requirements that conventional carriers address separately but rarely synchronize. Here, we present a supramolecular polyphenol-based micronutrient nanoarchitecture (SPNut), an edible metal–organic framework analogue composed entirely of generally recognized as safe (GRAS)-certified food-grade materials, featuring a calcium-cross-linked alginate core and an iron(III)–tannic acid metal–phenolic network shell. SPNut undergoes pH-triggered structural transformation, contracting into a protective state in the stomach (pH 2.1) and swelling with polyphenol-mediated mucoadhesion (∼70%) in the intestine (pH 7.4). This modular platform accommodates a panel of 12 vitamin formulations, achieves &amp;amp;gt;50% encapsulation efficiencies for representative B vitamins, and retains &amp;amp;gt;90% of representative labile payloads after 80 days. In vivo, vitamin C-loaded SPNut achieves 1.8-fold higher systemic exposure than free vitamin C with levels elevated to 8 h. SPNut establishes edible supramolecular coordination architectures as a scalable chassis for oral micronutrient fortification.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Edible Metal–Phenolic Nanoarchitecture with pH-Responsive GI Transit and Mucoadhesive Retention for Oral Vitamin Delivery&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c02488&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c02488"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-    </item>
-    <item>
-      <title>Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03217</link>
-      <guid isPermaLink="false">10.1021/acs.nanolett.6c03217</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Abstract Hybrid metal halides are promising scintillators due to their strong X-ray absorption and efficient self-trapped exciton (STE) emission. However, their practical applications are largely hindered by poor processability, severe light scattering, and substantial energy loss during secondary electron relaxation, leading to low spatial resolution in X-ray imaging. Here, we report a solvent-assisted rapid evaporation method for fabricating a class of hybrid metal halide glasses with excellent processability and high optical transparency. A molecular design strategy is further introduced by incorporating triphenylphosphonium-based organic phosphorescent cations to effectively reclaim the energy dissipated during the relaxation of secondary electrons. In addition to the direct X-ray excitation of the inorganic STE state, the harvested triplet excitons can further sensitize STE emission with near-unity energy transfer efficiency. This dual-sensitization pathway synergistically enhances the scintillation performance. A large-area scintillation screen is successfully fabricated, achieving high-resolution X-ray imaging with a spatial resolution of 22.5 lp mm–1.</description>
-      <content:encoded>&lt;p&gt;&lt;b&gt;Near-Unity Energy Transfer from Triplet to Self-Trapped Excitons in Transparent Hybrid Metal Halide Glasses for High-Resolution X-ray Imaging&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DOI: 10.1021/acs.nanolett.6c03217&lt;/p&gt;
-&lt;p&gt;Source: Crossref&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://doi.org/10.1021/acs.nanolett.6c03217"&gt;Open article page&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
     </item>
   </channel>
